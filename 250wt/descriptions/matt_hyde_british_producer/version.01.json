@@ -1,0 +1,95 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q482994",
+        "rel_uri": "wd:Q482994",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Albums"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q215380",
+        "rel_uri": "wd:Q215380",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Musicians / Band"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q18127",
+        "rel_uri": "wd:Q18127",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Record label"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Productions"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P175",
+        "rel_uri": "p:P175",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P264",
+        "rel_uri": "p:P264",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

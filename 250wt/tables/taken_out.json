@@ -1,0 +1,1562 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Taken_Out",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Region/Country",
+        "values": [
+          " Albania",
+          " Australia (Original format)",
+          " Brazil",
+          " Chile",
+          " China",
+          " China",
+          " Czech Republic",
+          " Denmark",
+          " Denmark",
+          " Estonia",
+          " Flanders",
+          " France",
+          " Germany",
+          " Hungary",
+          " Indonesia",
+          " Indonesia",
+          " Indonesia",
+          " Indonesia",
+          " Indonesia",
+          " Indonesia",
+          " Indonesia",
+          " Ireland",
+          " Italy",
+          " Japan",
+          " Lebanon",
+          " Malaysia",
+          " Netherlands",
+          " Norway",
+          " Philippines",
+          " Poland",
+          " Québec ( Canada )",
+          " Serbia",
+          " South Africa",
+          " South Africa",
+          " South Korea",
+          " Spain",
+          " Spain",
+          " Sweden",
+          " Taiwan",
+          " Thailand",
+          " Thailand",
+          " Ukraine",
+          " United Kingdom",
+          " United States"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Take Me Out Albania",
+          "Take Me Out",
+          "Me Leva Contigo \nTake Me With You",
+          "Elígeme \nPick Me",
+          " 我们约会吧 \n(male/female roles reverse) \n\"Let's Date\" \n我们约会吧",
+          "非诚勿扰 \nIf You Are the One \nLiterally \"If not Sincere, Then Don't Bother\"",
+          "Take Me Out",
+          "Dagens Mand \nToday's Man",
+          "Dagens Mand \nToday's Man",
+          "Vali Mind! \nPick Me!",
+          "Take Me Out",
+          "Séduis-moi...Si tu peux! \nSeduce me...if you can!",
+          "Take Me Out",
+          "Vigyél el! \nTake Me Away!",
+          "Take Me Out Indonesia",
+          "Take Him Out Indonesia",
+          "Take A Celebrity Out Indonesia",
+          "All New Take Me Out Indonesia",
+          "Take Me Out Indonesia",
+          "Cari Jodoh Lagi \nFind a Soulmate Again",
+          "Take Me Out Indonesia",
+          "Take Me Out",
+          "Take me out - Esci con me \nTake me out - Go out with me",
+          "テイク・ミー・アウト \nTake Me Out",
+          "Take Me Out نقشت \n Take Me Out, it worked",
+          "Take Me Out",
+          "Take Me Out",
+          "Dagens Mann \nMan of The Day",
+          "Take Me Out",
+          "Umów się ze mną. Take Me Out \nMake an Appointment/Arrange with me. Take Me Out",
+          "Allume-moi \nLight me up",
+          "Izvedi me (Take me out) \nBring me (Take me out)",
+          "Take Me Out: South Africa",
+          "Take Me Out: Mzansi",
+          "Love Switch",
+          "Elígeme \nPick Me",
+          "Me quedo contigo \nI Stay with You",
+          "Dagens man \nToday's Man",
+          "王子的約會 \nTake Me Out Taiwan",
+          "Take Me Out Thailand",
+          "Take Guy Out Thailand",
+          "Давай, до побачення! \nDavay, do pobachennya! \nCome on, goodbye!",
+          "Take Me Out",
+          "Take Me Out"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Channel",
+        "values": [
+          "Top Channel",
+          "Seven Network",
+          "Rede Record",
+          "Mega",
+          "Hunan TV",
+          "Jiangsu TV",
+          "Prima televize",
+          "TV2",
+          "TV3",
+          "Kanal 2",
+          "2BE",
+          "W9",
+          "RTL",
+          "RTL Klub",
+          "Indosiar",
+          "Indosiar",
+          "Indosiar",
+          "Indosiar",
+          "antv",
+          "antv",
+          "GTV",
+          "TV3",
+          "Real Time",
+          "TBS TV",
+          "LBCI",
+          "NTV7",
+          "RTL 5",
+          "TV3",
+          "GMA Network",
+          "Polsat",
+          "V",
+          "RTV Pink",
+          "SABC1",
+          "Vuzu Amp",
+          "tvN",
+          "Cuatro",
+          "Telecinco",
+          "TV4 Plus",
+          "Taiwan Television",
+          "Channel 3",
+          "Line TV",
+          "1+1",
+          "ITV",
+          "Fox"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Premiere",
+        "values": [
+          "April 2020",
+          "3 September 2018",
+          "9 May 2014",
+          "24 March 2010",
+          "December 2009",
+          "15 January 2010",
+          "14 September 2017",
+          "17 September 2008",
+          "8 September 2016",
+          "2011",
+          "15 December 2010",
+          "30 September 2013",
+          "13 March 2013",
+          "5 September 2015",
+          "19 June 2009 \n17 November 2012",
+          "2 August 2009",
+          "2010",
+          "February 2014",
+          "19 September 2016",
+          "20 August 2017",
+          "27 July 2019",
+          "15 September 2010",
+          "4 January 2016",
+          "1 October 2009",
+          "September 2016",
+          "11 November 2011",
+          "9 March 2009",
+          "September 2011",
+          "26 April 2010",
+          "2018",
+          "30 September 2013",
+          "21 November 2016",
+          "15 July 2014",
+          "10 July 2017",
+          "15 March 2010",
+          "24 November 2010",
+          "25 July 2019",
+          "September 2009",
+          "18 August 2012",
+          "2 July 2011",
+          "7 May 2016",
+          "30 August 2012",
+          "2 January 2010",
+          "7 June 2012"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Presenter(s)",
+        "values": [
+          "Luana Vjollca",
+          "Joel Creasey",
+          "Rafael Cortez",
+          "Luis Jara",
+          "He Jiong (何炅)",
+          "Meng Fei (孟非)",
+          "Jakub Prachař & Milan Zimnýkoval",
+          "Pelle Hvenegaard",
+          "Mattias Hundebøll",
+          "Kristjan Jõekalda",
+          "Gerrit De Cock",
+          "Jérôme Anthony",
+          "Ralf Schmitz",
+          "Bence Istenes",
+          "Choky Sitohang & Yuanita Christiani",
+          "Choky Sitohang & Yuanita Christiani",
+          "Choky Sitohang & Yuanita Christiani",
+          "Indra Bekti & Nycta Gina",
+          "Eko Patrio",
+          "Eko Patrio",
+          "Robby Purba",
+          "Ray Foley",
+          "Gabriele Corsi",
+          "加藤浩次 \nKato Kouji",
+          "Fouad Yammine",
+          "Nazrudin Rahman and Julie Woon",
+          "Eddy Zoëy/Jan Kooijman",
+          "Hasse Hope",
+          "Jay-R",
+          "Piotr Gumulec",
+          "Philippe Bond",
+          "Andrija Milošević",
+          "Phat Joe (NOTE: This should not be confused with a rapper named \"Fat Joe\")",
+          "Phat Joe (NOTE: This should not be confused with a rapper named \"Fat Joe\")",
+          "Lee Kyung-kyu & Shin Dong-yup",
+          "Carlos Baute",
+          "Jesús Vázquez",
+          "Carolina Gynning",
+          "Harlem Yu & Ella Chen of ( S.H.E )",
+          "Ketsepsawat Palagawongse na Ayutthaya & Patcharasri Benjamas",
+          "Ketsepsawat Palagawongse na Ayutthaya & Patcharasri Benjamas",
+          "Andriy Domanskyi",
+          "Paddy McGuinness",
+          "George Lopez"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Taken Out",
+    "page_url": "https://en.wikipedia.org/wiki/Taken_Out",
+    "page_entity_id": "Q2364116"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Albania",
+          "entity_id": "Q222"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Top_Channel",
+          "entity_id": "Q968899"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_(Australian_game_show)",
+          "entity_id": "Q50828059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Seven_Network",
+          "entity_id": "Q908659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Joel_Creasey",
+          "entity_id": "Q18379401"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rede_Record",
+          "entity_id": "Q1458581"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chile",
+          "entity_id": "Q298"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/MEGA_(Chilean_TV_channel)",
+          "entity_id": "Q597946"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Luis_Jara_(singer)",
+          "entity_id": "Q4168161"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "https://zh.wikipedia.org/wiki/%E6%88%91%E4%BB%AC%E7%BA%A6%E4%BC%9A%E5%90%A7",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hunan_TV",
+          "entity_id": "Q5942034"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/He_Jiong",
+          "entity_id": "Q8969884"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [
+        {
+          "start": 6,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/If_You_Are_the_One_(game_show)",
+          "entity_id": "Q133762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jiangsu_Broadcasting_Corporation",
+          "entity_id": "Q6191707"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Meng_Fei_(host)",
+          "entity_id": "Q6816947"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "https://cs.wikipedia.org/wiki/Take_Me_Out_(%C4%8Desko-slovensk%C3%BD_po%C5%99ad)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Prima_televize",
+          "entity_id": "Q2109750"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jakub_Pracha%C5%99&action=edit&redlink=1",
+          "entity_id": null
+        },
+        {
+          "start": 16,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Milan_Zimn%C3%BDkoval",
+          "entity_id": "Q31175805"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "https://da.wikipedia.org/wiki/Dagens_Mand",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_2_(Denmark)",
+          "entity_id": "Q1616154"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pelle_Hvenegaard",
+          "entity_id": "Q7161534"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "https://da.wikipedia.org/wiki/Dagens_Mand",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV3_(Denmark)",
+          "entity_id": "Q2624387"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mattias_Hundeb%C3%B8ll&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Estonia",
+          "entity_id": "Q191"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kanal_2",
+          "entity_id": "Q1668354"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "https://et.wikipedia.org/wiki/Kristjan_J%C3%B5ekalda",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Flanders",
+          "entity_id": "Q234"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/2BE_(TV_channel)",
+          "entity_id": "Q222004"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/W9_(TV_channel)",
+          "entity_id": "Q117649"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Anthony",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/RTL_Television",
+          "entity_id": "Q155702"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ralf_Schmitz",
+          "entity_id": "Q106260"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/RTL_Klub",
+          "entity_id": "Q1094569"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "https://hu.wikipedia.org/wiki/Istenes_Bence",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_Indonesia",
+          "entity_id": "Q50828084"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Indosiar",
+          "entity_id": "Q2484603"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Indosiar",
+          "entity_id": "Q2484603"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Indosiar",
+          "entity_id": "Q2484603"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Indosiar",
+          "entity_id": "Q2484603"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Indra_Bekti&action=edit&redlink=1",
+          "entity_id": null
+        },
+        {
+          "start": 14,
+          "end": 24,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nycta_Gina&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_Indonesia",
+          "entity_id": "Q50828084"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Antv",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Eko_Patrio&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Antv",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Eko_Patrio&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_Indonesia",
+          "entity_id": "Q50828084"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/GTV_(Indonesia)",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Robby_Purba&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_(Irish_game_show)",
+          "entity_id": "Q7677708"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV3_(Ireland)",
+          "entity_id": "Q774637"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ray_Foley",
+          "entity_id": "Q7297487"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Real_Time_(Italy)",
+          "entity_id": "Q2706514"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "https://it.wikipedia.org/wiki/Gabriele_Corsi",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%83%88",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lebanon",
+          "entity_id": "Q822"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/LBCI",
+          "entity_id": "Q1810824"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/NTV7",
+          "entity_id": "Q307356"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "https://nl.wikipedia.org/wiki/Take_Me_Out_(televisieprogramma)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/RTL_5",
+          "entity_id": "Q1455858"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV3_(Norway)",
+          "entity_id": "Q5263655"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philippines",
+          "entity_id": "Q928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_(Philippine_game_show)",
+          "entity_id": "Q7677709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/GMA_Network",
+          "entity_id": "Q399643"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Jay-R",
+          "entity_id": "Q5880829"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/w/index.php?title=Um%C3%B3w_si%C4%99_ze_mn%C4%85._Take_Me_Out_(Polish_game_show)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Polsat",
+          "entity_id": "Q282171"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Quebec",
+          "entity_id": "Q176"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/V_(TV_network)",
+          "entity_id": "Q3553040"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Philippe_Bond&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Serbia",
+          "entity_id": "Q403"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/RTV_Pink",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Andrija_Milo%C5%A1evi%C4%87",
+          "entity_id": "Q2846579"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/SABC1",
+          "entity_id": "Q3459135"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Phat_Joe",
+          "entity_id": "Q20195443"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Vuzu",
+          "entity_id": "Q16966685"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Phat_Joe",
+          "entity_id": "Q20195443"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/South_Korea",
+          "entity_id": "Q884"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TVN_(South_Korea)",
+          "entity_id": "Q333424"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Kyung-kyu",
+          "entity_id": "Q6514388"
+        },
+        {
+          "start": 16,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Shin_Dong-yup_(entertainer)",
+          "entity_id": "Q11400234"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cuatro_(TV_channel)",
+          "entity_id": "Q962340"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Carlos_Baute",
+          "entity_id": "Q632239"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Telecinco",
+          "entity_id": "Q301129"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jes%C3%BAs_V%C3%A1zquez_(television_presenter)",
+          "entity_id": "Q942570"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dagens_man",
+          "entity_id": "Q5208497"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV4_Plus",
+          "entity_id": "Q2123748"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Carolina_Gynning",
+          "entity_id": "Q2280205"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Taiwan",
+          "entity_id": "Q865"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "https://zh.wikipedia.org/wiki/%E7%8E%8B%E5%AD%90%E7%9A%84%E7%B4%84%E6%9C%83",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Taiwan_Television",
+          "entity_id": "Q700932"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Harlem_Yu",
+          "entity_id": "Q285713"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Ella_Chen",
+          "entity_id": "Q699768"
+        },
+        {
+          "start": 27,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/S.H.E",
+          "entity_id": "Q533367"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thailand",
+          "entity_id": "Q869"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Channel_3_(Thailand)",
+          "entity_id": "Q1571768"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thailand",
+          "entity_id": "Q869"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Line_(software)",
+          "entity_id": "Q602471"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/1%2B1_(channel)",
+          "entity_id": "Q161257"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Andriy_Domanskyi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_(UK_game_show)",
+          "entity_id": "Q7677711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/ITV_Network",
+          "entity_id": "Q220072"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Paddy_McGuinness",
+          "entity_id": "Q7123539"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Take_Me_Out_(U.S._game_show)",
+          "entity_id": "Q7677710"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Fox_Broadcasting_Company",
+          "entity_id": "Q166419"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/George_Lopez",
+          "entity_id": "Q73035"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2018_AFF_Futsal_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          " Thailand",
+          " Indonesia",
+          " Malaysia",
+          " Vietnam",
+          " Myanmar",
+          " Brunei",
+          " Cambodia",
+          " East Timor"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Association",
+        "values": [
+          "FA Thailand",
+          "FA Indonesia",
+          "FA Malaysia",
+          "Vietnam FF",
+          "Myanmar FF",
+          "FA Brunei DS",
+          "FF Cambodia",
+          "FF Timor-Leste"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Appearance",
+        "values": [
+          "14th",
+          "13th",
+          "15th",
+          "12th",
+          "12th",
+          "13th",
+          "4th",
+          "8th"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Previous best performance",
+        "values": [
+          "Winners ( 2001 , 2003 , 2005 , 2006 , 2007 , 2008 , 2009 , 2012 , 2013 , 2014 , 2015 , 2016 , 2017 )",
+          "Winners ( 2010 )",
+          "Runner-up ( 2003 , 2005 , 2010 , 2017 )",
+          "Runner-up ( 2009 , 2012 )",
+          "Runners-up ( 2016 )",
+          "Fourth place ( 2001 , 2005 , 2008 )",
+          "Fourth place ( 2003 , 2006 )",
+          "Fourth place ( 2016 )"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2018 AFF Futsal Championship",
+    "page_url": "https://en.wikipedia.org/wiki/2018_AFF_Futsal_Championship",
+    "page_entity_id": "Q60526507"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thailand_national_futsal_team",
+          "entity_id": "Q1819620"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Football_Association_of_Thailand",
+          "entity_id": "Q1318927"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 10,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/2001_AFF_Futsal_Championship",
+          "entity_id": "Q4598420"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/2003_AFF_Futsal_Championship",
+          "entity_id": "Q4601041"
+        },
+        {
+          "start": 24,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/2005_AFF_Futsal_Championship",
+          "entity_id": "Q4603898"
+        },
+        {
+          "start": 31,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/2006_AFF_Futsal_Championship",
+          "entity_id": "Q4605652"
+        },
+        {
+          "start": 38,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/2007_AFF_Futsal_Championship",
+          "entity_id": "Q10761900"
+        },
+        {
+          "start": 45,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/2008_AFF_Futsal_Championship",
+          "entity_id": "Q4610394"
+        },
+        {
+          "start": 52,
+          "end": 56,
+          "url": "http://en.wikipedia.org/wiki/2009_AFF_Futsal_Championship",
+          "entity_id": "Q4613115"
+        },
+        {
+          "start": 59,
+          "end": 63,
+          "url": "http://en.wikipedia.org/wiki/2012_AFF_Futsal_Championship",
+          "entity_id": "Q4624580"
+        },
+        {
+          "start": 66,
+          "end": 70,
+          "url": "http://en.wikipedia.org/wiki/2013_AFF_Futsal_Championship",
+          "entity_id": "Q15080516"
+        },
+        {
+          "start": 73,
+          "end": 77,
+          "url": "http://en.wikipedia.org/wiki/2014_AFF_Futsal_Championship",
+          "entity_id": "Q15526762"
+        },
+        {
+          "start": 80,
+          "end": 84,
+          "url": "http://en.wikipedia.org/wiki/2015_AFF_Futsal_Championship",
+          "entity_id": "Q18348609"
+        },
+        {
+          "start": 87,
+          "end": 91,
+          "url": "http://en.wikipedia.org/wiki/2016_AFF_Futsal_Championship",
+          "entity_id": "Q23057827"
+        },
+        {
+          "start": 94,
+          "end": 98,
+          "url": "http://en.wikipedia.org/wiki/2017_AFF_Futsal_Championship",
+          "entity_id": "Q28128260"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia_national_futsal_team",
+          "entity_id": "Q2116873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Football_Association_of_Indonesia",
+          "entity_id": "Q622257"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 10,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/2010_AFF_Futsal_Championship",
+          "entity_id": "Q4205808"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia_national_futsal_team",
+          "entity_id": "Q1886915"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Football_Association_of_Malaysia",
+          "entity_id": "Q622250"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/2003_AFF_Futsal_Championship",
+          "entity_id": "Q4601041"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/2005_AFF_Futsal_Championship",
+          "entity_id": "Q4603898"
+        },
+        {
+          "start": 26,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/2010_AFF_Futsal_Championship",
+          "entity_id": "Q4205808"
+        },
+        {
+          "start": 33,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/2017_AFF_Futsal_Championship",
+          "entity_id": "Q28128260"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Vietnam_national_futsal_team",
+          "entity_id": "Q2116716"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vietnam_Football_Federation",
+          "entity_id": "Q849362"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/2009_AFF_Futsal_Championship",
+          "entity_id": "Q4613115"
+        },
+        {
+          "start": 19,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/2012_AFF_Futsal_Championship",
+          "entity_id": "Q4624580"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Myanmar_national_futsal_team",
+          "entity_id": "Q6946788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Myanmar_Football_Federation",
+          "entity_id": "Q623756"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 13,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2016_AFF_Futsal_Championship",
+          "entity_id": "Q23057827"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brunei_national_futsal_team",
+          "entity_id": "Q4978953"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/National_Football_Association_of_Brunei_Darussalam",
+          "entity_id": "Q622172"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/2001_AFF_Futsal_Championship",
+          "entity_id": "Q4598420"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/2005_AFF_Futsal_Championship",
+          "entity_id": "Q4603898"
+        },
+        {
+          "start": 29,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/2008_AFF_Futsal_Championship",
+          "entity_id": "Q4610394"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cambodia_national_futsal_team",
+          "entity_id": "Q5025129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Football_Federation_of_Cambodia",
+          "entity_id": "Q622260"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/2003_AFF_Futsal_Championship",
+          "entity_id": "Q4601041"
+        },
+        {
+          "start": 22,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/2006_AFF_Futsal_Championship",
+          "entity_id": "Q4605652"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/East_Timor_national_futsal_team",
+          "entity_id": "Q3873615"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/East_Timor_Football_Federation",
+          "entity_id": "Q625723"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/2016_AFF_Futsal_Championship",
+          "entity_id": "Q23057827"
+        }
+      ]
+    ]
+  ]
+}

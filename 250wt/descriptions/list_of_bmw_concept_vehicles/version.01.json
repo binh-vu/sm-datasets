@@ -1,0 +1,88 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q3231690",
+        "rel_uri": "wd:Q3231690",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Model"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q24229398",
+        "rel_uri": "wd:Q24229398",
+        "approximation": true,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Designer"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Image"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P287",
+        "rel_uri": "p:P287",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "d-0",
+        "abs_uri": "http://www.wikidata.org/prop/P571",
+        "rel_uri": "p:P571",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P18",
+        "rel_uri": "p:P18",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

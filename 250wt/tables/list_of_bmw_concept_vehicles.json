@@ -1,0 +1,1818 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_BMW_concept_vehicles",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1949",
+          "1949",
+          "1954",
+          "1964",
+          "1967",
+          "1968",
+          "1969",
+          "1970",
+          "1972",
+          "1972",
+          "1976",
+          "1985",
+          "1990",
+          "1990",
+          "1991",
+          "1991",
+          "1991",
+          "1991",
+          "1992",
+          "1993",
+          "1993",
+          "1994",
+          "1995",
+          "1995",
+          "1998",
+          "1999",
+          "2000",
+          "2000",
+          "2000",
+          "2001",
+          "2001",
+          "2002",
+          "2003",
+          "2005",
+          "2006",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2009",
+          "2009",
+          "2009",
+          "2010",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2014",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2019",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Model",
+        "values": [
+          "331",
+          "501",
+          "528/502",
+          "Hurricane",
+          "K67",
+          "2000 Coupé by Frua",
+          "2800 Spicup",
+          "2200 TI Garmisch",
+          "1602 Electro-Antrieb (E10)",
+          "E25 Turbo",
+          "Karmann Asso Di Quadri",
+          "Z1 Prototype",
+          "M8 E31 Prototype",
+          "Ur-Roadster (Original Roadster)",
+          "Nazca C2",
+          "Nazca M12",
+          "Z2",
+          "E1 (Z11)",
+          "E2",
+          "Nazca C2 Spider",
+          "E1 (Z15)",
+          "Z13",
+          "Z18",
+          "Z21",
+          "Z07",
+          "Z9",
+          "Z9 Convertible",
+          "Z22",
+          "750hL",
+          "X-Coupé",
+          "Z29",
+          "CS1",
+          "xActivity",
+          "Concept Z4 Coupé",
+          "Concept Coupé Mille Miglia",
+          "1 Series tii",
+          "CS",
+          "Concept X6",
+          "Concept X6 ActiveHybrid",
+          "Concept X1",
+          "BMW Concept 7 Series ActiveHybrid",
+          "GINA",
+          "M1 Homage",
+          "Vision EfficientDynamics concept",
+          "5 GT Concept Car",
+          "C1-E",
+          "Concept 6 Series",
+          "Vision ConnectedDrive",
+          "328 Hommage",
+          "i3 Concept",
+          "i8 Concept",
+          "i3 Concept Coupé",
+          "i8 Concept Spyder",
+          "Zagato Coupé",
+          "Zagato Roadster",
+          "Concept Active Tourer",
+          "Concept 4 Series Coupé",
+          "BMW Concept Active Tourer Outdoor",
+          "Concept X5 eDrive",
+          "BMW Concept X4",
+          "Gran Lusso Coupé",
+          "Concept M4 Coupé",
+          "Vision Future Luxury (7 series 2019)",
+          "M4 Concept Iconic Lights",
+          "3.0 CSL Hommage",
+          "3.0 CSL Hommage R",
+          "BMW 5 Series Gran Turismo with fuel-cell",
+          "Concept Compact Sedan",
+          "i Vision Future Interaction",
+          "Vision Next 100",
+          "2002 Hommage Concept",
+          "2002 Hommage Turbomeister Concept",
+          "Motorrad Vision Next 100",
+          "Concept X2",
+          "Concept 8 Series",
+          "Motorrad Concept Link",
+          "Concept Z4",
+          "i Vision Efficient Dynamics",
+          "Concept X7 iPerformance",
+          "Concept M8 Gran Coupé",
+          "Concept iX3",
+          "iNext",
+          "BMW Concept 4 at IAA 2019",
+          "i Hydrogen Next ( fuel cell )"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Designer",
+        "values": [
+          "Peter Schimanowski",
+          "Pininfarina",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Bertone",
+          "Bertone",
+          "BMW",
+          "Paul Bracq",
+          "Italdesign",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Italdesign",
+          "Italdesign",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Italdesign",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Chris Chapman",
+          "BMW",
+          "Chris Chapman",
+          "Chris Chapman",
+          "Chris Bangle",
+          "Chris Bangle",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Chris Bangle",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "Zagato",
+          "Zagato",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW",
+          "BMW"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Image",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of BMW concept vehicles",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_BMW_concept_vehicles",
+    "page_entity_id": "Q29508171"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW_501",
+          "entity_id": "Q796404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Pininfarina",
+          "entity_id": "Q40987"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/BMW_2000",
+          "entity_id": "Q3802508"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/BMW_2800",
+          "entity_id": "Q604134"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gruppo_Bertone",
+          "entity_id": "Q27325"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gruppo_Bertone",
+          "entity_id": "Q27325"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/BMW_1602",
+          "entity_id": "Q2596771"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BMW_Turbo",
+          "entity_id": "Q796753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Paul_Bracq",
+          "entity_id": "Q722216"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Italdesign",
+          "entity_id": "Q283754"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z1",
+          "entity_id": "Q796774"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_M8",
+          "entity_id": "Q65088885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/BMW_Nazca_C2",
+          "entity_id": "Q787413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Italdesign",
+          "entity_id": "Q283754"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Italdesign",
+          "entity_id": "Q283754"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/BMW_Nazca_C2",
+          "entity_id": "Q787413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Italdesign",
+          "entity_id": "Q283754"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z9",
+          "entity_id": "Q4836089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z9",
+          "entity_id": "Q4836089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/BMW_7_Series_(E38)",
+          "entity_id": "Q1141639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/BMW_X-Coupe",
+          "entity_id": "Q4836082"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW_1_Series_(E87)",
+          "entity_id": "Q796469"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BMW_X3#E83",
+          "entity_id": "Q796780"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z4_(E85)",
+          "entity_id": "Q1754362"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_Bangle",
+          "entity_id": "Q702921"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z4_(E85)",
+          "entity_id": "Q1754362"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_Bangle",
+          "entity_id": "Q702921"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/BMW_1_Series_(E87)",
+          "entity_id": "Q796469"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/BMW_CS_Concept",
+          "entity_id": "Q796438"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_X6#E71",
+          "entity_id": "Q796781"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/BMW_X6#E71",
+          "entity_id": "Q796781"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_X1_(E84)",
+          "entity_id": "Q20164983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/BMW_Concept_7_Series_ActiveHybrid",
+          "entity_id": "Q796428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/BMW_GINA",
+          "entity_id": "Q796511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_Bangle",
+          "entity_id": "Q702921"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BMW_M1#M1_Homage_concept",
+          "entity_id": "Q796574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/BMW_i8#BMW_Vision_EfficientDynamics_(2009)",
+          "entity_id": "Q796799"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_5_Series_Gran_Turismo",
+          "entity_id": "Q387566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/BMW_C1",
+          "entity_id": "Q796435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_6_Series_(F06/F12/F13)",
+          "entity_id": "Q796478"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/BMW_Vision_ConnectedDrive",
+          "entity_id": "Q796755"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_i3",
+          "entity_id": "Q796785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_i8#BMW_i8_Concept_(2011)",
+          "entity_id": "Q796799"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_i3",
+          "entity_id": "Q796785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/BMW_i8#BMW_i8_Concept_Spyder_(2012)",
+          "entity_id": "Q796799"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z4_(E89)#Zagato_Coupé_(2012)",
+          "entity_id": "Q930466"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zagato",
+          "entity_id": "Q140266"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z4_(E89)#Zagato_Roadster_(2012)",
+          "entity_id": "Q930466"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zagato",
+          "entity_id": "Q140266"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/BMW_2_Series_Active_Tourer",
+          "entity_id": "Q16535169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/BMW_4_Series_(F32)",
+          "entity_id": "Q14404794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/BMW_2_Series_Active_Tourer",
+          "entity_id": "Q16535169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/BMW_X5_(F15)",
+          "entity_id": "Q13411061"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/BMW_X4_(F26)",
+          "entity_id": "Q50118567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pininfarina",
+          "entity_id": "Q40987"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_M4",
+          "entity_id": "Q14927963"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/BMW_M4",
+          "entity_id": "Q14927963"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/BMW_E9#2015_3.0_CSL_Hommage",
+          "entity_id": "Q796481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/BMW_E9#2015_3.0_CSL_Hommage",
+          "entity_id": "Q796481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/BMW_5_Series_Gran_Turismo",
+          "entity_id": "Q387566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/BMW_1_Series_(F52)",
+          "entity_id": "Q28861726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_X2_(F39)",
+          "entity_id": "Q55271047"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/BMW_8_Series_(G15)",
+          "entity_id": "Q50122041"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/BMW_Z4_(G29)",
+          "entity_id": "Q39076484"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/BMW_X7#Concept_X7_iPerformance",
+          "entity_id": "Q12062564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/BMW_8_Series_(G15)",
+          "entity_id": "Q50122041"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 18,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Fuel_cell",
+          "entity_id": "Q180253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/BMW",
+          "entity_id": "Q26678"
+        }
+      ],
+      []
+    ]
+  ]
+}

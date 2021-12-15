@@ -1,0 +1,514 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1985_PGA_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "2",
+          "T3",
+          "T3",
+          "T5",
+          "T5",
+          "7",
+          "T8",
+          "T8",
+          "T10",
+          "T10",
+          "T10",
+          "T10",
+          "T10",
+          "T10",
+          "T10",
+          "T10",
+          "T10"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Lee Trevino",
+          "Fred Couples",
+          "Hubert Green",
+          "Doug Tewell",
+          "Peter Jacobsen",
+          "Tom Watson",
+          "Lanny Wadkins",
+          "Mark Pfeil",
+          "Scott Simpson",
+          "Andy Bean",
+          "Bernhard Langer",
+          "Wayne Levi",
+          "Larry Mize",
+          "Jack Nicklaus",
+          "Tim Norris",
+          "Corey Pavin",
+          "Calvin Peete",
+          "Don Pooley"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " West Germany",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "66-68=134",
+          "70-65=135",
+          "67-69=136",
+          "64-72=136",
+          "66-71=137",
+          "67-70=137",
+          "70-69=139",
+          "70-70=140",
+          "72-68=140",
+          "71-70=141",
+          "69-72=141",
+          "72-69=141",
+          "71-70=141",
+          "66-75=141",
+          "71-70=141",
+          "66-75=141",
+          "69-72=141",
+          "70-71=141"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "−8",
+          "−7",
+          "−6",
+          "−6",
+          "−5",
+          "−5",
+          "−3",
+          "−2",
+          "−2",
+          "−1",
+          "−1",
+          "−1",
+          "−1",
+          "−1",
+          "−1",
+          "−1",
+          "−1",
+          "−1"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1985 PGA Championship",
+    "page_url": "https://en.wikipedia.org/wiki/1985_PGA_Championship",
+    "page_entity_id": "Q4582468"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Trevino",
+          "entity_id": "Q950128"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fred_Couples",
+          "entity_id": "Q708633"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hubert_Green",
+          "entity_id": "Q2205159"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Doug_Tewell",
+          "entity_id": "Q5300956"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Peter_Jacobsen",
+          "entity_id": "Q588580"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tom_Watson_(golfer)",
+          "entity_id": "Q532111"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lanny_Wadkins",
+          "entity_id": "Q5927181"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mark_Pfeil",
+          "entity_id": "Q6769242"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Scott_Simpson_(golfer)",
+          "entity_id": "Q3055434"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Andy_Bean",
+          "entity_id": "Q4760409"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bernhard_Langer",
+          "entity_id": "Q45012"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/West_Germany",
+          "entity_id": "Q713750"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Wayne_Levi",
+          "entity_id": "Q16151825"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Larry_Mize",
+          "entity_id": "Q2482806"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jack_Nicklaus",
+          "entity_id": "Q9424"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tim_Norris",
+          "entity_id": "Q7804052"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Corey_Pavin",
+          "entity_id": "Q1132650"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Calvin_Peete",
+          "entity_id": "Q5024477"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Don_Pooley",
+          "entity_id": "Q5293331"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

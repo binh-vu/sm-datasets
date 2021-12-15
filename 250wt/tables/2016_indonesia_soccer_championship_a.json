@@ -1,0 +1,598 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016_Indonesia_Soccer_Championship_A",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Arema Cronus",
+          "Bali United",
+          "Barito Putera",
+          "Bhayangkara",
+          "Madura United",
+          "Mitra Kukar",
+          "Persegres",
+          "Persela",
+          "Perseru",
+          "Persib",
+          "Persiba",
+          "Persija",
+          "Persipura",
+          "PS TNI",
+          "PSM",
+          "Pusamania Borneo",
+          "Semen Padang",
+          "Sriwijaya"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Malang",
+          "Gianyar",
+          "Banjarmasin",
+          "Sidoarjo",
+          "Bangkalan",
+          "Tenggarong",
+          "Gresik",
+          "Lamongan",
+          "Serui",
+          "Bandung",
+          "Balikpapan",
+          "Surakarta",
+          "Jayapura",
+          "Cibinong",
+          "Makassar",
+          "Samarinda",
+          "Padang",
+          "Palembang"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "Kanjuruhan",
+          "Kapten I Wayan Dipta",
+          "May 17th",
+          "Gelora Delta",
+          "Gelora Bangkalan",
+          "Aji Imbut",
+          "Petrokimia",
+          "Surajaya",
+          "Marora",
+          "Si Jalak Harupat",
+          "Persiba",
+          "Manahan",
+          "Mandala",
+          "Pakansari",
+          "Andi Mattalata",
+          "Segiri",
+          "Haji Agus Salim",
+          "Gelora Sriwijaya"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "42,449",
+          "25,000",
+          "15,000",
+          "35,000",
+          "15,000",
+          "35,000",
+          "25,000",
+          "14,000",
+          "10,000",
+          "27,000",
+          "12,500",
+          "25,000",
+          "30,000",
+          "30,000",
+          "15,000",
+          "16,000",
+          "10,000",
+          "36,000"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016 Indonesia Soccer Championship A",
+    "page_url": "https://en.wikipedia.org/wiki/2016_Indonesia_Soccer_Championship_A",
+    "page_entity_id": "Q23949496"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Arema_Cronus_F.C.",
+          "entity_id": "Q252008"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Malang_Regency",
+          "entity_id": "Q11095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kanjuruhan_Stadium",
+          "entity_id": "Q4199474"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bali_United_F.C.",
+          "entity_id": "Q4430615"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gianyar_Regency",
+          "entity_id": "Q11496"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Kapten_I_Wayan_Dipta_Stadium",
+          "entity_id": "Q1639348"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/PS_Barito_Putera",
+          "entity_id": "Q4430270"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Banjarmasin",
+          "entity_id": "Q14182"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/May_17th_Stadium",
+          "entity_id": "Q6796253"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bhayangkara_F.C.",
+          "entity_id": "Q24264243"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Sidoarjo_Regency",
+          "entity_id": "Q11129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Gelora_Delta_Stadium",
+          "entity_id": "Q947460"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Madura_United",
+          "entity_id": "Q1630850"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bangkalan",
+          "entity_id": "Q7107313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gelora_Bangkalan_Stadium",
+          "entity_id": "Q16632532"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mitra_Kukar_F.C.",
+          "entity_id": "Q2914071"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tenggarong",
+          "entity_id": "Q1850902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Aji_Imbut_Stadium",
+          "entity_id": "Q2518686"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Persegres_Gresik_United",
+          "entity_id": "Q83575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gresik_Regency",
+          "entity_id": "Q11077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Petrokimia_Stadium",
+          "entity_id": "Q2306085"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Persela_Lamongan",
+          "entity_id": "Q1816252"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lamongan_Regency",
+          "entity_id": "Q11086"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Surajaya_Stadium",
+          "entity_id": "Q4272192"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Perseru_Serui",
+          "entity_id": "Q65082841"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Yapen_Islands_Regency",
+          "entity_id": "Q27848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Marora_Stadium",
+          "entity_id": "Q6772384"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Persib_Bandung",
+          "entity_id": "Q1630834"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bandung_Regency",
+          "entity_id": "Q10332"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jalak_Harupat_Stadium",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Persiba_Balikpapan",
+          "entity_id": "Q1358297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Balikpapan",
+          "entity_id": "Q14492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Persiba_Stadium",
+          "entity_id": "Q4272414"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Persija_Jakarta",
+          "entity_id": "Q593708"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Surakarta",
+          "entity_id": "Q4803"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Manahan_Stadium",
+          "entity_id": "Q2691028"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Persipura_Jayapura",
+          "entity_id": "Q1151980"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jayapura",
+          "entity_id": "Q27860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mandala_Stadium",
+          "entity_id": "Q1046280"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/PS_TNI",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cibinong",
+          "entity_id": "Q401296"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakansari_Stadium",
+          "entity_id": "Q16962492"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/PSM_Makassar",
+          "entity_id": "Q1209713"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Makassar",
+          "entity_id": "Q14634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Andi_Mattalata_Stadium",
+          "entity_id": "Q1825270"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pusamania_Borneo_F.C.",
+          "entity_id": "Q16007952"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Samarinda",
+          "entity_id": "Q14499"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Segiri_Samarinda_Stadium",
+          "entity_id": "Q7446256"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Semen_Padang_F.C.",
+          "entity_id": "Q767073"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Padang",
+          "entity_id": "Q7253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Haji_Agus_Salim_Stadium",
+          "entity_id": "Q4216908"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sriwijaya_F.C.",
+          "entity_id": "Q1152000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Palembang",
+          "entity_id": "Q8131"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gelora_Sriwijaya_Stadium",
+          "entity_id": "Q553311"
+        }
+      ],
+      []
+    ]
+  ]
+}

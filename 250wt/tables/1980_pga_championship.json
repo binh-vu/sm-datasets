@@ -1,0 +1,332 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1980_PGA_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "2",
+          "T3",
+          "T3",
+          "T5",
+          "T5",
+          "7",
+          "8",
+          "T9",
+          "T9",
+          "T9"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Jack Nicklaus",
+          "Lon Hinkle",
+          "Andy Bean",
+          "Gil Morgan",
+          "Terry Diehl",
+          "Curtis Strange",
+          "Howard Twitty",
+          "Bill Rogers",
+          "Andy North",
+          "Jerry Pate",
+          "Bobby Walzel"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "70-69-66=205",
+          "70-69-69=208",
+          "72-71-68=211",
+          "68-70-73=211",
+          "72-72-68=212",
+          "68-72-72=212",
+          "68-74-71=213",
+          "71-71-72=214",
+          "72-70-73=215",
+          "72-73-70=215",
+          "68-76-71=216"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "−5",
+          "−2",
+          "+1",
+          "+1",
+          "+2",
+          "+2",
+          "+3",
+          "+4",
+          "+5",
+          "+5",
+          "+5"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1980 PGA Championship",
+    "page_url": "https://en.wikipedia.org/wiki/1980_PGA_Championship",
+    "page_entity_id": "Q14706140"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jack_Nicklaus",
+          "entity_id": "Q9424"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lon_Hinkle",
+          "entity_id": "Q6669590"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Andy_Bean",
+          "entity_id": "Q4760409"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gil_Morgan",
+          "entity_id": "Q5560569"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Terry_Diehl",
+          "entity_id": "Q7704296"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Curtis_Strange",
+          "entity_id": "Q1145663"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Howard_Twitty",
+          "entity_id": "Q5921112"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bill_Rogers_(golfer)",
+          "entity_id": "Q1540424"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Andy_North",
+          "entity_id": "Q4761102"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jerry_Pate",
+          "entity_id": "Q1687854"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bobby_Walzel",
+          "entity_id": "Q4935697"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

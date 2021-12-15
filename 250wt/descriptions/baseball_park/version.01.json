@@ -1,0 +1,272 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+        "rel_uri": "wd:Q1076486",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Ballpark"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+        "rel_uri": "wd:Q1093829",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Location"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q13027888",
+        "rel_uri": "wd:Q13027888",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Team"
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "Current status"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Opened"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Closed"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Demo'd"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1619",
+        "rel_uri": "p:P1619",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P3999",
+        "rel_uri": "p:P3999",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P576",
+        "rel_uri": "p:P576",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P115",
+        "rel_uri": "p:P115",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+        "rel_uri": "wd:Q1076486",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Ballpark"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+        "rel_uri": "wd:Q1093829",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Location"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q13027888",
+        "rel_uri": "wd:Q13027888",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Team"
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "Current status"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Opened"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Closed"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Demo'd"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1619",
+        "rel_uri": "p:P1619",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P3999",
+        "rel_uri": "p:P3999",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P576",
+        "rel_uri": "p:P576",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P466",
+        "rel_uri": "p:P466",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

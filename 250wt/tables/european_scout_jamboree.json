@@ -1,0 +1,346 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "European_Scout_Jamboree",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1981",
+          "1985",
+          "1989",
+          "1993",
+          "1997",
+          "2002",
+          "2006",
+          "2010",
+          "2013",
+          "2017"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Bramhope",
+          "Niederhosenbach",
+          "Heeze",
+          "Olloy-sur-Viroin",
+          "Bassano Romano",
+          "Thoresby Hall",
+          "Hauenstein",
+          "Villers-sur-Lesse",
+          "Ommen",
+          "Covaleda"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Host country",
+        "values": [
+          " United Kingdom",
+          " Germany",
+          " Netherlands",
+          " Belgium",
+          " Italy",
+          " United Kingdom",
+          " Germany",
+          " Belgium",
+          " Netherlands",
+          " Spain"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Theme/name",
+        "values": [
+          "-",
+          "Pierre de Lumière (Stone of Light)",
+          "Environment and Pollution",
+          "Tales and Legends",
+          "Let us help Europe to develop",
+          "Robin Hood and his merry men",
+          "Vier Elemente (Four Elements)",
+          "Belgian comics",
+          "That monster, that cursed monster! ( Saint George and the dragon)",
+          ""
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Attendance",
+        "values": [
+          "700",
+          "> 600",
+          "~ 1,000",
+          "1,372",
+          "1,645",
+          "417",
+          "401",
+          "382",
+          "550",
+          ""
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Annotations",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "planned for 2001 but postponed to 2002 due to the 2001 United Kingdom foot-and-mouth crisis",
+          "originally planned for 2005 in Spain",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "European Scout Jamboree",
+    "page_url": "https://en.wikipedia.org/wiki/European_Scout_Jamboree",
+    "page_entity_id": "Q261426"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bramhope",
+          "entity_id": "Q4956178"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Niederhosenbach",
+          "entity_id": "Q535063"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Heeze",
+          "entity_id": "Q2652133"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Viroinval",
+          "entity_id": "Q650261"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bassano_Romano",
+          "entity_id": "Q159520"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Thoresby_Hall",
+          "entity_id": "Q7796202"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 50,
+          "end": 91,
+          "url": "http://en.wikipedia.org/wiki/2001_United_Kingdom_foot-and-mouth_crisis",
+          "entity_id": "Q2534315"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hauenstein",
+          "entity_id": "Q23037"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Rochefort,_Belgium",
+          "entity_id": "Q497764"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ommen",
+          "entity_id": "Q10018"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [
+        {
+          "start": 37,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/Saint_George",
+          "entity_id": "Q48438"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Covaleda",
+          "entity_id": "Q829758"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

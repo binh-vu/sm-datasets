@@ -1,0 +1,88 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q394970:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q394970",
+        "rel_uri": "wd:Q394970",
+        "approximation": false,
+        "readable_label": "box set (Q394970)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q188451:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q188451",
+        "rel_uri": "wd:Q188451",
+        "approximation": false,
+        "readable_label": "music genre (Q188451)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q394970:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q394970:0",
+        "target": "http://www.wikidata.org/entity/Q188451:0",
+        "abs_uri": "http://www.wikidata.org/prop/P136",
+        "rel_uri": "p:P136",
+        "approximation": false,
+        "readable_label": "genre (P136)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q394970:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P155",
+        "rel_uri": "p:P155",
+        "approximation": false,
+        "readable_label": "follows (P155)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q394970:0",
+        "target": "col-3",
+        "abs_uri": "http://www.wikidata.org/prop/P264",
+        "rel_uri": "p:P264",
+        "approximation": false,
+        "readable_label": "record label (P264)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q188451:0",
+        "target": "col-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

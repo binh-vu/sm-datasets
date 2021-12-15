@@ -1,0 +1,1112 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "The_Onyx_Hotel_Tour",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "March 19, 2004",
+          "March 21, 2004",
+          "April 1, 2004",
+          "May 26, 2004",
+          "June 22, 2004",
+          "June 23, 2004",
+          "June 25, 2004",
+          "June 26, 2004",
+          "June 27, 2004",
+          "June 29, 2004",
+          "June 30, 2004",
+          "July 1, 2004",
+          "July 3, 2004",
+          "July 4, 2004",
+          "July 8, 2004",
+          "July 9, 2004",
+          "July 10, 2004",
+          "July 12, 2004",
+          "July 13, 2004",
+          "July 14, 2004",
+          "July 16, 2004",
+          "July 17, 2004",
+          "July 19, 2004",
+          "July 20, 2004",
+          "July 21, 2004",
+          "July 23, 2004",
+          "July 24, 2004",
+          "July 25, 2004",
+          "July 28, 2004",
+          "July 30, 2004",
+          "July 31, 2004",
+          "August 2, 2004",
+          "August 3, 2004",
+          "August 5, 2004",
+          "August 7, 2004",
+          "August 8, 2004",
+          "August 10, 2004",
+          "August 11, 2004",
+          "August 13, 2004",
+          "August 14, 2004",
+          "August 15, 2004"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Rosemont",
+          "Auburn Hills",
+          "Cleveland",
+          "Riesa",
+          "Hartford",
+          "Mansfield",
+          "Scranton",
+          "Darien",
+          "Toronto",
+          "Cleveland",
+          "Noblesville",
+          "Milwaukee",
+          "Columbus",
+          "Hershey",
+          "Wantagh",
+          "Wantagh",
+          "Bristow",
+          "Camden",
+          "Holmdel Towship",
+          "Burgettstown",
+          "Minneapolis",
+          "Tinley Park",
+          "Maryland Heights",
+          "Nashville",
+          "Atlanta",
+          "Atlantic City",
+          "Virginia Beach",
+          "Greensboro",
+          "Tampa",
+          "New Orleans",
+          "The Woodlands",
+          "Dallas",
+          "Selma",
+          "Albuquerque",
+          "Irvine",
+          "Concord",
+          "Wheatland",
+          "Mountain View",
+          "Chula Vista",
+          "Las Vegas",
+          "Bakersfield"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "Germany",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Allstate Arena",
+          "The Palace of Auburn Hills",
+          "Gund Arena",
+          "Erdgas Arena",
+          "ctnow.com Meadows Music Theatre",
+          "Tweeter Center for the Performing Arts",
+          "Ford Pavilion",
+          "Darien Lake Performing Arts Center",
+          "Molson Canadian Amphitheatre",
+          "Gund Arena",
+          "Verizon Wireless Music Center",
+          "Marcus Amphitheater",
+          "Germain Amphitheater",
+          "Hersheypark Stadium",
+          "Tommy Hilfiger at Jones Beach Theater",
+          "Tommy Hilfiger at Jones Beach Theater",
+          "Nissan Pavilion",
+          "Tweeter Center at the Waterfront",
+          "PNC Bank Arts Center",
+          "Post-Gazette Pavilion",
+          "Target Center",
+          "Tweeter Center",
+          "UMB Bank Pavilion",
+          "Starwood Amphitheatre",
+          "HiFi Buys Amphitheatre",
+          "Borgata Event Center",
+          "GTE Virginia Beach Amphitheater",
+          "Greensboro Coliseum",
+          "Ford Amphitheatre",
+          "New Orleans Arena",
+          "Cynthia Woods Mitchell Pavilion",
+          "Smirnoff Music Centre",
+          "Verizon Wireless Amphitheater",
+          "Journal Pavilion",
+          "Verizon Wireless Amphitheatre",
+          "Concord Pavilion",
+          "Sleep Train Amphitheatre",
+          "Shoreline Amphitheatre",
+          "Coors Amphitheatre",
+          "MGM Grand Garden Arena",
+          "Bakersfield Centennial Garden"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Reason",
+        "values": [
+          "Knee injury",
+          "Knee injury",
+          "Illness",
+          "Technical issues",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury",
+          "Knee injury"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "The Onyx Hotel Tour",
+    "page_url": "https://en.wikipedia.org/wiki/The_Onyx_Hotel_Tour",
+    "page_entity_id": "Q692254"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rosemont,_Illinois",
+          "entity_id": "Q1191401"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Allstate_Arena",
+          "entity_id": "Q1336027"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Auburn_Hills,_Michigan",
+          "entity_id": "Q758559"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/The_Palace_of_Auburn_Hills",
+          "entity_id": "Q1327633"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gund_Arena",
+          "entity_id": "Q387157"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Riesa",
+          "entity_id": "Q8775"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Erdgas_Arena",
+          "entity_id": "Q1349182"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hartford,_Connecticut",
+          "entity_id": "Q33486"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Ctnow.com_Meadows_Music_Theatre",
+          "entity_id": "Q5018312"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mansfield,_Massachusetts",
+          "entity_id": "Q1193955"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_for_the_Performing_Arts",
+          "entity_id": "Q5018650"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Scranton,_Pennsylvania",
+          "entity_id": "Q271395"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ford_Pavilion",
+          "entity_id": "Q7830852"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Darien,_New_York",
+          "entity_id": "Q3708237"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Darien_Lake_Performing_Arts_Center",
+          "entity_id": "Q55315860"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Molson_Canadian_Amphitheatre",
+          "entity_id": "Q6896841"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland,_Ohio",
+          "entity_id": "Q37320"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gund_Arena",
+          "entity_id": "Q387157"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Noblesville,_Indiana",
+          "entity_id": "Q1645069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Music_Center_(Indiana)",
+          "entity_id": "Q6421127"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Marcus_Amphitheater",
+          "entity_id": "Q6757991"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Germain_Amphitheater",
+          "entity_id": "Q5550971"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hershey,_Pennsylvania",
+          "entity_id": "Q868666"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hersheypark_Stadium",
+          "entity_id": "Q9283783"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wantagh,_New_York",
+          "entity_id": "Q3451844"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Tommy_Hilfiger_at_Jones_Beach_Theater",
+          "entity_id": "Q7036549"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wantagh,_New_York",
+          "entity_id": "Q3451844"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Tommy_Hilfiger_at_Jones_Beach_Theater",
+          "entity_id": "Q7036549"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bristow,_Virginia",
+          "entity_id": "Q4969135"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nissan_Pavilion",
+          "entity_id": "Q6192246"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Camden,_New_Jersey",
+          "entity_id": "Q138367"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_at_the_Waterfront",
+          "entity_id": "Q7649297"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Holmdel_Township,_New_Jersey",
+          "entity_id": "Q1474335"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/PNC_Bank_Arts_Center",
+          "entity_id": "Q7119814"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Burgettstown,_Pennsylvania",
+          "entity_id": "Q1132117"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Post-Gazette_Pavilion",
+          "entity_id": "Q5453451"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Target_Center",
+          "entity_id": "Q282675"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tinley_Park,_Illinois",
+          "entity_id": "Q1761214"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_Chicago",
+          "entity_id": "Q5453333"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Maryland_Heights,_Missouri",
+          "entity_id": "Q606594"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/UMB_Bank_Pavilion",
+          "entity_id": "Q7921444"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "entity_id": "Q23197"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Starwood_Amphitheatre",
+          "entity_id": "Q7602661"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/HiFi_Buys_Amphitheatre",
+          "entity_id": "Q4661762"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Borgata_Event_Center",
+          "entity_id": "Q2910840"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",
+          "entity_id": "Q49259"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/GTE_Virginia_Beach_Amphitheater",
+          "entity_id": "Q5435470"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Greensboro,_North_Carolina",
+          "entity_id": "Q49238"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Greensboro_Coliseum",
+          "entity_id": "Q842952"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tampa,_Florida",
+          "entity_id": "Q49255"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ford_Amphitheatre_(Tampa)",
+          "entity_id": "Q4266698"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Arena",
+          "entity_id": "Q1515840"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Woodlands,_Texas",
+          "entity_id": "Q982421"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Cynthia_Woods_Mitchell_Pavilion",
+          "entity_id": "Q5200176"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Smirnoff_Music_Centre",
+          "entity_id": "Q5554959"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Selma,_Texas",
+          "entity_id": "Q981911"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheater_(Selma,_Texas)",
+          "entity_id": "Q3023977"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",
+          "entity_id": "Q34804"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Journal_Pavilion",
+          "entity_id": "Q14705992"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Irvine,_California",
+          "entity_id": "Q49219"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_Irvine",
+          "entity_id": "Q7921446"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Concord,_California",
+          "entity_id": "Q490441"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Concord_Pavilion",
+          "entity_id": "Q7539731"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wheatland,_California",
+          "entity_id": "Q2370501"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Sleep_Train_Amphitheatre_(Wheatland,_California)",
+          "entity_id": "Q7539730"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mountain_View,_California",
+          "entity_id": "Q486860"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shoreline_Amphitheatre",
+          "entity_id": "Q7501435"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chula_Vista,_California",
+          "entity_id": "Q49270"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Coors_Amphitheatre_(San_Diego)",
+          "entity_id": "Q7539726"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas",
+          "entity_id": "Q23768"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bakersfield,_California",
+          "entity_id": "Q49256"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Bakersfield_Centennial_Garden",
+          "entity_id": "Q7278793"
+        }
+      ],
+      []
+    ]
+  ]
+}

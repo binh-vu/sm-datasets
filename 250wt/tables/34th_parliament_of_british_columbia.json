@@ -1,0 +1,2179 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "34th_Parliament_of_British_Columbia",
+    "columns": [
+      {
+        "index": 0,
+        "name": "",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Member",
+        "values": [
+          "Robert Evans Skelly",
+          "Larry Guno",
+          "James J. (Jim) Hewitt",
+          "Ivan Charles Messmer",
+          "David Maurice Mercier",
+          "James Barry Jones",
+          "Elwood Neal Veitch",
+          "Alexander Vaughan Fraser",
+          "T. Neil Vant",
+          "Harry H. De Jong",
+          "Peter Albert Dueck",
+          "John Jansen",
+          "Duane Delton Crandall",
+          "Stanley Brian Hagen",
+          "Mark Willson Rose",
+          "Graham Preston Bruce",
+          "Kenneth Walter Davidson",
+          "John Lawrence Savage",
+          "Johann Alvin Norman Jacobsen",
+          "Forbes Charles Austin Pelton",
+          "Munmohan Singh (Moe) Sihota",
+          "Claude Harry Richmond",
+          "Stuart Douglas Boland (Bud) Smith",
+          "Kathleen Anne Edwards",
+          "Caroline Mary (Carol) Gran",
+          "Daniel George Peterson",
+          "Harold Long",
+          "John Massey Cashore",
+          "Laurence Dale Lovick",
+          "David Daniel Stupich",
+          "Howard Leroy Dirks",
+          "Anita Mae Joan Hagen",
+          "Colin Stuart Gabelmann",
+          "Anthony Julius (Tony) Brummet",
+          "Angus Creelman Ree",
+          "John (Jack) Davis",
+          "Brian Ray Douglas Smith",
+          "Lyall Franklin Hanson",
+          "Larry Chalmers",
+          "Clifford Jack Serwa",
+          "Jack Joseph Kempf",
+          "Lois Ruth Boone",
+          "William Bruce Strachan",
+          "Arthur Daniel Miller",
+          "Nick Loenen",
+          "William Nick (Bill) Vander Zalm",
+          "Christopher D'Arcy",
+          "Mel Couvelier",
+          "Terry Huberts",
+          "Michael C. Clifford",
+          "David Fletcher Hewlett Parker",
+          "John Sylverster (Jack) Weisgerber",
+          "Joan Kathleen Smallwood",
+          "Rita Margaret Johnston",
+          "William Earl (Bill) Reid",
+          "Emery Oakland Barnes",
+          "Michael Franklin Harcourt",
+          "Glen David Clark",
+          "Robert Arthur Williams",
+          "Grace Mary McCarthy",
+          "Douglas Lyle Mowat",
+          "Avril Kim Campbell",
+          "Darlene R. Marzari",
+          "Russell Gordon Fraser",
+          "Charles Stephen Rogers",
+          "Robin Kyle Blencoe",
+          "Gordon William Hanson",
+          "John Douglas Reynolds",
+          "James Thomas Rabbitt"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Electoral district",
+        "values": [
+          "Alberni",
+          "Atlin",
+          "Boundary-Similkameen",
+          "Boundary-Similkameen",
+          "Burnaby-Edmonds",
+          "Burnaby North",
+          "Burnaby-Willingdon",
+          "Cariboo",
+          "Cariboo",
+          "Central Fraser Valley",
+          "Central Fraser Valley",
+          "Chilliwack",
+          "Columbia River",
+          "Comox",
+          "Coquitlam-Moody",
+          "Cowichan-Malahat",
+          "Delta",
+          "Delta",
+          "Dewdney",
+          "Dewdney",
+          "Esquimalt-Port Renfrew",
+          "Kamloops",
+          "Kamloops",
+          "Kootenay",
+          "Langley",
+          "Langley",
+          "Mackenzie",
+          "Maillardville-Coquitlam",
+          "Nanaimo",
+          "Nanaimo",
+          "Nelson-Creston",
+          "New Westminster",
+          "North Island",
+          "North Peace River",
+          "North Vancouver-Capilano",
+          "North Vancouver-Seymour",
+          "Oak Bay-Gordon Head",
+          "Okanagan North",
+          "Okanagan South",
+          "Okanagan South",
+          "Omineca",
+          "Prince George North",
+          "Prince George South",
+          "Prince Rupert",
+          "Richmond",
+          "Richmond",
+          "Rossland-Trail",
+          "Saanich and the Islands",
+          "Saanich and the Islands",
+          "Shuswap-Revelstoke",
+          "Skeena",
+          "South Peace River",
+          "Surrey-Guildford-Whalley",
+          "Surrey-Newton",
+          "Surrey-White Rock-Cloverdale",
+          "Vancouver Centre",
+          "Vancouver Centre",
+          "Vancouver East",
+          "Vancouver East",
+          "Vancouver-Little Mountain",
+          "Vancouver-Little Mountain",
+          "Vancouver-Point Grey",
+          "Vancouver-Point Grey",
+          "Vancouver South",
+          "Vancouver South",
+          "Victoria",
+          "Victoria",
+          "West Vancouver-Howe Sound",
+          "Yale-Lillooet"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Party",
+        "values": [
+          "NDP",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "NDP",
+          "NDP",
+          "Social Credit",
+          "NDP",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "NDP",
+          "NDP",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "Social Credit",
+          "Social Credit",
+          "NDP",
+          "NDP",
+          "Social Credit",
+          "Social Credit"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "34th Parliament of British Columbia",
+    "page_url": "https://en.wikipedia.org/wiki/34th_Parliament_of_British_Columbia",
+    "page_entity_id": "Q4635420"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bob_Skelly",
+          "entity_id": "Q4934000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alberni_(electoral_district)",
+          "entity_id": "Q4709548"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Larry_Guno",
+          "entity_id": "Q16016460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Atlin_(electoral_district)",
+          "entity_id": "Q4816932"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Jim_Hewitt",
+          "entity_id": "Q6195601"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Boundary-Similkameen",
+          "entity_id": "Q4949905"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Ivan_Messmer",
+          "entity_id": "Q16091931"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Boundary-Similkameen",
+          "entity_id": "Q4949905"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/David_Maurice_Mercier",
+          "entity_id": "Q21931880"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Burnaby-Edmonds",
+          "entity_id": "Q4999574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Barry_Jones_(Canadian_politician)",
+          "entity_id": "Q20712177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Burnaby_North",
+          "entity_id": "Q4999593"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Elwood_Veitch",
+          "entity_id": "Q5368358"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Burnaby-Willingdon",
+          "entity_id": "Q4999576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Alex_Fraser_(politician)",
+          "entity_id": "Q4717009"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cariboo_(provincial_electoral_district)",
+          "entity_id": "Q5039473"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Neil_Vant",
+          "entity_id": "Q6989440"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cariboo_(provincial_electoral_district)",
+          "entity_id": "Q5039473"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Harry_de_Jong",
+          "entity_id": "Q19845133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Central_Fraser_Valley_(electoral_district)",
+          "entity_id": "Q5061110"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Peter_Albert_Dueck",
+          "entity_id": "Q19359507"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Central_Fraser_Valley_(electoral_district)",
+          "entity_id": "Q5061110"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Jansen_(politician)",
+          "entity_id": "Q20641978"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chilliwack_(electoral_district)",
+          "entity_id": "Q5099089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Duane_Delton_Crandall",
+          "entity_id": "Q20090514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Columbia_River_(electoral_district)",
+          "entity_id": "Q5149813"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Stan_Hagen",
+          "entity_id": "Q7597674"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Comox_(electoral_district)",
+          "entity_id": "Q5155244"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mark_Rose_(politician)",
+          "entity_id": "Q6769501"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Coquitlam-Moody",
+          "entity_id": "Q5169335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Graham_Bruce",
+          "entity_id": "Q5592690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cowichan-Malahat",
+          "entity_id": "Q5179698"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kenneth_Walter_Davidson",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Delta_(provincial_electoral_district)",
+          "entity_id": "Q5254553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/John_Lawrence_Savage",
+          "entity_id": "Q20712128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Delta_(provincial_electoral_district)",
+          "entity_id": "Q5254553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Johann_Alvin_Norman_Jacobsen",
+          "entity_id": "Q7052398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Dewdney_(electoral_district)",
+          "entity_id": "Q5268129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Austin_Pelton",
+          "entity_id": "Q4823227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Dewdney_(electoral_district)",
+          "entity_id": "Q5268129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Moe_Sihota",
+          "entity_id": "Q6890010"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Esquimalt-Port_Renfrew",
+          "entity_id": "Q5399231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Claude_Richmond",
+          "entity_id": "Q5129008"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kamloops_(provincial_electoral_district)",
+          "entity_id": "Q6358761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Stuart_Douglas_Smith",
+          "entity_id": "Q7626483"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kamloops_(provincial_electoral_district)",
+          "entity_id": "Q6358761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Anne_Edwards_(politician)",
+          "entity_id": "Q4768302"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kootenay_(provincial_electoral_district)",
+          "entity_id": "Q6430817"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Carol_Gran",
+          "entity_id": "Q5044346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Langley_(provincial_electoral_district)",
+          "entity_id": "Q17075368"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Daniel_George_Peterson",
+          "entity_id": "Q20712363"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Langley_(provincial_electoral_district)",
+          "entity_id": "Q17075368"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Harold_Long_(politician)",
+          "entity_id": "Q5661558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mackenzie_(provincial_electoral_district)",
+          "entity_id": "Q6724347"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Cashore",
+          "entity_id": "Q6225450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Coquitlam-Maillardville",
+          "entity_id": "Q16245821"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Dale_Lovick",
+          "entity_id": "Q5210529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nanaimo_(provincial_electoral_district)",
+          "entity_id": "Q10857025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/David_Stupich",
+          "entity_id": "Q5240159"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nanaimo_(provincial_electoral_district)",
+          "entity_id": "Q10857025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Howard_Dirks",
+          "entity_id": "Q5919479"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nelson-Creston",
+          "entity_id": "Q6990322"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Anita_Hagen",
+          "entity_id": "Q4765540"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/New_Westminster_(provincial_electoral_district)",
+          "entity_id": "Q7012408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Colin_Gabelmann",
+          "entity_id": "Q5145122"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/North_Island_(provincial_electoral_district)",
+          "entity_id": "Q7055717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Anthony_Brummet",
+          "entity_id": "Q4772166"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/North_Peace_River",
+          "entity_id": "Q7056298"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Angus_Creelman_Ree",
+          "entity_id": "Q4764095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/North_Vancouver-Capilano",
+          "entity_id": "Q7057105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jack_Davis_(Canadian_politician)",
+          "entity_id": "Q1677014"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/North_Vancouver-Seymour",
+          "entity_id": "Q13581589"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Brian_Smith_(politician)",
+          "entity_id": "Q4965329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Oak_Bay-Gordon_Head",
+          "entity_id": "Q7073425"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Lyall_Hanson",
+          "entity_id": "Q6707045"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Okanagan_North_(provincial_electoral_district)",
+          "entity_id": "Q7081800"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Larry_Chalmers",
+          "entity_id": "Q19560216"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Okanagan_South",
+          "entity_id": "Q7081803"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Clifford_Jack_Serwa",
+          "entity_id": "Q5132982"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Okanagan_South",
+          "entity_id": "Q7081803"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jack_Joseph_Kempf",
+          "entity_id": "Q6113372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Omineca_(electoral_district)",
+          "entity_id": "Q7090189"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lois_Boone",
+          "entity_id": "Q6668213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Prince_George_North",
+          "entity_id": "Q7244025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/William_Bruce_Strachan",
+          "entity_id": "Q19981176"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Prince_George_South",
+          "entity_id": "Q7244028"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Dan_Miller_(Canadian_politician)",
+          "entity_id": "Q1159124"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Prince_Rupert_(electoral_district)",
+          "entity_id": "Q7244225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nick_Loenen",
+          "entity_id": "Q20712295"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_(British_Columbia_provincial_electoral_district)",
+          "entity_id": "Q7330749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Bill_Vander_Zalm",
+          "entity_id": "Q730975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_(British_Columbia_provincial_electoral_district)",
+          "entity_id": "Q7330749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Christopher_D%27Arcy",
+          "entity_id": "Q5112182"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rossland-Trail",
+          "entity_id": "Q7369870"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mel_Couvelier",
+          "entity_id": "Q6813860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Saanich_and_the_Islands",
+          "entity_id": "Q7395669"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Terry_Huberts",
+          "entity_id": "Q20090950"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Saanich_and_the_Islands",
+          "entity_id": "Q7395669"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Michael_C._Clifford",
+          "entity_id": "Q19893423"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Shuswap-Revelstoke",
+          "entity_id": "Q7505492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/David_Fletcher_Hewlett_Parker",
+          "entity_id": "Q20712334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Skeena_(provincial_electoral_district)",
+          "entity_id": "Q7534260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Jack_Weisgerber",
+          "entity_id": "Q6115710"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/South_Peace_River",
+          "entity_id": "Q7568193"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Joan_Smallwood",
+          "entity_id": "Q6205455"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Surrey-Guildford-Whalley",
+          "entity_id": "Q7646738"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Rita_Margaret_Johnston",
+          "entity_id": "Q529221"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Surrey-Newton",
+          "entity_id": "Q7646739"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/William_Earl_Reid",
+          "entity_id": "Q15993432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Surrey-White_Rock-Cloverdale",
+          "entity_id": "Q16259579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Emery_Barnes",
+          "entity_id": "Q5370971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Centre_(provincial_electoral_district)",
+          "entity_id": "Q7914135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Mike_Harcourt",
+          "entity_id": "Q1927699"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Centre_(provincial_electoral_district)",
+          "entity_id": "Q7914135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Glen_Clark",
+          "entity_id": "Q1530725"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_East_(provincial_electoral_district)",
+          "entity_id": "Q7914155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Robert_Arthur_Williams",
+          "entity_id": "Q7341617"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_East_(provincial_electoral_district)",
+          "entity_id": "Q7914155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Grace_McCarthy",
+          "entity_id": "Q5591284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Vancouver-Little_Mountain",
+          "entity_id": "Q7914104"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Doug_Mowat",
+          "entity_id": "Q5300768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Vancouver-Little_Mountain",
+          "entity_id": "Q7914104"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kim_Campbell",
+          "entity_id": "Q128553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Vancouver-Point_Grey",
+          "entity_id": "Q7914106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Darlene_Marzari",
+          "entity_id": "Q5223847"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Vancouver-Point_Grey",
+          "entity_id": "Q7914106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Russell_Gordon_Fraser",
+          "entity_id": "Q19878066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_South_(provincial_electoral_district)",
+          "entity_id": "Q7914253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Charles_Stephen_Rogers",
+          "entity_id": "Q7610398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_South_(provincial_electoral_district)",
+          "entity_id": "Q7914253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Robin_Blencoe",
+          "entity_id": "Q7352261"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Victoria_(British_Columbia_electoral_district)",
+          "entity_id": "Q7926530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Gordon_William_Hanson",
+          "entity_id": "Q19878590"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Victoria_(British_Columbia_electoral_district)",
+          "entity_id": "Q7926530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/New_Democratic_Party_of_British_Columbia",
+          "entity_id": "Q919052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/John_Reynolds_(Canadian_politician)",
+          "entity_id": "Q6254663"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/West_Vancouver-Howe_Sound",
+          "entity_id": "Q7986774"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/James_Rabbitt",
+          "entity_id": "Q16105743"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Yale-Lillooet",
+          "entity_id": "Q8047330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia_Social_Credit_Party",
+          "entity_id": "Q827958"
+        }
+      ]
+    ]
+  ]
+}

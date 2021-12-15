@@ -1,0 +1,3052 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1999_AFL_draft",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Round",
+        "values": [
+          "Priority",
+          "Priority",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6",
+          "6"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Pick",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18 ( F/S )",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26 ( F/S )",
+          "27",
+          "28",
+          "29",
+          "30 ( F/S )",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44 ( F/S )",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91",
+          "92",
+          "93"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Player",
+        "values": [
+          "Josh Fraser",
+          "Paul Hasleby",
+          "Aaron Fiora",
+          "Matthew Pavlich",
+          "Leigh Brown",
+          "Damian Cupido",
+          "Danny Roach",
+          "Joel Corey",
+          "Caydn Beetham",
+          "Luke McPharlin",
+          "Darren Glass",
+          "Paul Koulouriotis",
+          "Robert Murphy",
+          "Travis Gaspar",
+          "David Spriggs",
+          "David Haynes",
+          "Ezra Bray",
+          "Rhyce Shaw",
+          "Brad Green",
+          "Paul Wheatley",
+          "Scott Stevens",
+          "Ezra Poyas",
+          "Daniel Foster",
+          "Jason Blake",
+          "Brett Johnson",
+          "Stephen Doyle",
+          "Cain Ackland",
+          "Brent Guerra",
+          "Adam Hunter",
+          "Jonathan Brown",
+          "Paul Chapman",
+          "Daniel Giansiracusa",
+          "Tim Clarke",
+          "Leon Davis",
+          "Patrick Wiggins",
+          "Rhett Biglands",
+          "Mitch Hahn",
+          "Cameron Ling",
+          "Scott Homewood",
+          "David Hille",
+          "Kane Munro",
+          "Michael Clark",
+          "Lindsay Gilbee",
+          "Shane Morrison",
+          "Marcus Pickett",
+          "Adam Butler",
+          "Corey Enright",
+          "Chance Bateman",
+          "Ben Cunningham",
+          "Matthew Whelan",
+          "Ricky O'Loughlin",
+          "Andrew Mills",
+          "Clayton Lassock",
+          "Murray Pitts",
+          "Tim Hazell",
+          "Ryan O'Keefe",
+          "Steven Brosnan",
+          "Patrick Bowden",
+          "John Barnes",
+          "Richard Kelly",
+          "Mark Ainley",
+          "Ben Johnson",
+          "Shannon O'Brien",
+          "Cameron Bruce",
+          "Justin Cicolella",
+          "Ryan Hargrave",
+          "Robert Shirley",
+          "Tony Delaney",
+          "Bill Nicholls",
+          "Brett Allison",
+          "Not utilised",
+          "Robert Forster-Knight",
+          "Ryan Houlihan",
+          "Matthew Burton",
+          "Dale Baynes",
+          "Not utilised",
+          "Lindsay Smith",
+          "Ty Zantuck",
+          "Balraj Singh",
+          "Jeremy Dukes",
+          "Troy Makepeace",
+          "Nick Stone",
+          "Matthew Shir",
+          "Not utilised",
+          "Not utilised",
+          "Trent Hotton",
+          "Christian Woodley",
+          "Michael W. Clark",
+          "Not utilised",
+          "Andrew Merrington",
+          "Not utilised",
+          "Adam Mathews",
+          "Joe Allen"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Recruited from",
+        "values": [
+          "Murray Bushrangers",
+          "East Fremantle",
+          "Port Adelaide Magpies",
+          "Woodville-West Torrens",
+          "Gippsland Power",
+          "Eastern Ranges",
+          "Tassie Mariners",
+          "East Perth",
+          "Oakleigh Chargers",
+          "East Fremantle",
+          "Perth",
+          "Calder Cannons",
+          "Gippsland Power",
+          "South Fremantle",
+          "Prahran Dragons",
+          "Geelong Falcons",
+          "Calder Cannons",
+          "Preston Knights",
+          "Tassie Mariners",
+          "Preston Knights",
+          "Perth",
+          "Prahran Dragons",
+          "Port Adelaide",
+          "Prahran Dragons",
+          "Swan Districts",
+          "South Adelaide",
+          "Port Adelaide",
+          "Bendigo Pioneers",
+          "Swan Districts",
+          "Geelong Falcons",
+          "Calder Cannons",
+          "Western Jets",
+          "Geelong Falcons",
+          "Perth",
+          "Tassie Mariners",
+          "Woodville-West Torrens",
+          "Northern Eagles",
+          "Geelong Falcons",
+          "Eastern Ranges",
+          "Dandenong Stingrays",
+          "Bendigo Pioneers",
+          "Eastern Ranges",
+          "Eastern Ranges",
+          "Northern Eagles",
+          "Port Adelaide",
+          "Murray Bushrangers",
+          "Port Adelaide",
+          "Perth",
+          "Claremont",
+          "Woodville-West Torrens",
+          "Port Adelaide",
+          "Murray Bushrangers",
+          "West Perth",
+          "St Kilda Reserves",
+          "Southern Districts",
+          "Calder Cannons",
+          "Port Adelaide",
+          "Rovers",
+          "Geelong",
+          "Perth",
+          "Prahran Dragons",
+          "Preston Knights",
+          "Gippsland Power",
+          "Melbourne Reserves",
+          "Woodville-West Torrens",
+          "Perth",
+          "Woodville-West Torrens",
+          "Fremantle",
+          "Geelong Falcons",
+          "Kangaroos",
+          "–",
+          "Murray Bushrangers",
+          "Murray Bushrangers",
+          "Fremantle",
+          "East Fremantle",
+          "–",
+          "Glenelg",
+          "Western Jets",
+          "West Adelaide",
+          "Prahran Dragons",
+          "Kangaroos Reserves",
+          "Prahran Dragons",
+          "Murray Bushrangers",
+          "–",
+          "–",
+          "East Burwood",
+          "Subiaco",
+          "Fremantle",
+          "–",
+          "St Bernards",
+          "–",
+          "Murray Bushrangers",
+          "Gippsland Power"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Recruited to",
+        "values": [
+          "Collingwood",
+          "Fremantle",
+          "Richmond",
+          "Fremantle",
+          "Fremantle",
+          "Brisbane Lions",
+          "Collingwood",
+          "Geelong",
+          "St Kilda",
+          "Hawthorn",
+          "West Coast Eagles",
+          "Port Adelaide",
+          "Western Bulldogs",
+          "West Coast Eagles",
+          "Geelong",
+          "West Coast Eagles",
+          "Geelong",
+          "Collingwood",
+          "Melbourne",
+          "Melbourne",
+          "Sydney",
+          "Richmond",
+          "Geelong",
+          "St Kilda",
+          "Hawthorn",
+          "Sydney",
+          "Port Adelaide",
+          "Port Adelaide",
+          "West Coast Eagles",
+          "Brisbane Lions",
+          "Geelong",
+          "Western Bulldogs",
+          "Hawthorn",
+          "Collingwood",
+          "Western Bulldogs",
+          "Adelaide",
+          "Western Bulldogs",
+          "Geelong",
+          "Richmond",
+          "Essendon",
+          "West Coast Eagles",
+          "Melbourne",
+          "Western Bulldogs",
+          "Brisbane Lions",
+          "Essendon",
+          "Fremantle",
+          "Geelong",
+          "Hawthorn",
+          "Fremantle",
+          "Melbourne",
+          "Adelaide",
+          "Richmond",
+          "Kangaroos",
+          "St Kilda",
+          "Hawthorn",
+          "Sydney",
+          "Port Adelaide",
+          "Western Bulldogs",
+          "Essendon",
+          "Carlton",
+          "Kangaroos",
+          "Collingwood",
+          "Melbourne",
+          "Melbourne",
+          "Adelaide",
+          "Western Bulldogs",
+          "Adelaide",
+          "St Kilda",
+          "Hawthorn",
+          "Sydney",
+          "Port Adelaide",
+          "Essendon",
+          "Carlton",
+          "Kangaroos",
+          "Collingwood",
+          "Fremantle",
+          "Kangaroos",
+          "Richmond",
+          "Adelaide",
+          "Carlton",
+          "Kangaroos",
+          "Collingwood",
+          "Adelaide",
+          "Richmond",
+          "Hawthorn",
+          "Carlton",
+          "Kangaroos",
+          "Collingwood",
+          "Adelaide",
+          "Carlton",
+          "Adelaide",
+          "Carlton",
+          "Carlton"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1999 AFL draft",
+    "page_url": "https://en.wikipedia.org/wiki/1999_AFL_draft",
+    "page_entity_id": "Q4594441"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Priority_draft_pick",
+          "entity_id": "Q7245470"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Josh_Fraser",
+          "entity_id": "Q6288868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Priority_draft_pick",
+          "entity_id": "Q7245470"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Paul_Hasleby",
+          "entity_id": "Q7151178"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/East_Fremantle_Football_Club",
+          "entity_id": "Q5328392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aaron_Fiora",
+          "entity_id": "Q4662008"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Magpies_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Football_Club",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Pavlich",
+          "entity_id": "Q6791067"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodville-West_Torrens_Football_Club",
+          "entity_id": "Q8033517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Leigh_Brown",
+          "entity_id": "Q6519542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gippsland_Power",
+          "entity_id": "Q28223900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Damian_Cupido",
+          "entity_id": "Q5212235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Ranges",
+          "entity_id": "Q5330399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brisbane_Lions",
+          "entity_id": "Q637601"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Danny_Roach",
+          "entity_id": "Q5220772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tassie_Mariners",
+          "entity_id": "Q7687642"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Joel_Corey",
+          "entity_id": "Q6213332"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/East_Perth_Football_Club",
+          "entity_id": "Q5329139"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Caydn_Beetham",
+          "entity_id": "Q5055289"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Oakleigh_Chargers",
+          "entity_id": "Q7074110"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/St_Kilda_Football_Club",
+          "entity_id": "Q1084121"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Luke_McPharlin",
+          "entity_id": "Q6702152"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/East_Fremantle_Football_Club",
+          "entity_id": "Q5328392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Darren_Glass",
+          "entity_id": "Q16221304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Coast_Eagles",
+          "entity_id": "Q2742645"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paul_Koulouriotis",
+          "entity_id": "Q7151850"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Calder_Cannons",
+          "entity_id": "Q5019001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Robert_Murphy_(Australian_rules_footballer)",
+          "entity_id": "Q7347882"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gippsland_Power",
+          "entity_id": "Q28223900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Travis_Gaspar",
+          "entity_id": "Q7836253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/South_Fremantle_Football_Club",
+          "entity_id": "Q7567317"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Coast_Eagles",
+          "entity_id": "Q2742645"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/David_Spriggs",
+          "entity_id": "Q5239997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/David_Haynes",
+          "entity_id": "Q5234851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Falcons",
+          "entity_id": "Q5529838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Coast_Eagles",
+          "entity_id": "Q2742645"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ezra_Bray&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Calder_Cannons",
+          "entity_id": "Q5019001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 5,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Father-son_rule",
+          "entity_id": "Q5437550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Rhyce_Shaw",
+          "entity_id": "Q7321589"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Northern_Knights",
+          "entity_id": "Q7058608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Brad_Green_(footballer)",
+          "entity_id": "Q4953959"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tassie_Mariners",
+          "entity_id": "Q7687642"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Paul_Wheatley_(footballer)",
+          "entity_id": "Q7154332"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Northern_Knights",
+          "entity_id": "Q7058608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Scott_Stevens_(footballer)",
+          "entity_id": "Q7437315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney_Swans",
+          "entity_id": "Q2272176"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ezra_Poyas",
+          "entity_id": "Q5423397"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Tigers",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Foster_(Australian_footballer)",
+          "entity_id": "Q5217175"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club_(SANFL)",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jason_Blake_(footballer)",
+          "entity_id": "Q6162053"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/St_Kilda_Football_Club",
+          "entity_id": "Q1084121"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Brett_Johnson_(Australian_footballer)",
+          "entity_id": "Q4962239"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Swan_Districts_Football_Club",
+          "entity_id": "Q7653436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 5,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Father-son_rule",
+          "entity_id": "Q5437550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Stephen_Doyle_(footballer)",
+          "entity_id": "Q7609098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/South_Adelaide_Football_Club",
+          "entity_id": "Q7565357"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney_Swans",
+          "entity_id": "Q2272176"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cain_Ackland",
+          "entity_id": "Q5017575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club_(SANFL)",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Brent_Guerra",
+          "entity_id": "Q4961403"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bendigo_Pioneers",
+          "entity_id": "Q4887088"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Adam_Hunter_(footballer)",
+          "entity_id": "Q4679271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Swan_Districts_Football_Club",
+          "entity_id": "Q7653436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Coast_Eagles",
+          "entity_id": "Q2742645"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 5,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Father-son_rule",
+          "entity_id": "Q5437550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jonathan_Brown_(Australian_footballer)",
+          "entity_id": "Q3183333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Falcons",
+          "entity_id": "Q5529838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brisbane_Lions",
+          "entity_id": "Q637601"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Paul_Chapman_(footballer,_born_1981)",
+          "entity_id": "Q7149783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Calder_Cannons",
+          "entity_id": "Q5019001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Giansiracusa",
+          "entity_id": "Q5217272"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Western_Jets",
+          "entity_id": "Q7987989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tim_Clarke_(Australian_rules_footballer)",
+          "entity_id": "Q7803319"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Falcons",
+          "entity_id": "Q5529838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Leon_Davis_(footballer)",
+          "entity_id": "Q16206192"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Patrick_Wiggins",
+          "entity_id": "Q7147843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tassie_Mariners",
+          "entity_id": "Q7687642"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rhett_Biglands",
+          "entity_id": "Q7320458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodville-West_Torrens_Football_Club",
+          "entity_id": "Q8033517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mitchell_Hahn",
+          "entity_id": "Q16221315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Zillmere_Eagles_Australian_Football_Club",
+          "entity_id": "Q8071919"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cameron_Ling",
+          "entity_id": "Q5026293"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Falcons",
+          "entity_id": "Q5529838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Scott_Homewood&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Ranges",
+          "entity_id": "Q5330399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Football_Club",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/David_Hille",
+          "entity_id": "Q5235007"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Dandenong_Stingrays",
+          "entity_id": "Q5215703"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Essendon_Football_Club",
+          "entity_id": "Q251090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kane_Munro",
+          "entity_id": "Q16221928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bendigo_Pioneers",
+          "entity_id": "Q4887088"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Coast_Eagles",
+          "entity_id": "Q2742645"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Michael_Clark_(footballer)",
+          "entity_id": "Q6829282"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Ranges",
+          "entity_id": "Q5330399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lindsay_Gilbee",
+          "entity_id": "Q6552711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Ranges",
+          "entity_id": "Q5330399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 5,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Father-son_rule",
+          "entity_id": "Q5437550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shane_Morrison",
+          "entity_id": "Q7488183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Zillmere_Eagles_Australian_Football_Club",
+          "entity_id": "Q8071919"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brisbane_Lions",
+          "entity_id": "Q637601"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marcus_Pickett&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Essendon_Football_Club",
+          "entity_id": "Q251090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adam_Butler_(Australian_rules_footballer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Corey_Enright",
+          "entity_id": "Q5170352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club_(SANFL)",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chance_Bateman",
+          "entity_id": "Q5070706"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Hawks",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ben_Cunningham_(Australian_footballer)",
+          "entity_id": "Q4885485"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Claremont_Football_Club",
+          "entity_id": "Q5126307"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Whelan",
+          "entity_id": "Q6791408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodville-West_Torrens_Football_Club",
+          "entity_id": "Q8033517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ricky_O%27Loughlin",
+          "entity_id": "Q7332148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club_(SANFL)",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Mills",
+          "entity_id": "Q4758033"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Football_Club",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Clayton_Lassock&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/West_Perth_Football_Club",
+          "entity_id": "Q7986203"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Murray_Pitts&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/St_Kilda_Football_Club",
+          "entity_id": "Q1084121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/St_Kilda_Football_Club",
+          "entity_id": "Q1084121"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tim_Hazell",
+          "entity_id": "Q7803634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Southern_Cats",
+          "entity_id": "Q7569755"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ryan_O%27Keefe",
+          "entity_id": "Q7384386"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Calder_Cannons",
+          "entity_id": "Q5019001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney_Swans",
+          "entity_id": "Q2272176"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Steven_Brosnan",
+          "entity_id": "Q7614516"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Patrick_Bowden",
+          "entity_id": "Q7146137"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Barnes_(Australian_footballer)",
+          "entity_id": "Q6220758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Football_Club",
+          "entity_id": "Q958369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Essendon_Football_Club",
+          "entity_id": "Q251090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Richard_Kelly_(footballer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Blues",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mark_Ainley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ben_Johnson_(Australian_footballer)",
+          "entity_id": "Q4885937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Northern_Knights",
+          "entity_id": "Q7058608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Shannon_O%27Brien_(footballer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gippsland_Power",
+          "entity_id": "Q28223900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cameron_Bruce",
+          "entity_id": "Q5026195"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne_Football_Club",
+          "entity_id": "Q911681"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Justin_Cicolella",
+          "entity_id": "Q6317462"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodville-West_Torrens_Football_Club",
+          "entity_id": "Q8033517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ryan_Hargrave",
+          "entity_id": "Q7384122"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth_Football_Club",
+          "entity_id": "Q7170851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Western_Bulldogs",
+          "entity_id": "Q2305526"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Robert_Shirley_(AFL)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodville-West_Torrens_Football_Club",
+          "entity_id": "Q8033517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tony_Delaney",
+          "entity_id": "Q7822216"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/St_Kilda_Football_Club",
+          "entity_id": "Q1084121"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bill_Nicholls_(Australian_footballer)",
+          "entity_id": "Q4910335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Geelong_Falcons",
+          "entity_id": "Q5529838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Brett_Allison",
+          "entity_id": "Q4962057"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney_Swans",
+          "entity_id": "Q2272176"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Adelaide_Football_Club",
+          "entity_id": "Q2738554"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Robert_Forster-Knight",
+          "entity_id": "Q16221733"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Essendon_Football_Club",
+          "entity_id": "Q251090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ryan_Houlihan",
+          "entity_id": "Q7384155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Football_Club",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Burton_(Australian_footballer)",
+          "entity_id": "Q6790247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dale_Baynes",
+          "entity_id": "Q5210351"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/East_Fremantle_Football_Club",
+          "entity_id": "Q5328392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lindsay_Smith_(Australian_footballer)",
+          "entity_id": "Q6552810"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Glenelg_Football_Club",
+          "entity_id": "Q5568470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ty_Zantuck",
+          "entity_id": "Q7859658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Western_Jets",
+          "entity_id": "Q7987989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Football_Club",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Balraj_Singh&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/West_Adelaide_Football_Club",
+          "entity_id": "Q7984240"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jeremy_Dukes&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Blues",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Troy_Makepeace",
+          "entity_id": "Q7846892"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Nick_Stone_(footballer_born_1981)",
+          "entity_id": "Q7027993"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Prahran_Dragons",
+          "entity_id": "Q28223898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Magpies",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Shir",
+          "entity_id": "Q6791222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_Football_Club",
+          "entity_id": "Q2521385"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawthorn_Football_Club",
+          "entity_id": "Q1034556"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Trent_Hotton",
+          "entity_id": "Q7838410"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/East_Burwood",
+          "entity_id": "Q5001058"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Blues",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Christian_Woodley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Subiaco_Football_Club",
+          "entity_id": "Q7631308"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kangaroos_Football_Club",
+          "entity_id": "Q2736412"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Michael_W._Clark",
+          "entity_id": "Q6829284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fremantle_Football_Club",
+          "entity_id": "Q278043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Collingwood_Football_Club",
+          "entity_id": "Q249679"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Merrington",
+          "entity_id": "Q4758013"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Blues",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide_Football_Club",
+          "entity_id": "Q948900"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adam_Mathews&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Murray_Bushrangers",
+          "entity_id": "Q6939144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Blues",
+          "entity_id": "Q858633"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gippsland_Power",
+          "entity_id": "Q28223900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carlton_Football_Club",
+          "entity_id": "Q858633"
+        }
+      ]
+    ]
+  ]
+}

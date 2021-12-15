@@ -1,0 +1,424 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_museums_in_Macau",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Natural and Agrarian Museum",
+          "Grand Prix Museum",
+          "Museum of Sacred Art and Crypt",
+          "Heritage Exhibition of a Traditional Pawnshop Business",
+          "Fire Services Museum, Macau",
+          "Maritime Museum",
+          "Communications Museum",
+          "Museum of Taipa and Coloane History",
+          "Macau Wine Museum",
+          "Handover Gifts Museum of Macao",
+          "Macau Science Center",
+          "Macau Tea Culture House",
+          "Museum of Macau",
+          "Macau Museum of Art",
+          "Taipa Houses–Museum",
+          "Lin Zexu Memorial Museum of Macau"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Photo",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Date Established",
+        "values": [
+          "March 21, 1997",
+          "November 18, 1993",
+          "October 23, 1996",
+          "March 21, 2003",
+          "December 11, 1999",
+          "June 24, 1990",
+          "March 1, 2006",
+          "May 7, 2006",
+          "December 25, 1995",
+          "December 30, 2004",
+          "January 25, 2010",
+          "June 1, 2005",
+          "April 18, 1998",
+          "March 19, 1999",
+          "December 5, 1999",
+          "November 1997"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Location",
+        "values": [
+          "Coloane",
+          "Sé",
+          "Santo António",
+          "Sé",
+          "Santo António",
+          "São Lourenço",
+          "Nossa Senhora de Fátima",
+          "Taipa",
+          "Sé",
+          "Sé",
+          "Sé",
+          "São Lázaro",
+          "Santo António",
+          "Sé",
+          "Taipa",
+          "Nossa Senhora de Fátima"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of museums in Macau",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_museums_in_Macau",
+    "page_entity_id": "Q6629819"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Natural_and_Agrarian_Museum",
+          "entity_id": "Q10927675"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Coloane",
+          "entity_id": "Q1022920"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Grand_Prix_Museum",
+          "entity_id": "Q5594934"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Museum_of_Sacred_Art_and_Crypt",
+          "entity_id": "Q10938995"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio,_Macau",
+          "entity_id": "Q1186688"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 54,
+          "url": "http://en.wikipedia.org/wiki/Heritage_Exhibition_of_a_Traditional_Pawnshop_Business",
+          "entity_id": "Q10894621"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Fire_Services_Museum,_Macau",
+          "entity_id": "Q11151730"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio,_Macau",
+          "entity_id": "Q1186688"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Maritime_Museum_(Macau)",
+          "entity_id": "Q11149600"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o,_Macau",
+          "entity_id": "Q1135724"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Communications_Museum_(Macau)",
+          "entity_id": "Q15905060"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Nossa_Senhora_de_F%C3%A1tima,_Macau",
+          "entity_id": "Q1186974"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Museum_of_Taipa_and_Coloane_History",
+          "entity_id": "Q11315732"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Taipa",
+          "entity_id": "Q1073822"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Macau_Wine_Museum",
+          "entity_id": "Q6722717"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Handover_Gifts_Museum_of_Macao",
+          "entity_id": "Q15909554"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Macau_Science_Center",
+          "entity_id": "Q3084238"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Macau_Tea_Culture_House",
+          "entity_id": "Q15926251"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_L%C3%A1zaro",
+          "entity_id": "Q1135657"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Museum_of_Macau",
+          "entity_id": "Q842525"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Santo_Ant%C3%B3nio,_Macau",
+          "entity_id": "Q1186688"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Macau_Museum_of_Art",
+          "entity_id": "Q15913647"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+          "entity_id": "Q1135665"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Taipa_Houses%E2%80%93Museum",
+          "entity_id": "Q15216026"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Taipa",
+          "entity_id": "Q1073822"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Lin_Zexu_Memorial_Museum_of_Macau",
+          "entity_id": "Q15914955"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Nossa_Senhora_de_F%C3%A1tima,_Macau",
+          "entity_id": "Q1186974"
+        }
+      ]
+    ]
+  ]
+}

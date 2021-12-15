@@ -1,0 +1,536 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Nawada_(Lok_Sabha_constituency)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1952",
+          "1952",
+          "1957",
+          "1957",
+          "1962",
+          "1967",
+          "1971",
+          "1977",
+          "1980",
+          "1984",
+          "1989",
+          "1991",
+          "1996",
+          "1998",
+          "1999",
+          "2004",
+          "2009",
+          "2014",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Winner",
+        "values": [
+          "Brajeshwar Prasad",
+          "Ram Dhani Das",
+          "Satyabhama Devi",
+          "Ram Dhani Das",
+          "Ram Dhani Das",
+          "Surya Prakash Puri",
+          "Sukhdeo Prasad Verma",
+          "Nathuni Ram",
+          "Kunwar Ram",
+          "Kunwar Ram",
+          "Prem Pradeep",
+          "Prem Chand Ram",
+          "Kameshwar Paswan",
+          "Malti Devi",
+          "Dr. Sanjay Paswan",
+          "Virchandra Paswan",
+          "Dr. Bhola Singh",
+          "Giriraj Singh",
+          "Chandan Singh"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Party",
+        "values": [
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Independent",
+          "Indian National Congress",
+          "Bharatiya Lok Dal",
+          "Indian National Congress (I)",
+          "Indian National Congress (I)",
+          "Communist Party of India (Marxist)",
+          "Communist Party of India (Marxist)",
+          "Bharatiya Janata Party",
+          "Rashtriya Janata Dal",
+          "Bharatiya Janata Party",
+          "Rashtriya Janata Dal",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party",
+          "Lok Jan Shakti Party"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Nawada (Lok Sabha constituency)",
+    "page_url": "https://en.wikipedia.org/wiki/Nawada_(Lok_Sabha_constituency)",
+    "page_entity_id": "Q3633321"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1951%E2%80%9352_Indian_general_election",
+          "entity_id": "Q3531591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Brajeshwar_Prasad",
+          "entity_id": "Q51642832"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1951%E2%80%9352_Indian_general_election",
+          "entity_id": "Q3531591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ram_Dhani_Das",
+          "entity_id": "Q45312016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1957_Indian_general_election",
+          "entity_id": "Q3532217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Satyabhama_Devi",
+          "entity_id": "Q42560923"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1957_Indian_general_election",
+          "entity_id": "Q3532217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ram_Dhani_Das",
+          "entity_id": "Q45312016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1962_Indian_general_election",
+          "entity_id": "Q3532199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ram_Dhani_Das",
+          "entity_id": "Q45312016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1967_Indian_general_election",
+          "entity_id": "Q3532250"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Independent_politician",
+          "entity_id": "Q327591"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1971_Indian_general_election",
+          "entity_id": "Q3532241"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1977_Indian_general_election",
+          "entity_id": "Q3531393"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Lok_Dal",
+          "entity_id": "Q3595130"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1980_Indian_general_election",
+          "entity_id": "Q3532192"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1984_Indian_general_election",
+          "entity_id": "Q3532183"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1989_Indian_general_election",
+          "entity_id": "Q3532186"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
+          "entity_id": "Q234277"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1991_Indian_general_election",
+          "entity_id": "Q3532223"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Communist_Party_of_India_(Marxist)",
+          "entity_id": "Q234277"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1996_Indian_general_election",
+          "entity_id": "Q3532207"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kameshwar_Paswan",
+          "entity_id": "Q21083862"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1998_Indian_general_election",
+          "entity_id": "Q3532246"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Malti_Devi",
+          "entity_id": "Q15730338"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Rashtriya_Janata_Dal",
+          "entity_id": "Q3176919"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1999_Indian_general_election",
+          "entity_id": "Q10968265"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sanjay_Paswan",
+          "entity_id": "Q19895127"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2004_Indian_general_election",
+          "entity_id": "Q3523023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Virchandra_Paswan",
+          "entity_id": "Q7933674"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Rashtriya_Janata_Dal",
+          "entity_id": "Q3176919"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2009_Indian_general_election",
+          "entity_id": "Q1134751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bhola_Singh",
+          "entity_id": "Q4901930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2014_Indian_general_election",
+          "entity_id": "Q3587169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Giriraj_Singh",
+          "entity_id": "Q16736894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2019_Indian_general_election",
+          "entity_id": "Q28164181"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chandan_Singh_(politician)",
+          "entity_id": "Q64392100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Lok_Jan_Shakti_Party",
+          "entity_id": "Q3634933"
+        }
+      ]
+    ]
+  ]
+}

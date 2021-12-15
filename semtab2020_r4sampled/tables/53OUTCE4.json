@@ -1,0 +1,520 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "53OUTCE4",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "Melbu",
+          "Stokmarknes",
+          "Reine",
+          "Gibostad",
+          "Honningsv\u00e5g",
+          "Svolv\u00e6r",
+          "Andenes",
+          "Strand",
+          "Vikev\u00e5g",
+          "Straume",
+          "Ferkingstad",
+          "Langev\u00e5g",
+          "Hasvik",
+          "Fors\u00f8l",
+          "Fjell",
+          "Ydsteb\u00f8havn",
+          "Hestvika",
+          "Byrknes",
+          "Lonev\u00e5g",
+          "Valestrandfossen"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "1.7",
+          "2.29",
+          "0.28",
+          "0.4",
+          "1.04",
+          "2.37",
+          "1.72",
+          "0.42",
+          "0.57",
+          "6.62",
+          "0.76",
+          "1.15",
+          "0.53",
+          "0.13",
+          "0.22",
+          "0.35",
+          "0.36",
+          "0.47",
+          "0.91",
+          "0.93"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "8",
+          "18",
+          "11",
+          "8",
+          "12",
+          "3",
+          "6",
+          "6",
+          "2",
+          "33",
+          "13",
+          "3",
+          "14",
+          "14",
+          "22",
+          "6",
+          "20",
+          "9",
+          "2",
+          "17"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "col3",
+        "values": [
+          "Hadsel\u00f8ya",
+          "Hadsel\u00f8ya",
+          "Moskenes\u00f8ya",
+          "Senja",
+          "Mager\u00f8ya",
+          "Austv\u00e5g\u00f8ya",
+          "And\u00f8ya",
+          "Hinn\u00f8ya",
+          "Rennes\u00f8y",
+          "Litlesotra",
+          "Karm\u00f8y",
+          "B\u00f8mlo",
+          "S\u00f8r\u00f8ya",
+          "Kval\u00f8ya",
+          "Sotra",
+          "Kvits\u00f8y",
+          "Hitra",
+          "Byrknes\u00f8yna",
+          "Oster\u00f8y",
+          "Oster\u00f8y"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q577137",
+          "qnode_id": "Q577137"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q1567614",
+          "qnode_id": "Q1567614"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q288577",
+          "qnode_id": "Q288577"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q1567614",
+          "qnode_id": "Q1567614"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q593597",
+          "qnode_id": "Q593597"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q1420953",
+          "qnode_id": "Q1420953"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q339738",
+          "qnode_id": "Q339738"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q935821",
+          "qnode_id": "Q935821"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q493472",
+          "qnode_id": "Q493472"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q829500",
+          "qnode_id": "Q829500"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q145948",
+          "qnode_id": "Q145948"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q784020",
+          "qnode_id": "Q784020"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q167305",
+          "qnode_id": "Q167305"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q528409",
+          "qnode_id": "Q528409"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q609876",
+          "qnode_id": "Q609876"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q165635",
+          "qnode_id": "Q165635"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q6673737",
+          "qnode_id": "Q6673737"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q23042542",
+          "qnode_id": "Q23042542"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q4581188",
+          "qnode_id": "Q4581188"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q4580262",
+          "qnode_id": "Q4580262"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q5444342",
+          "qnode_id": "Q5444342"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q3736226",
+          "qnode_id": "Q3736226"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q4585365",
+          "qnode_id": "Q4585365"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q3352677",
+          "qnode_id": "Q3352677"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q5680730",
+          "qnode_id": "Q5680730"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q3286995",
+          "qnode_id": "Q3286995"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q5470670",
+          "qnode_id": "Q5470670"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q1725867",
+          "qnode_id": "Q1725867"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q5456481",
+          "qnode_id": "Q5456481"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q1636366",
+          "qnode_id": "Q1636366"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q1785019",
+          "qnode_id": "Q1785019"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q23042442",
+          "qnode_id": "Q23042442"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q1776299",
+          "qnode_id": "Q1776299"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q18535315",
+          "qnode_id": "Q18535315"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q1780475",
+          "qnode_id": "Q1780475"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q10954572",
+          "qnode_id": "Q10954572"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q1776445",
+          "qnode_id": "Q1776445"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q7107673",
+          "qnode_id": "Q7107673"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q1775957",
+          "qnode_id": "Q1775957"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q7107673",
+          "qnode_id": "Q7107673"
+        }
+      ]
+    ]
+  ]
+}

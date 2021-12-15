@@ -1,0 +1,276 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2013_Campeonato_Cearense",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Club",
+        "values": [
+          "Ceará",
+          "Crato",
+          "Ferroviário",
+          "Fortaleza",
+          "Guarani de Juazeiro",
+          "Guarany",
+          "Horizonte",
+          "Icasa",
+          "Maracanã",
+          "São Benedito",
+          "Tiradentes"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home city",
+        "values": [
+          "Fortaleza",
+          "Crato",
+          "Fortaleza",
+          "Fortaleza",
+          "Juazeiro do Norte",
+          "Sobral",
+          "Horizonte",
+          "Juazeiro do Norte",
+          "Maracanaú",
+          "São Benedito",
+          "Fortaleza"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "2012 result",
+        "values": [
+          "1st",
+          "5th",
+          "9th",
+          "2nd",
+          "6th",
+          "7th",
+          "3rd",
+          "8th",
+          "1st (2nd division)",
+          "2nd (2nd division)",
+          "4th"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2013 Campeonato Cearense",
+    "page_url": "https://en.wikipedia.org/wiki/2013_Campeonato_Cearense",
+    "page_entity_id": "Q14594684"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cear%C3%A1_Sporting_Club",
+          "entity_id": "Q1052219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fortaleza",
+          "entity_id": "Q43463"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Crato_Esporte_Clube",
+          "entity_id": "Q5182677"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Crato,_Cear%C3%A1",
+          "entity_id": "Q1004897"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube_(CE)",
+          "entity_id": "Q2667793"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fortaleza",
+          "entity_id": "Q43463"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fortaleza_Esporte_Clube",
+          "entity_id": "Q188841"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fortaleza",
+          "entity_id": "Q43463"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Guarani_Esporte_Clube_(CE)",
+          "entity_id": "Q3118770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Juazeiro_do_Norte",
+          "entity_id": "Q817227"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Guarany_Sporting_Club",
+          "entity_id": "Q2565016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sobral,_Cear%C3%A1",
+          "entity_id": "Q1815899"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Horizonte_Futebol_Clube",
+          "entity_id": "Q5903612"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Horizonte,_Cear%C3%A1",
+          "entity_id": "Q22059559"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Desportiva_Recreativa_Cultural_Icasa",
+          "entity_id": "Q1028545"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Juazeiro_do_Norte",
+          "entity_id": "Q817227"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Maracan%C3%A3_Esporte_Clube",
+          "entity_id": "Q6754558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Maracana%C3%BA",
+          "entity_id": "Q1794732"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Desportiva_S%C3%A3o_Benedito",
+          "entity_id": "Q9634156"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Benedito",
+          "entity_id": "Q2068831"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Associa%C3%A7%C3%A3o_Esportiva_Tiradentes",
+          "entity_id": "Q2868251"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fortaleza",
+          "entity_id": "Q43463"
+        }
+      ],
+      []
+    ]
+  ]
+}

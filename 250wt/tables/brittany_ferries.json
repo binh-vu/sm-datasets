@@ -1,0 +1,642 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Brittany_Ferries",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Ship",
+        "values": [
+          "Armorique",
+          "Baie de Seine",
+          "Barfleur",
+          "Bretagne",
+          "Cap Finistère",
+          "Connemara",
+          "Etretat",
+          "Kerry",
+          "Mont St Michel",
+          "Normandie",
+          "Normandie Express",
+          "MN Pelican",
+          "Pont-Aven"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Built",
+        "values": [
+          "2009",
+          "2002",
+          "1992",
+          "1989",
+          "2001",
+          "2007",
+          "2008",
+          "2001",
+          "2002",
+          "1992",
+          "2000",
+          "1999",
+          "2004"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Entered service",
+        "values": [
+          "2009",
+          "2015",
+          "1992",
+          "1989",
+          "2010",
+          "2018",
+          "2014",
+          "2019",
+          "2002",
+          "1992",
+          "2005",
+          "2016",
+          "2004"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Gross tonnage",
+        "values": [
+          "29,468 GT",
+          "22,382 GT",
+          "20,133 GT",
+          "24,534 GT",
+          "32,728 GT",
+          "27,414 GT",
+          "26,904 GT",
+          "24,418 GT",
+          "35,586 GT",
+          "27,451 GT",
+          "6,581 GT",
+          "12,076 GT",
+          "40,859 GT"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Length",
+        "values": [
+          "168.30 m",
+          "199.4 m",
+          "158.7 m",
+          "152.80 m",
+          "203.90 m",
+          "186.50 m",
+          "187.00 m",
+          "186.50 m",
+          "173.95 m",
+          "161.40 m",
+          "97.22 m",
+          "155.5 m",
+          "184.3 m"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Beam",
+        "values": [
+          "26.8 m",
+          "23.0 m",
+          "23.3 m",
+          "26.0 m",
+          "25.0 m",
+          "25.6 m",
+          "26.0 m",
+          "25.6 m",
+          "28.5 m",
+          "26.0 m",
+          "26.6 m",
+          "22.7 m",
+          "31.0 m"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Service speed",
+        "values": [
+          "25 knots",
+          "24 knots",
+          "19.5 knots",
+          "21 knots",
+          "28 knots",
+          "24 knots",
+          "24 knots",
+          "24 knots",
+          "22 knots",
+          "20.5 knots",
+          "42 knots",
+          "20 knots",
+          "27 knots"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Vessel type",
+        "values": [
+          "Cruise Ferry",
+          "Économie Service",
+          "Cruise Ferry",
+          "Cruise Ferry",
+          "Cruise Ferry",
+          "Économie Service",
+          "Économie Service",
+          "Ro-Ro Ferry",
+          "Cruise Ferry",
+          "Cruise Ferry",
+          "High Speed Ferry",
+          "Freight Vessel",
+          "Cruise Ferry"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Port of registry",
+        "values": [
+          "Morlaix",
+          "Le Havre",
+          "Cherbourg",
+          "Morlaix",
+          "Morlaix",
+          "Morlaix",
+          "Le Havre",
+          "Limassol",
+          "Caen",
+          "Caen",
+          "Caen",
+          "Marseille",
+          "Morlaix"
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Current status",
+        "values": [
+          "In Service",
+          "In Service",
+          "In Service",
+          "In Service",
+          "In Service",
+          "In Service",
+          "Undergoing Refit in Santander",
+          "In Service",
+          "In Service",
+          "In Service",
+          "Laid Up in Le Havre",
+          "In Service",
+          "Undergoing Refit in Gdansk"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Brittany Ferries",
+    "page_url": "https://en.wikipedia.org/wiki/Brittany_Ferries",
+    "page_entity_id": "Q2925773"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/MV_Armorique_(2008)",
+          "entity_id": "Q6719253"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Morlaix",
+          "entity_id": "Q202368"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/MV_Baie_de_Seine",
+          "entity_id": "Q10622464"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Le_Havre",
+          "entity_id": "Q42810"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/MV_Barfleur",
+          "entity_id": "Q3273204"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cherbourg",
+          "entity_id": "Q160199"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/MV_Bretagne",
+          "entity_id": "Q3273333"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Morlaix",
+          "entity_id": "Q202368"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/MV_Cap_Finist%C3%A8re",
+          "entity_id": "Q6719345"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Morlaix",
+          "entity_id": "Q202368"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/MS_Norman_Asturias",
+          "entity_id": "Q16222981"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Morlaix",
+          "entity_id": "Q202368"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/MV_Etretat",
+          "entity_id": "Q6718138"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Le_Havre",
+          "entity_id": "Q42810"
+        }
+      ],
+      [
+        {
+          "start": 20,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Santander,_Spain",
+          "entity_id": "Q12233"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Limassol",
+          "entity_id": "Q185632"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/MV_Mont_St_Michel",
+          "entity_id": "Q6719837"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Caen",
+          "entity_id": "Q41185"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/MV_Normandie",
+          "entity_id": "Q11676629"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Caen",
+          "entity_id": "Q41185"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/HSC_Normandie_Express",
+          "entity_id": "Q3343882"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 6,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Caen",
+          "entity_id": "Q41185"
+        }
+      ],
+      [
+        {
+          "start": 11,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Le_Havre",
+          "entity_id": "Q42810"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Marseille",
+          "entity_id": "Q23482"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/MV_Pont-Aven",
+          "entity_id": "Q3273345"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gross_tonnage",
+          "entity_id": "Q2719498"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Morlaix",
+          "entity_id": "Q202368"
+        }
+      ],
+      [
+        {
+          "start": 20,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Gdansk",
+          "entity_id": "Q1792"
+        }
+      ]
+    ]
+  ]
+}

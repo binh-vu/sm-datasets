@@ -1,0 +1,815 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_companies_of_Lithuania",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Achema",
+          "Alita",
+          "Apranga",
+          "Aurela",
+          "Avia Solutions Group",
+          "AviaAM Leasing",
+          "Aviavilsa",
+          "Avion Express",
+          "Baltija Shipbuilding Yard",
+          "Baltik vairas",
+          "Čili",
+          "DOT LT",
+          "Dvarčionių keramika",
+          "Ekspla",
+          "Gubernija",
+          "Kalnapilis",
+          "Lietuvos Dujos",
+          "Lietuvos Energija",
+          "Maxima Group",
+          "Small Planet Airlines",
+          "Stumbras",
+          "Tauras",
+          "Teo LT",
+          "Ūkio bankas",
+          "Vilniaus prekyba",
+          "Volfas Engelman",
+          "ŽIA valda"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Industry",
+        "values": [
+          "Basic materials",
+          "Consumer goods",
+          "Consumer services",
+          "Consumer services",
+          "Industrials",
+          "Industrials",
+          "Industrials",
+          "Consumer services",
+          "Industrials",
+          "Consumer goods",
+          "Consumer services",
+          "Consumer services",
+          "Industrials",
+          "Industrials",
+          "Consumer goods",
+          "Consumer goods",
+          "Utilities",
+          "Utilities",
+          "Consumer services",
+          "Consumer services",
+          "Consumer goods",
+          "Consumer goods",
+          "Telecommunications",
+          "Financials",
+          "Consumer services",
+          "Consumer goods",
+          "Financials"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Sector",
+        "values": [
+          "Specialty chemicals",
+          "Brewers",
+          "Apparel retailers",
+          "Airlines",
+          "Transportation services",
+          "Transportation services",
+          "Delivery services",
+          "Airlines",
+          "Commercial vehicles & trucks",
+          "Recreational products",
+          "Restaurants & bars",
+          "Airlines",
+          "Building materials & fixtures",
+          "Electronic equipment",
+          "Brewers",
+          "Brewers",
+          "Gas distribution",
+          "Conventional electricity",
+          "Broadline retailers",
+          "Airlines",
+          "Distillers & vintners",
+          "Brewers",
+          "Fixed line telecommunications",
+          "Banks",
+          "Broadline retailers",
+          "Brewers",
+          "Investment services"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Headquarters",
+        "values": [
+          "Jonava",
+          "Alytus",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Klaipėda",
+          "Šiauliai",
+          "Vilnius",
+          "Karmėlava",
+          "Vilnius",
+          "Vilnius",
+          "Šiauliai",
+          "Panevėžys",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Vilnius",
+          "Kaunas",
+          "Vilnius",
+          "Vilnius",
+          "Kaunas",
+          "Vilnius",
+          "Kaunas",
+          "Vilnius"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Founded",
+        "values": [
+          "1962",
+          "1963",
+          "1993",
+          "1996",
+          "2010",
+          "2007",
+          "1999",
+          "2005",
+          "1952",
+          "1993",
+          "1997",
+          "2003",
+          "1888",
+          "1983",
+          "1665",
+          "1902",
+          "1961",
+          "1997",
+          "1992",
+          "2007",
+          "1906",
+          "1860",
+          "1992",
+          "1989",
+          "1992",
+          "1853",
+          "1997"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "Fertilizer",
+          "Brewery",
+          "Retail clothing",
+          "Charter airline, defunct 2013",
+          "Aviation support",
+          "Aviation leasing and support",
+          "Cargo airline",
+          "Charter airline",
+          "Shipyard",
+          "Bicycles",
+          "Restaurant chain",
+          "Airline",
+          "Ceramic tile",
+          "Laser manufacturing",
+          "Brewery",
+          "Brewery",
+          "Natural gas, part of Lietuvos Energija",
+          "Power",
+          "Retail chain",
+          "Charter airline",
+          "Distillery",
+          "Brewery",
+          "Telecom",
+          "Commercial bank",
+          "Retail chain",
+          "Brewery",
+          "Investments"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of companies of Lithuania",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_companies_of_Lithuania",
+    "page_entity_id": "Q6612445"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Achema",
+          "entity_id": "Q287704"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jonava",
+          "entity_id": "Q743218"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Alita_(company)",
+          "entity_id": "Q1974967"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Alytus",
+          "entity_id": "Q450625"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Apranga",
+          "entity_id": "Q1974912"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Aurela",
+          "entity_id": "Q775158"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Avia_Solutions_Group",
+          "entity_id": "Q790765"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/AviaAM_Leasing",
+          "entity_id": "Q4828497"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Aviavilsa",
+          "entity_id": "Q790858"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Avion_Express",
+          "entity_id": "Q791093"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Baltija_Shipbuilding_Yard",
+          "entity_id": "Q805723"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Klaip%C4%97da",
+          "entity_id": "Q776965"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Baltik_vairas",
+          "entity_id": "Q15813041"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/%C5%A0iauliai",
+          "entity_id": "Q134712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/%C4%8Cili",
+          "entity_id": "Q8079780"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/DOT_LT",
+          "entity_id": "Q2034533"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Karm%C4%97lava",
+          "entity_id": "Q1734094"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Dvar%C4%8Dioni%C5%B3_keramika",
+          "entity_id": "Q4155626"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ekspla",
+          "entity_id": "Q5350587"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gubernija",
+          "entity_id": "Q646458"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/%C5%A0iauliai",
+          "entity_id": "Q134712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kalnapilis",
+          "entity_id": "Q4992054"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys",
+          "entity_id": "Q1719466"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lietuvos_Dujos",
+          "entity_id": "Q1543499"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 21,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Lietuvos_Energija",
+          "entity_id": "Q583822"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lietuvos_Energija",
+          "entity_id": "Q583822"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Maxima_Group",
+          "entity_id": "Q1881222"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Small_Planet_Airlines",
+          "entity_id": "Q153679"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stumbras",
+          "entity_id": "Q1974932"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaunas",
+          "entity_id": "Q4115712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tauras",
+          "entity_id": "Q2646603"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Teo_LT",
+          "entity_id": "Q1551228"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/%C5%AAkio_bankas",
+          "entity_id": "Q392920"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaunas",
+          "entity_id": "Q4115712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vilniaus_prekyba",
+          "entity_id": "Q1460895"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Volfas_Engelman",
+          "entity_id": "Q12678128"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaunas",
+          "entity_id": "Q4115712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/%C5%BDIA_valda",
+          "entity_id": "Q8083574"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vilnius",
+          "entity_id": "Q216"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

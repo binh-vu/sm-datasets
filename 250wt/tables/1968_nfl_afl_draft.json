@@ -1,0 +1,1105 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1968_NFL/AFL_Draft",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Pick #",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "NFL Team",
+        "values": [
+          "Minnesota Vikings NFL",
+          "Cincinnati Bengals AFL",
+          "Atlanta Falcons NFL",
+          "San Diego Chargers AFL",
+          "Green Bay Packers NFL",
+          "Boston Patriots AFL",
+          "New Orleans Saints NFL",
+          "Miami Dolphins AFL",
+          "Buffalo Bills AFL",
+          "Pittsburgh Steelers NFL",
+          "Detroit Lions NFL",
+          "Washington Redskins NFL",
+          "St. Louis Cardinals NFL",
+          "Philadelphia Eagles NFL",
+          "San Francisco 49ers NFL",
+          "Chicago Bears NFL",
+          "New York Jets AFL",
+          "San Diego Chargers AFL",
+          "Kansas City Chiefs AFL",
+          "Dallas Cowboys NFL",
+          "Cleveland Browns NFL",
+          "Kansas City Chiefs AFL",
+          "Baltimore Colts NFL",
+          "Detroit Lions NFL",
+          "Oakland Raiders AFL",
+          "Green Bay Packers NFL",
+          "Miami Dolphins AFL"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Player",
+        "values": [
+          "Ron Yary",
+          "Bob Johnson",
+          "Claude Humphrey",
+          "Russ Washington",
+          "Fred Carr",
+          "Dennis Byrd",
+          "Kevin Hardy",
+          "Larry Csonka",
+          "Haven Moses",
+          "Mike Taylor",
+          "Greg Landry",
+          "Jim Smith",
+          "MacArthur Lane",
+          "Tim Rossovich",
+          "Forrest Blue",
+          "Mike Hull",
+          "Lee White",
+          "Jim Hill",
+          "Mo Moorman",
+          "Dennis Homan",
+          "Marvin Upshaw",
+          "George Daney",
+          "John Williams",
+          "Earl McCullouch",
+          "Eldridge Dickey",
+          "Bill Lueck",
+          "Doug Crusan"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Position",
+        "values": [
+          "Offensive Tackle",
+          "Center",
+          "Defensive End",
+          "Offensive Tackle",
+          "Linebacker",
+          "Defensive Tackle",
+          "Defensive End",
+          "Fullback",
+          "Wide Receiver",
+          "Offensive Tackle",
+          "Quarterback",
+          "Defensive Back",
+          "Running Back",
+          "Defensive End",
+          "Center",
+          "Running Back",
+          "Running Back",
+          "Defensive Back",
+          "Offensive Guard",
+          "Wide Receiver",
+          "Defensive End",
+          "Offensive Guard",
+          "Offensive Tackle",
+          "Wide Receiver",
+          "Quarterback",
+          "Offensive Guard",
+          "Offensive Tackle"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "College",
+        "values": [
+          "USC",
+          "Tennessee",
+          "Tennessee State",
+          "Missouri",
+          "UTEP",
+          "North Carolina State",
+          "Notre Dame",
+          "Syracuse",
+          "San Diego St.",
+          "USC",
+          "UMass",
+          "Oregon",
+          "Utah State",
+          "USC",
+          "Auburn",
+          "USC",
+          "Weber State",
+          "Texas A&M Kingsville",
+          "Texas A&M",
+          "Alabama",
+          "Trinity",
+          "UTEP",
+          "Minnesota",
+          "USC",
+          "Tennessee State",
+          "Arizona",
+          "Indiana"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1968 NFL/AFL Draft",
+    "page_url": "https://en.wikipedia.org/wiki/1968_NFL/AFL_Draft",
+    "page_entity_id": null
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/1968_Minnesota_Vikings_season",
+          "entity_id": "Q3515572"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ron_Yary",
+          "entity_id": "Q1706854"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Southern_California",
+          "entity_id": "Q4614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_Cincinnati_Bengals_season",
+          "entity_id": "Q2909919"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bob_Johnson_(American_football)",
+          "entity_id": "Q4932937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Center_(American_football)",
+          "entity_id": "Q25075"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/University_of_Tennessee",
+          "entity_id": "Q1150105"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1968_Atlanta_Falcons_season",
+          "entity_id": "Q3515218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Claude_Humphrey",
+          "entity_id": "Q5128898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Defensive_end",
+          "entity_id": "Q903354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tennessee_State_University",
+          "entity_id": "Q1782948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_San_Diego_Chargers_season",
+          "entity_id": "Q2910046"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Russ_Washington",
+          "entity_id": "Q7381254"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/University_of_Missouri",
+          "entity_id": "Q579968"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/1968_Green_Bay_Packers_season",
+          "entity_id": "Q3515497"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fred_Carr",
+          "entity_id": "Q14950895"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Linebacker",
+          "entity_id": "Q528145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/University_of_Texas_at_El_Paso",
+          "entity_id": "Q2093110"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1968_Boston_Patriots_season",
+          "entity_id": "Q2909628"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dennis_Byrd_(American_football,_born_1946)",
+          "entity_id": "Q5258246"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Defensive_tackle",
+          "entity_id": "Q2550304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina_State_University",
+          "entity_id": "Q1132346"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_New_Orleans_Saints_season",
+          "entity_id": "Q3515046"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Hardy_(defensive_tackle)",
+          "entity_id": "Q6396441"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Defensive_end",
+          "entity_id": "Q903354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/University_of_Notre_Dame",
+          "entity_id": "Q178848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1968_Miami_Dolphins_season",
+          "entity_id": "Q2909709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Larry_Csonka",
+          "entity_id": "Q322663"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Fullback_(American_football)",
+          "entity_id": "Q526960"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Syracuse_University",
+          "entity_id": "Q617433"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1968_Buffalo_Bills_season",
+          "entity_id": "Q2909662"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Haven_Moses",
+          "entity_id": "Q5683705"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wide_receiver",
+          "entity_id": "Q918224"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Diego_State_University",
+          "entity_id": "Q913861"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1968_Pittsburgh_Steelers_season",
+          "entity_id": "Q3515102"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mike_Taylor_(offensive_tackle)",
+          "entity_id": "Q14951476"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Southern_California",
+          "entity_id": "Q4614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1968_Detroit_Lions_season",
+          "entity_id": "Q3515465"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Greg_Landry",
+          "entity_id": "Q5605877"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/University_of_Massachusetts_Amherst",
+          "entity_id": "Q15142"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1968_Washington_Redskins_season",
+          "entity_id": "Q3514947"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jim_Smith_(defensive_back)",
+          "entity_id": "Q6198189"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Defensive_back",
+          "entity_id": "Q674953"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/University_of_Oregon",
+          "entity_id": "Q766145"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1968_St._Louis_Cardinals_(NFL)_season",
+          "entity_id": "Q3515149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/MacArthur_Lane",
+          "entity_id": "Q6721733"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Utah_State_University",
+          "entity_id": "Q1052614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1968_Philadelphia_Eagles_season",
+          "entity_id": "Q3514906"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tim_Rossovich",
+          "entity_id": "Q7804195"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Defensive_end",
+          "entity_id": "Q903354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Southern_California",
+          "entity_id": "Q4614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1968_San_Francisco_49ers_season",
+          "entity_id": "Q3515342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Forrest_Blue",
+          "entity_id": "Q5470438"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Center_(American_football)",
+          "entity_id": "Q25075"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Auburn_University",
+          "entity_id": "Q540672"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1968_Chicago_Bears_season",
+          "entity_id": "Q3515409"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mike_Hull_(fullback)",
+          "entity_id": "Q6847344"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Southern_California",
+          "entity_id": "Q4614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1968_New_York_Jets_season",
+          "entity_id": "Q2909751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lee_White_(American_football)",
+          "entity_id": "Q6515512"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Weber_State_University",
+          "entity_id": "Q1787152"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_San_Diego_Chargers_season",
+          "entity_id": "Q2910046"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jim_Hill_(American_football)",
+          "entity_id": "Q12858639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Defensive_back",
+          "entity_id": "Q674953"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Texas_A%26M_University-Kingsville",
+          "entity_id": "Q7707478"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_Kansas_City_Chiefs_season",
+          "entity_id": "Q2909999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mo_Moorman",
+          "entity_id": "Q6886255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Guard_(American_football)",
+          "entity_id": "Q25113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Texas_A%26M_University",
+          "entity_id": "Q49212"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1968_Dallas_Cowboys_season",
+          "entity_id": "Q3514771"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dennis_Homan",
+          "entity_id": "Q5258528"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wide_receiver",
+          "entity_id": "Q918224"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/University_of_Alabama",
+          "entity_id": "Q492318"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/1968_Cleveland_Browns_season",
+          "entity_id": "Q3515007"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Marvin_Upshaw",
+          "entity_id": "Q6778500"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Defensive_end",
+          "entity_id": "Q903354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Trinity_College_(Connecticut)",
+          "entity_id": "Q1927705"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1968_Kansas_City_Chiefs_season",
+          "entity_id": "Q2909999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/George_Daney",
+          "entity_id": "Q5538367"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Guard_(American_football)",
+          "entity_id": "Q25113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/University_of_Texas_at_El_Paso",
+          "entity_id": "Q2093110"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1968_Baltimore_Colts_season",
+          "entity_id": "Q3515248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/John_Williams_(offensive_lineman)",
+          "entity_id": "Q6264363"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/University_of_Minnesota",
+          "entity_id": "Q238101"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1968_Detroit_Lions_season",
+          "entity_id": "Q3515465"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Earl_McCullouch",
+          "entity_id": "Q3046391"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wide_receiver",
+          "entity_id": "Q918224"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Southern_California",
+          "entity_id": "Q4614"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1968_Oakland_Raiders_season",
+          "entity_id": "Q2910019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Eldridge_Dickey",
+          "entity_id": "Q5354170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tennessee_State_University",
+          "entity_id": "Q1782948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/1968_Green_Bay_Packers_season",
+          "entity_id": "Q3515497"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bill_Lueck",
+          "entity_id": "Q4909970"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Guard_(American_football)",
+          "entity_id": "Q25113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/University_of_Arizona",
+          "entity_id": "Q503419"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1968_Miami_Dolphins_season",
+          "entity_id": "Q2909709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Doug_Crusan",
+          "entity_id": "Q5300393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Indiana_University_(Bloomington)",
+          "entity_id": "Q1079140"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,1153 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_television_stations_in_Utah",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Area served",
+        "values": [
+          "Cedar City",
+          "Logan",
+          "Richfield",
+          "St. George",
+          "St. George",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City of license",
+        "values": [
+          "Cedar City",
+          "Logan",
+          "Richfield",
+          "St. George",
+          "St. George",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Ogden",
+          "Provo",
+          "Salt Lake City",
+          "Salt Lake City",
+          "Provo",
+          "Salt Lake City",
+          "Ogden",
+          "Ogden",
+          "Provo"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "VC",
+        "values": [
+          "4",
+          "12",
+          "19",
+          "12",
+          "18",
+          "2",
+          "4",
+          "5",
+          "7",
+          "9",
+          "11",
+          "13",
+          "14",
+          "16",
+          "20",
+          "24",
+          "30",
+          "32"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "RF",
+        "values": [
+          "14",
+          "12",
+          "19",
+          "9",
+          "18",
+          "34",
+          "30",
+          "23",
+          "27",
+          "36",
+          "17",
+          "28",
+          "19",
+          "29",
+          "20",
+          "24",
+          "35",
+          "32"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Callsign",
+        "values": [
+          "KCSG",
+          "KUTF",
+          "KUES",
+          "KMYU",
+          "KUEW",
+          "KUTV",
+          "KTVX",
+          "KSL-TV",
+          "KUED",
+          "KUEN",
+          "KBYU-TV",
+          "KSTU",
+          "KJZZ-TV",
+          "KUPX-TV",
+          "KTMW",
+          "KPNZ",
+          "KUCW",
+          "KUTH-DT"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Network",
+        "values": [
+          "H&I",
+          "Daystar",
+          "PBS",
+          "MNT",
+          "PBS",
+          "CBS",
+          "ABC",
+          "NBC",
+          "PBS",
+          "ETV",
+          "Ind.",
+          "Fox",
+          "Ind.",
+          "Ion",
+          "Telemundo",
+          "Azteca TV",
+          "CW",
+          "UNI"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Notes",
+        "values": [
+          "Simulcast of KTVX 4.2, Utah's MeTV , on 14.1, Decades on 14.2, Start TV on 14.3, Heroes & Icons on 14.4",
+          "Former Univision / TeleFutura station",
+          "satellite of KUED ch. 7 Salt Lake City",
+          "programming from CBS and MyNetworkTV",
+          "satellite of KUED ch. 7 Salt Lake City",
+          "KMYU simulcast on 2.2",
+          "Me-TV on 4.2, Laff on 4.3, Heroes & Icons on 4.4",
+          "Cozi TV on 5.2, This TV on 5.3",
+          "World on 7.2, PBS Kids on 7.3, Create on 7.4",
+          "UEN on 9.1, MHz WorldView on 9.2, FNX on 9.3, NHK World on 9.4",
+          "Former PBS station",
+          "Antenna TV on 13.2, Stadium on 13.3, Charge! on 13.4",
+          "Former UPN / MyN station; Comet on 14.2, TBD on 14.3, Charge! on 14.4",
+          "Qubo on 16.2, Ion Plus on 16.3, Ion Shop on 16.4, QVC on 16.5, HSN on 16.6",
+          "TeleXitos on 20.2, Nothing on 20.3 and 20.4, Light TV on 20.5, Quest on 20.6",
+          "Former UPN / Estrella TV station",
+          "Movies! on 30.2, Grit on 30.3, Escape on 30.4",
+          "Unimas on 32.2, getTV on 32.3, Escape on 32.4, Justice Network on 32.5"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of television stations in Utah",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_television_stations_in_Utah",
+    "page_entity_id": "Q6642788"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cedar_City,_Utah",
+          "entity_id": "Q487212"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cedar_City,_Utah",
+          "entity_id": "Q487212"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KCSG",
+          "entity_id": "Q6327333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Heroes_%26_Icons",
+          "entity_id": "Q18349263"
+        }
+      ],
+      [
+        {
+          "start": 30,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/MeTV",
+          "entity_id": "Q3303733"
+        },
+        {
+          "start": 46,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/Decades_(TV_network)",
+          "entity_id": "Q18350875"
+        },
+        {
+          "start": 63,
+          "end": 71,
+          "url": "http://en.wikipedia.org/wiki/Start_TV",
+          "entity_id": "Q56290032"
+        },
+        {
+          "start": 81,
+          "end": 95,
+          "url": "http://en.wikipedia.org/wiki/Heroes_%26_Icons",
+          "entity_id": "Q18349263"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Logan,_Utah",
+          "entity_id": "Q482657"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Logan,_Utah",
+          "entity_id": "Q482657"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUTF",
+          "entity_id": "Q6339761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Daystar_(TV_network)",
+          "entity_id": "Q827000"
+        }
+      ],
+      [
+        {
+          "start": 7,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Univision",
+          "entity_id": "Q731824"
+        },
+        {
+          "start": 19,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/UniM%C3%A1s",
+          "entity_id": "Q1106818"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Richfield,_Utah",
+          "entity_id": "Q483319"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Richfield,_Utah",
+          "entity_id": "Q483319"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUES",
+          "entity_id": "Q6339503"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Public_Broadcasting_Service",
+          "entity_id": "Q215616"
+        }
+      ],
+      [
+        {
+          "start": 13,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/KUED",
+          "entity_id": "Q6339503"
+        },
+        {
+          "start": 24,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St._George,_Utah",
+          "entity_id": "Q52472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St._George,_Utah",
+          "entity_id": "Q52472"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KMYU",
+          "entity_id": "Q6334076"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/MyNetworkTV",
+          "entity_id": "Q1148579"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/CBS",
+          "entity_id": "Q43380"
+        },
+        {
+          "start": 25,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/MyNetworkTV",
+          "entity_id": "Q1148579"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St._George,_Utah",
+          "entity_id": "Q52472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St._George,_Utah",
+          "entity_id": "Q52472"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUEW",
+          "entity_id": "Q6339503"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Public_Broadcasting_Service",
+          "entity_id": "Q215616"
+        }
+      ],
+      [
+        {
+          "start": 13,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/KUED",
+          "entity_id": "Q6339503"
+        },
+        {
+          "start": 24,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUTV",
+          "entity_id": "Q6339773"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/CBS",
+          "entity_id": "Q43380"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KMYU",
+          "entity_id": "Q6334076"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KTVX",
+          "entity_id": "Q6339292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/American_Broadcasting_Company",
+          "entity_id": "Q169889"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Me-TV",
+          "entity_id": "Q3303733"
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Laff_(TV_network)",
+          "entity_id": "Q19599473"
+        },
+        {
+          "start": 27,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Heroes_%26_Icons",
+          "entity_id": "Q18349263"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/KSL-TV",
+          "entity_id": "Q6337865"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/NBC",
+          "entity_id": "Q13974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cozi_TV",
+          "entity_id": "Q2790678"
+        },
+        {
+          "start": 16,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/This_TV",
+          "entity_id": "Q3524762"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUED",
+          "entity_id": "Q6339503"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Public_Broadcasting_Service",
+          "entity_id": "Q215616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/World_(TV_channel)",
+          "entity_id": null
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/PBS_Kids",
+          "entity_id": "Q3245159"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Create_(TV_network)",
+          "entity_id": "Q5183427"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ogden,_Utah",
+          "entity_id": "Q52471"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUEN",
+          "entity_id": "Q6339501"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Utah_Education_Network",
+          "entity_id": "Q7902357"
+        },
+        {
+          "start": 12,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/MHz_WorldView",
+          "entity_id": "Q6715879"
+        },
+        {
+          "start": 34,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/First_Nations_Experience",
+          "entity_id": "Q20714638"
+        },
+        {
+          "start": 46,
+          "end": 55,
+          "url": "http://en.wikipedia.org/wiki/NHK_World-Japan",
+          "entity_id": "Q1191688"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Provo,_Utah",
+          "entity_id": "Q23443"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/KBYU-TV",
+          "entity_id": "Q6326444"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Public_Broadcasting_Service",
+          "entity_id": "Q215616"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KSTU",
+          "entity_id": "Q6338271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Fox_Broadcasting_Company",
+          "entity_id": "Q166419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Antenna_TV",
+          "entity_id": "Q2852675"
+        },
+        {
+          "start": 20,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Stadium_(sports_network)",
+          "entity_id": "Q30612306"
+        },
+        {
+          "start": 37,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Charge!_(TV_network)",
+          "entity_id": "Q30599160"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/KJZZ-TV",
+          "entity_id": "Q6331695"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/UPN",
+          "entity_id": "Q206272"
+        },
+        {
+          "start": 13,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/MyNetworkTV",
+          "entity_id": "Q1148579"
+        },
+        {
+          "start": 26,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Comet_(TV_network)",
+          "entity_id": "Q21189282"
+        },
+        {
+          "start": 41,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/TBD_(TV_network)",
+          "entity_id": "Q30598791"
+        },
+        {
+          "start": 54,
+          "end": 61,
+          "url": "http://en.wikipedia.org/wiki/Charge!_(TV_network)",
+          "entity_id": "Q30599160"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Provo,_Utah",
+          "entity_id": "Q23443"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/KUPX-TV",
+          "entity_id": "Q6339703"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Ion_Television",
+          "entity_id": "Q210500"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Qubo",
+          "entity_id": "Q7269661"
+        },
+        {
+          "start": 14,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Ion_Plus",
+          "entity_id": "Q4845827"
+        },
+        {
+          "start": 32,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/Ion_Television#Ion_Shop",
+          "entity_id": "Q210500"
+        },
+        {
+          "start": 50,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/QVC",
+          "entity_id": "Q440774"
+        },
+        {
+          "start": 63,
+          "end": 66,
+          "url": "http://en.wikipedia.org/wiki/Home_Shopping_Network",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KTMW",
+          "entity_id": "Q6338911"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Telemundo",
+          "entity_id": "Q136538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/TeleXitos",
+          "entity_id": "Q20979414"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/Light_TV",
+          "entity_id": "Q28222790"
+        },
+        {
+          "start": 63,
+          "end": 68,
+          "url": "http://en.wikipedia.org/wiki/Quest_(U.S._TV_network)",
+          "entity_id": "Q48460186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ogden,_Utah",
+          "entity_id": "Q52471"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KPNZ",
+          "entity_id": "Q14711707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Azteca_Am%C3%A9rica",
+          "entity_id": "Q2875229"
+        }
+      ],
+      [
+        {
+          "start": 7,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/UPN",
+          "entity_id": "Q206272"
+        },
+        {
+          "start": 13,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Estrella_TV",
+          "entity_id": "Q3059054"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ogden,_Utah",
+          "entity_id": "Q52471"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KUCW",
+          "entity_id": "Q6339487"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/The_CW_Television_Network",
+          "entity_id": "Q212252"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Movies!",
+          "entity_id": "Q6926899"
+        },
+        {
+          "start": 17,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Grit_(TV_network)",
+          "entity_id": "Q18150453"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Escape_(TV_network)",
+          "entity_id": "Q18149700"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Provo,_Utah",
+          "entity_id": "Q23443"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/KUTH-DT",
+          "entity_id": "Q6339763"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Univision",
+          "entity_id": "Q731824"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Unimas",
+          "entity_id": "Q1106818"
+        },
+        {
+          "start": 16,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/GetTV",
+          "entity_id": "Q15627596"
+        },
+        {
+          "start": 31,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Escape_(TV_network)",
+          "entity_id": "Q18149700"
+        },
+        {
+          "start": 47,
+          "end": 62,
+          "url": "http://en.wikipedia.org/wiki/Justice_Network",
+          "entity_id": null
+        }
+      ]
+    ]
+  ]
+}

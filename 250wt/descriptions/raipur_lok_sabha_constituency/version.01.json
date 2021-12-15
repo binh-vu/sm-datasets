@@ -1,0 +1,258 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Winner"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Party"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      },
+      {
+        "id": "context-Q12449885",
+        "value": "http://www.wikidata.org/entity/Q12449885",
+        "readable_label": "Raipur Lok Sabha constituency (Q12449885)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-3",
+        "value": "http://www.wikidata.org/entity/Q16556694",
+        "readable_label": "member of the Lok Sabha (Q16556694)",
+        "is_in_context": false,
+        "datatype": "entity-id"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d-0",
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "rel_uri": "p:P585",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "context-Q12449885",
+        "abs_uri": "http://www.wikidata.org/prop/P768",
+        "rel_uri": "p:P768",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Winner"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Party"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      },
+      {
+        "id": "context-Q12449885",
+        "value": "http://www.wikidata.org/entity/Q12449885",
+        "readable_label": "Raipur Lok Sabha constituency (Q12449885)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-3",
+        "value": "http://www.wikidata.org/entity/Q16556694",
+        "readable_label": "member of the Lok Sabha (Q16556694)",
+        "is_in_context": false,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q1076105",
+        "rel_uri": "wd:Q1076105",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "context-Q12449885",
+        "abs_uri": "http://www.wikidata.org/prop/P768",
+        "rel_uri": "p:P768",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-0",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P2715",
+        "rel_uri": "p:P2715",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-4",
+        "target": "d-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

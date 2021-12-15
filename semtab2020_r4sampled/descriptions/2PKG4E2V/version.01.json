@@ -1,0 +1,88 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q29643579:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q29643579",
+        "rel_uri": "wd:Q29643579",
+        "approximation": false,
+        "readable_label": "multi-level marketing company (Q29643579)"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": "human (Q5)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q29643579:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q29643579:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P452",
+        "rel_uri": "p:P452",
+        "approximation": false,
+        "readable_label": "industry (P452)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q29643579:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P159",
+        "rel_uri": "p:P159",
+        "approximation": false,
+        "readable_label": "headquarters location (P159)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q29643579:0",
+        "target": "http://www.wikidata.org/entity/Q5:0",
+        "abs_uri": "http://www.wikidata.org/prop/P112",
+        "rel_uri": "p:P112",
+        "approximation": false,
+        "readable_label": "founded by (P112)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q5:0",
+        "target": "col-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

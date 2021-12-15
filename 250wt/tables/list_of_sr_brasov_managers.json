@@ -1,0 +1,4455 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_SR_Brașov_managers",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Season",
+        "values": [
+          "1948–49",
+          "1950",
+          "1951",
+          "1952",
+          "1953",
+          "1954",
+          "1955",
+          "1956",
+          "1957–58",
+          "1958–59",
+          "1959–60",
+          "1960–61",
+          "1961–62",
+          "1962–63",
+          "1963–64",
+          "1964–65",
+          "1965–66",
+          "1966–67",
+          "1967–68",
+          "1968–69",
+          "1969–70",
+          "1970–71",
+          "1971–72",
+          "1972–73",
+          "1973–74",
+          "1974–75",
+          "1974–75",
+          "1975–76",
+          "1976–77",
+          "1977–78",
+          "1978–78",
+          "1979–80",
+          "1980–81",
+          "1981–82",
+          "1982–83",
+          "1982–83",
+          "1983–84",
+          "1984–85",
+          "1984–85",
+          "1985–86",
+          "1985–86",
+          "1986–87",
+          "1987–88",
+          "1988–89",
+          "1989–90",
+          "1989–90",
+          "1990–91",
+          "1991–92",
+          "1991–92",
+          "1992–93",
+          "1992–93",
+          "1993–94",
+          "1993–94",
+          "1994–95",
+          "1994–95",
+          "1995–96",
+          "1995–96",
+          "1995–96",
+          "1996–97",
+          "1996–97",
+          "1997–98",
+          "1997–98",
+          "1998–99",
+          "1999–00",
+          "1999–00",
+          "1999–00",
+          "1999–00",
+          "2000–01",
+          "2001–02",
+          "2001–02",
+          "2001–02",
+          "2001–02",
+          "2002–03",
+          "2003–04",
+          "2003–04",
+          "2004–05",
+          "2004–05",
+          "2004–05",
+          "2005–06",
+          "2005–06",
+          "2005–06",
+          "2005–06",
+          "2006–07",
+          "2006–07",
+          "2006–07",
+          "2007–08",
+          "2008–09",
+          "2009–10",
+          "2009–10",
+          "2010–11",
+          "2010–11",
+          "2010–11",
+          "2011–12",
+          "2011–12",
+          "2011–12",
+          "2011–12",
+          "2011–12",
+          "2012–13",
+          "2012–13",
+          "2012–13",
+          "2012–13",
+          "2012–13",
+          "2013–14",
+          "2013–14",
+          "2013–14",
+          "2013–14",
+          "2013–14",
+          "2014–15",
+          "2014–15",
+          "2014–15",
+          "2014–15",
+          "2015–16",
+          "2015–16"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "League",
+        "values": [
+          "Divizia C",
+          "Divizia C",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia B",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia B",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia A",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Divizia B",
+          "Liga II",
+          "Liga II",
+          "Liga II",
+          "Liga II",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga I",
+          "Liga II",
+          "Liga II"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Manager",
+        "values": [
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Silviu Ploeşteanu",
+          " Nicolae Proca",
+          " Valentin Stănescu",
+          " Valentin Stănescu",
+          " Nicolae Proca",
+          " Nicolae Proca",
+          " Nicolae Proca",
+          " Nicolae Proca",
+          "Alexandru Meszaros",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          " Nicolae Pescaru",
+          " Nicolae Pescaru",
+          "Ştefan Coidum",
+          "Ştefan Coidum",
+          "Ştefan Coidum",
+          "Marcel Goran",
+          "Marcel Goran",
+          " Costică Ştefănescu",
+          " Costică Ştefănescu",
+          " Costică Ştefănescu",
+          " Costică Ştefănescu",
+          " Costică Ştefănescu",
+          "Dumitru Anescu",
+          " Ioan Nagy",
+          " Csaba Györffy",
+          "Paul Enache",
+          "Paul Enache",
+          "Gheorghe Staicu",
+          " Nicolae Pescaru",
+          "Dorel Purdea",
+          " Ioan Nagy",
+          " Gabriel Stan",
+          " Gabriel Stan",
+          " Csaba Györffy",
+          " Viorel Hizo",
+          " Viorel Hizo",
+          " Marian Mihail",
+          " Costel Orac",
+          " Marin Barbu",
+          " Cornel Ţălnar",
+          " Ioan Andone",
+          "Adrian Hârlab",
+          " Florin Halagian",
+          "Adrian Hârlab",
+          " Gabriel Stan",
+          " Ilie Dumitrescu",
+          "Adrian Hârlab",
+          " Gabriel Stan",
+          "Ferencz Bajko",
+          " Marius Lăcătuş",
+          " Marius Lăcătuş",
+          " Răzvan Lucescu",
+          " Ionuţ Lupescu",
+          " Gabriel Stan",
+          "Ferencz Bajko",
+          " Gheorghe Mulţescu",
+          " Nicolae Manea",
+          " Gheorghe Mulţescu",
+          " Cornel Ţălnar",
+          " Aurel Şunda",
+          " Gabriel Stan",
+          "Mihai Stoica",
+          " Răzvan Lucescu",
+          " Răzvan Lucescu",
+          " Nicolò Napoli",
+          " Viorel Moldovan",
+          " Giuseppe Materazzi",
+          " Daniel Isăilă",
+          " António Conceição",
+          " Daniel Isăilă",
+          " José Murcia",
+          " Daniel Isăilă",
+          " Marius Şumudică",
+          " Ionuţ Badea",
+          " Ionuţ Badea",
+          " Viorel Hizo",
+          "Adrian Szabo (interim)",
+          " Sorin Cârţu",
+          "Adrian Szabo",
+          "Adrian Szabo",
+          " Aurel Ţicleanu",
+          " Alexandru Pelici",
+          " Ilie Stan",
+          " Cornel Țălnar",
+          " Cornel Țălnar",
+          "Adrian Szabo",
+          " Vjekoslav Lokica",
+          "Adrian Szabo",
+          " Cosmin Bodea",
+          "Adrian Szabo"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Period",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "July 1, 2007 – June 5, 2009",
+          "July 1, 2007 – June 5, 2009",
+          "July 5, 2009 – July 27, 2009",
+          "July 27, 2009 – June 11, 2010",
+          "June 27, 2010 – July 1, 2010",
+          "July 9, 2010 – Dec 18, 2010",
+          "Dec 18, 2010 – July 14, 2011",
+          "",
+          "Aug 9, 2011 – Aug 30, 2011",
+          "Aug 30, 2011 – Nov 1, 2011",
+          "Nov 2, 2011 – April 16, 2012",
+          "April 17, 2012 – Sept 17, 2012",
+          "April 17, 2012 – Sept 17, 2012",
+          "",
+          "Sept 18, 2012 – Oct 10, 2012",
+          "Oct 10, 2012 – Nov 12, 2012",
+          "Nov 12, 2012 – Aug 19, 2013",
+          "Nov 12, 2012 – Aug 19, 2013",
+          "Aug 19, 2013 – Sept 22, 2013",
+          "Sept 23, 2013 – Nov 4, 2013",
+          "Nov 6, 2013 – Jan 15, 2014",
+          "Jan 27, 2014 – Aug 14, 2014",
+          "Jan 27, 2014 – Aug 14, 2014",
+          "Aug 14, 2014 – Jan 5, 2015",
+          "Jan 5, 2015 – Apr 12, 2015",
+          "Apr 12, 2015 – 31 May, 2016",
+          "Jun 15, 2015 – Sep 8, 2015",
+          "Sep 10, 2015 – Jan 7, 2016"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Rounds",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "All rounds",
+          "All rounds",
+          "All rounds",
+          "All rounds",
+          "All rounds",
+          "All rounds",
+          "Round 1 to round 22",
+          "Round 23 to round 34",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "All rounds",
+          "Round 1 to round 7",
+          "Round 8 to round 34",
+          "All rounds",
+          "Round 1 to round 18",
+          "Round 23 to round 34",
+          "Round 1 to round 18",
+          "Round 19 to round 34",
+          "All rounds",
+          "All rounds",
+          "All rounds",
+          "Round 1 to round 7",
+          "Round 8 to round 34",
+          "All rounds",
+          "Round 9 to round 13",
+          "Round 14 to round 34",
+          "Round 1 to round 27",
+          "All rounds",
+          "Round 1 to round 29",
+          "Round 30 to round 34",
+          "Round 1 to round 17",
+          "Round 18 to round 34",
+          "Round 1 to round 18",
+          "Round 19 to round 21",
+          "Round 22 to round 34",
+          "Round 1 to round 20",
+          "Round 21 to round 34",
+          "Round 1 to round 17",
+          "Rest of the season",
+          "All rounds",
+          "Round 1 to round 18",
+          "Round 19 to round 20",
+          "Round 21 to day 31",
+          "Round 32 to round 34",
+          "All rounds",
+          "Round 1 to round 3",
+          "Round 4 to round 8",
+          "Round 9 to round 23",
+          "Round 24 to round 30",
+          "All rounds",
+          "Round 1 to round 15",
+          "Round 16 to round 30",
+          "Round 1 to round 5",
+          "Round 6 to round 20",
+          "Round 21 to round 30",
+          "Round 1 to round 6",
+          "Round 7 to round 12",
+          "Round 13 to round 15",
+          "Round 16 to round 30",
+          "Round 1 to round 10",
+          "Round 11 to round 17",
+          "Round 18 to round 34",
+          "All rounds",
+          "All rounds",
+          "Pre-season only",
+          "All rounds",
+          "Pre-season only",
+          "Round 1 to round 18",
+          "Rest of the season",
+          "Round 1 to round 2",
+          "Round 3 to round 5",
+          "Round 6 to round 14",
+          "Round 15 to round 27",
+          "Round 28 to round 34",
+          "Round 1 to round 8",
+          "No rounds",
+          "Round 9 to round 11",
+          "Round 12 to round 15",
+          "Round 16 to round 34",
+          "Round 1 to round 5",
+          "Round 6 to round 8",
+          "Round 9 to round 13",
+          "Round 14 to round 19",
+          "Round 20 to round 34",
+          "Round 1 to round 3",
+          "Round 1 to round 17",
+          "Round 17 to round 27",
+          "Round 27 to round 34",
+          "Round 1 to round 2",
+          "Round 3 to Round 32"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Position",
+        "values": [
+          "",
+          "",
+          "4th",
+          "6th",
+          "6th",
+          "4th",
+          "9th",
+          "1st (P)",
+          "7th",
+          "7th",
+          "2nd",
+          "5th",
+          "4th",
+          "6th",
+          "6th",
+          "4th",
+          "5th",
+          "7th",
+          "14th (R)",
+          "1st (P)",
+          "8th",
+          "5th",
+          "5th",
+          "7th",
+          "3rd (Q 1 )",
+          "16th (R)",
+          "16th (R)",
+          "3rd",
+          "2nd",
+          "5th",
+          "2nd",
+          "1st (P)",
+          "8th",
+          "13th",
+          "16th (R)",
+          "16th (R)",
+          "1st (P)",
+          "12th",
+          "12th",
+          "11th",
+          "11th",
+          "13th",
+          "8th",
+          "10th",
+          "7th",
+          "7th",
+          "9th",
+          "9th",
+          "9th",
+          "12th",
+          "12th",
+          "13th",
+          "13th",
+          "14th",
+          "14th",
+          "10th",
+          "10th",
+          "10th",
+          "18th (R)",
+          "18th (R)",
+          "3rd",
+          "3rd",
+          "1st (P)",
+          "14th",
+          "14th",
+          "14th",
+          "14th",
+          "3rd (Q 2 )",
+          "11th",
+          "11th",
+          "11th",
+          "11th",
+          "4th",
+          "11th",
+          "11th",
+          "15th (R)",
+          "15th (R)",
+          "15th (R)",
+          "3rd",
+          "3rd",
+          "3rd",
+          "3rd",
+          "10th",
+          "10th",
+          "10th",
+          "1st (P)",
+          "9th",
+          "9th",
+          "9th",
+          "12th",
+          "12th",
+          "12th",
+          "10th",
+          "10th",
+          "10th",
+          "10th",
+          "10th",
+          "7th",
+          "7th",
+          "7th",
+          "7th",
+          "7th",
+          "15th",
+          "15th",
+          "15th",
+          "15th",
+          "15th",
+          "14th (R)",
+          "14th (R)",
+          "14th (R)",
+          "14th (R)",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of SR Brașov managers",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_SR_Brașov_managers",
+    "page_entity_id": "Q6570515"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_C",
+          "entity_id": "Q1707697"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_C",
+          "entity_id": "Q1707697"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1951_Divizia_B",
+          "entity_id": "Q60526805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1952_Divizia_B",
+          "entity_id": "Q60526809"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1953_Divizia_B",
+          "entity_id": "Q60526812"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1954_Divizia_B",
+          "entity_id": "Q60526815"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1955_Divizia_B",
+          "entity_id": "Q60526819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1956_Divizia_B",
+          "entity_id": "Q60526822"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1957%E2%80%9358_Divizia_A",
+          "entity_id": "Q1231417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1958%E2%80%9359_Divizia_A",
+          "entity_id": "Q583838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1959%E2%80%9360_Divizia_A",
+          "entity_id": "Q1231415"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1960%E2%80%9361_Divizia_A",
+          "entity_id": "Q653476"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1961%E2%80%9362_Divizia_A",
+          "entity_id": "Q388352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1962%E2%80%9363_Divizia_A",
+          "entity_id": "Q949298"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1963%E2%80%9364_Divizia_A",
+          "entity_id": "Q970480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1964%E2%80%9365_Divizia_A",
+          "entity_id": "Q1231427"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1965%E2%80%9366_Divizia_A",
+          "entity_id": "Q518631"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1966%E2%80%9367_Divizia_A",
+          "entity_id": "Q1231437"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1967%E2%80%9368_Divizia_A",
+          "entity_id": "Q1231439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Silviu_Ploe%C5%9Fteanu",
+          "entity_id": "Q466105"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1968%E2%80%9369_Divizia_A",
+          "entity_id": "Q1231442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Proca",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1969%E2%80%9370_Divizia_A",
+          "entity_id": "Q1231444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Valentin_St%C4%83nescu",
+          "entity_id": "Q472811"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1970%E2%80%9371_Divizia_A",
+          "entity_id": "Q1231446"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Valentin_St%C4%83nescu",
+          "entity_id": "Q472811"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1971%E2%80%9372_Divizia_A",
+          "entity_id": "Q282672"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Proca",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1972%E2%80%9373_Divizia_A",
+          "entity_id": "Q629312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Proca",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1973%E2%80%9374_Divizia_A",
+          "entity_id": "Q945759"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Proca",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1974%E2%80%9375_Divizia_A",
+          "entity_id": "Q779243"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Proca",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1974%E2%80%9375_Divizia_A",
+          "entity_id": "Q779243"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1975%E2%80%9376_Divizia_B",
+          "entity_id": "Q60787337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1976%E2%80%9377_Divizia_B",
+          "entity_id": "Q60787361"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1977%E2%80%9378_Divizia_B",
+          "entity_id": "Q60787362"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1978%E2%80%9379_Divizia_B",
+          "entity_id": "Q60787377"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1979%E2%80%9380_Divizia_B",
+          "entity_id": "Q23020484"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1980%E2%80%9381_Divizia_A",
+          "entity_id": "Q1231480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1981%E2%80%9382_Divizia_A",
+          "entity_id": "Q426984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nicolae_Pescaru",
+          "entity_id": "Q2474647"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1982%E2%80%9383_Divizia_A",
+          "entity_id": "Q1231486"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nicolae_Pescaru",
+          "entity_id": "Q2474647"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1982%E2%80%9383_Divizia_A",
+          "entity_id": "Q1231486"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1983%E2%80%9384_Divizia_B",
+          "entity_id": "Q60787489"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1984%E2%80%9385_Divizia_A",
+          "entity_id": "Q770208"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1984%E2%80%9385_Divizia_A",
+          "entity_id": "Q770208"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1985%E2%80%9386_Divizia_A",
+          "entity_id": "Q605645"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1985%E2%80%9386_Divizia_A",
+          "entity_id": "Q605645"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costic%C4%83_%C5%9Etef%C4%83nescu",
+          "entity_id": "Q1136504"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1986%E2%80%9387_Divizia_A",
+          "entity_id": "Q1231508"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costic%C4%83_%C5%9Etef%C4%83nescu",
+          "entity_id": "Q1136504"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1987%E2%80%9388_Divizia_A",
+          "entity_id": "Q1231511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costic%C4%83_%C5%9Etef%C4%83nescu",
+          "entity_id": "Q1136504"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1988%E2%80%9389_Divizia_A",
+          "entity_id": "Q1231517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costic%C4%83_%C5%9Etef%C4%83nescu",
+          "entity_id": "Q1136504"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1989%E2%80%9390_Divizia_A",
+          "entity_id": "Q1231516"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costic%C4%83_%C5%9Etef%C4%83nescu",
+          "entity_id": "Q1136504"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1989%E2%80%9390_Divizia_A",
+          "entity_id": "Q1231516"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1990%E2%80%9391_Divizia_A",
+          "entity_id": "Q1231519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ioan_Nagy",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1991%E2%80%9392_Divizia_A",
+          "entity_id": "Q1231535"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Csaba_Gy%C3%B6rffy",
+          "entity_id": "Q83784636"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1991%E2%80%9392_Divizia_A",
+          "entity_id": "Q1231535"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1992%E2%80%9393_Divizia_A",
+          "entity_id": "Q686080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1992%E2%80%9393_Divizia_A",
+          "entity_id": "Q686080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1993%E2%80%9394_Divizia_A",
+          "entity_id": "Q1231550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nicolae_Pescaru",
+          "entity_id": "Q2474647"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1993%E2%80%9394_Divizia_A",
+          "entity_id": "Q1231550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1994%E2%80%9395_Divizia_A",
+          "entity_id": "Q1231544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ioan_Nagy",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1994%E2%80%9395_Divizia_A",
+          "entity_id": "Q1231544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1995%E2%80%9396_Divizia_A",
+          "entity_id": "Q1231547"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1995%E2%80%9396_Divizia_A",
+          "entity_id": "Q1231547"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Csaba_Gy%C3%B6rffy",
+          "entity_id": "Q83784636"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1995%E2%80%9396_Divizia_A",
+          "entity_id": "Q1231547"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Viorel_Hizo",
+          "entity_id": "Q1241699"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1996%E2%80%9397_Divizia_A",
+          "entity_id": "Q1231554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Viorel_Hizo",
+          "entity_id": "Q1241699"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1996%E2%80%9397_Divizia_A",
+          "entity_id": "Q1231554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marian_Mihail",
+          "entity_id": "Q6761947"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1997%E2%80%9398_Divizia_B",
+          "entity_id": "Q4593118"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Costel_Orac",
+          "entity_id": "Q1136487"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1997%E2%80%9398_Divizia_B",
+          "entity_id": "Q4593118"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marin_Barbu",
+          "entity_id": "Q10505265"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1998%E2%80%9399_Divizia_B",
+          "entity_id": "Q4594265"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cornel_%C5%A2%C4%83lnar",
+          "entity_id": "Q1133257"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1999%E2%80%9300_Divizia_A",
+          "entity_id": "Q1231573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ioan_Andone",
+          "entity_id": "Q720131"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1999%E2%80%9300_Divizia_A",
+          "entity_id": "Q1231573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1999%E2%80%9300_Divizia_A",
+          "entity_id": "Q1231573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Florin_Halagian",
+          "entity_id": "Q1430142"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1999%E2%80%9300_Divizia_A",
+          "entity_id": "Q1231573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2000%E2%80%9301_Divizia_A",
+          "entity_id": "Q1231576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2001%E2%80%9302_Divizia_A",
+          "entity_id": "Q1231579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ilie_Dumitrescu",
+          "entity_id": "Q459279"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2001%E2%80%9302_Divizia_A",
+          "entity_id": "Q1231579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2001%E2%80%9302_Divizia_A",
+          "entity_id": "Q1231579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2001%E2%80%9302_Divizia_A",
+          "entity_id": "Q1231579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2002%E2%80%9303_Divizia_A",
+          "entity_id": "Q667600"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Marius_L%C4%83c%C4%83tu%C5%9F",
+          "entity_id": "Q539125"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2003%E2%80%9304_Divizia_A",
+          "entity_id": "Q202286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Marius_L%C4%83c%C4%83tu%C5%9F",
+          "entity_id": "Q539125"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2003%E2%80%9304_Divizia_A",
+          "entity_id": "Q202286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/R%C4%83zvan_Lucescu",
+          "entity_id": "Q464684"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2004%E2%80%9305_Divizia_A",
+          "entity_id": "Q568366"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ioan_Lupescu",
+          "entity_id": "Q765199"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2004%E2%80%9305_Divizia_A",
+          "entity_id": "Q568366"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2004%E2%80%9305_Divizia_A",
+          "entity_id": "Q568366"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_A",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2005%E2%80%9306_Divizia_B",
+          "entity_id": "Q4605350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gheorghe_Mul%C5%A3escu",
+          "entity_id": "Q1521597"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2005%E2%80%9306_Divizia_B",
+          "entity_id": "Q4605350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nicolae_Manea",
+          "entity_id": "Q1986263"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2005%E2%80%9306_Divizia_B",
+          "entity_id": "Q4605350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gheorghe_Mul%C5%A3escu",
+          "entity_id": "Q1521597"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2005%E2%80%9306_Divizia_B",
+          "entity_id": "Q4605350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Divizia_B",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cornel_%C5%A2%C4%83lnar",
+          "entity_id": "Q1133257"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2006%E2%80%9307_Liga_II",
+          "entity_id": "Q570419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Aurel_%C5%9Eunda",
+          "entity_id": "Q4686155"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2006%E2%80%9307_Liga_II",
+          "entity_id": "Q570419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Stan",
+          "entity_id": "Q5515864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2006%E2%80%9307_Liga_II",
+          "entity_id": "Q570419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2007%E2%80%9308_Liga_II",
+          "entity_id": "Q1330707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/R%C4%83zvan_Lucescu",
+          "entity_id": "Q464684"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2008%E2%80%9309_Liga_I",
+          "entity_id": "Q1077789"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/R%C4%83zvan_Lucescu",
+          "entity_id": "Q464684"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2009%E2%80%9310_Liga_I",
+          "entity_id": "Q1083303"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nicol%C3%B2_Napoli",
+          "entity_id": "Q980301"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2009%E2%80%9310_Liga_I",
+          "entity_id": "Q1083303"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Viorel_Moldovan",
+          "entity_id": "Q342375"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2010%E2%80%9311_Liga_I",
+          "entity_id": "Q1193191"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        },
+        {
+          "start": 1,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Giuseppe_Materazzi",
+          "entity_id": "Q868864"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2010%E2%80%9311_Liga_I",
+          "entity_id": "Q1193191"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Is%C4%83il%C4%83",
+          "entity_id": "Q1161207"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2010%E2%80%9311_Liga_I",
+          "entity_id": "Q1193191"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        },
+        {
+          "start": 1,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Ant%C3%B3nio_Concei%C3%A7%C3%A3o_da_Silva_Oliveira",
+          "entity_id": "Q608444"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2011%E2%80%9312_Liga_I",
+          "entity_id": "Q960292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Is%C4%83il%C4%83",
+          "entity_id": "Q1161207"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2011%E2%80%9312_Liga_I",
+          "entity_id": "Q960292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Murcia",
+          "entity_id": "Q1758104"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2011%E2%80%9312_Liga_I",
+          "entity_id": "Q960292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Is%C4%83il%C4%83",
+          "entity_id": "Q1161207"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2011%E2%80%9312_Liga_I",
+          "entity_id": "Q960292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Marius_%C5%9Eumudic%C4%83",
+          "entity_id": "Q704906"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2011%E2%80%9312_Liga_I",
+          "entity_id": "Q960292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ionu%C5%A3_Badea",
+          "entity_id": "Q10447891"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_I",
+          "entity_id": "Q187597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ionu%C5%A3_Badea",
+          "entity_id": "Q10447891"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_I",
+          "entity_id": "Q187597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Viorel_Hizo",
+          "entity_id": "Q1241699"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_I",
+          "entity_id": "Q187597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_I",
+          "entity_id": "Q187597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sorin_C%C3%A2r%C5%A3u",
+          "entity_id": "Q369354"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2012%E2%80%9313_Liga_I",
+          "entity_id": "Q187597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_I",
+          "entity_id": "Q13423574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_I",
+          "entity_id": "Q13423574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Aurel_%C5%A2icleanu",
+          "entity_id": "Q775147"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_I",
+          "entity_id": "Q13423574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Alexandru_Pelici",
+          "entity_id": "Q18549166"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_I",
+          "entity_id": "Q13423574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ilie_Stan",
+          "entity_id": "Q984560"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_I",
+          "entity_id": "Q13423574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cornel_%C8%9A%C4%83lnar",
+          "entity_id": "Q1133257"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2014%E2%80%9315_Liga_I",
+          "entity_id": "Q17304668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cornel_%C8%9A%C4%83lnar",
+          "entity_id": "Q1133257"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2014%E2%80%9315_Liga_I",
+          "entity_id": "Q17304668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2014%E2%80%9315_Liga_I",
+          "entity_id": "Q17304668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Croatia",
+          "entity_id": "Q224"
+        },
+        {
+          "start": 1,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vjekoslav_Lokica",
+          "entity_id": "Q20641128"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2014%E2%80%9315_Liga_I",
+          "entity_id": "Q17304668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liga_I",
+          "entity_id": "Q237753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2015%E2%80%9316_Liga_II",
+          "entity_id": "Q20311458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cosmin_Bodea",
+          "entity_id": "Q5174155"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2015%E2%80%9316_Liga_II",
+          "entity_id": "Q20311458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liga_II",
+          "entity_id": "Q386384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

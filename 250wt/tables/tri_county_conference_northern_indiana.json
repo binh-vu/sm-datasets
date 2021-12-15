@@ -1,0 +1,599 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Tri-County_Conference_(Northern_Indiana)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "School",
+        "values": [
+          "Bunker Hill",
+          "Clay Township",
+          "Converse",
+          "Eastern \n(Greentown) *",
+          "Northwestern",
+          "Western",
+          "Swayzee",
+          "Sweetser",
+          "Oak Hill",
+          "Maconaquah"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Bunker Hill",
+          "Loree",
+          "Converse",
+          "Greentown",
+          "Kokomo",
+          "Russiaville",
+          "Swayzee",
+          "Sweetser",
+          "Converse",
+          "Bunker Hill"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Mascot",
+        "values": [
+          "Minutemen",
+          "Indians",
+          "Bordermen",
+          "Comets",
+          "Tigers",
+          "Panthers",
+          "Speed Kings",
+          "Braves",
+          "Golden Eagles",
+          "Braves"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Colors",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 4,
+        "name": "# / County",
+        "values": [
+          "52 \nMiami",
+          "52 \nMiami",
+          "52 \nMiami",
+          "34 \nHoward",
+          "34 \nHoward",
+          "34 \nHoward",
+          "27 \nGrant",
+          "27 \nGrant",
+          "27 \nGrant",
+          "52 \nMiami"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Year Joined",
+        "values": [
+          "1950",
+          "1950",
+          "1950",
+          "1950",
+          "1950",
+          "1950",
+          "1955",
+          "1955",
+          "1957",
+          "1963"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Previous Conference",
+        "values": [
+          "Miami County",
+          "Miami County",
+          "Miami County",
+          "new school",
+          "Howard County",
+          "Howard County",
+          "Grant County",
+          "Grant County",
+          "none (new school)",
+          "none (new school)"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Year Left",
+        "values": [
+          "1963",
+          "1963",
+          "1957",
+          "1965",
+          "1965",
+          "1958",
+          "1957",
+          "1965",
+          "1965",
+          "1965"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Conference joined",
+        "values": [
+          "none (consolidated \ninto Maconaquah )",
+          "none (consolidated \ninto Maconaquah )",
+          "none (consolidated \ninto Oak Hill )",
+          "Mid-Indiana",
+          "Mid-Indiana",
+          "Hoosier",
+          "none (consolidated \ninto Oak Hill )",
+          "none (consolidated \ninto Oak Hill )",
+          "Mid-Indiana",
+          "Mid-Indiana"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Tri-County Conference (Northern Indiana)",
+    "page_url": "https://en.wikipedia.org/wiki/Tri-County_Conference_(Northern_Indiana)",
+    "page_entity_id": "Q7839698"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maconaquah_High_School",
+          "entity_id": "Q17018077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bunker_Hill,_Indiana",
+          "entity_id": "Q3293343"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Miami_County,_Indiana",
+          "entity_id": "Q304289"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Miami_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 25,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Maconaquah_High_School",
+          "entity_id": "Q17018077"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Maconaquah_High_School",
+          "entity_id": "Q17018077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Loree,_Indiana",
+          "entity_id": "Q6680291"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Miami_County,_Indiana",
+          "entity_id": "Q304289"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Miami_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 25,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Maconaquah_High_School",
+          "entity_id": "Q17018077"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Converse,_Indiana",
+          "entity_id": "Q3293373"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Miami_County,_Indiana",
+          "entity_id": "Q304289"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Miami_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 25,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Junior-Senior_High_School",
+          "entity_id": "Q5330235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Greentown,_Indiana",
+          "entity_id": "Q2183329"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Howard_County,_Indiana",
+          "entity_id": "Q507353"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mid-Indiana_Conference",
+          "entity_id": "Q6840739"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Northwestern_High_School_(Indiana)",
+          "entity_id": "Q7060316"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kokomo,_Indiana",
+          "entity_id": "Q913209"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Howard_County,_Indiana",
+          "entity_id": "Q507353"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Howard_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mid-Indiana_Conference",
+          "entity_id": "Q6840739"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Western_High_School_(Indiana)",
+          "entity_id": "Q7987916"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Russiaville,_Indiana",
+          "entity_id": "Q1923377"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Howard_County,_Indiana",
+          "entity_id": "Q507353"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Howard_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hoosier_Athletic_Conference",
+          "entity_id": "Q5898552"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Swayzee,_Indiana",
+          "entity_id": "Q2587400"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Grant_County,_Indiana",
+          "entity_id": "Q506722"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Grant_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 25,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Sweetser,_Indiana",
+          "entity_id": "Q2648220"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Grant_County,_Indiana",
+          "entity_id": "Q506722"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indiana_County_Athletic_Conferences#Grant_County_Conference",
+          "entity_id": "Q16996867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 25,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oak_Hill_High_School_(Indiana)",
+          "entity_id": "Q7073575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Converse,_Indiana",
+          "entity_id": "Q3293373"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Grant_County,_Indiana",
+          "entity_id": "Q506722"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mid-Indiana_Conference",
+          "entity_id": "Q6840739"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Maconaquah_High_School",
+          "entity_id": "Q17018077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bunker_Hill,_Indiana",
+          "entity_id": "Q3293343"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Miami_County,_Indiana",
+          "entity_id": "Q304289"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mid-Indiana_Conference",
+          "entity_id": "Q6840739"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,725 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "The_Rolling_Stones_American_Tour_1966",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "24 June 1966",
+          "25 June 1966",
+          "25 June 1966",
+          "26 June 1966",
+          "26 June 1966",
+          "27 June 1966",
+          "28 June 1966",
+          "29 June 1966",
+          "30 June 1966",
+          "1 July 1966",
+          "2 July 1966",
+          "3 July 1966",
+          "4 July 1966",
+          "6 July 1966",
+          "8 July 1966",
+          "9 July 1966",
+          "10 July 1966",
+          "11 July 1966",
+          "12 July 1966",
+          "14 July 1966",
+          "15 July 1966",
+          "19 July 1966",
+          "20 July 1966",
+          "21 July 1966",
+          "22 July 1966 \n2 shows",
+          "23 July 1966",
+          "24 July 1966",
+          "25 July 1966",
+          "26 July 1966",
+          "28 July 1966"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Lynn",
+          "Cleveland",
+          "Pittsburgh",
+          "Washington, D.C.",
+          "Baltimore",
+          "Hartford",
+          "Buffalo",
+          "Toronto",
+          "Montreal",
+          "Atlantic City",
+          "New York City",
+          "Asbury Park",
+          "Virginia Beach",
+          "Syracuse",
+          "Detroit",
+          "Indianapolis",
+          "Chicago",
+          "Houston",
+          "St. Louis",
+          "Winnipeg",
+          "Omaha",
+          "Vancouver",
+          "Seattle",
+          "Portland",
+          "Sacramento",
+          "Salt Lake City",
+          "Bakersfield",
+          "Los Angeles",
+          "Daly City",
+          "Honolulu"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "United States",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Manning Bowl",
+          "Cleveland Arena",
+          "Civic Arena",
+          "Washington Coliseum",
+          "Baltimore Civic Center",
+          "Dillon Stadium",
+          "Buffalo Memorial Auditorium",
+          "Maple Leaf Gardens",
+          "Montreal Forum",
+          "Marine Ballroom",
+          "Forest Hills Tennis Stadiums \nMusic Festival",
+          "Asbury Park Convention Hall",
+          "Under the Dome Theater",
+          "Onondaga County War Memorial",
+          "Cobo Hall",
+          "Indiana State Fair Coliseum",
+          "Arie Crown Theater",
+          "Sam Houston Coliseum",
+          "Kiel Auditorium",
+          "Winnipeg Arena",
+          "Omaha Civic Auditorium",
+          "PNE Forum",
+          "Seattle Center Coliseum",
+          "Memorial Coliseum",
+          "Memorial Auditorium",
+          "Davis County Lagoon",
+          "Civic Auditorium",
+          "Hollywood Bowl",
+          "Cow Palace",
+          "Hawaiʻi International Center"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "The Rolling Stones American Tour 1966",
+    "page_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones_American_Tour_1966",
+    "page_entity_id": "Q11704430"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rolling_Stones_Concert_in_Lynn,_Massachusetts",
+          "entity_id": "Q24996636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Lynn,_Massachusetts",
+          "entity_id": "Q49188"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Manning_Bowl",
+          "entity_id": "Q6750857"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Arena",
+          "entity_id": "Q5132059"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh",
+          "entity_id": "Q1342"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Civic_Arena_(Pittsburgh)",
+          "entity_id": "Q1237181"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Washington_Coliseum",
+          "entity_id": "Q7971729"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baltimore",
+          "entity_id": "Q5092"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Civic_Center",
+          "entity_id": "Q2739940"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hartford,_Connecticut",
+          "entity_id": "Q33486"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Dillon_Stadium",
+          "entity_id": "Q5276946"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Buffalo,_New_York",
+          "entity_id": "Q40435"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Buffalo_Memorial_Auditorium",
+          "entity_id": "Q2927640"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Maple_Leaf_Gardens",
+          "entity_id": "Q1814534"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Forum",
+          "entity_id": "Q367272"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/West_Side_Tennis_Club",
+          "entity_id": "Q3387742"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Asbury_Park,_New_Jersey",
+          "entity_id": "Q201127"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Asbury_Park_Convention_Hall",
+          "entity_id": "Q4803747"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",
+          "entity_id": "Q49259"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Syracuse,_New_York",
+          "entity_id": "Q128069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Onondaga_County_War_Memorial",
+          "entity_id": "Q3566224"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/TCF_Center",
+          "entity_id": "Q1104711"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Fairgrounds_Coliseum",
+          "entity_id": "Q14688354"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Arie_Crown_Theater",
+          "entity_id": "Q4790333"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Sam_Houston_Coliseum",
+          "entity_id": "Q7407650"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kiel_Auditorium",
+          "entity_id": "Q3024991"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg",
+          "entity_id": "Q2135"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg_Arena",
+          "entity_id": "Q1165024"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Omaha,_Nebraska",
+          "entity_id": "Q43199"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Omaha_Civic_Auditorium",
+          "entity_id": "Q7089414"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/PNE_Forum",
+          "entity_id": "Q7914183"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Center_Coliseum",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+          "entity_id": "Q6106"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Memorial_Coliseum_(Portland)",
+          "entity_id": "Q549437"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Sacramento_Convention_Center_Complex",
+          "entity_id": "Q574140"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bakersfield,_California",
+          "entity_id": "Q49256"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bakersfield_Civic_Auditorium",
+          "entity_id": "Q7278795"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hollywood_Bowl",
+          "entity_id": "Q976218"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Daly_City,_California",
+          "entity_id": "Q370925"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cow_Palace",
+          "entity_id": "Q604015"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Honolulu",
+          "entity_id": "Q18094"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Hawai%CA%BBi_International_Center",
+          "entity_id": "Q6984182"
+        }
+      ]
+    ]
+  ]
+}

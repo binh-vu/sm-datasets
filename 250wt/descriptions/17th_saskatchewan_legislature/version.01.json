@@ -1,0 +1,143 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Member"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Party"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": ""
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Electoral district"
+      },
+      {
+        "id": "context-Q4553635",
+        "value": "http://www.wikidata.org/entity/Q4553635",
+        "readable_label": "17th Saskatchewan Legislature (Q4553635)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q192611",
+        "rel_uri": "wd:Q192611",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-4",
+        "value": "http://www.wikidata.org/entity/Q18675661",
+        "readable_label": "Member of the Legislative Assembly of Saskatchewan (Q18675661)",
+        "is_in_context": false,
+        "datatype": "entity-id"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-2",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P768",
+        "rel_uri": "p:P768",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "context-Q4553635",
+        "abs_uri": "http://www.wikidata.org/prop/P2937",
+        "rel_uri": "p:P2937",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-0",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-1",
+        "target": "d-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

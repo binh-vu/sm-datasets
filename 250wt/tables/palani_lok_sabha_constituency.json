@@ -1,0 +1,297 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Palani_(Lok_Sabha_constituency)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Lok Sabha",
+        "values": [
+          "Sixth",
+          "Seventh",
+          "Eighth",
+          "Ninth",
+          "Ninth",
+          "Tenth",
+          "Eleventh",
+          "Twelfth",
+          "Thirteenth",
+          "Fourteenth",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Duration",
+        "values": [
+          "1977-80",
+          "1980-84",
+          "1984-89",
+          "1989-91",
+          "1991-92",
+          "1992-96",
+          "1996-98",
+          "1998-99",
+          "1999-04",
+          "2004- 2009",
+          "Abolished"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name of M.P.",
+        "values": [
+          "C. Subramaniam",
+          "A. Senapathi Gounder",
+          "A. Senapathi Gounder",
+          "A. Senapathi Gounder",
+          "A. Senapathi Gounder",
+          "Palaniyappa Gounder Kumarasamy",
+          "S.K.Kharventhan",
+          "A. Ganeshamurthi",
+          "Palaniyappa Gounder Kumarasamy",
+          "S.K. Kharventhan",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Party Affiliation",
+        "values": [
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "All India Anna Dravida Munnetra Kazhagam",
+          "Tamil Maanila Congress",
+          "Marumalarchi Dravida Munnetra Kazhagam",
+          "All India Anna Dravida Munnetra Kazhagam",
+          "Indian National Congress",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Palani (Lok Sabha constituency)",
+    "page_url": "https://en.wikipedia.org/wiki/Palani_(Lok_Sabha_constituency)",
+    "page_entity_id": "Q7126703"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/C._Subramaniam",
+          "entity_id": "Q982295"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/A._Senapathi_Gounder",
+          "entity_id": "Q4648395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/A._Senapathi_Gounder",
+          "entity_id": "Q4648395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/A._Senapathi_Gounder",
+          "entity_id": "Q4648395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/A._Senapathi_Gounder",
+          "entity_id": "Q4648395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Palaniyappa_Gounder_Kumarasamy",
+          "entity_id": "Q7126715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/All_India_Anna_Dravida_Munnetra_Kazhagam",
+          "entity_id": "Q651141"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=S.K.Kharventhan&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Tamil_Maanila_Congress",
+          "entity_id": "Q3275369"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/A._Ganeshamurthi",
+          "entity_id": "Q4647813"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Marumalarchi_Dravida_Munnetra_Kazhagam",
+          "entity_id": "Q195119"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Palaniyappa_Gounder_Kumarasamy",
+          "entity_id": "Q7126715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/All_India_Anna_Dravida_Munnetra_Kazhagam",
+          "entity_id": "Q651141"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/14th_Lok_Sabha",
+          "entity_id": "Q3521611"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/S.K._Kharventhan",
+          "entity_id": "Q7387581"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

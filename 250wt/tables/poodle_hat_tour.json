@@ -1,0 +1,4128 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Poodle_Hat_Tour",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "June 19, 2003",
+          "June 20, 2003",
+          "June 21, 2003",
+          "June 22, 2003",
+          "June 26, 2003",
+          "June 27, 2003",
+          "June 28, 2003",
+          "June 29, 2003",
+          "July 1, 2003",
+          "July 3, 2003",
+          "July 4, 2003",
+          "July 5, 2003",
+          "July 10, 2003",
+          "July 11, 2003",
+          "July 12, 2003",
+          "July 13, 2003",
+          "July 15, 2003",
+          "July 16, 2003",
+          "July 18, 2003",
+          "July 19, 2003",
+          "July 20, 2003",
+          "July 22, 2003 July 23, 2003",
+          "July 25, 2003",
+          "July 26, 2003",
+          "July 27, 2003",
+          "August 2, 2003",
+          "August 3, 2003",
+          "August 4, 2003",
+          "August 5, 2003",
+          "August 6, 2003",
+          "August 8, 2003",
+          "August 9, 2003",
+          "August 10, 2003",
+          "August 12, 2003",
+          "August 13, 2003",
+          "August 15, 2003",
+          "August 16, 2003",
+          "August 17, 2003",
+          "August 22, 2003",
+          "August 23, 2003",
+          "August 24, 2003",
+          "August 26, 2003",
+          "August 27, 2003",
+          "August 29, 2003",
+          "August 30, 2003",
+          "August 31, 2003",
+          "September 4, 2003",
+          "September 5, 2003",
+          "September 6, 2003",
+          "September 7, 2003",
+          "September 9, 2003",
+          "October 3, 2003",
+          "October 5, 2003",
+          "October 7, 2003",
+          "October 9, 2003",
+          "October 10, 2003",
+          "October 11, 2003",
+          "October 12, 2003",
+          "October 14, 2003",
+          "October 15, 2003 October 16, 2003",
+          "October 18, 2003",
+          "March 24, 2004",
+          "March 25, 2004",
+          "March 26, 2004",
+          "March 27, 2004",
+          "March 28, 2004",
+          "March 30, 2004",
+          "March 31, 2004",
+          "April 1, 2004",
+          "April 2, 2004",
+          "April 3, 2004",
+          "April 7, 2004",
+          "April 8, 2004",
+          "April 9, 2004",
+          "April 10, 2004",
+          "April 12, 2004",
+          "April 13, 2004",
+          "April 14, 2004",
+          "April 15, 2004",
+          "April 17, 2004",
+          "April 18, 2004",
+          "April 22, 2004",
+          "April 23, 2004",
+          "April 24, 2004",
+          "April 25, 2004",
+          "April 26, 2004",
+          "April 28, 2004",
+          "April 29, 2004",
+          "April 30, 2004",
+          "May 1, 2004",
+          "May 2, 2004",
+          "July 7, 2004",
+          "July 8, 2004",
+          "July 9, 2004",
+          "July 10, 2004",
+          "July 11, 2004",
+          "July 13, 2004",
+          "July 14, 2004",
+          "July 15, 2004",
+          "July 16, 2004",
+          "July 17, 2004",
+          "July 20-24, 2004",
+          "July 25, 2004",
+          "July 27, 2004",
+          "July 28, 2004",
+          "July 29, 2004",
+          "July 30, 2004",
+          "July 31, 2004",
+          "August 2, 2004",
+          "August 3, 2004",
+          "August 5, 2004",
+          "August 6, 2004",
+          "August 7, 2004",
+          "August 8, 2004",
+          "August 12, 2004",
+          "August 13, 2004",
+          "August 14, 2004",
+          "August 15, 2004",
+          "August 16, 2004",
+          "August 18, 2004",
+          "August 19, 2004",
+          "August 20, 2004",
+          "August 21, 2004",
+          "August 22, 2004",
+          "August 26, 2004",
+          "August 27, 2004",
+          "August 28, 2004",
+          "August 29, 2004",
+          "August 30, 2004",
+          "September 1, 2004",
+          "September 2, 2004",
+          "September 3, 2004",
+          "September 4, 2004",
+          "September 18, 2004",
+          "September 19, 2004",
+          "September 20, 2004",
+          "September 21, 2004",
+          "September 23, 2004",
+          "September 24, 2004",
+          "September 25, 2004"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Del Mar, California",
+          "Kelseyville, California",
+          "Las Vegas",
+          "San Luis Obispo, California",
+          "Milwaukee, Wisconsin",
+          "Kalamazoo, Michigan",
+          "Toledo, Ohio",
+          "North Tonawanda, New York",
+          "Verona, New York",
+          "Portsmouth, Virginia",
+          "Myrtle Beach, South Carolina",
+          "Orlando, Florida",
+          "Wallingford, Connecticut",
+          "Poughkeepsie, New York",
+          "Allentown, Pennsylvania",
+          "Doswell, Virginia",
+          "Albany, New York",
+          "Portland, Maine",
+          "Hampton Beach, New Hampshire",
+          "Philadelphia, Pennsylvania",
+          "Holmdel, New Jersey",
+          "Westbury, New York",
+          "Pittsburgh, Pennsylvania",
+          "Chicago, Illinois",
+          "Cincinnati, Ohio",
+          "St. Louis, Missouri",
+          "Wichita, Kansas",
+          "Tulsa, Oklahoma",
+          "Kansas City, Missouri",
+          "Oklahoma City, Oklahoma",
+          "Gulfport, Mississippi",
+          "Valdosta, Georgia",
+          "Charlotte, North Carolina",
+          "Houston, Texas",
+          "Dallas, Texas",
+          "Albuquerque, New Mexico",
+          "Pueblo, Colorado",
+          "Denver, Colorado",
+          "Rochester Hills, Michigan",
+          "Rockford, Illinois",
+          "St. Paul, Minnesota",
+          "Ft. Wayne, Indiana",
+          "Sault Ste. Marie, Michigan",
+          "South Woodstock, Connecticut",
+          "Wilkes Barre, Pennsylvania",
+          "Cleveland, Ohio",
+          "Phoenix, Arizona",
+          "Los Angeles, California",
+          "Madera, California",
+          "Santa Clara, California",
+          "Puyallup, Washington",
+          "Penrith",
+          "Adelaide",
+          "Perth",
+          "Melbourne",
+          "Canberra",
+          "Sydney",
+          "Sydney",
+          "Brisbane",
+          "Tweed Heads",
+          "Newcastle",
+          "Akron, Ohio",
+          "Champaign, Illinois",
+          "Jackson, Michigan",
+          "Glen Ellyn, Illinois",
+          "Joliet, Illinois",
+          "Tiffin, Ohio",
+          "Columbus, Ohio",
+          "Indianapolis, Indiana",
+          "Iowa City, Iowa",
+          "Evansville, Indiana",
+          "Peoria, Illinois",
+          "Mt. Pleasant, Michigan",
+          "Appleton, Wisconsin",
+          "Mankato, Minnesota",
+          "Grand Forks, North Dakota",
+          "Sioux Falls, South Dakota",
+          "Topeka, Kansas",
+          "Springfield, Illinois",
+          "Ledyard, Connecticut",
+          "Erie, Pennsylvania",
+          "Atlanta, Georgia",
+          "Gulfport, Mississippi",
+          "Robinsonville, Mississippi",
+          "Baton Rouge, Louisiana",
+          "Tallahassee, Florida",
+          "Daytona Beach, Florida",
+          "Melbourne, Florida",
+          "Jacksonville, Florida",
+          "Clearwater, Florida",
+          "Pompano Beach, Florida",
+          "Easton, Pennsylvania",
+          "Westbury, New York",
+          "Washington D.C.",
+          "Verona, New York",
+          "Holmdel, New Jersey",
+          "Glenside, Pennsylvania",
+          "Hampton Beach, New Hampshire",
+          "Uncasville, Connecticut",
+          "York, Pennsylvania",
+          "Atlantic City, New Jersey",
+          "Costa Mesa, California",
+          "Sacramento, California",
+          "Portland, Oregon",
+          "Eugene, Oregon",
+          "Redding, California",
+          "Oxnard, California",
+          "Fresno, California",
+          "Paso Robles, California",
+          "Santa Rosa, California",
+          "San Diego, California",
+          "Tucson, Arizona",
+          "Mission Viejo, California",
+          "Santa Clara, California",
+          "Minneapolis, Minnesota",
+          "Kansas City, Missouri",
+          "Arnolds Park, Iowa",
+          "Lincoln, Nebraska",
+          "Rapid City, South Dakota",
+          "Milwaukee, Wisconsin",
+          "Rochester Hills, Michigan",
+          "Merrillville, Indiana",
+          "St. Louis, Missouri",
+          "Cincinnati, Ohio",
+          "El Paso, Texas",
+          "Austin, Texas",
+          "San Antonio, Texas",
+          "New Orleans, Louisiana",
+          "Ft. Worth, Texas",
+          "DuQuoin, Illinois",
+          "Nashville, Tennessee",
+          "Knoxville, Tennessee",
+          "Myrtle Beach, South Carolina",
+          "Salt Lake City, Utah",
+          "Spokane, Washington",
+          "Puyallup, Washington",
+          "Missoula, Montana",
+          "Boise, Idaho",
+          "Reno, Nevada",
+          "Yakima, Washington"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "Australia",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "San Diego County Fair",
+          "Konocti Field Amphitheatre",
+          "Aladdin Theatre",
+          "Christopher Cohan Center",
+          "Summerfest",
+          "Kalamazoo State Theatre",
+          "Toledo Zoo Amphitheatre",
+          "New Melody Fair",
+          "Turning Stone Casino",
+          "Harbor Center",
+          "House of Blues",
+          "House of Blues",
+          "Oakdale Theatre",
+          "Mid Hudson Civic Center",
+          "Allentown Fair Grounds",
+          "Paramount's King's Domain",
+          "Palace Theatre",
+          "State Theatre",
+          "Hampton Beach Casino Ballroom",
+          "Mann Music Center",
+          "PNC Bank Arts Center",
+          "Westbury Music Fair",
+          "Chevrolet Amphitheatre",
+          "Navy Pier  (2 shows)",
+          "Paramount's King's Island",
+          "The Pageant  (2 shows)",
+          "The Cotillion Ballroom",
+          "Riverpark Amphitheatre",
+          "Starlight Theatre",
+          "Bricktown Events Center",
+          "Grand Casino Gulfport",
+          "Wild Adventures Theme Park",
+          "Carowinds",
+          "Verizon Wireless Theater",
+          "Bronco Bowl",
+          "Kiva Auditorium",
+          "Colorado State Fair",
+          "Universal Lending Pavilion",
+          "Meadowbrook Music Festival",
+          "Coronado Theatre  (Pete \"Zuie\" Gallagher on drums)",
+          "Minnesota State Fair  (Pete \"Zuie\" Gallagher on drums)",
+          "Embassy Center",
+          "Kewadin Casino",
+          "Woodstock Fair (2 shows, Pete \"Zuie\" Gallagher on drums for the second show)",
+          "F.M. Kirby Center",
+          "Tower City Amphitheatre",
+          "Dodge Theatre",
+          "Greek Theatre",
+          "Madera District Fair",
+          "Paramount's Great America",
+          "Western Washington Fair",
+          "Evan Theatre",
+          "Thebarton Theatre",
+          "Concert Hall",
+          "Palais Theatre",
+          "Canberra Theatre",
+          "Whitlam Theatre",
+          "Enmore Theatre",
+          "Concert Hall",
+          "Twin Towns Service Club",
+          "Civic Theatre",
+          "Akron Civic Theatre",
+          "Virginia Theatre",
+          "George E. Potter Center",
+          "Arts Center of DuPage (2 shows)",
+          "Rialto Square Theatre",
+          "Ritz Theatre",
+          "Mershon Auditorium",
+          "Murat Theatre",
+          "Hancher Auditorium",
+          "Evansville Auditorium",
+          "Civic Theatre",
+          "Soaring Eagle Casino",
+          "Fox Cities Performing Arts Center",
+          "Civic Center",
+          "Chester Fritz Auditorium",
+          "Washington Pavilion",
+          "Topeka Performing Arts Center",
+          "Sangamon Auditorium",
+          "Foxwoods Casino",
+          "Warner Theatre",
+          "The Tabernacle",
+          "Grand Casino Gulfport",
+          "Grand Casino Tunica",
+          "The CentroPlex Theatre",
+          "Leon County Civic Center",
+          "Bethune-Cookman College",
+          "The King Center",
+          "Florida Theatre",
+          "Ruth Eckerd Hall",
+          "Pompano Beach Amphitheater",
+          "State Theatre",
+          "Westbury Music Fan",
+          "9:30 Club",
+          "Turning Stone Casino",
+          "PNC Bank Arts Center",
+          "Keswick Theatre",
+          "Hampton Beach Casino Ballroom",
+          "Mohegan Sun Casino",
+          "Strand PAC",
+          "Trump Marina",
+          "Orange County Fair",
+          "Convention Center Theatre",
+          "Keller Auditorium",
+          "McDonald Theatre",
+          "Redding Convention Center",
+          "Oxnard Performing Arts Center",
+          "Saroyan Theatre",
+          "California Mid-State Fair",
+          "Luther Burbank Center",
+          "Open Air Theater",
+          "Tucson Community Center Music Hall",
+          "Lake Mission Viejo  (open to lake association & guests only)",
+          "Paramount's Great America",
+          "State Theater",
+          "Starlight Theatre",
+          "Arnolds Park Amusement Park",
+          "Lied Center",
+          "Rushmore Plaza Civic Center",
+          "Potawatomi Casino Northern Lights Theater",
+          "Meadowbrook Amphitheatre",
+          "Star Plaza Theatre",
+          "Six Flags St. Louis",
+          "Paramount's King's Island",
+          "Abraham Chavez Theatre",
+          "Paramount Theatre",
+          "Laurie Auditorium",
+          "House of Blues",
+          "Bass Performance Hall",
+          "DuQuoin State Fair",
+          "Gaylord Entertainment Center",
+          "Knoxville Civic Auditorium",
+          "House of Blues",
+          "Utah State Fair",
+          "Big Easy Concert Hall",
+          "Western Washington Fair",
+          "Wilma Theatre",
+          "Big Easy Concert Hall",
+          "The Pioneer Center",
+          "Central Washington State Fair"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Poodle Hat Tour",
+    "page_url": "https://en.wikipedia.org/wiki/Poodle_Hat_Tour",
+    "page_entity_id": "Q65086848"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Del_Mar,_California",
+          "entity_id": "Q674469"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kelseyville,_California",
+          "entity_id": "Q1839339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Konocti_Field_Amphitheatre",
+          "entity_id": "Q6429595"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas",
+          "entity_id": "Q23768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Aladdin_Theatre_for_the_Performing_Arts",
+          "entity_id": "Q7119284"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/San_Luis_Obispo,_California",
+          "entity_id": "Q49012"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Summerfest",
+          "entity_id": "Q7637556"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo,_Michigan",
+          "entity_id": "Q167155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo_State_Theatre",
+          "entity_id": "Q42769437"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Toledo,_Ohio",
+          "entity_id": "Q49239"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Toledo_Zoo_Amphitheatre",
+          "entity_id": "Q14716828"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/North_Tonawanda,_New_York",
+          "entity_id": "Q1378018"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Verona,_New_York",
+          "entity_id": "Q3708365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Turning_Stone_Casino",
+          "entity_id": "Q7856040"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Portsmouth,_Virginia",
+          "entity_id": "Q342803"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Myrtle_Beach,_South_Carolina",
+          "entity_id": "Q839805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/House_of_Blues",
+          "entity_id": "Q648898"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Orlando,_Florida",
+          "entity_id": "Q49233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/House_of_Blues",
+          "entity_id": "Q648898"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Wallingford,_Connecticut",
+          "entity_id": "Q755745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Toyota_Oakdale_Theatre",
+          "entity_id": "Q7073814"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Poughkeepsie,_New_York",
+          "entity_id": "Q178093"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Mid-Hudson_Civic_Center",
+          "entity_id": "Q6840731"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Allentown,_Pennsylvania",
+          "entity_id": "Q142811"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Allentown_Fairgrounds",
+          "entity_id": "Q16974639"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Doswell,_Virginia",
+          "entity_id": "Q5299350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Paramount%27s_King%27s_Dominion",
+          "entity_id": "Q2720654"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Albany,_New_York",
+          "entity_id": "Q24861"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Palace_Theatre_(Albany,_New_York)",
+          "entity_id": "Q7126201"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Maine",
+          "entity_id": "Q49201"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/State_Theatre_(Portland,_Maine)",
+          "entity_id": "Q14715352"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Hampton_Beach,_New_Hampshire",
+          "entity_id": "Q3472167"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Hampton_Beach_Casino_Ballroom",
+          "entity_id": "Q5646161"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mann_Music_Center",
+          "entity_id": "Q6750669"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Holmdel,_New_Jersey",
+          "entity_id": "Q1474335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/PNC_Bank_Arts_Center",
+          "entity_id": "Q7119814"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Westbury,_New_York",
+          "entity_id": "Q282747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh",
+          "entity_id": "Q1342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Trib_Total_Media_Amphitheatre",
+          "entity_id": "Q16901975"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Navy_Pier",
+          "entity_id": "Q3337338"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Kings_Island",
+          "entity_id": "Q953752"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Pageant",
+          "entity_id": "Q7755889"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Wichita,_Kansas",
+          "entity_id": "Q49266"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Cotillion_Ballroom",
+          "entity_id": "Q5175376"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",
+          "entity_id": "Q44989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Starlight_Theatre_(Kansas_City,_Missouri)",
+          "entity_id": "Q14704492"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City",
+          "entity_id": "Q34863"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bricktown_Events_Center",
+          "entity_id": "Q4966039"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Gulfport,_Mississippi",
+          "entity_id": "Q490587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Grand_Casino_Gulfport",
+          "entity_id": "Q5594385"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Valdosta,_Georgia",
+          "entity_id": "Q1010240"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Carowinds",
+          "entity_id": "Q2940113"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Revention_Music_Center",
+          "entity_id": "Q4874731"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",
+          "entity_id": "Q34804"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Albuquerque_Convention_Center",
+          "entity_id": "Q15179096"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pueblo,_Colorado",
+          "entity_id": "Q675576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Colorado_State_Fair",
+          "entity_id": "Q5148941"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Rochester_Hills,_Michigan",
+          "entity_id": "Q993444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Meadow_Brook_Music_Festival",
+          "entity_id": "Q17511567"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockford,_Illinois",
+          "entity_id": "Q233892"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Coronado_Theatre",
+          "entity_id": "Q5172165"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+          "entity_id": "Q28848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_State_Fair",
+          "entity_id": "Q1937367"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fort_Wayne,_Indiana",
+          "entity_id": "Q49268"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Sault_Ste._Marie,_Michigan",
+          "entity_id": "Q986634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kewadin_Casinos",
+          "entity_id": "Q23303865"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/South_Woodstock,_Connecticut",
+          "entity_id": "Q754854"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Wilkes-Barre,_Pennsylvania",
+          "entity_id": "Q745594"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/F.M._Kirby_Center",
+          "entity_id": "Q5151534"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Tower_City_Amphitheatre",
+          "entity_id": "Q7805194"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Phoenix,_Arizona",
+          "entity_id": "Q16556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dodge_Theatre",
+          "entity_id": "Q5151539"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Greek_Theatre_(Los_Angeles)",
+          "entity_id": "Q5601897"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Madera,_California",
+          "entity_id": "Q851000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Santa_Clara,_California",
+          "entity_id": "Q159260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Paramount%27s_Great_America",
+          "entity_id": "Q987756"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Puyallup,_Washington",
+          "entity_id": "Q179336"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Western_Washington_Fair",
+          "entity_id": "Q7262636"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Penrith,_New_South_Wales",
+          "entity_id": "Q385155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Adelaide",
+          "entity_id": "Q5112"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Thebarton_Theatre",
+          "entity_id": "Q7777604"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth",
+          "entity_id": "Q3183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)",
+          "entity_id": "Q7170839"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne",
+          "entity_id": "Q3141"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Palais_Theatre",
+          "entity_id": "Q7126602"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Canberra",
+          "entity_id": "Q3114"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Canberra_Theatre",
+          "entity_id": "Q2878077"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney",
+          "entity_id": "Q3130"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney",
+          "entity_id": "Q3130"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Enmore_Theatre",
+          "entity_id": "Q5379114"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Brisbane",
+          "entity_id": "Q34932"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Perth_Concert_Hall_(Western_Australia)",
+          "entity_id": "Q7170839"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tweed_Heads,_New_South_Wales",
+          "entity_id": "Q606344"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Newcastle,_New_South_Wales",
+          "entity_id": "Q57278"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Akron,_Ohio",
+          "entity_id": "Q163132"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Akron_Civic_Theatre",
+          "entity_id": "Q4701674"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Champaign,_Illinois",
+          "entity_id": "Q577964"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Theatre_(Champaign)",
+          "entity_id": "Q7934627"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jackson,_Michigan",
+          "entity_id": "Q984374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Glen_Ellyn,_Illinois",
+          "entity_id": "Q1530761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Joliet,_Illinois",
+          "entity_id": "Q40345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Rialto_Square_Theatre",
+          "entity_id": "Q7322142"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tiffin,_Ohio",
+          "entity_id": "Q990934"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Old_National_Centre",
+          "entity_id": "Q14688664"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Iowa_City,_Iowa",
+          "entity_id": "Q487977"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hancher_Auditorium",
+          "entity_id": "Q182973"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Evansville,_Indiana",
+          "entity_id": "Q486459"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Peoria,_Illinois",
+          "entity_id": "Q233129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Civic_Theatre_(Peoria,_Illinois)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Mount_Pleasant,_Michigan",
+          "entity_id": "Q998748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Soaring_Eagle_Casino_%26_Resort",
+          "entity_id": "Q7549862"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Appleton,_Wisconsin",
+          "entity_id": "Q94928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Fox_Cities_Performing_Arts_Center",
+          "entity_id": "Q5476645"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mankato,_Minnesota",
+          "entity_id": "Q913243"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Grand_Forks,_North_Dakota",
+          "entity_id": "Q34144"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Chester_Fritz_Auditorium",
+          "entity_id": "Q5093558"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota",
+          "entity_id": "Q131335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Washington_Pavilion_of_Arts_and_Science",
+          "entity_id": "Q7972124"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Topeka,_Kansas",
+          "entity_id": "Q41057"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Springfield,_Illinois",
+          "entity_id": "Q28515"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Sangamon_Auditorium",
+          "entity_id": "Q24435772"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Ledyard,_Connecticut",
+          "entity_id": "Q126051"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Foxwoods_Resort_Casino",
+          "entity_id": "Q8565258"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Erie,_Pennsylvania",
+          "entity_id": "Q234061"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Warner_Theatre_(Erie,_Pennsylvania)",
+          "entity_id": "Q7969766"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tabernacle_(concert_hall)",
+          "entity_id": "Q10381839"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Gulfport,_Mississippi",
+          "entity_id": "Q490587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Grand_Casino_Gulfport",
+          "entity_id": "Q5594385"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Robinsonville,_Mississippi",
+          "entity_id": "Q3472009"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Grand_Casino_Tunica",
+          "entity_id": "Q14693201"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana",
+          "entity_id": "Q28218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Tallahassee,_Florida",
+          "entity_id": "Q37043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Leon_County_Civic_Center",
+          "entity_id": "Q1240053"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Daytona_Beach,_Florida",
+          "entity_id": "Q490595"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bethune-Cookman_College",
+          "entity_id": "Q3298457"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Melbourne,_Florida",
+          "entity_id": "Q949779"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/King_Center_for_the_Performing_Arts",
+          "entity_id": "Q6796083"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Jacksonville,_Florida",
+          "entity_id": "Q16568"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Florida_Theatre",
+          "entity_id": "Q574145"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Clearwater,_Florida",
+          "entity_id": "Q244146"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ruth_Eckerd_Hall",
+          "entity_id": "Q7382961"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Pompano_Beach,_Florida",
+          "entity_id": "Q671458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Easton,_Pennsylvania",
+          "entity_id": "Q1056542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/State_Theatre_(Easton,_Pennsylvania)",
+          "entity_id": "Q7603570"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Westbury,_New_York",
+          "entity_id": "Q282747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/9:30_Club",
+          "entity_id": "Q4646354"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Verona,_New_York",
+          "entity_id": "Q3708365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Turning_Stone_Casino",
+          "entity_id": "Q7856040"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Holmdel,_New_Jersey",
+          "entity_id": "Q1474335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/PNC_Bank_Arts_Center",
+          "entity_id": "Q7119814"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Glenside,_Pennsylvania",
+          "entity_id": "Q745037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Keswick_Theatre",
+          "entity_id": "Q15235806"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Hampton_Beach,_New_Hampshire",
+          "entity_id": "Q3472167"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Hampton_Beach_Casino_Ballroom",
+          "entity_id": "Q5646161"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Uncasville,_Connecticut",
+          "entity_id": "Q7882479"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mohegan_Sun",
+          "entity_id": "Q4305041"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/York,_Pennsylvania",
+          "entity_id": "Q821105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Trump_Marina",
+          "entity_id": "Q3541143"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Costa_Mesa,_California",
+          "entity_id": "Q499196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Orange_County_Fair_(California)",
+          "entity_id": "Q7099561"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Sacramento_Convention_Center_Complex",
+          "entity_id": "Q574140"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+          "entity_id": "Q6106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Keller_Auditorium",
+          "entity_id": "Q6385671"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eugene,_Oregon",
+          "entity_id": "Q171224"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/McDonald_Theatre",
+          "entity_id": "Q6800931"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Redding,_California",
+          "entity_id": "Q495361"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Oxnard,_California",
+          "entity_id": "Q209338"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fresno,_California",
+          "entity_id": "Q43301"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Saroyan_Theatre",
+          "entity_id": "Q5503172"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Paso_Robles,_California",
+          "entity_id": "Q586528"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Santa_Rosa,_California",
+          "entity_id": "Q212991"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Luther_Burbank_Center_for_the_Arts",
+          "entity_id": "Q7981658"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/San_Diego",
+          "entity_id": "Q16552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Open_Air_Theatre_(San_Diego)",
+          "entity_id": "Q913861"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tucson,_Arizona",
+          "entity_id": "Q18575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Mission_Viejo,_California",
+          "entity_id": "Q506428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Lake_Mission_Viejo",
+          "entity_id": "Q6476939"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Santa_Clara,_California",
+          "entity_id": "Q159260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Paramount%27s_Great_America",
+          "entity_id": "Q987756"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/State_Theatre_(Minneapolis)",
+          "entity_id": "Q7603574"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Starlight_Theatre_(Kansas_City,_Missouri)",
+          "entity_id": "Q14704492"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Arnolds_Park,_Iowa",
+          "entity_id": "Q766339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lincoln,_Nebraska",
+          "entity_id": "Q28260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lied_Center_for_Performing_Arts",
+          "entity_id": "Q6544070"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Rapid_City,_South_Dakota",
+          "entity_id": "Q213325"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Rushmore_Plaza_Civic_Center",
+          "entity_id": "Q7380865"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Potawatomi_Casino",
+          "entity_id": "Q7234767"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Rochester_Hills,_Michigan",
+          "entity_id": "Q993444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Merrillville,_Indiana",
+          "entity_id": "Q549140"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Star_Plaza_Theatre",
+          "entity_id": "Q7600828"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Six_Flags_St._Louis",
+          "entity_id": "Q261618"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Kings_Island",
+          "entity_id": "Q953752"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/El_Paso,_Texas",
+          "entity_id": "Q16562"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Abraham_Chavez_Theatre",
+          "entity_id": "Q574313"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Austin,_Texas",
+          "entity_id": "Q16559"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paramount_Theatre_(Austin,_Texas)",
+          "entity_id": "Q7756086"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/San_Antonio",
+          "entity_id": "Q975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Laurie_Auditorium",
+          "entity_id": "Q1311379"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/House_of_Blues",
+          "entity_id": "Q648898"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Fort_Worth,_Texas",
+          "entity_id": "Q16558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bass_Performance_Hall",
+          "entity_id": "Q2887300"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/DuQuoin,_Illinois",
+          "entity_id": "Q575420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/DuQuoin_State_Fair",
+          "entity_id": "Q21003214"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "entity_id": "Q23197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Gaylord_Entertainment_Center",
+          "entity_id": "Q302869"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Knoxville,_Tennessee",
+          "entity_id": "Q185582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Knoxville_Civic_Auditorium",
+          "entity_id": "Q6423658"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Myrtle_Beach,_South_Carolina",
+          "entity_id": "Q839805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/House_of_Blues",
+          "entity_id": "Q648898"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Utah_State_Fair",
+          "entity_id": "Q7902413"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Spokane,_Washington",
+          "entity_id": "Q187805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Puyallup,_Washington",
+          "entity_id": "Q179336"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Western_Washington_Fair",
+          "entity_id": "Q7262636"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Missoula,_Montana",
+          "entity_id": "Q189602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wilma_Theatre_(Missoula,_Montana)",
+          "entity_id": "Q14704793"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Boise,_Idaho",
+          "entity_id": "Q35775"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reno,_Nevada",
+          "entity_id": "Q49225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Yakima,_Washington",
+          "entity_id": "Q499203"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Central_Washington_State_Fair",
+          "entity_id": "Q16890145"
+        }
+      ]
+    ]
+  ]
+}

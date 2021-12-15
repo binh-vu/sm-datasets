@@ -1,0 +1,106 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q11424",
+        "rel_uri": "wd:Q11424",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Film"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Director"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      },
+      {
+        "id": "context-Q5594911",
+        "value": "http://www.wikidata.org/entity/Q5594911",
+        "readable_label": "Grand Prix (Q5594911)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P57",
+        "rel_uri": "p:P57",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P166",
+        "rel_uri": "p:P166",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "context-Q5594911",
+        "abs_uri": "http://www.wikidata.org/prop/P166",
+        "rel_uri": "p:P166",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "d-0",
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "rel_uri": "p:P585",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]

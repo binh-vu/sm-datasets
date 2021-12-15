@@ -1,0 +1,431 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016–17_Hoofdklasse",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Club",
+        "values": [
+          "Achilles Veen",
+          "Ajax (amateurs)",
+          "Argon",
+          "Breukelen",
+          "DFS",
+          "Haaglandia",
+          "Hoek",
+          "Jodan Boys",
+          "Noordwijk",
+          "RVVH",
+          "Sliedrecht",
+          "Smitshoek",
+          "Spijkenisse",
+          "Swift",
+          "Ter Leede",
+          "Zwaluwen"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home City",
+        "values": [
+          "Veen",
+          "Amsterdam",
+          "Mijdrecht",
+          "Breukelen",
+          "Opheusden",
+          "Rijswijk",
+          "Hoek",
+          "Gouda",
+          "Noordwijk",
+          "Ridderkerk",
+          "Sliedrecht",
+          "Barendrecht",
+          "Spijkenisse",
+          "Amsterdam",
+          "Sassenheim",
+          "Vlaardingen"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Venue",
+        "values": [
+          "Sportpark De Hanen Weide",
+          "Sportpark De Toekomst",
+          "Gemeentelijk Sportpark Hoofdweg",
+          "Sportpark Broekdijk-Oost",
+          "Sportpark 't Heerenland",
+          "Sportpark Prinses Irene",
+          "Sportpark Denoek",
+          "Sportpark de Oosterwei",
+          "Sportpark Duin Wetering",
+          "Sportpark Ridderkerk",
+          "Sportpark De Lockhorst",
+          "Sportpark Smitshoek",
+          "Sportpark Jaap Riedijk",
+          "Sportpark Olympiaplein",
+          "Gemeentelijk Sportpark De Roodemolen",
+          "Sportpark Zwaluwen"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "",
+          "5,000",
+          "3,500",
+          "",
+          "",
+          "3,000",
+          "3,500",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016–17 Hoofdklasse",
+    "page_url": "https://en.wikipedia.org/wiki/2016–17_Hoofdklasse",
+    "page_entity_id": "Q26722530"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Achilles_Veen",
+          "entity_id": "Q2681185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Veen_(Netherlands)",
+          "entity_id": "Q3128465"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/AFC_Ajax_(amateurs)",
+          "entity_id": "Q2402815"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Amsterdam",
+          "entity_id": "Q727"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Sportpark_De_Toekomst",
+          "entity_id": "Q2200744"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/SV_Argon",
+          "entity_id": "Q1770370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mijdrecht",
+          "entity_id": "Q666498"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/FC_Breukelen",
+          "entity_id": "Q2462816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Breukelen",
+          "entity_id": "Q615732"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/SV_DFS",
+          "entity_id": "Q2672610"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Opheusden",
+          "entity_id": "Q3183256"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Haaglandia",
+          "entity_id": "Q1769381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rijswijk",
+          "entity_id": "Q506745"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/HSV_Hoek",
+          "entity_id": "Q1770651"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Hoek,_Zeeland",
+          "entity_id": "Q2873143"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/CVV_de_Jodan_Boys",
+          "entity_id": "Q5014802"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Gouda,_South_Holland",
+          "entity_id": "Q84125"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/VV_Noordwijk",
+          "entity_id": "Q7907662"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Noordwijk",
+          "entity_id": "Q455464"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/RVVH",
+          "entity_id": "Q7278026"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ridderkerk",
+          "entity_id": "Q222220"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/VV_Sliedrecht",
+          "entity_id": "Q2450811"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sliedrecht",
+          "entity_id": "Q750760"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/VV_Smitshoek",
+          "entity_id": "Q2755128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Barendrecht",
+          "entity_id": "Q204239"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/VV_Spijkenisse",
+          "entity_id": "Q3504592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Spijkenisse",
+          "entity_id": "Q488545"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/AVV_Swift",
+          "entity_id": "Q2621671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Amsterdam",
+          "entity_id": "Q727"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ter_Leede",
+          "entity_id": "Q3501788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sassenheim",
+          "entity_id": "Q1615386"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/VV_Zwaluwen",
+          "entity_id": "Q13430429"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Vlaardingen",
+          "entity_id": "Q210007"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q27676524:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q27676524",
+        "rel_uri": "wd:Q27676524",
+        "approximation": false,
+        "readable_label": "parish municipality (Q27676524)"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q204613:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q204613",
+        "rel_uri": "wd:Q204613",
+        "approximation": false,
+        "readable_label": "regional county municipality (Q204613)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-4",
+        "col_index": 4,
+        "label": "col4"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q27676524:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q27676524:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P47",
+        "rel_uri": "p:P47",
+        "approximation": false,
+        "readable_label": "shares border with (P47)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q27676524:0",
+        "target": "http://www.wikidata.org/entity/Q204613:0",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": "located in the administrative territorial entity (P131)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q27676524:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P1082",
+        "rel_uri": "p:P1082",
+        "approximation": false,
+        "readable_label": "population (P1082)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q27676524:0",
+        "target": "col-4",
+        "abs_uri": "http://www.wikidata.org/prop/P571",
+        "rel_uri": "p:P571",
+        "approximation": false,
+        "readable_label": "inception (P571)",
+        "id": 5
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q204613:0",
+        "target": "col-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]

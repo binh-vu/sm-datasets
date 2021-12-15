@@ -1,0 +1,164 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q3331189",
+        "rel_uri": "wd:Q3331189",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Original title"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Original author"
+      },
+      {
+        "id": "c-0",
+        "col_index": 0,
+        "label": "Latin title"
+      },
+      {
+        "id": "c-5",
+        "col_index": 5,
+        "label": "Date"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Translator"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Publisher"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q7725634",
+        "rel_uri": "wd:Q7725634",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q2085381",
+        "rel_uri": "wd:Q2085381",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-6",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P577",
+        "rel_uri": "p:P577",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P123",
+        "rel_uri": "p:P123",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-6",
+        "abs_uri": "http://www.wikidata.org/prop/P655",
+        "rel_uri": "p:P655",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-3",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P747",
+        "rel_uri": "p:P747",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-3",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P50",
+        "rel_uri": "p:P50",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-4",
+        "target": "d-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-6",
+        "target": "d-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      }
+    ]
+  }
+]

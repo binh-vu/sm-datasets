@@ -1,0 +1,2985 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "27th_Quebec_Legislature",
+    "columns": [
+      {
+        "index": 0,
+        "name": "",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Lucien Cliche",
+          "Alcide Courcy",
+          "William McOuat Cottingham",
+          "Albert Morissette",
+          "Daniel Johnson",
+          "Paul-Émile Allard",
+          "Gérard Cadieux",
+          "Gabriel Loubier",
+          "Lucien McGuire",
+          "Gérard D. Levesque",
+          "Jean Meunier",
+          "Glendon Brown",
+          "Pierre Laporte",
+          "Maurice Bellemare",
+          "Raymond Mailloux",
+          "George Kennedy",
+          "Antonio Talbot",
+          "Claude-Gilles Gosselin",
+          "Gaston Binette",
+          "Joseph-Armand Nadeau",
+          "Bernard Pinard",
+          "Henri-Laurier Coiteux",
+          "Éloi Guillemette",
+          "François Gagnon",
+          "Guy Fortier",
+          "Roy Fournier",
+          "Oswald Parent",
+          "Henry Somerville",
+          "Laurent Hamel",
+          "Louis-Philippe Lacroix",
+          "Marie-Claire Kirkland",
+          "Maurice Majeau",
+          "Gérald Harvey",
+          "Gérard Dallaire",
+          "Fernand Lafontaine",
+          "Lucien Collard",
+          "Frédéric Coiteux",
+          "Jean-Noël Lavoie",
+          "Charles Romulus Ducharme",
+          "Roger Roy",
+          "Fernand Lizotte",
+          "René Bernatchez",
+          "Marcel Dupré",
+          "Germain Caron",
+          "Philippe Castonguay",
+          "Bona Arsenault",
+          "Pierre J. Maheux",
+          "Jean-Jacques Bertrand",
+          "Gérard Martin",
+          "Jean-Paul Cloutier",
+          "Albert Gervais",
+          "Aimé Brisson",
+          "René Lévesque",
+          "Jean-Baptiste Crépeau",
+          "Paul Earl",
+          "Georges-Émile Lapalme",
+          "Francis Hanley",
+          "Edgar Charbonneau",
+          "Philippe Lalonde",
+          "Paul Dozois",
+          "Harry Blank",
+          "George O'Reilly",
+          "Laurier Baillargeon",
+          "Germain Hébert",
+          "Roméo Lorrain",
+          "Raymond Thomas Johnston",
+          "Marcellin Laroche",
+          "Henri Beaupré",
+          "Jean-Jacques Bédard",
+          "Ernest Godbout",
+          "Jean Lesage",
+          "Gérard Cournoyer",
+          "Émilien Lafrance",
+          "Albert Dionne",
+          "Alphonse Couturier",
+          "Joseph-Georges Gauthier",
+          "François Boulais",
+          "Edgar Turpin",
+          "Rodrigue Thibault",
+          "René Saint-Pierre",
+          "Philodor Ouimet",
+          "René Hamel",
+          "Francis Boudreau",
+          "Armand Russell",
+          "Carrier Fortin",
+          "Georges Vaillancourt",
+          "Gilbert-Roland Théberge",
+          "Antoine Raymond",
+          "Lionel Bertrand",
+          "Yves Gabias",
+          "Paul Gérin-Lajoie",
+          "Guy Lechasseur",
+          "John Richard Hyde",
+          "René Lavoie",
+          "Antonio Élie"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Party",
+        "values": [
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Independent",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Liberal",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Union Nationale",
+          "Libéral",
+          "Libéral",
+          "Libéral",
+          "Union Nationale",
+          "Union Nationale"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Riding",
+        "values": [
+          "Abitibi-Est",
+          "Abitibi-Ouest",
+          "Argenteuil",
+          "Arthabaska",
+          "Bagot",
+          "Beauce",
+          "Beauharnois",
+          "Bellechasse",
+          "Berthier",
+          "Bonaventure",
+          "Bourget",
+          "Brome",
+          "Chambly",
+          "Champlain",
+          "Charlevoix",
+          "Châteauguay",
+          "Chicoutimi",
+          "Compton",
+          "Deux-Montagnes",
+          "Dorchester",
+          "Drummond",
+          "Duplessis",
+          "Frontenac",
+          "Gaspé-Nord",
+          "Gaspé-Sud",
+          "Gatineau",
+          "Hull",
+          "Huntingdon",
+          "Iberville",
+          "Îles-de-la-Madeleine",
+          "Jacques-Cartier",
+          "Joliette",
+          "Jonquière-Kénogami",
+          "Kamouraska",
+          "Labelle",
+          "Lac-Saint-Jean",
+          "L'Assomption",
+          "Laval",
+          "Laviolette",
+          "Lévis",
+          "L'Islet",
+          "Lotbinière",
+          "Maisonneuve",
+          "Maskinongé",
+          "Matane",
+          "Matapédia",
+          "Mégantic",
+          "Missisquoi",
+          "Montcalm",
+          "Montmagny",
+          "Montmorency",
+          "Montréal–Jeanne-Mance",
+          "Montréal-Laurier",
+          "Montréal-Mercier",
+          "Montréal–Notre-Dame-de-Grâce",
+          "Montréal-Outremont",
+          "Montréal–Sainte-Anne",
+          "Montréal–Sainte-Marie",
+          "Montréal–Saint-Henri",
+          "Montréal–Saint-Jacques",
+          "Montréal–Saint-Louis",
+          "Montréal-Verdun",
+          "Napierville-Laprairie",
+          "Nicolet",
+          "Papineau",
+          "Pontiac",
+          "Portneuf",
+          "Québec-Centre",
+          "Québec-Comté",
+          "Québec-Est",
+          "Québec-Ouest",
+          "Richelieu",
+          "Richmond",
+          "Rimouski",
+          "Rivière-du-Loup",
+          "Roberval",
+          "Rouville",
+          "Rouyn-Noranda",
+          "Saguenay",
+          "Saint-Hyacinthe",
+          "Saint-Jean",
+          "Saint-Maurice",
+          "Saint-Sauveur",
+          "Shefford",
+          "Sherbrooke",
+          "Stanstead",
+          "Témiscamingue",
+          "Témiscouata",
+          "Terrebonne",
+          "Trois-Rivières",
+          "Vaudreuil-Soulanges",
+          "Verchères",
+          "Westmount–Saint-Georges",
+          "Wolfe",
+          "Yamaska"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "27th Quebec Legislature",
+    "page_url": "https://en.wikipedia.org/wiki/27th_Quebec_Legislature",
+    "page_entity_id": "Q4632626"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lucien_Cliche",
+          "entity_id": "Q3265431"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Abitibi-Est_(Quebec_provincial_electoral_district)",
+          "entity_id": "Q2821645"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Alcide_Courcy",
+          "entity_id": "Q2832157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Abitibi-Ouest_(electoral_district)",
+          "entity_id": "Q2821647"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/William_McOuat_Cottingham",
+          "entity_id": "Q3568823"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argenteuil_(provincial_electoral_district)",
+          "entity_id": "Q2860941"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Albert_Morissette&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Arthabaska_(electoral_district)",
+          "entity_id": "Q2864904"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Johnson,_Sr.",
+          "entity_id": "Q3014239"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Bagot_(provincial_electoral_district)",
+          "entity_id": "Q2879160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paul-%C3%89mile_Allard",
+          "entity_id": "Q7148930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Beauce_(provincial_electoral_district)",
+          "entity_id": "Q2893127"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=G%C3%A9rard_Cadieux&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Beauharnois_(provincial_electoral_district)",
+          "entity_id": "Q2893182"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gabriel_Loubier",
+          "entity_id": "Q3093844"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bellechasse_(provincial_electoral_district)",
+          "entity_id": "Q2894824"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lucien_McGuire&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Berthier_(provincial_electoral_district)",
+          "entity_id": "Q2377768"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/G%C3%A9rard_D._Levesque",
+          "entity_id": "Q3123877"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bonaventure_(provincial_electoral_district)",
+          "entity_id": "Q2909922"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jean_Meunier&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bourget_(electoral_district)",
+          "entity_id": "Q2922329"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Glendon_Brown&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Brome_(provincial_electoral_district)",
+          "entity_id": "Q2926004"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Pierre_Laporte",
+          "entity_id": "Q1382471"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chambly_(provincial_electoral_district)",
+          "entity_id": "Q2948099"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Maurice_Bellemare",
+          "entity_id": "Q3300392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Champlain_(provincial_electoral_district)",
+          "entity_id": "Q2955903"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Raymond_Mailloux",
+          "entity_id": "Q7298988"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Charlevoix_(provincial_electoral_district)",
+          "entity_id": "Q2960788"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=George_Kennedy_(politician)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ch%C3%A2teauguay_(provincial_electoral_district)",
+          "entity_id": "Q2971888"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Antonio_Talbot",
+          "entity_id": "Q2857464"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chicoutimi_(provincial_electoral_district)",
+          "entity_id": "Q2963419"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Claude-Gilles_Gosselin",
+          "entity_id": "Q284111"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Compton_(provincial_electoral_district)",
+          "entity_id": "Q2990881"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gaston_Binette&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Deux-Montagnes_(provincial_electoral_district)",
+          "entity_id": "Q3024863"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Joseph-Armand_Nadeau&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dorchester_(provincial_electoral_district)",
+          "entity_id": "Q3036982"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Bernard_Pinard&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Drummond_(provincial_electoral_district)",
+          "entity_id": "Q3040121"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Henri-Laurier_Coiteux&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Duplessis_(electoral_district)",
+          "entity_id": "Q3041436"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/%C3%89loi_Guillemette",
+          "entity_id": "Q16010932"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frontenac_(1912%E2%80%931973_electoral_district)",
+          "entity_id": "Q5505928"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Fran%C3%A7ois_Gagnon",
+          "entity_id": "Q5493271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gasp%C3%A9-Nord",
+          "entity_id": "Q3098854"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Guy_Fortier&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gasp%C3%A9-Sud",
+          "entity_id": "Q3098853"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Roy_Fournier",
+          "entity_id": "Q7372812"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gatineau_(provincial_electoral_district)",
+          "entity_id": "Q3099274"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oswald_Parent",
+          "entity_id": "Q7108151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Hull_(provincial_electoral_district)",
+          "entity_id": "Q3143016"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Henry_Somerville&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Huntingdon_(provincial_electoral_district)",
+          "entity_id": "Q2382048"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Laurent_Hamel&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Iberville_(Quebec_provincial_electoral_district)",
+          "entity_id": "Q600540"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Louis-Philippe_Lacroix&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/%C3%8Eles-de-la-Madeleine_(provincial_electoral_district)",
+          "entity_id": "Q3593522"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Marie-Claire_Kirkland",
+          "entity_id": "Q3291691"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jacques-Cartier",
+          "entity_id": "Q3157893"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Maurice_Majeau&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Joliette_(provincial_electoral_district)",
+          "entity_id": "Q3183136"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=G%C3%A9rald_Harvey&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Jonqui%C3%A8re-K%C3%A9nogami",
+          "entity_id": "Q3183622"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=G%C3%A9rard_Dallaire&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kamouraska_(provincial_electoral_district)",
+          "entity_id": "Q3192484"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fernand_Lafontaine",
+          "entity_id": "Q5444522"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Labelle_(provincial_electoral_district)",
+          "entity_id": "Q3214319"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lucien_Collard&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lac-Saint-Jean_(provincial_electoral_district)",
+          "entity_id": "Q3214651"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Fr%C3%A9d%C3%A9ric_Coiteux&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/L%27Assomption_(provincial_electoral_district)",
+          "entity_id": "Q3202478"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jean-No%C3%ABl_Lavoie",
+          "entity_id": "Q3168256"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Quebec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Laval_(provincial_electoral_district)",
+          "entity_id": "Q2381384"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Romulus_Ducharme",
+          "entity_id": "Q2960150"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Laviolette_(electoral_district)",
+          "entity_id": "Q3219830"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Roger_Roy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/L%C3%A9vis_(provincial_electoral_district)",
+          "entity_id": "Q286850"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Fernand_Lizotte",
+          "entity_id": "Q5444523"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/L%27Islet_(provincial_electoral_district)",
+          "entity_id": "Q3204359"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ren%C3%A9_Bernatchez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lotbini%C3%A8re_(provincial_electoral_district)",
+          "entity_id": "Q3259969"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marcel_Dupr%C3%A9_(politician)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maisonneuve_(provincial_electoral_district)",
+          "entity_id": "Q3280326"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Germain_Caron",
+          "entity_id": "Q930629"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Maskinong%C3%A9_(provincial_electoral_district)",
+          "entity_id": "Q3297286"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Philippe_Castonguay&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Matane_(provincial_electoral_district)",
+          "entity_id": "Q3298210"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bona_Arsenault",
+          "entity_id": "Q2909869"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Matap%C3%A9dia_(electoral_district)",
+          "entity_id": "Q3298225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Pierre_J._Maheux&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A9gantic_(provincial_electoral_district)",
+          "entity_id": "Q3332790"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Jean-Jacques_Bertrand",
+          "entity_id": "Q3166184"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Missisquoi_(provincial_electoral_district)",
+          "entity_id": "Q3316904"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=G%C3%A9rard_Martin&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montcalm_(provincial_electoral_district)",
+          "entity_id": "Q427489"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Jean-Paul_Cloutier",
+          "entity_id": "Q6169760"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Montmagny_(provincial_electoral_district)",
+          "entity_id": "Q3322826"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Albert_Gervais",
+          "entity_id": "Q4710300"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Montmorency_(provincial_electoral_district)",
+          "entity_id": "Q3095559"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Aim%C3%A9_Brisson&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Jeanne-Mance",
+          "entity_id": "Q3323018"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_L%C3%A9vesque",
+          "entity_id": "Q381007"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al-Laurier",
+          "entity_id": "Q3322981"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jean-Baptiste_Cr%C3%A9peau&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al-Mercier",
+          "entity_id": "Q3322986"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Paul_Earl&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Notre-Dame-de-Gr%C3%A2ce",
+          "entity_id": "Q2394809"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Georges-%C3%89mile_Lapalme",
+          "entity_id": "Q3102149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al-Outremont",
+          "entity_id": "Q6906524"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Francis_Hanley",
+          "entity_id": "Q3082641"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Independent_(politician)",
+          "entity_id": "Q327591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Sainte-Anne",
+          "entity_id": "Q389907"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Edgar_Charbonneau&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Sainte-Marie",
+          "entity_id": "Q3323016"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Philippe_Lalonde&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Saint-Henri",
+          "entity_id": "Q3323010"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paul_Dozois",
+          "entity_id": "Q3371102"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Saint-Jacques",
+          "entity_id": "Q6906542"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Harry_Blank",
+          "entity_id": "Q5667390"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Saint-Louis",
+          "entity_id": "Q3323014"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/George_O%27Reilly",
+          "entity_id": "Q5542976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Montr%C3%A9al-Verdun",
+          "entity_id": "Q6906525"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Laurier_Baillargeon&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Napierville-Laprairie",
+          "entity_id": "Q657622"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Germain_H%C3%A9bert&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nicolet_(provincial_electoral_district)",
+          "entity_id": "Q3341150"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rom%C3%A9o_Lorrain",
+          "entity_id": "Q3441334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Papineau_(provincial_electoral_district)",
+          "entity_id": "Q3362911"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Raymond_Thomas_Johnston",
+          "entity_id": "Q50139549"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pontiac_(provincial_electoral_district)",
+          "entity_id": "Q3397735"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marcellin_Laroche&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Portneuf_(provincial_electoral_district)",
+          "entity_id": "Q3399332"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Henri_Beaupr%C3%A9&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Qu%C3%A9bec-Centre_(provincial_electoral_district)",
+          "entity_id": "Q3414805"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jean-Jacques_B%C3%A9dard&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Qu%C3%A9bec-Comt%C3%A9_(provincial_electoral_district)",
+          "entity_id": "Q3414827"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ernest_Godbout&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Qu%C3%A9bec-Est_(provincial_electoral_district)",
+          "entity_id": "Q2422115"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jean_Lesage",
+          "entity_id": "Q1685649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Qu%C3%A9bec-Ouest_(provincial_electoral_district)",
+          "entity_id": "Q2382587"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/G%C3%A9rard_Cournoyer",
+          "entity_id": "Q930247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Richelieu_(provincial_electoral_district)",
+          "entity_id": "Q3431420"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/%C3%89milien_Lafrance",
+          "entity_id": "Q20737529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond_(Quebec_provincial_electoral_district)",
+          "entity_id": "Q3431469"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Albert_Dionne&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rimouski_(provincial_electoral_district)",
+          "entity_id": "Q2424346"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Alphonse_Couturier_(Liberal_politician)",
+          "entity_id": "Q4735351"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Rivi%C3%A8re-du-Loup_(electoral_district)",
+          "entity_id": "Q3433604"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Joseph-Georges_Gauthier&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Roberval_(provincial_electoral_district)",
+          "entity_id": "Q2381824"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Fran%C3%A7ois_Boulais&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rouville_(provincial_electoral_district)",
+          "entity_id": "Q3445486"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Edgar_Turpin&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rouyn-Noranda_(provincial_electoral_district)",
+          "entity_id": "Q3445513"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rodrigue_Thibault&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Saguenay_(provincial_electoral_district)",
+          "entity_id": "Q3425708"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ren%C3%A9_Saint-Pierre&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Saint-Hyacinthe_(provincial_electoral_district)",
+          "entity_id": "Q3462431"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Philodor_Ouimet&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Saint-Jean_(provincial_electoral_district)",
+          "entity_id": "Q3462578"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Hamel",
+          "entity_id": "Q3426338"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saint-Maurice_(provincial_electoral_district)",
+          "entity_id": "Q3462965"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Francis_Boudreau&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saint-Sauveur_(provincial_electoral_district)",
+          "entity_id": "Q3463350"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Armand_Russell",
+          "entity_id": "Q4792696"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shefford_(provincial_electoral_district)",
+          "entity_id": "Q3481726"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Carrier_Fortin&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sherbrooke_(provincial_electoral_district)",
+          "entity_id": "Q3481912"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Georges_Vaillancourt&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stanstead_(provincial_electoral_district)",
+          "entity_id": "Q3496891"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gilbert-Roland_Th%C3%A9berge&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/T%C3%A9miscamingue_(provincial_electoral_district)",
+          "entity_id": "Q3546768"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Antoine_Raymond",
+          "entity_id": "Q4775532"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/T%C3%A9miscouata_(provincial_electoral_district)",
+          "entity_id": "Q3546773"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lionel_Bertrand",
+          "entity_id": "Q3241817"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Terrebonne_(provincial_electoral_district)",
+          "entity_id": "Q3518684"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yves_Gabias",
+          "entity_id": "Q3573656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Trois-Rivi%C3%A8res_(provincial_electoral_district)",
+          "entity_id": "Q3539917"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paul_G%C3%A9rin-Lajoie",
+          "entity_id": "Q3371417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Vaudreuil-Soulanges_(provincial_electoral_district)",
+          "entity_id": "Q3555061"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Guy_Lechasseur",
+          "entity_id": "Q2384175"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Verch%C3%A8res_(provincial_electoral_district)",
+          "entity_id": "Q3555763"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/John_Richard_Hyde",
+          "entity_id": "Q3182360"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Parti_lib%C3%A9ral_du_Qu%C3%A9bec",
+          "entity_id": "Q1631384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Westmount%E2%80%93Saint-Georges",
+          "entity_id": "Q3567540"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Lavoie",
+          "entity_id": "Q7313748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wolfe_(provincial_electoral_district)",
+          "entity_id": "Q3569671"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Antonio_%C3%89lie",
+          "entity_id": "Q2857524"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Union_Nationale_(Quebec)",
+          "entity_id": "Q1815983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Yamaska_(provincial_electoral_district)",
+          "entity_id": "Q3571457"
+        }
+      ]
+    ]
+  ]
+}

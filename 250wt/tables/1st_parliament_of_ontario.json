@@ -1,0 +1,2598 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1st_Parliament_of_Ontario",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Riding",
+        "values": [
+          "Addington",
+          "Algoma",
+          "Bothwell",
+          "Brant",
+          "Brant South",
+          "Brockville and Elizabethtown",
+          "Bruce North",
+          "Bruce South",
+          "Cardwell",
+          "Carleton",
+          "Cornwall",
+          "Dundas",
+          "Durham East",
+          "Durham West",
+          "Elgin East",
+          "Elgin West",
+          "Essex",
+          "Frontenac",
+          "Frontenac",
+          "Glengarry",
+          "Grenville South",
+          "Grey North",
+          "Grey South",
+          "Haldimand",
+          "Halton",
+          "Hamilton",
+          "Hastings East",
+          "Hastings North",
+          "Hastings West",
+          "Huron North",
+          "Huron South",
+          "Huron South",
+          "Kent",
+          "Kingston",
+          "Lambton",
+          "Lanark North",
+          "Lanark South",
+          "Lanark South",
+          "Leeds North and Grenville North",
+          "Leeds South",
+          "Lennox",
+          "Lincoln",
+          "London",
+          "Middlesex East",
+          "Middlesex North",
+          "Middlesex West",
+          "Monck",
+          "Niagara",
+          "Niagara",
+          "Norfolk North",
+          "Norfolk South",
+          "Northumberland East",
+          "Northumberland West",
+          "Ontario North",
+          "Ontario South",
+          "Ottawa",
+          "Oxford North",
+          "Oxford South",
+          "Peel",
+          "Perth North",
+          "Perth South",
+          "Peterborough East",
+          "Peterborough West",
+          "Prescott",
+          "Prince Edward",
+          "Prince Edward",
+          "Renfrew North",
+          "Renfrew North",
+          "Renfrew South",
+          "Russell",
+          "Simcoe North",
+          "Simcoe South",
+          "Stormont",
+          "Toronto East",
+          "Toronto West",
+          "Victoria North",
+          "Victoria South",
+          "Waterloo North",
+          "Waterloo South",
+          "Welland",
+          "Wellington Centre",
+          "Wellington North",
+          "Wellington South",
+          "Wentworth North",
+          "Wentworth South",
+          "York East",
+          "York North",
+          "York West"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Member",
+        "values": [
+          "Edmund John Glyn Hooper",
+          "Frederick William Cumberland",
+          "Archibald McKellar",
+          "Hugh Finlayson",
+          "Edmund Burke Wood",
+          "William Fitzsimmons",
+          "Donald Sinclair",
+          "Edward Blake",
+          "Thomas Swinarton",
+          "Robert Lyon",
+          "John Sandfield Macdonald",
+          "Simon S. Cook",
+          "Arthur Trefusis Heneage Williams",
+          "John McLeod",
+          "Daniel Luton",
+          "Nicol McColl",
+          "Solomon Wigle",
+          "Henry Smith",
+          "Delino Dexter Calvin (1868)",
+          "James Craig",
+          "Mcneil Clarke",
+          "Thomas Scott",
+          "Abram William Lauder",
+          "Jacob Baxter",
+          "William Barber",
+          "James Miller Williams",
+          "Henry Corby",
+          "George Henry Boulter",
+          "Ketchum Graham",
+          "William Torrance Hays",
+          "Robert Gibbons",
+          "Isaac Carling (1868)",
+          "John Smith",
+          "Maxwell W. Strange",
+          "Timothy Blair Pardee",
+          "Daniel Galbraith",
+          "William McNairn Shaw",
+          "Abraham Code (1869)",
+          "Henry Dolphus Smith",
+          "Benjamin Tett",
+          "John Stevenson",
+          "John Charles Rykert",
+          "John Carling",
+          "James Evans",
+          "James Sinclair Smith",
+          "Nathaniel Currie",
+          "George Secord",
+          "Donald Robertson",
+          "Stephen Richards (1867)",
+          "James Wilson",
+          "Simpson McCall",
+          "John Eyre",
+          "Alexander Fraser",
+          "Thomas Paxton",
+          "William McGill",
+          "Richard William Scott",
+          "George Perry",
+          "Adam Oliver",
+          "John Coyne",
+          "Andrew Monteith",
+          "James Trow",
+          "George Read",
+          "John Carnegie",
+          "James P. Boyd",
+          "Absalom Greeley",
+          "William Anderson (1870)",
+          "John Supple",
+          "Thomas Murray (1870)",
+          "John Lorn McDougall",
+          "William Craig",
+          "William Lount",
+          "Thomas Roberts Ferguson",
+          "William Colquhoun",
+          "Matthew Crooks Cameron",
+          "John Wallis",
+          "Alexander Peter Cockburn",
+          "Thomas Matchett",
+          "Moses Springer",
+          "Isaac Clemens",
+          "William Beatty",
+          "Alexander David Ferrier",
+          "Robert McKim",
+          "Peter Gow",
+          "Robert Christie",
+          "William Sexton",
+          "Hugh Powell Crosby",
+          "John McMurrich",
+          "Thomas Grahame"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Party",
+        "values": [
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Conservative - Liberal  coalition",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Conservative",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "Conservative"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1st Parliament of Ontario",
+    "page_url": "https://en.wikipedia.org/wiki/1st_Parliament_of_Ontario",
+    "page_entity_id": "Q4596423"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Addington_(provincial_electoral_district)",
+          "entity_id": "Q25246583"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Edmund_John_Glyn_Hooper",
+          "entity_id": "Q5339594"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Algoma_(provincial_electoral_district)",
+          "entity_id": "Q4724287"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Frederick_William_Cumberland",
+          "entity_id": "Q5499066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kent_East_(provincial_electoral_district)",
+          "entity_id": "Q6391705"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Archibald_McKellar",
+          "entity_id": "Q4786437"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Brant_(provincial_electoral_district)",
+          "entity_id": "Q4957591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hugh_Finlayson",
+          "entity_id": "Q5930750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Brant_South_(provincial_electoral_district)",
+          "entity_id": "Q28453449"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Edmund_Burke_Wood",
+          "entity_id": "Q5339339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Brockville_(provincial_electoral_district)",
+          "entity_id": "Q28453414"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/William_Fitzsimmons_(Ontario_politician)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bruce_North_(provincial_electoral_district)",
+          "entity_id": "Q30598525"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Donald_Sinclair_(Ontario_politician)",
+          "entity_id": "Q5295154"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bruce_South_(provincial_electoral_district)",
+          "entity_id": "Q30598526"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Edward_Blake",
+          "entity_id": "Q333003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cardwell_(provincial_electoral_district)",
+          "entity_id": "Q48797724"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Swinarton",
+          "entity_id": "Q7794302"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Carleton_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q17514566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Robert_Lyon_(politician)",
+          "entity_id": "Q7347077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cornwall_(provincial_electoral_district)",
+          "entity_id": "Q5171941"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/John_Sandfield_Macdonald",
+          "entity_id": "Q938623"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        },
+        {
+          "start": 15,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        },
+        {
+          "start": 24,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Coalition",
+          "entity_id": "Q124964"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dundas_(provincial_electoral_district)",
+          "entity_id": "Q30598322"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Simon_S._Cook",
+          "entity_id": "Q7519714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Durham_East_(provincial_electoral_district)",
+          "entity_id": "Q5316507"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Arthur_Trefusis_Heneage_Williams",
+          "entity_id": "Q4800493"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Durham_West_(provincial_electoral_district)",
+          "entity_id": "Q5316592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_McLeod_(Ontario_MPP)",
+          "entity_id": "Q6248097"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Elgin_East_(provincial_electoral_district)",
+          "entity_id": "Q28163017"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Luton",
+          "entity_id": "Q5217978"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Elgin_West_(provincial_electoral_district)",
+          "entity_id": "Q28163020"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nicol_McColl",
+          "entity_id": "Q7028937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Essex_(provincial_electoral_district)",
+          "entity_id": "Q5399629"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Solomon_Wigle",
+          "entity_id": "Q7558768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frontenac_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q28453519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Henry_Smith_(1812-1868)",
+          "entity_id": "Q15489840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frontenac_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q28453519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Delino_Dexter_Calvin",
+          "entity_id": "Q5253997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Glengarry_(provincial_electoral_district)",
+          "entity_id": "Q17086064"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/James_Craig_(Ontario_MPP)",
+          "entity_id": "Q6131868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Grenville_(provincial_electoral_district)",
+          "entity_id": "Q30598266"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mcneil_Clarke",
+          "entity_id": "Q16065523"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Grey_North_(provincial_electoral_district)",
+          "entity_id": "Q20743949"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Scott_(Ontario_MPP)",
+          "entity_id": "Q16063098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Grey_South_(provincial_electoral_district)",
+          "entity_id": "Q28162979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Abram_William_Lauder",
+          "entity_id": "Q2821887"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Haldimand_(provincial_electoral_district)",
+          "entity_id": "Q28163043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jacob_Baxter",
+          "entity_id": "Q6118345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Halton_(provincial_electoral_district)",
+          "entity_id": "Q5643624"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_Barber_(Ontario_politician)",
+          "entity_id": "Q8005028"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_(provincial_electoral_district)",
+          "entity_id": "Q48817701"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/James_Miller_Williams",
+          "entity_id": "Q6139786"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hastings_East_(provincial_electoral_district)",
+          "entity_id": "Q28163023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Henry_Corby",
+          "entity_id": "Q5719814"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hastings_North_(provincial_electoral_district)",
+          "entity_id": "Q28163029"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/George_Henry_Boulter",
+          "entity_id": "Q5540429"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hastings_West_(provincial_electoral_district)",
+          "entity_id": "Q28163026"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ketchum_Graham",
+          "entity_id": "Q6395350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Huron_North_(provincial_electoral_district)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/William_Torrance_Hays",
+          "entity_id": "Q8019472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Huron_South",
+          "entity_id": "Q3143420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Robert_Gibbons",
+          "entity_id": "Q7344752"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Huron_South",
+          "entity_id": "Q3143420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Isaac_Carling",
+          "entity_id": "Q6076118"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Kent_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q48818128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/John_Smith_(Ontario_MPP)",
+          "entity_id": "Q16244597"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kingston_(provincial_electoral_district)",
+          "entity_id": "Q30598225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Maxwell_W._Strange",
+          "entity_id": "Q6796160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lambton_(provincial_electoral_district)",
+          "entity_id": "Q28453587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Timothy_Blair_Pardee",
+          "entity_id": "Q7807065"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lanark_North_(provincial_electoral_district)",
+          "entity_id": "Q28162973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Daniel_Galbraith_(Ontario_politician)",
+          "entity_id": "Q5217231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lanark_South_(provincial_electoral_district)",
+          "entity_id": "Q28162976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/William_McNairn_Shaw",
+          "entity_id": "Q16065748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lanark_South_(provincial_electoral_district)",
+          "entity_id": "Q28162976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Abraham_Code",
+          "entity_id": "Q5610296"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Leeds_North_and_Grenville_North",
+          "entity_id": "Q3228961"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Henry_Dolphus_Smith",
+          "entity_id": "Q5720400"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Leeds_South",
+          "entity_id": "Q3228963"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Benjamin_Tett",
+          "entity_id": "Q4889291"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lennox_(provincial_electoral_district)",
+          "entity_id": "Q28453520"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/John_Stevenson_(Ontario_politician)",
+          "entity_id": "Q6259105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lincoln_(provincial_electoral_district)",
+          "entity_id": "Q6550463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Charles_Rykert",
+          "entity_id": "Q6225784"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London_(provincial_electoral_district)",
+          "entity_id": "Q48815480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/John_Carling",
+          "entity_id": "Q6225171"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Middlesex_East_(provincial_electoral_district)",
+          "entity_id": "Q28162985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/James_Evans_(Ontario_MPP)",
+          "entity_id": "Q16063373"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Middlesex_North_(provincial_electoral_district)",
+          "entity_id": "Q28162994"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/James_Sinclair_Smith",
+          "entity_id": "Q6143236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Middlesex_West_(provincial_electoral_district)",
+          "entity_id": "Q28162997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nathaniel_Currie_(Ontario_politician)",
+          "entity_id": "Q16062614"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Monck_(provincial_electoral_district)",
+          "entity_id": "Q55623608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/George_Secord",
+          "entity_id": "Q5544393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Niagara_(electoral_district)",
+          "entity_id": "Q3339432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Donald_Robertson_(politician)",
+          "entity_id": "Q5295077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Niagara_(electoral_district)",
+          "entity_id": "Q3339432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Stephen_Richards_(Ontario_MPP)",
+          "entity_id": "Q7610372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_North_(provincial_electoral_district)",
+          "entity_id": "Q28453538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/James_Wilson_(Ontario_MPP)",
+          "entity_id": "Q16200583"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_South_(provincial_electoral_district)",
+          "entity_id": "Q28453539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Simpson_McCall",
+          "entity_id": "Q16059706"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Northumberland_East_(provincial_electoral_district)",
+          "entity_id": "Q48817785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/John_Eyre_(Ontario_MPP)",
+          "entity_id": "Q6232119"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Northumberland_West_(provincial_electoral_district)",
+          "entity_id": "Q48817795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Alexander_Fraser_(Ontario_MPP)",
+          "entity_id": "Q4718894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ontario_North_(provincial_electoral_district)",
+          "entity_id": "Q30598165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Paxton",
+          "entity_id": "Q7793063"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ontario_(provincial_electoral_district)",
+          "entity_id": "Q17513433"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_McGill_(MPP)",
+          "entity_id": "Q8015415"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ottawa_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q25246576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Richard_William_Scott",
+          "entity_id": "Q7329994"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Oxford_North_(provincial_electoral_district)",
+          "entity_id": "Q28163004"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/George_Perry_(Ontario_politician)",
+          "entity_id": "Q16062494"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Oxford_South_(provincial_electoral_district)",
+          "entity_id": "Q28163009"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Adam_Oliver",
+          "entity_id": "Q4679569"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Peel_(provincial_electoral_district)",
+          "entity_id": "Q25214328"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/John_Coyne_(politician)",
+          "entity_id": "Q6227431"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Perth_North_(provincial_electoral_district)",
+          "entity_id": "Q25352513"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Monteith",
+          "entity_id": "Q4758050"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Perth_South_(provincial_electoral_district)",
+          "entity_id": "Q25352579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/James_Trow",
+          "entity_id": "Q6144426"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Peterborough_East_(provincial_electoral_district)",
+          "entity_id": "Q48817865"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/George_Read_(Ontario)",
+          "entity_id": "Q5543753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Peterborough_West_(provincial_electoral_district)",
+          "entity_id": "Q48817866"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/John_Carnegie_(1837%E2%80%931910)",
+          "entity_id": "Q6225228"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Prescott_(provincial_electoral_district)",
+          "entity_id": "Q85794387"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/James_P._Boyd",
+          "entity_id": "Q6140736"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Prince_Edward_(provincial_electoral_district)",
+          "entity_id": "Q48816525"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Absalom_Greeley",
+          "entity_id": "Q4669646"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Prince_Edward_(provincial_electoral_district)",
+          "entity_id": "Q48816525"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/William_Anderson_(Canadian_politician_born_1822)",
+          "entity_id": "Q16059748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Renfrew_North_(provincial_electoral_district)",
+          "entity_id": "Q25246579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Supple",
+          "entity_id": "Q6259680"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Renfrew_North_(provincial_electoral_district)",
+          "entity_id": "Q25246579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Murray_(Canadian_politician)",
+          "entity_id": "Q3525436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Renfrew_South_(provincial_electoral_district)",
+          "entity_id": "Q7313176"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Lorn_McDougall",
+          "entity_id": "Q6245291"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russell_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q30598143"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/William_Craig_(Ontario_MPP)",
+          "entity_id": "Q8007222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Simcoe_North_(provincial_electoral_district)",
+          "entity_id": "Q14875422"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/William_Lount",
+          "entity_id": "Q8014715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Simcoe_South_(provincial_electoral_district)",
+          "entity_id": "Q48797739"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Roberts_Ferguson",
+          "entity_id": "Q7793587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stormont_(provincial_electoral_district)",
+          "entity_id": "Q17097109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/William_Colquhoun",
+          "entity_id": "Q8007016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Toronto_East_(provincial_electoral_district)",
+          "entity_id": "Q17099018"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Crooks_Cameron",
+          "entity_id": "Q6790366"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Toronto_West_(provincial_electoral_district)",
+          "entity_id": "Q17099066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Wallis_(politician)",
+          "entity_id": "Q6262824"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Victoria_North_(provincial_electoral_district)",
+          "entity_id": "Q48815665"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Alexander_Peter_Cockburn",
+          "entity_id": "Q4719831"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Victoria_South_(provincial_electoral_district)",
+          "entity_id": "Q48815694"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Matchett",
+          "entity_id": "Q7792227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Waterloo_North_(provincial_electoral_district)",
+          "entity_id": "Q7974262"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Moses_Springer",
+          "entity_id": "Q6915949"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Waterloo_South",
+          "entity_id": "Q3566684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Isaac_Clemens",
+          "entity_id": "Q16063370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Welland_(provincial_electoral_district)",
+          "entity_id": "Q55387540"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_Beatty_(Ontario_politician)",
+          "entity_id": "Q16059664"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wellington_East_(electoral_district)",
+          "entity_id": "Q7981390"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Alexander_David_Ferrier",
+          "entity_id": "Q4718690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Wellington_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q48817073"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Robert_McKim_(Ontario_MPP)",
+          "entity_id": "Q7347555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Wellington_South_(provincial_electoral_district)",
+          "entity_id": "Q7981495"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Peter_Gow_(politician)",
+          "entity_id": "Q7174317"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Wentworth_North_(provincial_electoral_district)",
+          "entity_id": "Q7983029"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Robert_Christie_(Ontario_MPP)",
+          "entity_id": "Q7342921"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Wentworth_South_(provincial_electoral_district)",
+          "entity_id": "Q28163000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_Sexton_(politician)",
+          "entity_id": "Q8018292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/York_East_(provincial_electoral_district)",
+          "entity_id": "Q17102873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hugh_Powell_Crosby",
+          "entity_id": "Q5932368"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/York_North_(Ontario_provincial_electoral_district)",
+          "entity_id": "Q25246169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/John_McMurrich",
+          "entity_id": "Q6248174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario_Liberal_Party",
+          "entity_id": "Q1553186"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/York_West_(provincial_electoral_district)",
+          "entity_id": "Q14875498"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Grahame",
+          "entity_id": "Q7790136"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Conservative_Party_of_Ontario",
+          "entity_id": "Q826977"
+        }
+      ]
+    ]
+  ]
+}

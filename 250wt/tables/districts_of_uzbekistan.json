@@ -1,0 +1,342 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Districts_of_Uzbekistan",
+    "columns": [
+      {
+        "index": 0,
+        "name": "",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "District name",
+        "values": [
+          "Andijan District",
+          "Asaka District",
+          "Baliqchi District",
+          "Boz District",
+          "Buloqboshi District",
+          "Izboskan District",
+          "Jalalkuduk District",
+          "Khodjaobad District",
+          "Kurgontepa District",
+          "Marhamat District",
+          "Oltinkol District",
+          "Pakhtaabad District",
+          "Shakhrihon District",
+          "Ulugnor District"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "District capital",
+        "values": [
+          "Kuyganyar",
+          "Asaka",
+          "Baliqchi",
+          "Boz",
+          "Buloqboshi",
+          "Paytug",
+          "Akhunbabaev",
+          "Khodjaobad",
+          "Kurgontepa",
+          "Marhamat",
+          "Oltinkol",
+          "Pakhtaabad",
+          "Shakhrihon",
+          "Okoltin"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Districts of Uzbekistan",
+    "page_url": "https://en.wikipedia.org/wiki/Districts_of_Uzbekistan",
+    "page_entity_id": "Q2631599"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Andijan_District",
+          "entity_id": "Q2399866"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kuyganyar",
+          "entity_id": "Q4245634"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Asaka_District",
+          "entity_id": "Q578148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Asaka,_Uzbekistan",
+          "entity_id": "Q378393"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Baliqchi_District",
+          "entity_id": "Q1646692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Baliqchi,_Uzbekistan",
+          "entity_id": "Q4077053"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Boz_District",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Boz,_Uzbekistan",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Buloqboshi_District",
+          "entity_id": "Q2399900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Buloqboshi",
+          "entity_id": "Q4987200"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Izboskan_District",
+          "entity_id": "Q2399845"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Paytug",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Jalalkuduk_District",
+          "entity_id": "Q609133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Akhunbabaev",
+          "entity_id": "Q867028"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Khodjaobad_District",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Khodjaobad",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Kurgontepa_District",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/%C4%B6%C3%BCrgontepa",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Marhamat_District",
+          "entity_id": "Q2399255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Marhamat",
+          "entity_id": "Q3847075"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Oltinkol_District",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oltinkol",
+          "entity_id": "Q4063052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Pakhtaabad_District",
+          "entity_id": "Q1646660"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pakhtaabad,_Andijan_Region",
+          "entity_id": "Q867159"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Shakhrihon_District",
+          "entity_id": "Q926306"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Shakhrihon",
+          "entity_id": "Q1659154"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ulugnor_District",
+          "entity_id": "Q2399889"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Okoltin",
+          "entity_id": "Q4059295"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+        "rel_uri": "wd:Q1093829",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "City"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q13410496",
+        "rel_uri": "wd:Q13410496",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "County"
+      },
+      {
+        "id": "c-3",
+        "col_index": 3,
+        "label": "1930 Pop."
+      },
+      {
+        "id": "c-4",
+        "col_index": 4,
+        "label": "1940 Pop."
+      },
+      {
+        "id": "c-5",
+        "col_index": 5,
+        "label": "1950 Pop."
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "1940 \nRank"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Change 1940-50"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1082",
+        "rel_uri": "p:P1082",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P1082",
+        "rel_uri": "p:P1082",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-1",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P1082",
+        "rel_uri": "p:P1082",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]

@@ -1,0 +1,658 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2011–12_Southeastern_Conference_men's_basketball_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Round",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Pick",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "18",
+          "23",
+          "27",
+          "29",
+          "30",
+          "31",
+          "42",
+          "45",
+          "46"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Player",
+        "values": [
+          "Anthony Davis",
+          "Michael Kidd-Gilchrist",
+          "Bradley Beal",
+          "Terrence Jones",
+          "John Jenkins",
+          "Arnett Moultrie",
+          "Marquis Teague",
+          "Festus Ezeli",
+          "Jeffery Taylor",
+          "Doron Lamb",
+          "Justin Hamilton",
+          "Darius Miller"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Position",
+        "values": [
+          "PF",
+          "SF",
+          "SG",
+          "PF",
+          "SG",
+          "PF",
+          "PG",
+          "C",
+          "SF",
+          "SG",
+          "C",
+          "SF"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Nationality",
+        "values": [
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " Nigeria",
+          " Sweden",
+          " United States",
+          " United States",
+          " United States"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Team",
+        "values": [
+          "New Orleans Hornets",
+          "Charlotte Bobcats",
+          "Washington Wizards",
+          "Houston Rockets",
+          "Atlanta Hawks",
+          "Miami Heat",
+          "Chicago Bulls",
+          "Golden State Warriors",
+          "Charlotte Bobcats",
+          "Milwaukee Bucks",
+          "Philadelphia 76ers",
+          "New Orleans Hornets"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "School/club team",
+        "values": [
+          "Kentucky  ( Fr. )",
+          "Kentucky  ( Fr. )",
+          "Florida  ( Fr. )",
+          "Kentucky  ( So. )",
+          "Vanderbilt  ( Jr. )",
+          "Mississippi St.  ( Jr. )",
+          "Kentucky  ( Fr. )",
+          "Vanderbilt  ( Sr. )",
+          "Vanderbilt  ( Sr. )",
+          "Kentucky  ( So. )",
+          "LSU  ( Jr. )",
+          "Kentucky  ( Sr. )"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2011–12 Southeastern Conference men's basketball season",
+    "page_url": "https://en.wikipedia.org/wiki/2011–12_Southeastern_Conference_men's_basketball_season",
+    "page_entity_id": "Q4624230"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Anthony_Davis_(basketball)",
+          "entity_id": "Q317008"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Hornets",
+          "entity_id": "Q172339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Freshman",
+          "entity_id": "Q60825090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Michael_Kidd-Gilchrist",
+          "entity_id": "Q926220"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Charlotte_Bobcats",
+          "entity_id": "Q163480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Freshman",
+          "entity_id": "Q60825090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bradley_Beal",
+          "entity_id": "Q897000"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Washington_Wizards",
+          "entity_id": "Q169165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida_Gators_men%27s_basketball",
+          "entity_id": "Q5461408"
+        },
+        {
+          "start": 11,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Freshman",
+          "entity_id": "Q60825090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Terrence_Jones",
+          "entity_id": "Q40657"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Houston_Rockets",
+          "entity_id": "Q161345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sophomore_year",
+          "entity_id": "Q2303071"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/John_Jenkins_(basketball)",
+          "entity_id": "Q1000791"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Hawks",
+          "entity_id": "Q159893"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vanderbilt_Commodores_men%27s_basketball",
+          "entity_id": "Q4103322"
+        },
+        {
+          "start": 14,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Junior_(education)",
+          "entity_id": "Q5956375"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Arnett_Moultrie",
+          "entity_id": "Q48838"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Miami_Heat",
+          "entity_id": "Q169138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Mississippi_State_Bulldogs_basketball",
+          "entity_id": "Q15729844"
+        },
+        {
+          "start": 19,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Junior_(education)",
+          "entity_id": "Q5956375"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marquis_Teague",
+          "entity_id": "Q1518156"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Bulls",
+          "entity_id": "Q128109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Freshman",
+          "entity_id": "Q60825090"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Festus_Ezeli",
+          "entity_id": "Q48842"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Golden_State_Warriors",
+          "entity_id": "Q157376"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vanderbilt_Commodores_men%27s_basketball",
+          "entity_id": "Q4103322"
+        },
+        {
+          "start": 14,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Senior_(education)",
+          "entity_id": "Q7450648"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jeffery_Taylor",
+          "entity_id": "Q48845"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Charlotte_Bobcats",
+          "entity_id": "Q163480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vanderbilt_Commodores_men%27s_basketball",
+          "entity_id": "Q4103322"
+        },
+        {
+          "start": 14,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Senior_(education)",
+          "entity_id": "Q7450648"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Doron_Lamb",
+          "entity_id": "Q207608"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee_Bucks",
+          "entity_id": "Q169637"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sophomore_year",
+          "entity_id": "Q2303071"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Justin_Hamilton_(basketball,_born_1990)",
+          "entity_id": "Q742104"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_76ers",
+          "entity_id": "Q138089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/LSU_Tigers_basketball",
+          "entity_id": "Q6460027"
+        },
+        {
+          "start": 7,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Junior_(education)",
+          "entity_id": "Q5956375"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Darius_Miller",
+          "entity_id": "Q555198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Hornets",
+          "entity_id": "Q172339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kentucky_Wildcats_men%27s_basketball",
+          "entity_id": "Q6392428"
+        },
+        {
+          "start": 12,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Senior_(education)",
+          "entity_id": "Q7450648"
+        }
+      ]
+    ]
+  ]
+}

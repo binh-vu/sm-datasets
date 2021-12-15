@@ -1,0 +1,7973 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Major_professional_sports_teams_of_the_United_States_and_Canada",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Anaheim Ducks",
+          "Arizona Cardinals",
+          "Arizona Coyotes",
+          "Arizona Diamondbacks",
+          "Atlanta Braves",
+          "Atlanta Falcons",
+          "Atlanta Hawks",
+          "Atlanta United FC",
+          "Austin FC",
+          "Baltimore Orioles",
+          "Baltimore Ravens",
+          "BC Lions",
+          "Boston Bruins",
+          "Boston Celtics",
+          "Boston Red Sox",
+          "Brooklyn Nets",
+          "Buffalo Bills",
+          "Buffalo Sabres",
+          "Calgary Flames",
+          "Calgary Stampeders",
+          "Carolina Hurricanes",
+          "Carolina Panthers",
+          "Charlotte Hornets",
+          "Charlotte MLS team",
+          "Chicago Bears",
+          "Chicago Blackhawks",
+          "Chicago Bulls",
+          "Chicago Cubs",
+          "Chicago Fire FC",
+          "Chicago White Sox",
+          "Cincinnati Bengals",
+          "Cincinnati Reds",
+          "FC Cincinnati",
+          "Cleveland Browns",
+          "Cleveland Cavaliers",
+          "Cleveland Indians",
+          "Colorado Avalanche",
+          "Colorado Rapids",
+          "Colorado Rockies",
+          "Columbus Blue Jackets",
+          "Columbus Crew SC",
+          "FC Dallas",
+          "Dallas Cowboys",
+          "Dallas Mavericks",
+          "Dallas Stars",
+          "D.C. United",
+          "Denver Broncos",
+          "Denver Nuggets",
+          "Detroit Lions",
+          "Detroit Pistons",
+          "Detroit Red Wings",
+          "Detroit Tigers",
+          "Edmonton Eskimos",
+          "Edmonton Oilers",
+          "Florida Panthers",
+          "Golden State Warriors",
+          "Green Bay Packers",
+          "Hamilton Tiger-Cats",
+          "Houston Astros",
+          "Houston Dynamo",
+          "Houston Rockets",
+          "Houston Texans",
+          "Indiana Pacers",
+          "Indianapolis Colts",
+          "Jacksonville Jaguars",
+          "Sporting Kansas City",
+          "Kansas City Chiefs",
+          "Kansas City Royals",
+          "LA Galaxy",
+          "Las Vegas Raiders",
+          "Los Angeles Angels",
+          "Los Angeles Chargers",
+          "Los Angeles Clippers",
+          "Los Angeles Dodgers",
+          "Los Angeles FC",
+          "Los Angeles Kings",
+          "Los Angeles Lakers",
+          "Los Angeles Rams",
+          "Memphis Grizzlies",
+          "Miami Dolphins",
+          "Miami Heat",
+          "Inter Miami CF",
+          "Miami Marlins",
+          "Milwaukee Brewers",
+          "Milwaukee Bucks",
+          "Minnesota Timberwolves",
+          "Minnesota Twins",
+          "Minnesota United FC",
+          "Minnesota Vikings",
+          "Minnesota Wild",
+          "Montreal Alouettes",
+          "Montreal Canadiens",
+          "Montreal Impact",
+          "Nashville Predators",
+          "Nashville SC",
+          "New England Patriots",
+          "New England Revolution",
+          "New Jersey Devils",
+          "New Orleans Pelicans",
+          "New Orleans Saints",
+          "New York City FC",
+          "New York Giants",
+          "New York Islanders",
+          "New York Islanders",
+          "New York Jets",
+          "New York Knicks",
+          "New York Mets",
+          "New York Rangers",
+          "New York Red Bulls",
+          "New York Yankees",
+          "Oakland Athletics",
+          "Oklahoma City Thunder",
+          "Orlando City SC",
+          "Orlando Magic",
+          "Ottawa Redblacks",
+          "Ottawa Senators",
+          "Philadelphia 76ers",
+          "Philadelphia Eagles",
+          "Philadelphia Flyers",
+          "Philadelphia Phillies",
+          "Philadelphia Union",
+          "Phoenix Suns",
+          "Pittsburgh Penguins",
+          "Pittsburgh Pirates",
+          "Pittsburgh Steelers",
+          "Portland Trail Blazers",
+          "Portland Timbers",
+          "Sacramento Kings",
+          "Sacramento Republic FC",
+          "Real Salt Lake",
+          "San Antonio Spurs",
+          "San Diego Padres",
+          "San Francisco 49ers",
+          "San Francisco Giants",
+          "San Jose Earthquakes",
+          "San Jose Sharks",
+          "Saskatchewan Roughriders",
+          "St. Louis Blues",
+          "St. Louis Cardinals",
+          "St. Louis MLS team",
+          "Seattle Mariners",
+          "Seattle NHL team",
+          "Seattle Seahawks",
+          "Seattle Sounders FC",
+          "Tampa Bay Buccaneers",
+          "Tampa Bay Lightning",
+          "Tampa Bay Rays",
+          "Tennessee Titans",
+          "Texas Rangers",
+          "Toronto Argonauts",
+          "Toronto Blue Jays",
+          "Toronto FC",
+          "Toronto Maple Leafs",
+          "Toronto Raptors",
+          "Utah Jazz",
+          "Vancouver Canucks",
+          "Vancouver Whitecaps FC",
+          "Vegas Golden Knights",
+          "Washington Capitals",
+          "Washington Nationals",
+          "Washington Redskins",
+          "Washington Wizards",
+          "Winnipeg Blue Bombers",
+          "Winnipeg Jets"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Venue",
+        "values": [
+          "Honda Center",
+          "State Farm Stadium",
+          "Gila River Arena",
+          "Chase Field",
+          "Truist Park",
+          "Mercedes-Benz Stadium",
+          "State Farm Arena",
+          "Mercedes-Benz Stadium",
+          "Austin FC stadium",
+          "Oriole Park at Camden Yards",
+          "M&T Bank Stadium",
+          "BC Place",
+          "TD Garden",
+          "TD Garden",
+          "Fenway Park",
+          "Barclays Center",
+          "New Era Field",
+          "KeyBank Center",
+          "Scotiabank Saddledome",
+          "McMahon Stadium",
+          "PNC Arena",
+          "Bank of America Stadium",
+          "Spectrum Center",
+          "Bank of America Stadium",
+          "Soldier Field",
+          "United Center",
+          "United Center",
+          "Wrigley Field",
+          "Soldier Field",
+          "Guaranteed Rate Field",
+          "Paul Brown Stadium",
+          "Great American Ball Park",
+          "Nippert Stadium",
+          "FirstEnergy Stadium",
+          "Rocket Mortgage FieldHouse",
+          "Progressive Field",
+          "Pepsi Center",
+          "Dick's Sporting Goods Park",
+          "Coors Field",
+          "Nationwide Arena",
+          "Mapfre Stadium",
+          "Toyota Stadium",
+          "AT&T Stadium",
+          "American Airlines Center",
+          "American Airlines Center",
+          "Audi Field",
+          "Empower Field at Mile High",
+          "Pepsi Center",
+          "Ford Field",
+          "Little Caesars Arena",
+          "Little Caesars Arena",
+          "Comerica Park",
+          "Commonwealth Stadium",
+          "Rogers Place",
+          "BB&T Center",
+          "Chase Center",
+          "Lambeau Field",
+          "Tim Hortons Field",
+          "Minute Maid Park",
+          "BBVA Stadium",
+          "Toyota Center",
+          "NRG Stadium",
+          "Bankers Life Fieldhouse",
+          "Lucas Oil Stadium",
+          "TIAA Bank Field",
+          "Children's Mercy Park",
+          "Arrowhead Stadium",
+          "Kauffman Stadium",
+          "Dignity Health Sports Park",
+          "Allegiant Stadium",
+          "Angel Stadium",
+          "Sofi Stadium",
+          "Staples Center",
+          "Dodger Stadium",
+          "Banc of California Stadium",
+          "Staples Center",
+          "Staples Center",
+          "Sofi Stadium",
+          "FedExForum",
+          "Hard Rock Stadium",
+          "American Airlines Arena",
+          "Inter Miami CF Stadium",
+          "Marlins Park",
+          "Miller Park",
+          "Fiserv Forum",
+          "Target Center",
+          "Target Field",
+          "Allianz Field",
+          "U.S. Bank Stadium",
+          "Xcel Energy Center",
+          "Percival Molson Memorial Stadium",
+          "Bell Centre",
+          "Saputo Stadium",
+          "Bridgestone Arena",
+          "Nissan Stadium",
+          "Gillette Stadium",
+          "Gillette Stadium",
+          "Prudential Center",
+          "Smoothie King Center",
+          "Mercedes-Benz Superdome",
+          "Yankee Stadium",
+          "Metlife Stadium",
+          "Barclays Center",
+          "Nassau Veterans Memorial Coliseum",
+          "Metlife Stadium",
+          "Madison Square Garden",
+          "Citi Field",
+          "Madison Square Garden",
+          "Red Bull Arena",
+          "Yankee Stadium",
+          "Oakland Coliseum",
+          "Chesapeake Energy Arena",
+          "Exploria Stadium",
+          "Amway Center",
+          "TD Place Stadium",
+          "Canadian Tire Centre",
+          "Wells Fargo Center",
+          "Lincoln Financial Field",
+          "Wells Fargo Center",
+          "Citizens Bank Park",
+          "Talen Energy Stadium",
+          "Talking Stick Resort Arena",
+          "PPG Paints Arena",
+          "PNC Park",
+          "Heinz Field",
+          "Moda Center",
+          "Providence Park",
+          "Golden 1 Center",
+          "Railyards Stadium",
+          "Rio Tinto Stadium",
+          "AT&T Center",
+          "Petco Park",
+          "Levi's Stadium",
+          "Oracle Park",
+          "Earthquakes Stadium",
+          "SAP Center",
+          "Mosaic Stadium",
+          "Enterprise Center",
+          "Busch Stadium",
+          "St. Louis MLS Stadium",
+          "T-Mobile Park",
+          "Seattle Center Arena",
+          "CenturyLink Field",
+          "CenturyLink Field",
+          "Raymond James Stadium",
+          "Amalie Arena",
+          "Tropicana Field",
+          "Nissan Stadium",
+          "Globe Life Field",
+          "BMO Field",
+          "Rogers Centre",
+          "BMO Field",
+          "Scotiabank Arena",
+          "Scotiabank Arena",
+          "Vivint Smart Home Arena",
+          "Rogers Arena",
+          "BC Place",
+          "T-Mobile Arena",
+          "Capital One Arena",
+          "Nationals Park",
+          "FedExField",
+          "Capital One Arena",
+          "IG Field",
+          "Bell MTS Place"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "City",
+        "values": [
+          "Anaheim",
+          "Glendale",
+          "Glendale",
+          "Phoenix",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Atlanta",
+          "Austin",
+          "Baltimore",
+          "Baltimore",
+          "Vancouver",
+          "Boston",
+          "Boston",
+          "Boston",
+          "New York City",
+          "Orchard Park",
+          "Buffalo",
+          "Calgary",
+          "Calgary",
+          "Raleigh",
+          "Charlotte",
+          "Charlotte",
+          "Charlotte",
+          "Chicago",
+          "Chicago",
+          "Chicago",
+          "Chicago",
+          "Chicago",
+          "Chicago",
+          "Cincinnati",
+          "Cincinnati",
+          "Cincinnati",
+          "Cleveland",
+          "Cleveland",
+          "Cleveland",
+          "Denver",
+          "Commerce City",
+          "Denver",
+          "Columbus",
+          "Columbus",
+          "Frisco",
+          "Arlington",
+          "Dallas",
+          "Dallas",
+          "Washington",
+          "Denver",
+          "Denver",
+          "Detroit",
+          "Detroit",
+          "Detroit",
+          "Detroit",
+          "Edmonton",
+          "Edmonton",
+          "Sunrise",
+          "San Francisco",
+          "Green Bay",
+          "Hamilton",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Houston",
+          "Indianapolis",
+          "Indianapolis",
+          "Jacksonville",
+          "Kansas City",
+          "Kansas City",
+          "Kansas City",
+          "Carson",
+          "Paradise",
+          "Anaheim",
+          "Inglewood",
+          "Los Angeles",
+          "Los Angeles",
+          "Los Angeles",
+          "Los Angeles",
+          "Los Angeles",
+          "Inglewood",
+          "Memphis",
+          "Miami Gardens",
+          "Miami",
+          "Fort Lauderdale",
+          "Miami",
+          "Milwaukee",
+          "Milwaukee",
+          "Minneapolis",
+          "Minneapolis",
+          "St. Paul",
+          "Minneapolis",
+          "St. Paul",
+          "Montreal",
+          "Montreal",
+          "Montreal",
+          "Nashville",
+          "Nashville",
+          "Foxborough",
+          "Foxborough",
+          "Newark",
+          "New Orleans",
+          "New Orleans",
+          "New York City",
+          "East Rutherford",
+          "New York City",
+          "Uniondale",
+          "East Rutherford",
+          "New York City",
+          "New York City",
+          "New York City",
+          "Harrison",
+          "New York City",
+          "Oakland",
+          "Oklahoma City",
+          "Orlando",
+          "Orlando",
+          "Ottawa",
+          "Ottawa",
+          "Philadelphia",
+          "Philadelphia",
+          "Philadelphia",
+          "Philadelphia",
+          "Chester",
+          "Phoenix",
+          "Pittsburgh",
+          "Pittsburgh",
+          "Pittsburgh",
+          "Portland",
+          "Portland",
+          "Sacramento",
+          "Sacramento",
+          "Sandy",
+          "San Antonio",
+          "San Diego",
+          "Santa Clara",
+          "San Francisco",
+          "San Jose",
+          "San Jose",
+          "Regina",
+          "St. Louis",
+          "St. Louis",
+          "St. Louis",
+          "Seattle",
+          "Seattle",
+          "Seattle",
+          "Seattle",
+          "Tampa",
+          "Tampa",
+          "St. Petersburg",
+          "Nashville",
+          "Arlington",
+          "Toronto",
+          "Toronto",
+          "Toronto",
+          "Toronto",
+          "Toronto",
+          "Salt Lake City",
+          "Vancouver",
+          "Vancouver",
+          "Paradise",
+          "Washington",
+          "Washington",
+          "Landover",
+          "Washington",
+          "Winnipeg",
+          "Winnipeg"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "State/Province",
+        "values": [
+          "California",
+          "Arizona",
+          "Arizona",
+          "Arizona",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Georgia",
+          "Texas",
+          "Maryland",
+          "Maryland",
+          "British Columbia",
+          "Massachusetts",
+          "Massachusetts",
+          "Massachusetts",
+          "New York",
+          "New York",
+          "New York",
+          "Alberta",
+          "Alberta",
+          "North Carolina",
+          "North Carolina",
+          "North Carolina",
+          "North Carolina",
+          "Illinois",
+          "Illinois",
+          "Illinois",
+          "Illinois",
+          "Illinois",
+          "Illinois",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Ohio",
+          "Colorado",
+          "Colorado",
+          "Colorado",
+          "Ohio",
+          "Ohio",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "District of Columbia",
+          "Colorado",
+          "Colorado",
+          "Michigan",
+          "Michigan",
+          "Michigan",
+          "Michigan",
+          "Alberta",
+          "Alberta",
+          "Florida",
+          "California",
+          "Wisconsin",
+          "Ontario",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Texas",
+          "Indiana",
+          "Indiana",
+          "Florida",
+          "Kansas",
+          "Missouri",
+          "Missouri",
+          "California",
+          "Nevada",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Tennessee",
+          "Florida",
+          "Florida",
+          "Florida",
+          "Florida",
+          "Wisconsin",
+          "Wisconsin",
+          "Minnesota",
+          "Minnesota",
+          "Minnesota",
+          "Minnesota",
+          "Minnesota",
+          "Quebec",
+          "Quebec",
+          "Quebec",
+          "Tennessee",
+          "Tennessee",
+          "Massachusetts",
+          "Massachusetts",
+          "New Jersey",
+          "Louisiana",
+          "Louisiana",
+          "New York",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New Jersey",
+          "New York",
+          "New York",
+          "New York",
+          "New Jersey",
+          "New York",
+          "California",
+          "Oklahoma",
+          "Florida",
+          "Florida",
+          "Ontario",
+          "Ontario",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Arizona",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Pennsylvania",
+          "Oregon",
+          "Oregon",
+          "California",
+          "California",
+          "Utah",
+          "Texas",
+          "California",
+          "California",
+          "California",
+          "California",
+          "California",
+          "Saskatchewan",
+          "Missouri",
+          "Missouri",
+          "Missouri",
+          "Washington",
+          "Washington",
+          "Washington",
+          "Washington",
+          "Florida",
+          "Florida",
+          "Florida",
+          "Tennessee",
+          "Texas",
+          "Ontario",
+          "Ontario",
+          "Ontario",
+          "Ontario",
+          "Ontario",
+          "Utah",
+          "British Columbia",
+          "British Columbia",
+          "Nevada",
+          "District of Columbia",
+          "District of Columbia",
+          "Maryland",
+          "District of Columbia",
+          "Manitoba",
+          "Manitoba"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "League",
+        "values": [
+          "NHL",
+          "NFL",
+          "NHL",
+          "MLB",
+          "MLB",
+          "NFL",
+          "NBA",
+          "MLS",
+          "MLS",
+          "MLB",
+          "NFL",
+          "CFL",
+          "NHL",
+          "NBA",
+          "MLB",
+          "NBA",
+          "NFL",
+          "NHL",
+          "NHL",
+          "CFL",
+          "NHL",
+          "NFL",
+          "NBA",
+          "MLS",
+          "NFL",
+          "NHL",
+          "NBA",
+          "MLB",
+          "MLS",
+          "MLB",
+          "NFL",
+          "MLB",
+          "MLS",
+          "NFL",
+          "NBA",
+          "MLB",
+          "NHL",
+          "MLS",
+          "MLB",
+          "NHL",
+          "MLS",
+          "MLS",
+          "NFL",
+          "NBA",
+          "NHL",
+          "MLS",
+          "NFL",
+          "NBA",
+          "NFL",
+          "NBA",
+          "NHL",
+          "MLB",
+          "CFL",
+          "NHL",
+          "NHL",
+          "NBA",
+          "NFL",
+          "CFL",
+          "MLB",
+          "MLS",
+          "NBA",
+          "NFL",
+          "NBA",
+          "NFL",
+          "NFL",
+          "MLS",
+          "NFL",
+          "MLB",
+          "MLS",
+          "NFL",
+          "MLB",
+          "NFL",
+          "NBA",
+          "MLB",
+          "MLS",
+          "NHL",
+          "NBA",
+          "NFL",
+          "NBA",
+          "NFL",
+          "NBA",
+          "MLS",
+          "MLB",
+          "MLB",
+          "NBA",
+          "NBA",
+          "MLB",
+          "MLS",
+          "NFL",
+          "NHL",
+          "CFL",
+          "NHL",
+          "MLS",
+          "NHL",
+          "MLS",
+          "NFL",
+          "MLS",
+          "NHL",
+          "NBA",
+          "NFL",
+          "MLS",
+          "NFL",
+          "NHL",
+          "NHL",
+          "NFL",
+          "NBA",
+          "MLB",
+          "NHL",
+          "MLS",
+          "MLB",
+          "MLB",
+          "NBA",
+          "MLS",
+          "NBA",
+          "CFL",
+          "NHL",
+          "NBA",
+          "NFL",
+          "NHL",
+          "MLB",
+          "MLS",
+          "NBA",
+          "NHL",
+          "MLB",
+          "NFL",
+          "NBA",
+          "MLS",
+          "NBA",
+          "MLS",
+          "MLS",
+          "NBA",
+          "MLB",
+          "NFL",
+          "MLB",
+          "MLS",
+          "NHL",
+          "CFL",
+          "NHL",
+          "MLB",
+          "MLS",
+          "MLB",
+          "NHL",
+          "NFL",
+          "MLS",
+          "NFL",
+          "NHL",
+          "MLB",
+          "NFL",
+          "MLB",
+          "CFL",
+          "MLB",
+          "MLS",
+          "NHL",
+          "NBA",
+          "NBA",
+          "NHL",
+          "MLS",
+          "NHL",
+          "NHL",
+          "MLB",
+          "NFL",
+          "NBA",
+          "CFL",
+          "NHL"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Est.",
+        "values": [
+          "1993",
+          "1988",
+          "1996",
+          "1998",
+          "1966",
+          "1966",
+          "1968",
+          "2017",
+          "2021",
+          "1954",
+          "1996",
+          "1954",
+          "1924",
+          "1946",
+          "1901",
+          "1967",
+          "1960",
+          "1970",
+          "1980",
+          "1945",
+          "1997",
+          "1995",
+          "2004",
+          "2021",
+          "1921",
+          "1926",
+          "1966",
+          "1870",
+          "1997",
+          "1901",
+          "1968",
+          "1882",
+          "2019",
+          "1946",
+          "1970",
+          "1901",
+          "1995",
+          "1996",
+          "1993",
+          "2000",
+          "1996",
+          "1996",
+          "1960",
+          "1980",
+          "1993",
+          "1996",
+          "1960",
+          "1967",
+          "1934",
+          "1957",
+          "1926",
+          "1901",
+          "1949",
+          "1972",
+          "1993",
+          "1962",
+          "1921",
+          "1950",
+          "1962",
+          "2006",
+          "1971",
+          "2002",
+          "1967",
+          "1984",
+          "1995",
+          "1996",
+          "1963",
+          "1969",
+          "1996",
+          "2020",
+          "1961",
+          "2017",
+          "1984",
+          "1958",
+          "2018",
+          "1967",
+          "1960",
+          "2016",
+          "2001",
+          "1966",
+          "1988",
+          "2020",
+          "1993",
+          "1970",
+          "1968",
+          "1989",
+          "1961",
+          "2017",
+          "1961",
+          "2000",
+          "1946/1996",
+          "1909",
+          "2012",
+          "1998",
+          "2020",
+          "1960",
+          "1996",
+          "1982",
+          "2002",
+          "1967",
+          "2015",
+          "1925",
+          "1972",
+          "1972",
+          "1960",
+          "1946",
+          "1962",
+          "1926",
+          "1996",
+          "1903",
+          "1968",
+          "2008",
+          "2015",
+          "1989",
+          "1876/2002/2014",
+          "1992",
+          "1963",
+          "1933",
+          "1967",
+          "1883",
+          "2010",
+          "1968",
+          "1967",
+          "1882",
+          "1933",
+          "1970",
+          "2011",
+          "1985",
+          "2022",
+          "2005",
+          "1973",
+          "1969",
+          "1946",
+          "1958",
+          "1996",
+          "1991",
+          "1910",
+          "1967",
+          "1882",
+          "2022",
+          "1977",
+          "2021",
+          "1976",
+          "2009",
+          "1976",
+          "1992",
+          "1998",
+          "1997",
+          "1972",
+          "1873",
+          "1977",
+          "2007",
+          "1917",
+          "1995",
+          "1979",
+          "1970",
+          "2011",
+          "2017",
+          "1974",
+          "2005",
+          "1937",
+          "1973",
+          "1930",
+          "2011"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Franchise notes",
+        "values": [
+          "",
+          "Previously the Chicago Cardinals (1920–1959) and St. Louis Cardinals (1960–1987).",
+          "Previously the Winnipeg Jets (1972–1996).",
+          "",
+          "Previously the Boston Braves (1871–1952) and Milwaukee Braves (1953–1965).",
+          "",
+          "Previously the Tri-Cities Blackhawks (1949–1951), Milwaukee Hawks (1951–1955) and St. Louis Hawks (1955–1968).",
+          "",
+          "Expansion team that will begin play in 2021.",
+          "Previously the Milwaukee Brewers (1901) and St. Louis Browns (1902–1953).",
+          "The NFL considers the Ravens to have been created in 1996, despite being the same corporate entity as the previous season's Cleveland Browns. See also  Cleveland Browns relocation controversy .",
+          "",
+          "",
+          "",
+          "",
+          "Previously known as the New Jersey Americans (1967–1968), New York Nets (1968–1977) and New Jersey Nets (1977–2012).",
+          "",
+          "",
+          "Previously the Atlanta Flames (1972–1980).",
+          "",
+          "Previously the Hartford Whalers (1972–1997).",
+          "",
+          "As part of a collaboration between this franchise, the New Orleans Pelicans and the NBA, the history of the original Charlotte Hornets (1988–2002), along with the history of the Charlotte Bobcats, are all now part of the history of the current Hornets franchise.",
+          "Expansion team that will begin play in 2021.",
+          "Previously the Decatur Staleys (1920).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "The original Browns relocated to Baltimore , Maryland and became the Baltimore Ravens in 1996. The NFL considers the original team and the current, founded in 1999 , as one franchise. See also  Cleveland Browns relocation controversy .",
+          "",
+          "",
+          "Previously the Quebec Nordiques (1972–1995).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the Minnesota North Stars (1967–1993).",
+          "",
+          "",
+          "",
+          "Previously the Portsmouth Spartans (1929–1933).",
+          "Previously the Fort Wayne Pistons (1948–1957).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the Philadelphia Warriors (1946–1962).",
+          "",
+          "Formed by the merger of the Hamilton Tigers (1869) and Hamilton Wildcats (1941).",
+          "",
+          "Formed from by the transfer of the roster of the San Jose Earthquakes , who went on hiatus.",
+          "Previously the San Diego Rockets (1967–1971).",
+          "",
+          "",
+          "Previously the Baltimore Colts (1953–1983). See also  Baltimore Colts relocation to Indianapolis .",
+          "",
+          "Played in Kansas City, Missouri 1996–2008.",
+          "Previously the Dallas Texans (1960–1962).",
+          "",
+          "",
+          "Previously the Oakland Raiders (1960–1982 and 1995–2019) and Los Angeles Raiders (1982–1994). See also  Oakland Raiders relocation to Las Vegas .",
+          "",
+          "Previously the San Diego Chargers (1961–2016). Previously located in Los Angeles in 1960.",
+          "Previously the Buffalo Braves (1970–1978) and San Diego Clippers (1978–1984).",
+          "Previously the Brooklyn Dodgers (1884–1957).",
+          "",
+          "",
+          "Previously the Minneapolis Lakers (1948–1960).",
+          "Previously the Cleveland Rams (1937–1945) and St. Louis Rams (1995–2015). Previously located in Los Angeles from 1946–1994.",
+          "Previously the Vancouver Grizzlies (1995–2001). See also  Vancouver Grizzlies relocation to Memphis .",
+          "",
+          "",
+          "Expansion team that will begin play in 2020.",
+          "",
+          "Previously the Seattle Pilots (1969).",
+          "",
+          "",
+          "Previously the Washington Senators (1901–1960).",
+          "",
+          "",
+          "",
+          "The CFL considers all incarnations of the Alouettes one franchise. Current incarnation is a result of a move by the Baltimore Stallions (1994–1995) ownership, but the Stallions are not considered part of the Alouettes franchise.",
+          "",
+          "",
+          "",
+          "Expansion team that will begin play in 2020.",
+          "",
+          "",
+          "Previously the Kansas City Scouts (1974–1976) and Colorado Rockies (1976–1982).",
+          "Temporarily relocated to Oklahoma City (2005–2007).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the Philadelphia Athletics (1901–1954) and Kansas City Athletics (1955–1967).",
+          "Previously the Seattle SuperSonics (1967–2008). See also  Seattle SuperSonics relocation to Oklahoma City .",
+          "",
+          "",
+          "Since 2017, the CFL has treated all Ottawa-based teams in the CFL and its predecessor leagues as a single entity for record-keeping purposes. The previous teams were the Ottawa Rough Riders (1876–1996) and Ottawa Renegades (2002–2005).",
+          "",
+          "Previously the Syracuse Nationals (1949–1963).",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the Rochester Royals (1948–1957), Cincinnati Royals (1957–1972) and Kansas City Kings (1972–1985).",
+          "Expansion team that will begin play in 2022.",
+          "",
+          "Previously the Dallas Chaparrals (1967–1973).",
+          "",
+          "",
+          "Previously the New York Giants (1883–1957).",
+          "The franchise was placed on hiatus in 2006, with the roster moving to Houston , Texas to become the Dynamo , and reactivated in 2008.",
+          "",
+          "",
+          "",
+          "",
+          "Expansion team that will begin play in 2022.",
+          "",
+          "Expansion team that will begin play in 2021.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the Houston Oilers (1960–1996).",
+          "Previously the Washington Senators (1961–1971)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Previously the New Orleans Jazz (1974–1979).",
+          "",
+          "",
+          "Expansion team that began play in 2017; first major professional sports team ever in Nevada and in Las Vegas.",
+          "",
+          "Previously the Montreal Expos (1969–2004). During the franchise's last two seasons as the Expos, it split its home schedule between Montreal and San Juan, Puerto Rico .",
+          "Previously the Boston Redskins (1932–1936).",
+          "Previously the Chicago Packers/Zephyrs (1961–1963), Baltimore Bullets (1963–1973), Capital Bullets (1973–1974) and Washington Bullets (1974–1997).",
+          "",
+          "Previously the Atlanta Thrashers (1999–2011)."
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Ref",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Major professional sports teams of the United States and Canada",
+    "page_url": "https://en.wikipedia.org/wiki/Major_professional_sports_teams_of_the_United_States_and_Canada",
+    "page_entity_id": "Q6738356"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Anaheim_Ducks",
+          "entity_id": "Q192751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Honda_Center",
+          "entity_id": "Q774138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Anaheim,_California",
+          "entity_id": "Q49247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Arizona_Cardinals",
+          "entity_id": "Q224164"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/State_Farm_Stadium",
+          "entity_id": "Q756433"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Glendale,_Arizona",
+          "entity_id": "Q51682"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Arizona",
+          "entity_id": "Q816"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Chicago_Cardinals",
+          "entity_id": "Q5869212"
+        },
+        {
+          "start": 49,
+          "end": 68,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_St._Louis_Cardinals_(NFL)",
+          "entity_id": "Q16980328"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Arizona_Coyotes",
+          "entity_id": "Q206312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gila_River_Arena",
+          "entity_id": "Q1421377"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Glendale,_Arizona",
+          "entity_id": "Q51682"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Arizona",
+          "entity_id": "Q816"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg_Jets_(1972%E2%80%931996)",
+          "entity_id": "Q576406"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Arizona_Diamondbacks",
+          "entity_id": "Q670376"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chase_Field",
+          "entity_id": "Q1068011"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phoenix,_Arizona",
+          "entity_id": "Q16556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Arizona",
+          "entity_id": "Q816"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Braves",
+          "entity_id": "Q461595"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Truist_Park",
+          "entity_id": "Q17003430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "entity_id": "Q1428"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Boston_Braves",
+          "entity_id": "Q5869139"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Falcons",
+          "entity_id": "Q272059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_Stadium",
+          "entity_id": "Q7007552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "entity_id": "Q1428"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Hawks",
+          "entity_id": "Q159893"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/State_Farm_Arena",
+          "entity_id": "Q1123297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "entity_id": "Q1428"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_United_FC",
+          "entity_id": "Q16836317"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_Stadium",
+          "entity_id": "Q7007552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(U.S._state)",
+          "entity_id": "Q1428"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Austin_FC",
+          "entity_id": "Q60643348"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Austin_FC_stadium",
+          "entity_id": "Q56278477"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Austin",
+          "entity_id": "Q16559"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas_(U.S._state)",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Orioles",
+          "entity_id": "Q650816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Oriole_Park_at_Camden_Yards",
+          "entity_id": "Q1141174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baltimore",
+          "entity_id": "Q5092"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Maryland",
+          "entity_id": "Q1391"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 44,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_St._Louis_Browns",
+          "entity_id": "Q11314813"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Ravens",
+          "entity_id": "Q276539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/M%26T_Bank_Stadium",
+          "entity_id": "Q1141336"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baltimore",
+          "entity_id": "Q5092"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Maryland",
+          "entity_id": "Q1391"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 152,
+          "end": 191,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Browns_relocation_controversy",
+          "entity_id": "Q5132076"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/BC_Lions",
+          "entity_id": "Q919062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/BC_Place",
+          "entity_id": "Q612227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia",
+          "entity_id": "Q1974"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Boston_Bruins",
+          "entity_id": "Q194121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/TD_Garden",
+          "entity_id": "Q432105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Massachusetts",
+          "entity_id": "Q771"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Boston_Celtics",
+          "entity_id": "Q131371"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/TD_Garden",
+          "entity_id": "Q432105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Massachusetts",
+          "entity_id": "Q771"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Boston_Red_Sox",
+          "entity_id": "Q213959"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Fenway_Park",
+          "entity_id": "Q49136"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Massachusetts",
+          "entity_id": "Q771"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Brooklyn_Nets",
+          "entity_id": "Q572134"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Barclays_Center",
+          "entity_id": "Q807966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Buffalo_Bills",
+          "entity_id": "Q221626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_Era_Field",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Orchard_Park_(town),_New_York",
+          "entity_id": "Q2482999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Buffalo_Sabres",
+          "entity_id": "Q131206"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/KeyBank_Center",
+          "entity_id": "Q1110789"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Buffalo,_New_York",
+          "entity_id": "Q40435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Calgary_Flames",
+          "entity_id": "Q194126"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Scotiabank_Saddledome",
+          "entity_id": "Q1140083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Calgary",
+          "entity_id": "Q36312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alberta",
+          "entity_id": "Q1951"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Flames",
+          "entity_id": "Q756173"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Calgary_Stampeders",
+          "entity_id": "Q1026679"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/McMahon_Stadium",
+          "entity_id": "Q1810204"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Calgary",
+          "entity_id": "Q36312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alberta",
+          "entity_id": "Q1951"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Carolina_Hurricanes",
+          "entity_id": "Q201857"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/PNC_Arena",
+          "entity_id": "Q39177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Raleigh,_North_Carolina",
+          "entity_id": "Q41087"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina",
+          "entity_id": "Q1454"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Hartford_Whalers",
+          "entity_id": "Q830968"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Carolina_Panthers",
+          "entity_id": "Q330120"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bank_of_America_Stadium",
+          "entity_id": "Q806673"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina",
+          "entity_id": "Q1454"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Charlotte_Hornets",
+          "entity_id": "Q163480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Spectrum_Center_(arena)",
+          "entity_id": "Q983870"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina",
+          "entity_id": "Q1454"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 55,
+          "end": 75,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Pelicans",
+          "entity_id": "Q172339"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Charlotte_MLS_team",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bank_of_America_Stadium",
+          "entity_id": "Q806673"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina",
+          "entity_id": "Q1454"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Bears",
+          "entity_id": "Q205033"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soldier_Field",
+          "entity_id": "Q1132413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Blackhawks",
+          "entity_id": "Q209636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_Center",
+          "entity_id": "Q639975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Bulls",
+          "entity_id": "Q128109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_Center",
+          "entity_id": "Q639975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Cubs",
+          "entity_id": "Q246782"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wrigley_Field",
+          "entity_id": "Q1052807"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Fire_FC",
+          "entity_id": "Q308683"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soldier_Field",
+          "entity_id": "Q1132413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chicago_White_Sox",
+          "entity_id": "Q335169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Guaranteed_Rate_Field",
+          "entity_id": "Q633613"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Illinois",
+          "entity_id": "Q1204"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati_Bengals",
+          "entity_id": "Q223511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Paul_Brown_Stadium",
+          "entity_id": "Q1632294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati_Reds",
+          "entity_id": "Q826751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Great_American_Ball_Park",
+          "entity_id": "Q979975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/FC_Cincinnati",
+          "entity_id": "Q20855983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nippert_Stadium",
+          "entity_id": "Q3342107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Browns",
+          "entity_id": "Q223527"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/FirstEnergy_Stadium",
+          "entity_id": "Q1100756"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 33,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Baltimore",
+          "entity_id": "Q5092"
+        },
+        {
+          "start": 45,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/Maryland",
+          "entity_id": "Q1391"
+        },
+        {
+          "start": 69,
+          "end": 85,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Ravens",
+          "entity_id": "Q276539"
+        },
+        {
+          "start": 159,
+          "end": 163,
+          "url": "http://en.wikipedia.org/wiki/1999_NFL_season",
+          "entity_id": "Q1423491"
+        },
+        {
+          "start": 194,
+          "end": 233,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Browns_relocation_controversy",
+          "entity_id": "Q5132076"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Cavaliers",
+          "entity_id": "Q162990"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Rocket_Mortgage_FieldHouse",
+          "entity_id": "Q387157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Indians",
+          "entity_id": "Q642553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Progressive_Field",
+          "entity_id": "Q1154053"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Colorado_Avalanche",
+          "entity_id": "Q206297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pepsi_Center",
+          "entity_id": "Q795470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colorado",
+          "entity_id": "Q1261"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Quebec_Nordiques",
+          "entity_id": "Q530764"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Colorado_Rapids",
+          "entity_id": "Q642408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Dick%27s_Sporting_Goods_Park",
+          "entity_id": "Q1210268"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Commerce_City,_Colorado",
+          "entity_id": "Q994452"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colorado",
+          "entity_id": "Q1261"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Colorado_Rockies",
+          "entity_id": "Q388858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Coors_Field",
+          "entity_id": "Q1129916"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colorado",
+          "entity_id": "Q1261"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Columbus_Blue_Jackets",
+          "entity_id": "Q207507"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nationwide_Arena",
+          "entity_id": "Q166503"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Columbus_Crew_SC",
+          "entity_id": "Q457163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mapfre_Stadium",
+          "entity_id": "Q1112858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ohio",
+          "entity_id": "Q1397"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/FC_Dallas",
+          "entity_id": "Q642291"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Toyota_Stadium_(Texas)",
+          "entity_id": "Q1140457"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Frisco,_Texas",
+          "entity_id": "Q128269"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Dallas_Cowboys",
+          "entity_id": "Q204862"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/AT%26T_Stadium",
+          "entity_id": "Q838284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Arlington,_Texas",
+          "entity_id": "Q17943"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Dallas_Mavericks",
+          "entity_id": "Q132893"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/American_Airlines_Center",
+          "entity_id": "Q463345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dallas_Stars",
+          "entity_id": "Q208652"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/American_Airlines_Center",
+          "entity_id": "Q463345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_North_Stars",
+          "entity_id": "Q902512"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/D.C._United",
+          "entity_id": "Q238593"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Audi_Field",
+          "entity_id": "Q5203387"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Denver_Broncos",
+          "entity_id": "Q223507"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Empower_Field_at_Mile_High",
+          "entity_id": "Q1046135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colorado",
+          "entity_id": "Q1261"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Denver_Nuggets",
+          "entity_id": "Q162954"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pepsi_Center",
+          "entity_id": "Q795470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colorado",
+          "entity_id": "Q1261"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Detroit_Lions",
+          "entity_id": "Q271880"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ford_Field",
+          "entity_id": "Q1142586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Michigan",
+          "entity_id": "Q1166"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Detroit_Pistons",
+          "entity_id": "Q169661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Little_Caesars_Arena",
+          "entity_id": "Q18154984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Michigan",
+          "entity_id": "Q1166"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Detroit_Red_Wings",
+          "entity_id": "Q194116"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Little_Caesars_Arena",
+          "entity_id": "Q18154984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Michigan",
+          "entity_id": "Q1166"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Detroit_Tigers",
+          "entity_id": "Q650855"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Comerica_Park",
+          "entity_id": "Q868482"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Michigan",
+          "entity_id": "Q1166"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Edmonton_Eskimos",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_Stadium_(Edmonton)",
+          "entity_id": "Q130381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Edmonton",
+          "entity_id": "Q2096"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alberta",
+          "entity_id": "Q1951"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Edmonton_Oilers",
+          "entity_id": "Q205973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rogers_Place",
+          "entity_id": "Q5339036"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Edmonton",
+          "entity_id": "Q2096"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alberta",
+          "entity_id": "Q1951"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Florida_Panthers",
+          "entity_id": "Q204623"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/BB%26T_Center_(Sunrise,_Florida)",
+          "entity_id": "Q795526"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sunrise,_Florida",
+          "entity_id": "Q506375"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Golden_State_Warriors",
+          "entity_id": "Q157376"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chase_Center",
+          "entity_id": "Q15262098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Green_Bay_Packers",
+          "entity_id": "Q213837"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lambeau_Field",
+          "entity_id": "Q860790"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Green_Bay,_Wisconsin",
+          "entity_id": "Q47430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wisconsin",
+          "entity_id": "Q1537"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_Tiger-Cats",
+          "entity_id": "Q44149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tim_Hortons_Field",
+          "entity_id": "Q7008048"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hamilton,_Ontario",
+          "entity_id": "Q133116"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 28,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_Tigers_(football)",
+          "entity_id": "Q5645179"
+        },
+        {
+          "start": 55,
+          "end": 72,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_Wildcats_(Canadian_football)",
+          "entity_id": "Q5645251"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston_Astros",
+          "entity_id": "Q848117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Minute_Maid_Park",
+          "entity_id": "Q1193671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston_Dynamo",
+          "entity_id": "Q328313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/BBVA_Stadium",
+          "entity_id": "Q176460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 49,
+          "end": 69,
+          "url": "http://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+          "entity_id": "Q575370"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Houston_Rockets",
+          "entity_id": "Q161345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Toyota_Center",
+          "entity_id": "Q1166157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston_Texans",
+          "entity_id": "Q223514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/NRG_Stadium",
+          "entity_id": "Q1058864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Indiana_Pacers",
+          "entity_id": "Q170329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bankers_Life_Fieldhouse",
+          "entity_id": "Q545007"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Indiana",
+          "entity_id": "Q1415"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis_Colts",
+          "entity_id": "Q193753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lucas_Oil_Stadium",
+          "entity_id": "Q867160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Indiana",
+          "entity_id": "Q1415"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Baltimore_Colts",
+          "entity_id": "Q5869128"
+        },
+        {
+          "start": 54,
+          "end": 96,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Colts_relocation_to_Indianapolis",
+          "entity_id": "Q4852832"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Jacksonville_Jaguars",
+          "entity_id": "Q272223"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/TIAA_Bank_Field",
+          "entity_id": "Q635117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jacksonville,_Florida",
+          "entity_id": "Q16568"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Sporting_Kansas_City",
+          "entity_id": "Q329812"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Children%27s_Mercy_Park",
+          "entity_id": "Q1787141"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Kansas",
+          "entity_id": "Q486472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kansas",
+          "entity_id": "Q1558"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 10,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Chiefs",
+          "entity_id": "Q223522"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Arrowhead_Stadium",
+          "entity_id": "Q544553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missouri",
+          "entity_id": "Q1581"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Royals",
+          "entity_id": "Q744530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kauffman_Stadium",
+          "entity_id": "Q1737017"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missouri",
+          "entity_id": "Q1581"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/LA_Galaxy",
+          "entity_id": "Q204357"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Dignity_Health_Sports_Park",
+          "entity_id": "Q200684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Carson,_California",
+          "entity_id": "Q494690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Raiders",
+          "entity_id": "Q324523"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Allegiant_Stadium",
+          "entity_id": "Q27768421"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Paradise,_Nevada",
+          "entity_id": "Q984542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Oakland_Raiders",
+          "entity_id": "Q5870124"
+        },
+        {
+          "start": 61,
+          "end": 80,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Los_Angeles_Raiders",
+          "entity_id": "Q22097387"
+        },
+        {
+          "start": 104,
+          "end": 143,
+          "url": "http://en.wikipedia.org/wiki/Oakland_Raiders_relocation_to_Las_Vegas",
+          "entity_id": "Q29098329"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Angels",
+          "entity_id": "Q743309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Angel_Stadium",
+          "entity_id": "Q531897"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Anaheim,_California",
+          "entity_id": "Q49247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Chargers",
+          "entity_id": "Q272220"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sofi_Stadium",
+          "entity_id": "Q19520501"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Inglewood,_California",
+          "entity_id": "Q621549"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_San_Diego_Chargers",
+          "entity_id": "Q17015216"
+        },
+        {
+          "start": 69,
+          "end": 80,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Los_Angeles_Chargers",
+          "entity_id": "Q28454720"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Clippers",
+          "entity_id": "Q976396"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Staples_Center",
+          "entity_id": "Q186080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Buffalo_Braves",
+          "entity_id": "Q1100222"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Dodgers",
+          "entity_id": "Q334634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Dodger_Stadium",
+          "entity_id": "Q247420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Brooklyn_Dodgers",
+          "entity_id": "Q5869184"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_FC",
+          "entity_id": "Q18380286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Banc_of_California_Stadium",
+          "entity_id": "Q22096111"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Kings",
+          "entity_id": "Q203008"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Staples_Center",
+          "entity_id": "Q186080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Lakers",
+          "entity_id": "Q121783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Staples_Center",
+          "entity_id": "Q186080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Rams",
+          "entity_id": "Q337377"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sofi_Stadium",
+          "entity_id": "Q19520501"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Inglewood,_California",
+          "entity_id": "Q621549"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Cleveland_Rams",
+          "entity_id": "Q5132219"
+        },
+        {
+          "start": 46,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_St._Louis_Rams",
+          "entity_id": "Q5870467"
+        },
+        {
+          "start": 96,
+          "end": 107,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Los_Angeles_Rams",
+          "entity_id": "Q5869920"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Memphis_Grizzlies",
+          "entity_id": "Q165529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/FedExForum",
+          "entity_id": "Q641212"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Memphis,_Tennessee",
+          "entity_id": "Q16563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tennessee",
+          "entity_id": "Q1509"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Grizzlies",
+          "entity_id": "Q3307390"
+        },
+        {
+          "start": 58,
+          "end": 99,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Grizzlies_relocation_to_Memphis",
+          "entity_id": "Q3895161"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Miami_Dolphins",
+          "entity_id": "Q223243"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Hard_Rock_Stadium",
+          "entity_id": "Q864339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Miami_Gardens,_Florida",
+          "entity_id": "Q721455"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Miami_Heat",
+          "entity_id": "Q169138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/American_Airlines_Arena",
+          "entity_id": "Q420129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Miami",
+          "entity_id": "Q8652"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Inter_Miami_CF",
+          "entity_id": "Q16844931"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Inter_Miami_CF_Stadium",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Fort_Lauderdale",
+          "entity_id": "Q165972"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Miami_Marlins",
+          "entity_id": "Q652879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marlins_Park",
+          "entity_id": "Q1368138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Miami",
+          "entity_id": "Q8652"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee_Brewers",
+          "entity_id": "Q848103"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Miller_Park",
+          "entity_id": "Q1339293"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wisconsin",
+          "entity_id": "Q1537"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Pilots",
+          "entity_id": "Q7442149"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee_Bucks",
+          "entity_id": "Q169637"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fiserv_Forum",
+          "entity_id": "Q20372160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wisconsin",
+          "entity_id": "Q1537"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Timberwolves",
+          "entity_id": "Q170558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Target_Center",
+          "entity_id": "Q282675"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Minnesota",
+          "entity_id": "Q1527"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Twins",
+          "entity_id": "Q604879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Target_Field",
+          "entity_id": "Q1156635"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Minnesota",
+          "entity_id": "Q1527"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Washington_Senators_(1901%E2%80%9360)",
+          "entity_id": "Q17030254"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_United_FC",
+          "entity_id": "Q19828435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Allianz_Field",
+          "entity_id": "Q22096631"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+          "entity_id": "Q28848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Minnesota",
+          "entity_id": "Q1527"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Vikings",
+          "entity_id": "Q221150"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/U.S._Bank_Stadium",
+          "entity_id": "Q7929512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Minnesota",
+          "entity_id": "Q1527"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Wild",
+          "entity_id": "Q206357"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Xcel_Energy_Center",
+          "entity_id": "Q1421388"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+          "entity_id": "Q28848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Minnesota",
+          "entity_id": "Q1527"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Alouettes",
+          "entity_id": "Q576837"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Percival_Molson_Memorial_Stadium",
+          "entity_id": "Q732147"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Quebec",
+          "entity_id": "Q176"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 116,
+          "end": 135,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Stallions",
+          "entity_id": "Q3496446"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Canadiens",
+          "entity_id": "Q188143"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bell_Centre",
+          "entity_id": "Q522282"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Quebec",
+          "entity_id": "Q176"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Impact",
+          "entity_id": "Q167615"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Saputo_Stadium",
+          "entity_id": "Q2093647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Quebec",
+          "entity_id": "Q176"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Nashville_Predators",
+          "entity_id": "Q207980"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bridgestone_Arena",
+          "entity_id": "Q302869"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "entity_id": "Q23197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tennessee",
+          "entity_id": "Q1509"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nashville_SC_(MLS)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nissan_Stadium",
+          "entity_id": "Q1142992"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "entity_id": "Q23197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tennessee",
+          "entity_id": "Q1509"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/New_England_Patriots",
+          "entity_id": "Q193390"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gillette_Stadium",
+          "entity_id": "Q373355"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Foxborough,_Massachusetts",
+          "entity_id": "Q830669"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Massachusetts",
+          "entity_id": "Q771"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/New_England_Revolution",
+          "entity_id": "Q309095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gillette_Stadium",
+          "entity_id": "Q373355"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Foxborough,_Massachusetts",
+          "entity_id": "Q830669"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Massachusetts",
+          "entity_id": "Q771"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/New_Jersey_Devils",
+          "entity_id": "Q192081"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Prudential_Center",
+          "entity_id": "Q849027"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Newark,_New_Jersey",
+          "entity_id": "Q25395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/New_Jersey",
+          "entity_id": "Q1408"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Scouts",
+          "entity_id": "Q939098"
+        },
+        {
+          "start": 50,
+          "end": 66,
+          "url": "http://en.wikipedia.org/wiki/Colorado_Rockies_(NHL)",
+          "entity_id": "Q868358"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Pelicans",
+          "entity_id": "Q172339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Smoothie_King_Center",
+          "entity_id": "Q1515840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Louisiana",
+          "entity_id": "Q1588"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Effect_of_Hurricane_Katrina_on_the_New_Orleans_Hornets",
+          "entity_id": "Q5347219"
+        },
+        {
+          "start": 25,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City",
+          "entity_id": "Q34863"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans_Saints",
+          "entity_id": "Q172435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_Superdome",
+          "entity_id": "Q756452"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Louisiana",
+          "entity_id": "Q1588"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/New_York_City_FC",
+          "entity_id": "Q13361030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Yankee_Stadium",
+          "entity_id": "Q753529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/New_York_Giants",
+          "entity_id": "Q190618"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Metlife_Stadium",
+          "entity_id": "Q10862290"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey",
+          "entity_id": "Q746830"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/New_Jersey",
+          "entity_id": "Q1408"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York_Islanders",
+          "entity_id": "Q194369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Barclays_Center",
+          "entity_id": "Q807966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York_Islanders",
+          "entity_id": "Q194369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Nassau_Veterans_Memorial_Coliseum",
+          "entity_id": "Q1048921"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Uniondale,_New_York",
+          "entity_id": "Q985341"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_Jets",
+          "entity_id": "Q219602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Metlife_Stadium",
+          "entity_id": "Q10862290"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/East_Rutherford,_New_Jersey",
+          "entity_id": "Q746830"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/New_Jersey",
+          "entity_id": "Q1408"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/New_York_Knicks",
+          "entity_id": "Q131364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Madison_Square_Garden",
+          "entity_id": "Q186125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_Mets",
+          "entity_id": "Q692417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Citi_Field",
+          "entity_id": "Q1072882"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/New_York_Rangers",
+          "entity_id": "Q188984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Madison_Square_Garden",
+          "entity_id": "Q186125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York_Red_Bulls",
+          "entity_id": "Q204220"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Red_Bull_Arena_(New_Jersey)",
+          "entity_id": "Q761682"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Harrison,_New_Jersey",
+          "entity_id": "Q336330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/New_Jersey",
+          "entity_id": "Q1408"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/New_York_Yankees",
+          "entity_id": "Q213417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Yankee_Stadium",
+          "entity_id": "Q753529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_(state)",
+          "entity_id": "Q1384"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Oakland_Athletics",
+          "entity_id": "Q504339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Oakland_Coliseum",
+          "entity_id": "Q1147732"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland,_California",
+          "entity_id": "Q17042"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Philadelphia_Athletics",
+          "entity_id": "Q5870201"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City_Thunder",
+          "entity_id": "Q180950"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Chesapeake_Energy_Arena",
+          "entity_id": "Q665434"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City",
+          "entity_id": "Q34863"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma",
+          "entity_id": "Q1649"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Seattle_SuperSonics",
+          "entity_id": "Q235326"
+        },
+        {
+          "start": 58,
+          "end": 105,
+          "url": "http://en.wikipedia.org/wiki/Seattle_SuperSonics_relocation_to_Oklahoma_City",
+          "entity_id": "Q4350323"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Orlando_City_SC",
+          "entity_id": "Q15214308"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Exploria_Stadium",
+          "entity_id": "Q16846942"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Orlando,_Florida",
+          "entity_id": "Q49233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Orlando_Magic",
+          "entity_id": "Q161337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Amway_Center",
+          "entity_id": "Q481795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Orlando,_Florida",
+          "entity_id": "Q49233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ottawa_Redblacks",
+          "entity_id": "Q7109151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/TD_Place_Stadium",
+          "entity_id": "Q1442809"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ottawa",
+          "entity_id": "Q1930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 170,
+          "end": 189,
+          "url": "http://en.wikipedia.org/wiki/Ottawa_Rough_Riders",
+          "entity_id": "Q3361518"
+        },
+        {
+          "start": 206,
+          "end": 222,
+          "url": "http://en.wikipedia.org/wiki/Ottawa_Renegades",
+          "entity_id": "Q471136"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ottawa_Senators",
+          "entity_id": "Q203013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Canadian_Tire_Centre",
+          "entity_id": "Q1327290"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ottawa",
+          "entity_id": "Q1930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_76ers",
+          "entity_id": "Q138089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Wells_Fargo_Center_(Philadelphia)",
+          "entity_id": "Q818735"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_Eagles",
+          "entity_id": "Q219714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Lincoln_Financial_Field",
+          "entity_id": "Q1052370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_Flyers",
+          "entity_id": "Q192083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Wells_Fargo_Center_(Philadelphia)",
+          "entity_id": "Q818735"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_Phillies",
+          "entity_id": "Q650840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Citizens_Bank_Park",
+          "entity_id": "Q912770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_Union",
+          "entity_id": "Q689874"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Talen_Energy_Stadium",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chester,_Pennsylvania",
+          "entity_id": "Q368045"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Phoenix_Suns",
+          "entity_id": "Q164177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Talking_Stick_Resort_Arena",
+          "entity_id": "Q1538690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phoenix,_Arizona",
+          "entity_id": "Q16556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Arizona",
+          "entity_id": "Q816"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh_Penguins",
+          "entity_id": "Q193643"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/PPG_Paints_Arena",
+          "entity_id": "Q595460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh",
+          "entity_id": "Q1342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh_Pirates",
+          "entity_id": "Q653772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/PNC_Park",
+          "entity_id": "Q1151177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh",
+          "entity_id": "Q1342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh_Steelers",
+          "entity_id": "Q191477"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Heinz_Field",
+          "entity_id": "Q1067148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh",
+          "entity_id": "Q1342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Portland_Trail_Blazers",
+          "entity_id": "Q167253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Moda_Center",
+          "entity_id": "Q1347442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+          "entity_id": "Q6106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oregon",
+          "entity_id": "Q824"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Portland_Timbers",
+          "entity_id": "Q1031200"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Providence_Park",
+          "entity_id": "Q262291"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+          "entity_id": "Q6106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oregon",
+          "entity_id": "Q824"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sacramento_Kings",
+          "entity_id": "Q166105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Golden_1_Center",
+          "entity_id": "Q7011384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Sacramento_Republic_FC",
+          "entity_id": "Q7397036"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Railyards_Stadium",
+          "entity_id": "Q85795671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Real_Salt_Lake",
+          "entity_id": "Q391353"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Rio_Tinto_Stadium",
+          "entity_id": "Q1514798"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sandy,_Utah",
+          "entity_id": "Q52470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Utah",
+          "entity_id": "Q829"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/San_Antonio_Spurs",
+          "entity_id": "Q159729"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/AT%26T_Center",
+          "entity_id": "Q298573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/San_Antonio",
+          "entity_id": "Q975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Dallas_Chaparrals",
+          "entity_id": "Q5211285"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/San_Diego_Padres",
+          "entity_id": "Q721134"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Petco_Park",
+          "entity_id": "Q1194586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/San_Diego",
+          "entity_id": "Q16552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco_49ers",
+          "entity_id": "Q337758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Levi%27s_Stadium",
+          "entity_id": "Q7419343"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Santa_Clara,_California",
+          "entity_id": "Q159260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco_Giants",
+          "entity_id": "Q308966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Oracle_Park",
+          "entity_id": "Q298585"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_New_York_Giants_(NL)",
+          "entity_id": "Q3024169"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/San_Jose_Earthquakes",
+          "entity_id": "Q575370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Earthquakes_Stadium",
+          "entity_id": "Q3046470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/San_Jose,_California",
+          "entity_id": "Q16553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 70,
+          "end": 77,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        },
+        {
+          "start": 80,
+          "end": 85,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        },
+        {
+          "start": 100,
+          "end": 106,
+          "url": "http://en.wikipedia.org/wiki/Houston_Dynamo",
+          "entity_id": "Q328313"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/San_Jose_Sharks",
+          "entity_id": "Q206381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/SAP_Center",
+          "entity_id": "Q261863"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/San_Jose,_California",
+          "entity_id": "Q16553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Roughriders",
+          "entity_id": "Q596796"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mosaic_Stadium",
+          "entity_id": "Q7011148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Regina,_Saskatchewan",
+          "entity_id": "Q2123"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan",
+          "entity_id": "Q1989"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/St._Louis_Blues",
+          "entity_id": "Q207735"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Enterprise_Center",
+          "entity_id": "Q1067700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missouri",
+          "entity_id": "Q1581"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St._Louis_Cardinals",
+          "entity_id": "Q504309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Busch_Stadium",
+          "entity_id": "Q253546"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missouri",
+          "entity_id": "Q1581"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/St._Louis_MLS_team",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/St._Louis_MLS_Stadium",
+          "entity_id": "Q30591730"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missouri",
+          "entity_id": "Q1581"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Mariners",
+          "entity_id": "Q466586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/T-Mobile_Park",
+          "entity_id": "Q1193117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington_(state)",
+          "entity_id": "Q1223"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Seattle_NHL_team",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Key_Arena",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington_(state)",
+          "entity_id": "Q1223"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Seahawks",
+          "entity_id": "Q221878"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/CenturyLink_Field",
+          "entity_id": "Q612736"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington_(state)",
+          "entity_id": "Q1223"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Sounders_FC",
+          "entity_id": "Q632511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/CenturyLink_Field",
+          "entity_id": "Q612736"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington_(state)",
+          "entity_id": "Q1223"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Tampa_Bay_Buccaneers",
+          "entity_id": "Q320476"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Raymond_James_Stadium",
+          "entity_id": "Q1141343"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tampa,_Florida",
+          "entity_id": "Q49255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Tampa_Bay_Lightning",
+          "entity_id": "Q201864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Amalie_Arena",
+          "entity_id": "Q940199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tampa,_Florida",
+          "entity_id": "Q49255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tampa_Bay_Rays",
+          "entity_id": "Q650865"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tropicana_Field",
+          "entity_id": "Q1810119"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/St._Petersburg,_Florida",
+          "entity_id": "Q49236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida",
+          "entity_id": "Q812"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Tennessee_Titans",
+          "entity_id": "Q320484"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nissan_Stadium",
+          "entity_id": "Q1142992"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nashville,_Tennessee",
+          "entity_id": "Q23197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tennessee",
+          "entity_id": "Q1509"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/History_of_the_Houston_Oilers",
+          "entity_id": "Q1439096"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Texas_Rangers_(baseball)",
+          "entity_id": "Q329816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Globe_Life_Field",
+          "entity_id": "Q24284037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Arlington,_Texas",
+          "entity_id": "Q17943"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Texas",
+          "entity_id": "Q1439"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Argonauts",
+          "entity_id": "Q142349"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BMO_Field",
+          "entity_id": "Q796351"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Blue_Jays",
+          "entity_id": "Q650829"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rogers_Centre",
+          "entity_id": "Q76318"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Toronto_FC",
+          "entity_id": "Q327238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BMO_Field",
+          "entity_id": "Q796351"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Maple_Leafs",
+          "entity_id": "Q203384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Scotiabank_Arena",
+          "entity_id": "Q406972"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Raptors",
+          "entity_id": "Q132880"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Scotiabank_Arena",
+          "entity_id": "Q406972"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Utah_Jazz",
+          "entity_id": "Q170649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Vivint_Smart_Home_Arena",
+          "entity_id": "Q82294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City",
+          "entity_id": "Q23337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Utah",
+          "entity_id": "Q829"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Canucks",
+          "entity_id": "Q192890"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rogers_Arena",
+          "entity_id": "Q517318"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia",
+          "entity_id": "Q1974"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Vancouver_Whitecaps_FC",
+          "entity_id": "Q196107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/BC_Place",
+          "entity_id": "Q612227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/British_Columbia",
+          "entity_id": "Q1974"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Vegas_Golden_Knights",
+          "entity_id": "Q24725640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/T-Mobile_Arena",
+          "entity_id": "Q3338973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Paradise,_Nevada",
+          "entity_id": "Q984542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Washington_Capitals",
+          "entity_id": "Q204627"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Capital_One_Arena",
+          "entity_id": "Q223240"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Washington_Nationals",
+          "entity_id": "Q825838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nationals_Park",
+          "entity_id": "Q517545"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Expos",
+          "entity_id": "Q1148233"
+        },
+        {
+          "start": 145,
+          "end": 166,
+          "url": "http://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+          "entity_id": "Q41211"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Washington_Redskins",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/FedExField",
+          "entity_id": "Q583085"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Landover,_Maryland",
+          "entity_id": "Q1811669"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Maryland",
+          "entity_id": "Q1391"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Washington_Wizards",
+          "entity_id": "Q169165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Capital_One_Arena",
+          "entity_id": "Q223240"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg_Blue_Bombers",
+          "entity_id": "Q2117549"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/IG_Field",
+          "entity_id": "Q1671788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg",
+          "entity_id": "Q2135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Manitoba",
+          "entity_id": "Q1948"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg_Jets",
+          "entity_id": "Q472741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bell_MTS_Place",
+          "entity_id": "Q656928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Winnipeg",
+          "entity_id": "Q2135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Manitoba",
+          "entity_id": "Q1948"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Thrashers",
+          "entity_id": "Q244039"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2002_European_Judo_Championships",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Position",
+        "values": [
+          "1.",
+          "2.",
+          "3.",
+          "3.",
+          "5.",
+          "5.",
+          "7.",
+          "7."
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Judoka",
+        "values": [
+          "Yacine Douma",
+          "Elchin Ismayilov",
+          "Nestor Khergiani",
+          "Evgeni Stanev",
+          "John Buchanan",
+          "Cedric Taymans",
+          "Armen Nazaryan",
+          "Ludwig Paischer"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " France",
+          " Azerbaijan",
+          " Georgia",
+          " Russia",
+          " Great Britain",
+          " Belgium",
+          " Armenia",
+          " Austria"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2002 European Judo Championships",
+    "page_url": "https://en.wikipedia.org/wiki/2002_European_Judo_Championships",
+    "page_entity_id": "Q2642454"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yacine_Douma",
+          "entity_id": "Q3571263"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Elchin_Ismayilov",
+          "entity_id": "Q5353848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Azerbaijan",
+          "entity_id": "Q227"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nestor_Khergiani",
+          "entity_id": "Q1396752"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(country)",
+          "entity_id": "Q230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Evgeni_Stanev",
+          "entity_id": "Q5418277"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/John_Buchanan_(judoka)",
+          "entity_id": "Q6223740"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cedric_Taymans",
+          "entity_id": "Q3009963"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Armen_Nazaryan_(judoka)",
+          "entity_id": "Q2029140"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Armenia",
+          "entity_id": "Q399"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ludwig_Paischer",
+          "entity_id": "Q117703"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ]
+  ]
+}

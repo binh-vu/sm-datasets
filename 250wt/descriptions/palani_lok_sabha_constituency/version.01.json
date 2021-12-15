@@ -1,0 +1,70 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Name of M.P."
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Party Affiliation"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Lok Sabha"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Duration"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-2",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      }
+    ]
+  }
+]

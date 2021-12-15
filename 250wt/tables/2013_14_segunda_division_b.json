@@ -1,0 +1,843 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2013–14_Segunda_División_B",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Avilés",
+          "Burgos",
+          "Caudal",
+          "Celta B",
+          "Compostela",
+          "Coruxo",
+          "Cultural",
+          "Guijuelo",
+          "SD Logroñés",
+          "UD Logroñés",
+          "Marino de Luanco",
+          "Noja",
+          "Ourense",
+          "Racing Ferrol",
+          "Racing Santander",
+          "Real Oviedo",
+          "Sporting B",
+          "Tropezón",
+          "Zamora"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Founded",
+        "values": [
+          "1915",
+          "1994",
+          "1918",
+          "1927",
+          "1962",
+          "1930",
+          "1923",
+          "1974",
+          "2009",
+          "2009",
+          "1931",
+          "1963",
+          "1952",
+          "1919",
+          "1913",
+          "1926",
+          "1967",
+          "1983",
+          "1969"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Home city",
+        "values": [
+          "Avilés , Asturias",
+          "Burgos , Castile and León",
+          "Mieres, Asturias",
+          "Vigo , Galicia",
+          "Santiago , Galicia",
+          "Coruxo, Vigo , Galicia",
+          "León , Castile and León",
+          "Guijuelo , Castile and León",
+          "Logroño , La Rioja",
+          "Logroño , La Rioja",
+          "Luanco , Asturias",
+          "Noja , Cantabria",
+          "Ourense , Galicia",
+          "Ferrol, Galicia",
+          "Santander, Cantabria",
+          "Oviedo , Asturias",
+          "Gijón , Asturias",
+          "Tanos, Cantabria",
+          "Zamora , Castile and León"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Stadium",
+        "values": [
+          "Román Suárez Puerta",
+          "El Plantío",
+          "Hermanos Antuña",
+          "Barreiro",
+          "San Lázaro",
+          "O Vao",
+          "Reino de León",
+          "Estadio Municipal",
+          "Las Gaunas",
+          "Las Gaunas",
+          "Miramar",
+          "La Caseta",
+          "O Couto",
+          "A Malata",
+          "El Sardinero",
+          "Carlos Tartiere",
+          "Mareo",
+          "Santa Ana",
+          "Ruta de la Plata"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Capacity",
+        "values": [
+          "7,200",
+          "14,000",
+          "4,500",
+          "4,500",
+          "14,000",
+          "1,200",
+          "13,451",
+          "1,500",
+          "16,000",
+          "16,000",
+          "5,000",
+          "2,500",
+          "5,200",
+          "12,042",
+          "22,222",
+          "30,500",
+          "3,000",
+          "1,500",
+          "8,000"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Kitmaker",
+        "values": [
+          "Joma",
+          "Macron",
+          "Legea",
+          "Adidas",
+          "esedé",
+          "Zico",
+          "Hummel",
+          "Joma",
+          "Mercury",
+          "Adidas",
+          "Joluvi",
+          "Macron",
+          "cdou",
+          "Trezze",
+          "Kelme",
+          "Joma",
+          "Kappa",
+          "Acerbis",
+          "Bemiser"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Sponsor",
+        "values": [
+          "",
+          "",
+          "Rioglass Solar",
+          "Citroën",
+          "Casa y Baño",
+          "Fandiño, Pontevedra",
+          "RMD SA",
+          "Jamón de Guijuelo",
+          "E3Blanco, Tramek",
+          "Natur House",
+          "Posada Org.",
+          "Rio Miera",
+          "Coren",
+          "Reganosa",
+          "",
+          "",
+          "Gijón",
+          "",
+          "Caja Rural"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2013–14 Segunda División B",
+    "page_url": "https://en.wikipedia.org/wiki/2013–14_Segunda_División_B",
+    "page_entity_id": "Q13625221"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Real_Avil%C3%A9s",
+          "entity_id": "Q720872"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Avil%C3%A9s",
+          "entity_id": "Q14649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Rom%C3%A1n_Su%C3%A1rez_Puerta",
+          "entity_id": "Q259637"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Joma",
+          "entity_id": "Q1051799"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Burgos_CF",
+          "entity_id": "Q852079"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Burgos",
+          "entity_id": "Q9580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_El_Plant%C3%ADo",
+          "entity_id": "Q3321211"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Macron_(sportswear)",
+          "entity_id": "Q1439645"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Caudal_Deportivo",
+          "entity_id": "Q864963"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mieres,_Asturias",
+          "entity_id": "Q818376"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Hermanos_Antu%C3%B1a",
+          "entity_id": "Q8842805"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Legea",
+          "entity_id": "Q1343270"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Celta_de_Vigo_B",
+          "entity_id": "Q2311865"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Vigo",
+          "entity_id": "Q8745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Campo_Municipal_de_Barreiro",
+          "entity_id": "Q3393440"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Adidas",
+          "entity_id": "Q3895"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Citro%C3%ABn",
+          "entity_id": "Q6746"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/SD_Compostela",
+          "entity_id": "Q929753"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Santiago_de_Compostela",
+          "entity_id": "Q14314"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Multiusos_de_San_L%C3%A1zaro",
+          "entity_id": "Q84019"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/SD_Compostela",
+          "entity_id": "Q929753"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Coruxo_FC",
+          "entity_id": "Q1100891"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Vigo",
+          "entity_id": "Q8745"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cultural_y_Deportiva_Leonesa",
+          "entity_id": "Q582342"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Le%C3%B3n,_Spain",
+          "entity_id": "Q15699"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Reino_de_Le%C3%B3n",
+          "entity_id": "Q16822"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hummel_International",
+          "entity_id": "Q532310"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/CD_Guijuelo",
+          "entity_id": "Q2310972"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Guijuelo",
+          "entity_id": "Q1605747"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Joma",
+          "entity_id": "Q1051799"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/BEHER_(ham)",
+          "entity_id": "Q814474"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/SD_Logro%C3%B1%C3%A9s",
+          "entity_id": "Q847105"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Logro%C3%B1o",
+          "entity_id": "Q14325"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/La_Rioja,_Spain",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Las_Gaunas",
+          "entity_id": "Q1369314"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/UD_Logro%C3%B1%C3%A9s",
+          "entity_id": "Q1067737"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Logro%C3%B1o",
+          "entity_id": "Q14325"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/La_Rioja,_Spain",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Las_Gaunas",
+          "entity_id": "Q1369314"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Adidas",
+          "entity_id": "Q3895"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Marino_de_Luanco",
+          "entity_id": "Q2421781"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Goz%C3%B3n",
+          "entity_id": "Q818366"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/SD_Noja",
+          "entity_id": "Q2537650"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Noja",
+          "entity_id": "Q1447802"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Macron_(sportswear)",
+          "entity_id": "Q1439645"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/CD_Ourense",
+          "entity_id": "Q856137"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ourense",
+          "entity_id": "Q99151"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/CD_Ourense",
+          "entity_id": "Q856137"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Racing_de_Ferrol",
+          "entity_id": "Q843396"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ferrol,_Galicia",
+          "entity_id": "Q485329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Estadio_de_A_Malata",
+          "entity_id": "Q3327491"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Racing_de_Santander",
+          "entity_id": "Q12236"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Santander,_Cantabria",
+          "entity_id": "Q12233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Estadio_El_Sardinero",
+          "entity_id": "Q195391"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kelme_(company)",
+          "entity_id": "Q1353057"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Real_Oviedo",
+          "entity_id": "Q271574"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oviedo",
+          "entity_id": "Q14317"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere",
+          "entity_id": "Q1369536"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Joma",
+          "entity_id": "Q1051799"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sporting_de_Gij%C3%B3n_B",
+          "entity_id": "Q2982210"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Gij%C3%B3n",
+          "entity_id": "Q12273"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kappa_(company)",
+          "entity_id": "Q735873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Gij%C3%B3n",
+          "entity_id": "Q12273"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/CD_Tropez%C3%B3n",
+          "entity_id": "Q2518580"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cantabria",
+          "entity_id": "Q3946"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zamora_CF",
+          "entity_id": "Q544120"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zamora,_Spain",
+          "entity_id": "Q15696"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Ruta_de_la_Plata",
+          "entity_id": "Q2445114"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Caja_Rural",
+          "entity_id": "Q857251"
+        }
+      ]
+    ]
+  ]
+}

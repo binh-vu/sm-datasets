@@ -1,0 +1,95 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q618123",
+        "rel_uri": "wd:Q618123",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "City"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q6256",
+        "rel_uri": "wd:Q6256",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Country"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q1248784",
+        "rel_uri": "wd:Q1248784",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Airport"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Notes"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P17",
+        "rel_uri": "p:P17",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P931",
+        "rel_uri": "p:P931",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

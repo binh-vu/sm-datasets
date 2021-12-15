@@ -1,0 +1,512 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "NBC_Olympic_broadcasts",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1964 Summer",
+          "1972 Winter",
+          "1980 Summer",
+          "1988 Summer",
+          "1992 Summer",
+          "1996 Summer",
+          "2000 Summer",
+          "2002 Winter",
+          "2004 Summer",
+          "2006 Winter",
+          "2008 Summer",
+          "2010 Winter",
+          "2012 Summer",
+          "2014 Winter",
+          "2016 Summer",
+          "2018 Winter",
+          "2020 Summer",
+          "2022 Winter",
+          "2024 Summer",
+          "2026 Winter",
+          "2028 Summer",
+          "2030 Winter",
+          "2032 Summer"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Host",
+        "values": [
+          "Tokyo, Japan",
+          "Sapporo, Japan",
+          "Moscow, Soviet Union",
+          "Seoul, South Korea",
+          "Barcelona, Spain",
+          "Atlanta, United States",
+          "Sydney, Australia",
+          "Salt Lake City, United States",
+          "Athens, Greece",
+          "Torino, Italy",
+          "Beijing, China",
+          "Vancouver, Canada",
+          "London, United Kingdom",
+          "Sochi, Russia",
+          "Rio de Janeiro, Brazil",
+          "Pyeongchang, South Korea",
+          "Tokyo, Japan",
+          "Beijing, China",
+          "Paris, France",
+          "Milan-Cortina, Italy",
+          "Los Angeles, United States",
+          "TBA",
+          "TBA"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Hours of Coverage",
+        "values": [
+          "15 hours overall.",
+          "37",
+          "primarily highlights (6 hours of highlights)",
+          "179.5",
+          "161 + 1080 on Triplecast",
+          "171",
+          "441.5",
+          "375.5",
+          "1210",
+          "416",
+          "3600",
+          "835",
+          "5535",
+          "1539",
+          "6755",
+          "2400",
+          "TBD",
+          "TBD",
+          "TBD",
+          "TBD",
+          "TBD",
+          "TBD",
+          "TBD"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "NBC Olympic broadcasts",
+    "page_url": "https://en.wikipedia.org/wiki/NBC_Olympic_broadcasts",
+    "page_entity_id": "Q7089093"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1964_Summer_Olympics",
+          "entity_id": "Q8420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tokyo",
+          "entity_id": "Q1490"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1972_Winter_Olympics",
+          "entity_id": "Q9646"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sapporo",
+          "entity_id": "Q37951"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1980_Summer_Olympics",
+          "entity_id": "Q8450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1988_Summer_Olympics",
+          "entity_id": "Q8470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Seoul",
+          "entity_id": "Q8684"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1992_Summer_Olympics",
+          "entity_id": "Q8488"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1996_Summer_Olympics",
+          "entity_id": "Q8531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2000_Summer_Olympics",
+          "entity_id": "Q8544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sydney",
+          "entity_id": "Q3130"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2002_Winter_Olympics",
+          "entity_id": "Q9668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City",
+          "entity_id": "Q23337"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2004_Summer_Olympics",
+          "entity_id": "Q8558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Athens",
+          "entity_id": "Q1524"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2006_Winter_Olympics",
+          "entity_id": "Q9672"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Turin",
+          "entity_id": "Q495"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2008_Summer_Olympics",
+          "entity_id": "Q8567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Beijing",
+          "entity_id": "Q956"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2010_Winter_Olympics",
+          "entity_id": "Q9674"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2012_Summer_Olympics",
+          "entity_id": "Q8577"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2014_Winter_Olympics",
+          "entity_id": "Q9678"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sochi",
+          "entity_id": "Q39420"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2016_Summer_Olympics",
+          "entity_id": "Q8613"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Rio_de_Janeiro",
+          "entity_id": "Q8678"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2018_Winter_Olympics",
+          "entity_id": "Q9680"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Pyeongchang",
+          "entity_id": "Q188624"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2020_Summer_Olympics",
+          "entity_id": "Q181278"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tokyo",
+          "entity_id": "Q1490"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2022_Winter_Olympics",
+          "entity_id": "Q193074"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Beijing",
+          "entity_id": "Q956"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2024_Summer_Olympics",
+          "entity_id": "Q995653"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2026_Winter_Olympics",
+          "entity_id": "Q4630399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Milan",
+          "entity_id": "Q490"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2028_Summer_Olympics",
+          "entity_id": "Q1451505"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      []
+    ]
+  ]
+}

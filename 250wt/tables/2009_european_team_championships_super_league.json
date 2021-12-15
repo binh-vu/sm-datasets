@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2009_European_Team_Championships_Super_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Nelson Évora",
+          "Phillips Idowu",
+          "Fabrizio Schembri",
+          "Mykola Savolaynen",
+          "Karl Taillepierre",
+          "Dimitrios Tsiamis",
+          "Andrés Capellán",
+          "Aleksey Fyodorov",
+          "Charles Friedek",
+          "Paweł Kruhlik",
+          "Tomáš Cholenský",
+          "Andreas Otterling"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Portugal",
+          " Great Britain",
+          " Italy",
+          " Ukraine",
+          " France",
+          " Greece",
+          " Spain",
+          " Russia",
+          " Germany",
+          " Poland",
+          " Czech Republic",
+          " Sweden"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "#1",
+        "values": [
+          "17.47",
+          "17.48",
+          "16.37",
+          "16.51",
+          "14.36",
+          "16.47",
+          "15.87",
+          "16.09",
+          "x",
+          "15.71",
+          "15.56",
+          "15.35"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "#2",
+        "values": [
+          "16.95",
+          "17.50",
+          "17.64",
+          "15.98",
+          "16.48",
+          "16.38",
+          "16.22",
+          "15.94",
+          "16.09",
+          "15.99",
+          "15.11",
+          "x"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "#3",
+        "values": [
+          "17.59",
+          "x",
+          "16.62",
+          "16.32",
+          "x",
+          "x",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 6,
+        "name": "#4",
+        "values": [
+          "x",
+          "17.36",
+          "16.34",
+          "16.18",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Result",
+        "values": [
+          "17.59",
+          "17.50",
+          "16.64",
+          "16.51",
+          "16.48",
+          "16.47",
+          "16.22",
+          "16.09",
+          "16.09",
+          "15.99",
+          "15.56",
+          "15.35"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Points",
+        "values": [
+          "12",
+          "11",
+          "10",
+          "9",
+          "8",
+          "7",
+          "6",
+          "5",
+          "4",
+          "3",
+          "2",
+          "1"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2009 European Team Championships Super League",
+    "page_url": "https://en.wikipedia.org/wiki/2009_European_Team_Championships_Super_League",
+    "page_entity_id": "Q16837429"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nelson_%C3%89vora",
+          "entity_id": "Q303241"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Phillips_Idowu",
+          "entity_id": "Q337435"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Fabrizio_Schembri",
+          "entity_id": "Q946139"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mykola_Savolaynen",
+          "entity_id": "Q3030832"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Karl_Taillepierre",
+          "entity_id": "Q3193475"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dimitrios_Tsiamis",
+          "entity_id": "Q1573642"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Andr%C3%A9s_Capell%C3%A1n&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Aleksey_Fyodorov_(athlete)",
+          "entity_id": "Q2832617"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Charles_Friedek",
+          "entity_id": "Q648217"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Pawe%C5%82_Kruhlik&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tom%C3%A1%C5%A1_Cholensk%C3%BD&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Andreas_Otterling",
+          "entity_id": "Q6030913"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

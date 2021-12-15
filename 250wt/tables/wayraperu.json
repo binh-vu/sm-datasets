@@ -1,0 +1,368 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Wayraperú",
+    "columns": [
+      {
+        "index": 0,
+        "name": "City",
+        "values": [
+          "Arequipa",
+          "Cajamarca",
+          "Chiclayo",
+          "Cusco",
+          "Huánuco",
+          "Iquitos",
+          "Lima",
+          "Piura",
+          "Pucallpa",
+          "Puerto Maldonado",
+          "Rioja",
+          "Tacna",
+          "Talara",
+          "Tarapoto",
+          "Trujillo",
+          "Tumbes",
+          "Yurimaguas"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Airport",
+        "values": [
+          "Rodriguez Ballon International Airport",
+          "My. Gral. FAP. Armando Revoredo Iglesias Airport",
+          "Cap. FAP José A. Quiñones Gonzales International Airport",
+          "Alejandro Velasco Astete International Airport",
+          "Alférez FAP David Figueroa Fernandini Airport",
+          "Coronel FAP Francisco Secada Vignetta International Airport",
+          "Jorge Chávez International Airport",
+          "Cap. FAP Guillermo Concha Iberico International Airport",
+          "Captain Rolden International Airport",
+          "Padre José de Aldamiz International Airport",
+          "Juan Simons Vela Airport",
+          "Crnl. FAP Carlos Ciriani Santa Rosa International Airport",
+          "Cap. FAP Victor Montes Arias International Airport",
+          "Cadete FAP Guillermo del Castillo Paredes Airport",
+          "FAP Captain Carlos Martínez de Pinillos International Airport",
+          "Cap. FAP Pedro Canga Rodríguez Airport",
+          "Moisés Benzaquen Rengifo Airport"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Wayraperú",
+    "page_url": "https://en.wikipedia.org/wiki/Wayraperú",
+    "page_entity_id": "Q3847520"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Arequipa",
+          "entity_id": "Q159273"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Rodriguez_Ballon_International_Airport",
+          "entity_id": "Q1430861"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cajamarca",
+          "entity_id": "Q205119"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 48,
+          "url": "http://en.wikipedia.org/wiki/My._Gral._FAP._Armando_Revoredo_Iglesias_Airport",
+          "entity_id": "Q651471"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chiclayo",
+          "entity_id": "Q260911"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 56,
+          "url": "http://en.wikipedia.org/wiki/Cap._FAP_Jos%C3%A9_A._Qui%C3%B1ones_Gonzales_International_Airport",
+          "entity_id": "Q3275990"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cusco",
+          "entity_id": "Q5582862"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 46,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport",
+          "entity_id": "Q1431170"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hu%C3%A1nuco",
+          "entity_id": "Q504394"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Alf%C3%A9rez_FAP_David_Figueroa_Fernandini_Airport",
+          "entity_id": "Q2232445"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Iquitos",
+          "entity_id": "Q193289"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 59,
+          "url": "http://en.wikipedia.org/wiki/Coronel_FAP_Francisco_Secada_Vignetta_International_Airport",
+          "entity_id": "Q1431540"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Lima",
+          "entity_id": "Q2868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport",
+          "entity_id": "Q1142219"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Piura",
+          "entity_id": "Q223966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 55,
+          "url": "http://en.wikipedia.org/wiki/Cap._FAP_Guillermo_Concha_Iberico_International_Airport",
+          "entity_id": "Q1432372"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pucallpa",
+          "entity_id": "Q217071"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Captain_Rolden_International_Airport",
+          "entity_id": "Q20979014"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Puerto_Maldonado",
+          "entity_id": "Q541435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Puerto_Maldonado_International_Airport",
+          "entity_id": "Q656854"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Rioja,_Peru",
+          "entity_id": "Q3344069"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Juan_Simons_Vela_Airport",
+          "entity_id": "Q555419"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tacna",
+          "entity_id": "Q272795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 57,
+          "url": "http://en.wikipedia.org/wiki/Crnl._FAP_Carlos_Ciriani_Santa_Rosa_International_Airport",
+          "entity_id": "Q1658484"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Talara",
+          "entity_id": "Q723584"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 50,
+          "url": "http://en.wikipedia.org/wiki/Cap._FAP_Victor_Montes_Arias_International_Airport",
+          "entity_id": "Q1432987"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tarapoto",
+          "entity_id": "Q927933"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/Cad._FAP_Guillermo_del_Castillo_Paredes_Airport",
+          "entity_id": "Q616453"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Trujillo,_Peru",
+          "entity_id": "Q214173"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 61,
+          "url": "http://en.wikipedia.org/wiki/FAP_Captain_Carlos_Mart%C3%ADnez_de_Pinillos_International_Airport",
+          "entity_id": "Q1433108"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tumbes_(city)",
+          "entity_id": "Q827640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Cap._FAP_Pedro_Canga_Rodr%C3%ADguez_Airport",
+          "entity_id": "Q1433114"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Yurimaguas",
+          "entity_id": "Q117625"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Mois%C3%A9s_Benzaquen_Rengifo_Airport",
+          "entity_id": "Q3566532"
+        }
+      ]
+    ]
+  ]
+}

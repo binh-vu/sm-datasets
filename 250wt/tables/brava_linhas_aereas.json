@@ -1,0 +1,518 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Brava_Linhas_Aéreas",
+    "columns": [
+      {
+        "index": 0,
+        "name": "City",
+        "values": [
+          "Caçador",
+          "Campinas",
+          "Chapecó",
+          "Concórdia",
+          "Curitiba",
+          "Erechim",
+          "Florianópolis",
+          "Francisco Beltrão",
+          "Joaçaba",
+          "Lages",
+          "Navegantes",
+          "Passo Fundo",
+          "Pelotas",
+          "Porto Alegre",
+          "Rio Grande",
+          "Santa Maria",
+          "Santa Rosa",
+          "Santo Ângelo",
+          "São Carlos",
+          "São Miguel do Oeste",
+          "São Paulo",
+          "Uruguaiana"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Airport",
+        "values": [
+          "Carlos Alberto da Costa Neves Airport",
+          "Viracopos International Airport",
+          "Serafin Enoss Bertaso Airport",
+          "Olavo Cecco Rigon Airport",
+          "Afonso Pena International Airport",
+          "Erechim Airport",
+          "Hercílio Luz International Airport",
+          "Paulo Abdala Airport",
+          "Santa Terezinha Airport",
+          "Antônio Correia Pinto de Macedo Airport",
+          "Ministro Victor Konder International Airport",
+          "Lauro Kurtz Airport",
+          "Pelotas International Airport",
+          "Salgado Filho International Airport",
+          "Rio Grande Airport",
+          "Santa Maria Airport",
+          "Luís Alberto Lehr Airport",
+          "Sepé Tiaraju Airport",
+          "Mário Pereira Lopes Airport",
+          "Hélio Wasum Airport",
+          "Congonhas Airport",
+          "Ruben Berta International Airport"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Notes",
+        "values": [
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated",
+          "Terminated"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Brava Linhas Aéreas",
+    "page_url": "https://en.wikipedia.org/wiki/Brava_Linhas_Aéreas",
+    "page_entity_id": "Q9295998"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ca%C3%A7ador",
+          "entity_id": "Q986540"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Ca%C3%A7ador_Airport",
+          "entity_id": "Q3813685"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Campinas",
+          "entity_id": "Q171617"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Viracopos_International_Airport",
+          "entity_id": "Q381653"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chapec%C3%B3",
+          "entity_id": "Q817387"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Chapec%C3%B3_Airport",
+          "entity_id": "Q1837475"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Conc%C3%B3rdia",
+          "entity_id": "Q749798"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Conc%C3%B3rdia_Airport",
+          "entity_id": "Q1655531"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Curitiba",
+          "entity_id": "Q4361"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Afonso_Pena_International_Airport",
+          "entity_id": "Q180464"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Erechim",
+          "entity_id": "Q642088"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Erechim_Airport",
+          "entity_id": "Q5385378"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Florian%C3%B3polis",
+          "entity_id": "Q132997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Herc%C3%ADlio_Luz_International_Airport",
+          "entity_id": "Q539298"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Francisco_Beltr%C3%A3o",
+          "entity_id": "Q985577"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Francisco_Beltr%C3%A3o_Airport",
+          "entity_id": "Q8213999"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Joa%C3%A7aba",
+          "entity_id": "Q1758467"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Joa%C3%A7aba_Airport",
+          "entity_id": "Q2902663"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Lages",
+          "entity_id": "Q762009"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Lages_Airport",
+          "entity_id": "Q13417230"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Navegantes",
+          "entity_id": "Q1010299"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Ministro_Victor_Konder_International_Airport",
+          "entity_id": "Q1432040"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Passo_Fundo",
+          "entity_id": "Q525647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Lauro_Kurtz_Airport",
+          "entity_id": "Q5244648"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pelotas",
+          "entity_id": "Q109188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Pelotas_International_Airport",
+          "entity_id": "Q2395917"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Porto_Alegre",
+          "entity_id": "Q40269"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Salgado_Filho_International_Airport",
+          "entity_id": "Q1432702"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Rio_Grande,_Rio_Grande_do_Sul",
+          "entity_id": "Q869571"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rio_Grande_Airport",
+          "entity_id": "Q7335208"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Santa_Maria,_Rio_Grande_do_Sul",
+          "entity_id": "Q740833"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Santa_Maria_Airport_(Rio_Grande_do_Sul)",
+          "entity_id": "Q7419674"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Santa_Rosa,_Rio_Grande_do_Sul",
+          "entity_id": "Q995326"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Santa_Rosa_Airport_(Brazil)",
+          "entity_id": "Q7419875"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Santo_%C3%82ngelo",
+          "entity_id": "Q824031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Santo_%C3%82ngelo_Airport",
+          "entity_id": "Q7408115"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Carlos",
+          "entity_id": "Q194338"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Carlos_Airport",
+          "entity_id": "Q2875945"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Miguel_do_Oeste",
+          "entity_id": "Q1757748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Miguel_do_Oeste_Airport",
+          "entity_id": "Q12694886"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "entity_id": "Q174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Congonhas-S%C3%A3o_Paulo_Airport",
+          "entity_id": "Q862401"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uruguaiana",
+          "entity_id": "Q622823"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Ruben_Berta_International_Airport",
+          "entity_id": "Q2744827"
+        }
+      ],
+      []
+    ]
+  ]
+}

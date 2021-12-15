@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2010–11_HockeyAllsvenskan_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Almtuna IS",
+          "Bofors IK",
+          "Borås HC",
+          "IF Malmö Redhawks",
+          "IF Sundsvall Hockey",
+          "IF Troja/Ljungby",
+          "IK Oskarshamn",
+          "Leksands IF",
+          "Mora IK",
+          "Rögle BK",
+          "Tingsryds AIF",
+          "VIK Västerås HK",
+          "Växjö Lakers HC",
+          "Örebro HK"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Uppsala",
+          "Karlskoga",
+          "Borås",
+          "Malmö",
+          "Sundsvall",
+          "Ljungby",
+          "Oskarshamn",
+          "Leksand",
+          "Mora",
+          "Ängelholm",
+          "Tingsryd",
+          "Västerås",
+          "Växjö",
+          "Örebro"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Arena",
+        "values": [
+          "Gränbyhallen",
+          "Nobelhallen",
+          "Borås Ishall",
+          "Malmö Arena",
+          "Gärdehov",
+          "Sunnerbohov",
+          "Arena Oskarshamn",
+          "Tegera Arena",
+          "FM Mattsson Arena",
+          "Lindab Arena",
+          "Dackehallen",
+          "ABB Arena Nord",
+          "Växjö Ishall",
+          "Behrn Arena"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "2,562",
+          "6,300",
+          "3,700",
+          "13,000",
+          "2,500",
+          "3,620",
+          "3,424",
+          "7,650",
+          "4,500",
+          "5,150",
+          "4,294",
+          "5,800",
+          "4,015",
+          "4,400"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Average \nattendance",
+        "values": [
+          "1,454",
+          "1,661",
+          "1,016",
+          "4,437",
+          "926",
+          "1,432",
+          "2,272",
+          "4,842",
+          "2,259",
+          "3,119",
+          "2,346",
+          "2,404",
+          "2,749",
+          "2,163"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2010–11 HockeyAllsvenskan season",
+    "page_url": "https://en.wikipedia.org/wiki/2010–11_HockeyAllsvenskan_season",
+    "page_entity_id": "Q1279465"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Almtuna_IS",
+          "entity_id": "Q1814582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Uppsala",
+          "entity_id": "Q25286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Gr%C3%A4nbyhallen",
+          "entity_id": "Q10509715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bofors_IK",
+          "entity_id": "Q795977"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Karlskoga",
+          "entity_id": "Q54732"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nobelhallen",
+          "entity_id": "Q931441"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bor%C3%A5s_HC",
+          "entity_id": "Q894324"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Bor%C3%A5s",
+          "entity_id": "Q26040"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bor%C3%A5s_Ishall",
+          "entity_id": "Q2911406"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/IF_Malm%C3%B6_Redhawks",
+          "entity_id": "Q377374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Malm%C3%B6",
+          "entity_id": "Q2211"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Malm%C3%B6_Arena",
+          "entity_id": "Q853730"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/IF_Sundsvall_Hockey",
+          "entity_id": "Q1653580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sundsvall",
+          "entity_id": "Q26476"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/G%C3%A4rdehov",
+          "entity_id": "Q4205831"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/IF_Troja/Ljungby",
+          "entity_id": "Q1653588"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ljungby",
+          "entity_id": "Q744491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Sunnerbohov",
+          "entity_id": "Q7640549"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/IK_Oskarshamn",
+          "entity_id": "Q1654034"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Oskarshamn",
+          "entity_id": "Q654268"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Arena_Oskarshamn",
+          "entity_id": "Q2860820"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Leksands_IF",
+          "entity_id": "Q1473131"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Leksand",
+          "entity_id": "Q1003260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tegera_Arena",
+          "entity_id": "Q3517135"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mora_IK",
+          "entity_id": "Q1422758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Mora_(locality)",
+          "entity_id": "Q849874"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/FM_Mattsson_Arena",
+          "entity_id": "Q3063336"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/R%C3%B6gle_BK",
+          "entity_id": "Q1466477"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/%C3%84ngelholm",
+          "entity_id": "Q54755"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lindab_Arena",
+          "entity_id": "Q1257051"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tingsryds_AIF",
+          "entity_id": "Q1888714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tingsryd",
+          "entity_id": "Q1813784"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dackehallen",
+          "entity_id": "Q6990528"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/VIK_V%C3%A4ster%C3%A5s_HK",
+          "entity_id": "Q682307"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/V%C3%A4ster%C3%A5s",
+          "entity_id": "Q25412"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/ABB_Arena_Nord",
+          "entity_id": "Q2583199"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6_Lakers_HC",
+          "entity_id": "Q1629780"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/V%C3%A4xj%C3%B6",
+          "entity_id": "Q26152"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=V%C3%A4xj%C3%B6_Ishall&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/%C3%96rebro_HK",
+          "entity_id": "Q297691"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/%C3%96rebro",
+          "entity_id": "Q25732"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Behrn_Arena_(ice_hockey)",
+          "entity_id": "Q4880996"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

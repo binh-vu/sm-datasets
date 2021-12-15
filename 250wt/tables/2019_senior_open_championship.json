@@ -1,0 +1,410 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2019_Senior_Open_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "T4",
+          "T4",
+          "T4",
+          "T7",
+          "T7",
+          "T7",
+          "T7",
+          "T7",
+          "T7",
+          "T7",
+          "T7"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Wes Short Jr.",
+          "Scott Dunlap",
+          "Darren Clarke",
+          "Bart Bryant",
+          "Ken Duke",
+          "Retief Goosen",
+          "Woody Austin",
+          "Doug Barron",
+          "Paul Broadhurst",
+          "Roger Chapman",
+          "Bernhard Langer",
+          "Colin Montgomerie",
+          "Scott Parel",
+          "Phillip Price"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " United States",
+          " Northern Ireland",
+          " United States",
+          " United States",
+          " South Africa",
+          " United States",
+          " United States",
+          " England",
+          " England",
+          " Germany",
+          " Scotland",
+          " United States",
+          " Wales"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "67-67=134",
+          "67-68=135",
+          "68-68=136",
+          "69-68=137",
+          "68-69=137",
+          "70-67=137",
+          "68-70=138",
+          "69-69=138",
+          "67-71=138",
+          "70-68=138",
+          "71-67=138",
+          "68-70=138",
+          "67-71=138",
+          "71-67=138"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "−6",
+          "−5",
+          "−4",
+          "−3",
+          "−3",
+          "−3",
+          "−2",
+          "−2",
+          "−2",
+          "−2",
+          "−2",
+          "−2",
+          "−2",
+          "−2"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2019 Senior Open Championship",
+    "page_url": "https://en.wikipedia.org/wiki/2019_Senior_Open_Championship",
+    "page_entity_id": "Q74112482"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wes_Short_Jr.",
+          "entity_id": "Q7983757"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Scott_Dunlap",
+          "entity_id": "Q7436270"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Darren_Clarke",
+          "entity_id": "Q531845"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Northern_Ireland",
+          "entity_id": "Q26"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bart_Bryant",
+          "entity_id": "Q809186"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ken_Duke",
+          "entity_id": "Q6387547"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Retief_Goosen",
+          "entity_id": "Q707225"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Woody_Austin",
+          "entity_id": "Q3307478"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Doug_Barron_(golfer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Paul_Broadhurst",
+          "entity_id": "Q713266"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Roger_Chapman_(golfer)",
+          "entity_id": "Q2084732"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bernhard_Langer",
+          "entity_id": "Q45012"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Colin_Montgomerie",
+          "entity_id": "Q708089"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Scott_Parel",
+          "entity_id": "Q16196205"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Phillip_Price",
+          "entity_id": "Q2693197"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

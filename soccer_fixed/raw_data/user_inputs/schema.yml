@@ -1,0 +1,71 @@
+classes:
+  schema:Player:
+    data_props:
+    - schema:numberOfPlayedGames
+    - schema:age
+    - schema:birthDate
+    - schema:playPosition
+    - schema:name
+    - schema:tag
+    - schema:isCaptain
+    - schema:strongFoot
+    - schema:height
+    - schema:weight
+    - schema:birthPlace
+    - schema:familyName
+    - schema:givenName
+    - schema:alternateName
+    - schema:goalScored
+    object_props:
+    - - schema:inClub
+      - schema:SportsClub
+    - - schema:inNationalTeam
+      - schema:SportsTeam
+    labels:
+    - schema:name
+    same_as:
+      - wikidata:Q5
+  schema:SportsClub:
+    data_props:
+    - schema:name
+    object_props:
+    - - schema:inLeague
+      - schema:League
+    labels:
+    - schema:name
+    same_as:
+      - wikidata:Q476028
+  schema:SportsTeam:
+    data_props:
+    - schema:ranking
+    - schema:name
+    object_props: []
+    labels:
+    - schema:name
+    same_as:
+      - wikidata:Q6979593
+      - wikidata:Q3624078
+  schema:League:
+    data_props:
+    - schema:alternateName
+    - schema:name
+    object_props: []
+    labels:
+    - schema:name
+    same_as:
+      - wikidata:Q15991303
+predicates:
+  schema:name: string
+  schema:tag: number
+  schema:age: number
+  schema:numberOfPlayedGames: number
+  schema:ranking: number
+  schema:birthDate: datetime
+  schema:goalScored: number
+  schema:weight: number
+prefixes:
+  dbpedia-owl: http://dbpedia.org/ontology/
+  dbpedia-resource: http://dbpedia.org/resource/
+  rdfs: http://www.w3.org/2000/01/rdf-schema#
+  schema: http://schema.org/
+  wikidata: http://www.wikidata.org/entity/

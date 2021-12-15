@@ -1,0 +1,474 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "4V4O0CTS",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "Shepherd's Bush Empire",
+          "Baths Hall",
+          "Bay Theater",
+          "Brixton Academy",
+          "Rainbow Theatre",
+          "The Theatre Royal, Drury Lane",
+          "Palace Theatre",
+          "Avalon Ballroom",
+          "New Deal Cafe",
+          "Center Stage",
+          "Granada Theater",
+          "Bluebird Theater",
+          "Howard Theatre",
+          "Blue Moon Tavern",
+          "Lincoln Theatre",
+          "Veterans Ampitheater",
+          "Grand Pavilion, Porthcawl",
+          "Capitol Theatre",
+          "Lee's Palace",
+          "Gramercy Theatre"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "Shepherd's Bush",
+          "Scunthorpe",
+          "Seal Beach",
+          "Brixton",
+          "Finsbury Park",
+          "Covent Garden",
+          "Midtown Manhattan",
+          "San Francisco",
+          "Roosevelt Center",
+          "Midtown Atlanta",
+          "Lower Greenville",
+          "City Park",
+          "Shaw",
+          "University District",
+          "South Los Angeles",
+          "Virginia Beach",
+          "Porthcawl",
+          "Aberdeen",
+          "Toronto",
+          "New York City"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "56 Shepherd's Bush Green, London, W12 8TT, England",
+          "59 Doncaster Road, Scunthorpe, DN15 7RG, England",
+          "340 Main Street, Seal Beach, CA 90740",
+          "211 Stockwell Road, Brixton, London, Lambeth, SW9 9SL, England",
+          "232-238 Seven Sisters Road, London, Islington, N4, England",
+          "Catherine Street, London, WC2B 5JF",
+          "1564 Broadway, New York, NY 10036",
+          "1268 Sutter Street, San Francisco, CA 94109",
+          "113 Centerway, Greenbelt, MD 20770 U.S.",
+          "1374 W Peachtree Street, Atlanta, GA 30309-2965",
+          "3524 Greenville Avenue, Dallas, TX 75206",
+          "3317 E. Colfax Avenue, Denver, CO 80206",
+          "620 T Street NW, Washington, DC 20001",
+          "712 NE 45th St, Seattle, WA 98105",
+          "2300 South Central Avenue, Los Angeles, CA 90011",
+          "3550 Cellar Door Way",
+          "The Esplanade, John Street, Porthcawl, South Glamorgan, CF36 3YW, Wales",
+          "431 Union Street, Aberdeen, Grampian, AB11 6DA, Scotland",
+          "529 Bloor Street West, Toronto, ON M5S 1Y5",
+          "127 E. 23rd Street, New York, NY 10010"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://www.wikidata.org/entity/Q2778511",
+          "qnode_id": "Q2778511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q1026182",
+          "qnode_id": "Q1026182"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q4869076",
+          "qnode_id": "Q4869076"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q913386",
+          "qnode_id": "Q913386"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q4874134",
+          "qnode_id": "Q4874134"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q593039",
+          "qnode_id": "Q593039"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q2239788",
+          "qnode_id": "Q2239788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q146690",
+          "qnode_id": "Q146690"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q3288732",
+          "qnode_id": "Q3288732"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q122566",
+          "qnode_id": "Q122566"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://www.wikidata.org/entity/Q1756626",
+          "qnode_id": "Q1756626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q55019",
+          "qnode_id": "Q55019"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q3360756",
+          "qnode_id": "Q3360756"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q11249",
+          "qnode_id": "Q11249"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q2873262",
+          "qnode_id": "Q2873262"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q62",
+          "qnode_id": "Q62"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q7006839",
+          "qnode_id": "Q7006839"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q56146421",
+          "qnode_id": "Q56146421"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q5059348",
+          "qnode_id": "Q5059348"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q6843071",
+          "qnode_id": "Q6843071"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q5594109",
+          "qnode_id": "Q5594109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q6693497",
+          "qnode_id": "Q6693497"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q4930253",
+          "qnode_id": "Q4930253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q2974574",
+          "qnode_id": "Q2974574"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q5921031",
+          "qnode_id": "Q5921031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q2277455",
+          "qnode_id": "Q2277455"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q4929467",
+          "qnode_id": "Q4929467"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.wikidata.org/entity/Q2001177",
+          "qnode_id": "Q2001177"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q6551043",
+          "qnode_id": "Q6551043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q587064",
+          "qnode_id": "Q587064"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://www.wikidata.org/entity/Q5435470",
+          "qnode_id": "Q5435470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q49259",
+          "qnode_id": "Q49259"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://www.wikidata.org/entity/Q5594877",
+          "qnode_id": "Q5594877"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q39480",
+          "qnode_id": "Q39480"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q5035936",
+          "qnode_id": "Q5035936"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q36405",
+          "qnode_id": "Q36405"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q6512822",
+          "qnode_id": "Q6512822"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q172",
+          "qnode_id": "Q172"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q5593640",
+          "qnode_id": "Q5593640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q60",
+          "qnode_id": "Q60"
+        }
+      ],
+      []
+    ]
+  ]
+}

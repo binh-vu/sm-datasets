@@ -1,0 +1,647 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Hanžeković_Memorial",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Event",
+        "values": [
+          "100 m",
+          "200 m",
+          "400 m",
+          "800 m",
+          "1500 m",
+          "Mile",
+          "3000 m",
+          "110 m hurdles",
+          "400 m hurdles",
+          "3000 m steeplechase",
+          "High jump",
+          "Pole vault",
+          "Long jump",
+          "Triple jump",
+          "Shot put",
+          "Discus throw",
+          "Hammer throw",
+          "Javelin throw"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Record",
+        "values": [
+          "9.85 (+0.1 m/s)",
+          "19.88 (-0.4 m/s)",
+          "44.94",
+          "1:44.03",
+          "3:30.94",
+          "3:50.68",
+          "7:35.06",
+          "12.98",
+          "48.24",
+          "8:11.80",
+          "2.34 m",
+          "5.75 m",
+          "8.46 m (-0.3 m/s)",
+          "17.16 m",
+          "22.28 m",
+          "68.17 m",
+          "81.77 m",
+          "86.36 m"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Athlete",
+        "values": [
+          "Usain Bolt",
+          "Ramil Guliyev",
+          "Gil Roberts",
+          "Nijel Amos",
+          "Nixon Kiplimo Chepseba",
+          "Noureddine Morceli",
+          "Caleb Mwangangi Ndiku",
+          "Mark Crear",
+          "Kemel Thompson",
+          "Jairus Kipchoge Birech",
+          "Kwaku Boateng",
+          "Augusto Dutra",
+          "Luvo Manyonga",
+          "Onochie Achike",
+          "Ryan Crouser",
+          "Fedrick Dacres",
+          "Primož Kozmus",
+          "Tero Pitkämäki"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Jamaica",
+          " Turkey",
+          " United States",
+          " Botswana",
+          " Kenya",
+          " Algeria",
+          " Kenya",
+          " United States",
+          " Jamaica",
+          " Kenya",
+          " Canada",
+          " Brazil",
+          " South Africa",
+          " United Kingdom",
+          " United States",
+          " Jamaica",
+          " Slovenia",
+          " Finland"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Date",
+        "values": [
+          "13 September 2011",
+          "8 September 2015",
+          "29 August 2017",
+          "4 September 2018",
+          "13 September 2011",
+          "7 Juli 1998",
+          "3 September 2013",
+          "5 July 1999",
+          "7 July 2003",
+          "4 September 2012",
+          "3 July 2000",
+          "3 September 2013",
+          "4 September 2018",
+          "3 July 2000",
+          "5 September 2016",
+          "4 September 2018",
+          "31 August 2009",
+          "3 September 2013"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Ref",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Hanžeković Memorial",
+    "page_url": "https://en.wikipedia.org/wiki/Hanžeković_Memorial",
+    "page_entity_id": "Q954718"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/100_metres",
+          "entity_id": "Q164761"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Usain_Bolt",
+          "entity_id": "Q1189"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jamaica",
+          "entity_id": "Q766"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/200_metres",
+          "entity_id": "Q211155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ramil_Guliyev",
+          "entity_id": "Q983501"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/400_metres",
+          "entity_id": "Q334734"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gil_Roberts",
+          "entity_id": "Q546066"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/800_metres",
+          "entity_id": "Q271008"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Nijel_Amos",
+          "entity_id": "Q1660"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/1500_metres",
+          "entity_id": "Q191691"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Nixon_Kiplimo_Chepseba",
+          "entity_id": "Q1530628"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Mile_run",
+          "entity_id": "Q943635"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Noureddine_Morceli",
+          "entity_id": "Q313496"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Algeria",
+          "entity_id": "Q262"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/3000_metres",
+          "entity_id": "Q223779"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Caleb_Mwangangi_Ndiku",
+          "entity_id": "Q458928"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/110_metres_hurdles",
+          "entity_id": "Q170004"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mark_Crear",
+          "entity_id": "Q1410305"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/400_metres_hurdles",
+          "entity_id": "Q231419"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kemel_Thompson",
+          "entity_id": "Q3194977"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jamaica",
+          "entity_id": "Q766"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/3000_metres_steeplechase",
+          "entity_id": "Q10437559"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Jairus_Kipchoge_Birech",
+          "entity_id": "Q1765181"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/High_jump",
+          "entity_id": "Q165704"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kwaku_Boateng_(athlete)",
+          "entity_id": "Q6450029"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pole_vault",
+          "entity_id": "Q185027"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Augusto_Dutra",
+          "entity_id": "Q13360027"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Long_jump",
+          "entity_id": "Q170737"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Luvo_Manyonga",
+          "entity_id": "Q633927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Triple_jump",
+          "entity_id": "Q187204"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Onochie_Achike",
+          "entity_id": "Q3031218"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shot_put",
+          "entity_id": "Q180935"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ryan_Crouser",
+          "entity_id": "Q9324228"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Discus_throw",
+          "entity_id": "Q182570"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Fedrick_Dacres",
+          "entity_id": "Q5441139"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jamaica",
+          "entity_id": "Q766"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hammer_throw",
+          "entity_id": "Q184865"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Primo%C5%BE_Kozmus",
+          "entity_id": "Q1783"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slovenia",
+          "entity_id": "Q215"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Javelin_throw",
+          "entity_id": "Q178108"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tero_Pitk%C3%A4m%C3%A4ki",
+          "entity_id": "Q213700"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

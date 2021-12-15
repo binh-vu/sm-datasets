@@ -1,0 +1,3088 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1992_IAAF_World_Cross_Country_Championships_–_Senior_women's_race",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91",
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "98",
+          "99",
+          "100",
+          "101",
+          "102",
+          "103",
+          "104",
+          "105",
+          "106",
+          "107",
+          "108",
+          "109",
+          "110",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118",
+          "119",
+          "120",
+          "121",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—",
+          "—"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Athlete",
+        "values": [
+          "Lynn Jennings",
+          "Catherina McKiernan",
+          "Albertina Dias",
+          "Vicki Huber",
+          "Nadia Dandolo",
+          "Qu Yunxia",
+          "Sonia O'Sullivan",
+          "Jill Hunter",
+          "Susan Sirma",
+          "Luchia Yeshak",
+          "Hellen Kimaiyo",
+          "Jane Ngotho",
+          "Estela Estévez",
+          "Liève Slegers",
+          "Hellen Chepngeno",
+          "Susan Hobson",
+          "Véronique Collard",
+          "Conceição Ferreira",
+          "Iulia Negura",
+          "Merima Denboba",
+          "Daria Nauer",
+          "Angela Chalmers",
+          "Natalya Sorokivskaya",
+          "Zhora Koullou",
+          "Elena Fidatof",
+          "Christien Toonstra",
+          "Annette Palluy",
+          "Getenesh Urge",
+          "Marie-Pierre Duros",
+          "Annette Peters",
+          "Geraldine Hendricken",
+          "Wilma van Onna",
+          "Lisa Harvey",
+          "Lisa York",
+          "Maria Guida",
+          "Julia Vaquero",
+          "Nelly Glauser",
+          "Berhane Adere",
+          "Maria Luisa Lárraga",
+          "Iulia Ionescu",
+          "Liz McColgan",
+          "Sylvia Mosqueda",
+          "Fernanda Marques",
+          "Martha Ernstdóttir",
+          "Anuța Cătună",
+          "Angie Hulley",
+          "Melinda Schmidt",
+          "Mikiko Oguni",
+          "Liu Li",
+          "Carmen Fuentes",
+          "Mónica Gama",
+          "Nadezhda Ilyina",
+          "Lesley Morton",
+          "Lucy Smith",
+          "Orietta Mancia",
+          "Danuta Marczyk",
+          "Marjan Freriks",
+          "Manuela Machado",
+          "Valentina Tauceri",
+          "Izumi Maki",
+          "Rita de Jesús",
+          "Vikki McPherson",
+          "Monica O'Reilly",
+          "Laura Adam",
+          "Teresa Duffy",
+          "Naomi Yoshida",
+          "Elizabeth Miller",
+          "Jacqueline Etiemble",
+          "Fumiko Tsutsumi",
+          "Ulla Marquette",
+          "Kaori Kumura",
+          "Felicidade Sena",
+          "Olga Nazarkina",
+          "Carlien Harms",
+          "Dolores Rizo",
+          "Valerie Chauvel",
+          "Krishna Stanton",
+          "Tina Jensen",
+          "Ria van Landeghem",
+          "Rosario Murcia",
+          "Benita Perez",
+          "Sonia Betancourt",
+          "Kristijna Loonen",
+          "Cristina Misaros",
+          "Tamara Salomon",
+          "Carmem de Oliveira",
+          "Begoña Herraez",
+          "Ena Weinstein",
+          "Lisa Karnopp",
+          "Pauline Konga",
+          "Els Peiren",
+          "Breda Dennehy",
+          "Hatsumi Matsumoto",
+          "Sharon Clode",
+          "Rizoneide Vanderley",
+          "Grethe Koens",
+          "Edna Lankry",
+          "Leticia Martinez",
+          "Martha Tenorio",
+          "Najat Ouali",
+          "Lynn Clayton",
+          "Stella Castro",
+          "Solange de Souza",
+          "Norma Fernández",
+          "Mabel Arrua",
+          "Vilija Birbalaite",
+          "Frida Run Thordardóttir",
+          "Marina Rodchenkova",
+          "Kelly dos Santos",
+          "Vilma Peña",
+          "Shirley Torres",
+          "Lidiette Valer",
+          "Zulma Ortíz",
+          "Nadezhda Tatarenkova",
+          "Andri Avraam",
+          "Margret Brynjolfsdóttir",
+          "Inés Rodríguez",
+          "Aparna Bhoyar",
+          "Mandy Lo",
+          "Sunita Kumari",
+          "Isabel Cabeza",
+          "Jenny Lund",
+          "Tigist Moreda",
+          "Derartu Tulu",
+          "Vally Satayabhama",
+          "Bryndis Ernstdóttir",
+          "Leelanuna Aparna"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " Ireland",
+          " Portugal",
+          " United States",
+          " Italy",
+          " China",
+          " Ireland",
+          " United Kingdom",
+          " Kenya",
+          " Ethiopia",
+          " Kenya",
+          " Kenya",
+          " Spain",
+          " Belgium",
+          " Kenya",
+          " Australia",
+          " Belgium",
+          " Portugal",
+          " Romania",
+          " Ethiopia",
+          " Switzerland",
+          " Canada",
+          " Commonwealth of Independent States",
+          " France",
+          " Romania",
+          " Netherlands",
+          " France",
+          " Ethiopia",
+          " France",
+          " United States",
+          " Ireland",
+          " Netherlands",
+          " Canada",
+          " United Kingdom",
+          " Italy",
+          " Spain",
+          " Switzerland",
+          " Ethiopia",
+          " Spain",
+          " Romania",
+          " United Kingdom",
+          " United States",
+          " Portugal",
+          " Iceland",
+          " Romania",
+          " United Kingdom",
+          " United States",
+          " Japan",
+          " China",
+          " Spain",
+          " Portugal",
+          " Commonwealth of Independent States",
+          " New Zealand",
+          " Canada",
+          " Italy",
+          " Poland",
+          " Netherlands",
+          " Portugal",
+          " Italy",
+          " Japan",
+          " Brazil",
+          " United Kingdom",
+          " Ireland",
+          " United Kingdom",
+          " Ireland",
+          " Japan",
+          " Australia",
+          " France",
+          " Japan",
+          " Canada",
+          " Japan",
+          " Portugal",
+          " Commonwealth of Independent States",
+          " Netherlands",
+          " Spain",
+          " France",
+          " Australia",
+          " Denmark",
+          " Belgium",
+          " France",
+          " Mexico",
+          " Mexico",
+          " Netherlands",
+          " Romania",
+          " Canada",
+          " Brazil",
+          " Spain",
+          " Peru",
+          " United States",
+          " Kenya",
+          " Belgium",
+          " Ireland",
+          " Japan",
+          " New Zealand",
+          " Brazil",
+          " Netherlands",
+          " Israel",
+          " Mexico",
+          " Ecuador",
+          " Morocco",
+          " Australia",
+          " Colombia",
+          " Brazil",
+          " Argentina",
+          " Argentina",
+          " Lithuania",
+          " Iceland",
+          " Commonwealth of Independent States",
+          " Brazil",
+          " Costa Rica",
+          " Costa Rica",
+          " Costa Rica",
+          " Argentina",
+          " Commonwealth of Independent States",
+          " Cyprus",
+          " Iceland",
+          " Argentina",
+          " India",
+          " Hong Kong",
+          " India",
+          " Costa Rica",
+          " Australia",
+          " Ethiopia",
+          " Ethiopia",
+          " India",
+          " Iceland",
+          " India"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Time",
+        "values": [
+          "21:16",
+          "21:18",
+          "21:19",
+          "21:34",
+          "21:35",
+          "21:36",
+          "21:37",
+          "21:39",
+          "21:40",
+          "21:42",
+          "21:45",
+          "21:47",
+          "21:48",
+          "21:49",
+          "21:50",
+          "21:51",
+          "21:51",
+          "21:52",
+          "21:54",
+          "22:02",
+          "22:03",
+          "22:03",
+          "22:04",
+          "22:05",
+          "22:05",
+          "22:06",
+          "22:08",
+          "22:09",
+          "22:11",
+          "22:13",
+          "22:15",
+          "22:16",
+          "22:17",
+          "22:17",
+          "22:18",
+          "22:18",
+          "22:19",
+          "22:19",
+          "22:20",
+          "22:21",
+          "22:21",
+          "22:22",
+          "22:23",
+          "22:23",
+          "22:24",
+          "22:26",
+          "22:28",
+          "22:31",
+          "22:32",
+          "22:32",
+          "22:32",
+          "22:33",
+          "22:33",
+          "22:34",
+          "22:34",
+          "22:35",
+          "22:35",
+          "22:36",
+          "22:37",
+          "22:38",
+          "22:38",
+          "22:39",
+          "22:39",
+          "22:40",
+          "22:41",
+          "22:41",
+          "22:41",
+          "22:42",
+          "22:42",
+          "22:42",
+          "22:43",
+          "22:43",
+          "22:43",
+          "22:44",
+          "22:47",
+          "22:49",
+          "22:50",
+          "22:51",
+          "22:52",
+          "22:53",
+          "22:54",
+          "22:55",
+          "22:57",
+          "22:59",
+          "23:03",
+          "23:07",
+          "23:08",
+          "23:09",
+          "23:10",
+          "23:11",
+          "23:11",
+          "23:12",
+          "23:17",
+          "23:23",
+          "23:26",
+          "23:28",
+          "23:31",
+          "23:34",
+          "23:36",
+          "23:50",
+          "23:52",
+          "23:53",
+          "23:57",
+          "24:02",
+          "24:15",
+          "24:17",
+          "24:18",
+          "24:28",
+          "24:36",
+          "24:38",
+          "24:51",
+          "24:53",
+          "25:00",
+          "25:33",
+          "25:38",
+          "25:57",
+          "26:21",
+          "26:28",
+          "26:57",
+          "28:54",
+          "29:38",
+          "DNF",
+          "DNF",
+          "DNF",
+          "DNF",
+          "DNF",
+          "DNF"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1992 IAAF World Cross Country Championships – Senior women's race",
+    "page_url": "https://en.wikipedia.org/wiki/1992_IAAF_World_Cross_Country_Championships_–_Senior_women's_race",
+    "page_entity_id": "Q17164927"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lynn_Jennings",
+          "entity_id": "Q272490"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Catherina_McKiernan",
+          "entity_id": "Q274541"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Albertina_Dias",
+          "entity_id": "Q433996"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Vicki_Huber",
+          "entity_id": "Q7925408"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Nadia_Dandolo",
+          "entity_id": "Q6957691"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Qu_Yunxia",
+          "entity_id": "Q254112"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sonia_O%27Sullivan",
+          "entity_id": "Q237567"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jill_Hunter",
+          "entity_id": "Q16196515"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Susan_Sirma",
+          "entity_id": "Q366988"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Luchia_Yeshak",
+          "entity_id": "Q3265147"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hellen_Kimaiyo",
+          "entity_id": "Q523629"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jane_Ngotho",
+          "entity_id": "Q1682614"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Estela_Est%C3%A9vez",
+          "entity_id": "Q20535131"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Li%C3%A8ve_Slegers",
+          "entity_id": "Q2900610"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hellen_Chepngeno",
+          "entity_id": "Q522800"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Susan_Hobson",
+          "entity_id": "Q23714540"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/V%C3%A9ronique_Collard",
+          "entity_id": "Q1899765"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_Ferreira",
+          "entity_id": "Q293024"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Iulia_Negura",
+          "entity_id": "Q1675443"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Merima_Denboba",
+          "entity_id": "Q515146"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Daria_Nauer",
+          "entity_id": "Q547298"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Angela_Chalmers",
+          "entity_id": "Q442328"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Natalya_Sorokivskaya",
+          "entity_id": "Q28774370"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+          "entity_id": "Q7779"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Zhora_Koullou&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Elena_Fidatof",
+          "entity_id": "Q5359006"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Christien_Toonstra",
+          "entity_id": "Q5111206"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Annette_Palluy",
+          "entity_id": "Q299797"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Getenesh_Urge",
+          "entity_id": "Q5554427"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Marie-Pierre_Duros",
+          "entity_id": "Q3292214"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Annette_Peters",
+          "entity_id": "Q43378689"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Geraldine_Hendricken&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Wilma_van_Onna&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lisa_Harvey",
+          "entity_id": "Q12059622"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lisa_York_(athlete)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maria_Guida",
+          "entity_id": "Q445052"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Julia_Vaquero",
+          "entity_id": "Q9016422"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Nelly_Glauser",
+          "entity_id": "Q30076190"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Berhane_Adere",
+          "entity_id": "Q260978"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Maria_Luisa_L%C3%A1rraga&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Iulia_Ionescu&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Liz_McColgan",
+          "entity_id": "Q261792"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sylvia_Mosqueda",
+          "entity_id": "Q7660969"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Fernanda_Marques",
+          "entity_id": "Q43384661"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Martha_Ernstd%C3%B3ttir",
+          "entity_id": "Q16986673"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Anu%C8%9Ba_C%C4%83tun%C4%83",
+          "entity_id": "Q462227"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Angie_Hulley",
+          "entity_id": "Q4762523"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Melinda_Schmidt&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mikiko_Oguni&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liu_Li_(athlete)",
+          "entity_id": "Q1641977"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Carmen_Fuentes",
+          "entity_id": "Q26251694"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=M%C3%B3nica_Gama&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nadezhda_Wijenberg",
+          "entity_id": "Q275854"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+          "entity_id": "Q7779"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lesley_Morton",
+          "entity_id": "Q43290917"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand",
+          "entity_id": "Q664"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lucy_Smith_(athlete)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Orietta_Mancia&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Danuta_Marczyk&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marjan_Freriks&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Manuela_Machado",
+          "entity_id": "Q266286"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Valentina_Tauceri",
+          "entity_id": "Q7910891"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Izumi_Maki_(athlete)",
+          "entity_id": "Q520933"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rita_de_Jes%C3%BAs&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Vikki_McPherson&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Monica_O%27Reilly&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Laura_Adam&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Teresa_Duffy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Naomi_Yoshida&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Elizabeth_Miller_(athlete)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jacqueline_Etiemble&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Fumiko_Tsutsumi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ulla_Marquette&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kaori_Kumura&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Felicidade_Sena&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Olga_Nazarkina&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+          "entity_id": "Q7779"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Carlien_Harms&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Dolores_Rizo&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Valerie_Chauvel&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Krishna_Stanton",
+          "entity_id": "Q33978077"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tina_Jensen&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ria_van_Landeghem",
+          "entity_id": "Q7322079"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rosario_Murcia",
+          "entity_id": "Q3442288"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Benita_Perez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sonia_Betancourt&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kristijna_Loonen&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Cristina_Misaros&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tamara_Salomon&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Carmem_de_Oliveira",
+          "entity_id": "Q5043535"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Bego%C3%B1a_Herraez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ena_Weinstein&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Peru",
+          "entity_id": "Q419"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lisa_Karnopp&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pauline_Konga",
+          "entity_id": "Q452568"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Els_Peiren&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Breda_Dennehy",
+          "entity_id": "Q43016830"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hatsumi_Matsumoto&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Japan",
+          "entity_id": "Q17"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sharon_Clode&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand",
+          "entity_id": "Q664"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rizoneide_Vanderley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Grethe_Koens&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Edna_Lankry&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Leticia_Martinez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Martha_Tenorio",
+          "entity_id": "Q6774580"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ecuador",
+          "entity_id": "Q736"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Najat_Ouali&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Morocco",
+          "entity_id": "Q1028"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lynn_Clayton&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Stella_Castro&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Colombia",
+          "entity_id": "Q739"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Solange_de_Souza",
+          "entity_id": "Q30069023"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Norma_Fern%C3%A1ndez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mabel_Arrua&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Vilija_Birbalaite&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lithuania",
+          "entity_id": "Q37"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Frida_Run_Thordard%C3%B3ttir&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marina_Rodchenkova&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+          "entity_id": "Q7779"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kelly_dos_Santos&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vilma_Pe%C3%B1a",
+          "entity_id": "Q30015182"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Costa_Rica",
+          "entity_id": "Q800"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Shirley_Torres&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Costa_Rica",
+          "entity_id": "Q800"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lidiette_Valer&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Costa_Rica",
+          "entity_id": "Q800"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Zulma_Ort%C3%ADz&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nadezhda_Tatarenkova&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+          "entity_id": "Q7779"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andri_Avraam",
+          "entity_id": "Q11685772"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cyprus",
+          "entity_id": "Q229"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Margret_Brynjolfsd%C3%B3ttir&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=In%C3%A9s_Rodr%C3%ADguez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Aparna_Bhoyar&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mandy_Lo&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sunita_Kumari&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Isabel_Cabeza&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Costa_Rica",
+          "entity_id": "Q800"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jenny_Lund",
+          "entity_id": "Q46517066"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tigist_Moreda",
+          "entity_id": "Q43290699"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Derartu_Tulu",
+          "entity_id": "Q466315"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Vally_Satayabhama&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Bryndis_Ernstd%C3%B3ttir&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Leelanuna_Aparna&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      []
+    ]
+  ]
+}

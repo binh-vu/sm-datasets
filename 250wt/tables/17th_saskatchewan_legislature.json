@@ -1,0 +1,1900 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "17th_Saskatchewan_Legislature",
+    "columns": [
+      {
+        "index": 0,
+        "name": "",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Electoral district",
+        "values": [
+          "Arm River",
+          "Assiniboia-Bengough",
+          "Athabasca",
+          "Biggar",
+          "Cannington",
+          "Canora",
+          "Cut Knife",
+          "Elrose",
+          "Gravelbourg",
+          "Hanley",
+          "Humboldt",
+          "Kelvington",
+          "Kerrobert-Kindersley",
+          "Last Mountain",
+          "Lumsden",
+          "Maple Creek",
+          "Meadow Lake",
+          "Melfort-Kinistino",
+          "Melville",
+          "Milestone",
+          "Moose Jaw North",
+          "Moose Jaw South",
+          "Moosomin",
+          "Morse",
+          "Nipawin",
+          "Notukeu-Willow Bunch",
+          "Pelly",
+          "Prince Albert East",
+          "Prince Albert West",
+          "Qu'Appelle-Wolseley",
+          "Redberry",
+          "Regina Albert Park",
+          "Regina Centre",
+          "Regina Lakeview",
+          "Regina North East",
+          "Regina North West",
+          "Regina Wascana",
+          "Gordon Burton Grant",
+          "Rosetown",
+          "Rosthern",
+          "Saltcoats",
+          "Saskatoon City Park",
+          "Saskatoon Mayfair",
+          "Saskatoon Nutana Centre",
+          "Saskatoon Nutana South",
+          "Saskatoon Riversdale",
+          "Saskatoon University",
+          "Shaunavon",
+          "Shellbrook",
+          "Souris-Estevan",
+          "Swift Current",
+          "The Battlefords",
+          "Tisdale-Kelsey",
+          "Touchwood",
+          "Turtleford",
+          "Wadena",
+          "Watrous",
+          "Weyburn",
+          "Wilkie",
+          "Yorkton"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Member",
+        "values": [
+          "Donald Leonard Faris",
+          "David Hadley Lange",
+          "Allan Ray Guy",
+          "Elwood Lorrie Cowley",
+          "Thomas Milton Weatherald",
+          "Al Matsalla",
+          "Miro Kwasnica",
+          "Hayden William Owens",
+          "Reginald John Gross",
+          "Paul Peter Mostoway",
+          "Edwin Laurence Tchorzewski",
+          "Neil Erland Byers",
+          "Alex Taylor",
+          "Gordon S. MacMurchy",
+          "John Gary Lane",
+          "Gene Flasch",
+          "Henry Ethelbert Coupland",
+          "Arthur Thibault",
+          "John Russell Kowalchuk",
+          "Cyril Pius MacDonald",
+          "Donald Forrest MacDonald",
+          "Gordon Taylor Snyder",
+          "Ernest Franklin Gardner",
+          "Wilbert Ross Thatcher",
+          "John Kristian Comer",
+          "Allen Willard Engel",
+          "Leonard Larson",
+          "Mike Feschuk",
+          "David Gordon Steuart",
+          "Terry Lyle Hanson",
+          "Demitro (Dick) Wasyl Michayluk",
+          "Kenneth Roy MacLeod",
+          "Allan Emrys Blakeney",
+          "Donald Mighton McPherson",
+          "Walter Smishek",
+          "Edward Charles Whelan",
+          "Henry Harold Peter Baker",
+          "Gordon Burton Grant",
+          "George Fredrick Loken",
+          "David Boldt",
+          "Ed Kaeding",
+          "Beverly Milton Dyck",
+          "John Edward Brockelbank",
+          "Wesley Albert Robbins",
+          "Herman Rolfes",
+          "Roy John Romanow",
+          "John Guyon Richards",
+          "Allan Roy Oliver",
+          "George Reginald Anderson Bowerman",
+          "Russell Brown",
+          "Everett Irvine Wood",
+          "Eiling Kramer",
+          "John Rissler Messer",
+          "Frank Meakes",
+          "Michael Feduniak",
+          "Frederick Arthur Dewhurst",
+          "Donald William Cody",
+          "James Auburn Pepper",
+          "Joseph Clifford McIsaac",
+          "Irving Wensley Carlson"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Party",
+        "values": [
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "Liberal",
+          "New Democratic Party",
+          "Liberal",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "Liberal",
+          "Liberal",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "New Democratic Party",
+          "Liberal",
+          "New Democratic Party"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "17th Saskatchewan Legislature",
+    "page_url": "https://en.wikipedia.org/wiki/17th_Saskatchewan_Legislature",
+    "page_entity_id": "Q4553635"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Arm_River_(electoral_district)",
+          "entity_id": "Q4792462"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Donald_Leonard_Faris",
+          "entity_id": "Q5294707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Assiniboia-Bengough",
+          "entity_id": "Q4808901"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/David_Hadley_Lange",
+          "entity_id": "Q5234595"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Athabasca_(Saskatchewan_provincial_electoral_district)",
+          "entity_id": "Q4813166"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Allan_Ray_Guy",
+          "entity_id": "Q4730937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Biggar_(former_provincial_electoral_district)",
+          "entity_id": "Q4906869"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Elwood_Cowley",
+          "entity_id": "Q5368325"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cannington_(former_electoral_district)",
+          "entity_id": "Q5032711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Milton_Weatherald",
+          "entity_id": "Q7792488"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canora_(provincial_electoral_district)",
+          "entity_id": "Q5033450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Al_Matsalla",
+          "entity_id": "Q4684397"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cut_Knife_(electoral_district)",
+          "entity_id": "Q5196637"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Miro_Kwasnica",
+          "entity_id": "Q6873812"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Elrose_(electoral_district)",
+          "entity_id": "Q5367353"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Hayden_William_Owens",
+          "entity_id": "Q16009672"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gravelbourg_(electoral_district)",
+          "entity_id": "Q5597845"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Reginald_John_Gross",
+          "entity_id": "Q7308772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hanley_(electoral_district)",
+          "entity_id": "Q5648585"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Paul_Peter_Mostoway",
+          "entity_id": "Q7152922"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Humboldt_(provincial_electoral_district)",
+          "entity_id": "Q5940250"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Edwin_Tchorzewski",
+          "entity_id": "Q5346864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kelvington-Wadena",
+          "entity_id": "Q6386771"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Neil_Erland_Byers",
+          "entity_id": "Q6988510"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Kindersley_(provincial_electoral_district)",
+          "entity_id": "Q6410591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Alex_Taylor_(Canadian_politician)",
+          "entity_id": "Q20027901"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Last_Mountain_(provincial_electoral_district)",
+          "entity_id": "Q6494494"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Gordon_MacMurchy",
+          "entity_id": "Q5585491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lumsden_(provincial_electoral_district)",
+          "entity_id": "Q14874983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/John_Gary_Lane",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maple_Creek_(provincial_electoral_district)",
+          "entity_id": "Q6753855"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gene_Flasch&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Meadow_Lake_(provincial_electoral_district)",
+          "entity_id": "Q3215052"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Henry_Ethelbert_Coupland",
+          "entity_id": "Q5720931"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Melfort-Tisdale_(former_provincial_electoral_district)",
+          "entity_id": "Q3305031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Arthur_Thibault",
+          "entity_id": "Q4800440"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Melville_(provincial_electoral_district)",
+          "entity_id": "Q6813853"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/John_Russell_Kowalchuk",
+          "entity_id": "Q6256015"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milestone_(electoral_district)",
+          "entity_id": "Q6851604"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Cyril_Pius_MacDonald",
+          "entity_id": "Q5200844"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Moose_Jaw_North",
+          "entity_id": "Q14874996"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Donald_Forrest_MacDonald",
+          "entity_id": "Q5294369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Moose_Jaw_Wakamow",
+          "entity_id": "Q3323622"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Gordon_Taylor_Snyder",
+          "entity_id": "Q5585843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Moosomin_(electoral_district)",
+          "entity_id": "Q6908700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Ernest_Franklin_Gardner",
+          "entity_id": "Q16013423"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Morse_(provincial_electoral_district)",
+          "entity_id": "Q6914238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Ross_Thatcher",
+          "entity_id": "Q434496"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nipawin_(provincial_electoral_district)",
+          "entity_id": "Q7039424"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Kristian_Comer",
+          "entity_id": "Q20090486"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Notukeu-Willow_Bunch",
+          "entity_id": "Q7063779"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Allen_Engel",
+          "entity_id": "Q4731636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Pelly_(Saskatchewan_electoral_district)",
+          "entity_id": "Q7161609"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Leonard_Larson_(politician)",
+          "entity_id": "Q6525558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Prince_Albert_East&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mike_Feschuk",
+          "entity_id": "Q6846791"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Prince_Albert-Duck_Lake&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/David_Steuart",
+          "entity_id": "Q5240077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Qu%27Appelle-Wolseley",
+          "entity_id": "Q7268202"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Terry_Lyle_Hanson&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Redberry_(electoral_district)",
+          "entity_id": "Q7305463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Demitro_Michayluk",
+          "entity_id": "Q5255445"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Regina_Albert_Park&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Kenneth_Roy_MacLeod",
+          "entity_id": "Q6390650"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Regina_Centre",
+          "entity_id": "Q7308446"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Allan_Blakeney",
+          "entity_id": "Q796202"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Regina_Lakeview",
+          "entity_id": "Q3423460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Donald_Mighton_McPherson",
+          "entity_id": "Q5294881"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Regina_Northeast",
+          "entity_id": "Q7308513"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Walter_Smishek",
+          "entity_id": "Q7964745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Regina_Walsh_Acres",
+          "entity_id": "Q2394580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Edward_Charles_Whelan",
+          "entity_id": "Q5342271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Regina_Wascana",
+          "entity_id": "Q60747864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Henry_Harold_Peter_Baker",
+          "entity_id": "Q16016066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Gordon_Burton_Grant",
+          "entity_id": "Q5584937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Gordon_Burton_Grant",
+          "entity_id": "Q5584937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rosetown_(provincial_electoral_district)",
+          "entity_id": "Q7368677"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/George_Fredrick_Loken",
+          "entity_id": "Q5539489"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rosthern_(provincial_electoral_district)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/David_Boldt",
+          "entity_id": "Q5231519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Saltcoats_(provincial_electoral_district)",
+          "entity_id": "Q7406056"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ed_Kaeding",
+          "entity_id": "Q5337226"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_Centre",
+          "entity_id": "Q3473795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Beverly_Milton_Dyck",
+          "entity_id": "Q4899598"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_Meewasin",
+          "entity_id": "Q3473800"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/John_Edward_Brockelbank",
+          "entity_id": "Q6231258"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_Nutana",
+          "entity_id": "Q7425668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Wesley_Albert_Robbins",
+          "entity_id": "Q7983840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_Nutana_South",
+          "entity_id": "Q85799762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Herman_Rolfes",
+          "entity_id": "Q5740155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_Riversdale",
+          "entity_id": "Q7425676"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Roy_Romanow",
+          "entity_id": "Q938987"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon_University_(former_electoral_district)",
+          "entity_id": "Q7425689"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Richards_(scholar)",
+          "entity_id": "Q6254784"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shaunavon_(electoral_district)",
+          "entity_id": "Q7491039"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Allan_Roy_Oliver&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Shellbrook_(electoral_district)",
+          "entity_id": "Q7493740"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/George_Reginald_Anderson_Bowerman",
+          "entity_id": "Q5543779"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Souris-Estevan",
+          "entity_id": "Q7565199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Russell_Brown_(Saskatchewan_politician)",
+          "entity_id": "Q7381386"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Swift_Current_(provincial_electoral_district)",
+          "entity_id": "Q7656032"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Everett_Irvine_Wood",
+          "entity_id": "Q5417025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/The_Battlefords_(former_electoral_district)",
+          "entity_id": "Q7715914"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Eiling_Kramer",
+          "entity_id": "Q5349521"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kelsey-Tisdale",
+          "entity_id": "Q6386470"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Rissler_Messer",
+          "entity_id": "Q6254997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Touchwood_(electoral_district)",
+          "entity_id": "Q7828743"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Frank_Meakes",
+          "entity_id": "Q5488381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Turtleford_(electoral_district)",
+          "entity_id": "Q7856471"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Michael_Feduniak",
+          "entity_id": "Q6830236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kelvington-Wadena",
+          "entity_id": "Q6386771"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Frederick_Arthur_Dewhurst",
+          "entity_id": "Q5497272"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Watrous_(former_electoral_district)",
+          "entity_id": "Q7974763"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Donald_William_Cody",
+          "entity_id": "Q5295312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Weyburn_(provincial_electoral_district)",
+          "entity_id": "Q60790413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/James_Auburn_Pepper",
+          "entity_id": "Q16011333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Wilkie_(electoral_district)",
+          "entity_id": "Q8002488"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Cliff_McIsaac",
+          "entity_id": "Q5132700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_Liberal_Party",
+          "entity_id": "Q2642245"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Yorkton_(provincial_electoral_district)",
+          "entity_id": "Q8055786"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Irving_Wensley_Carlson",
+          "entity_id": "Q6074860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Saskatchewan_New_Democratic_Party",
+          "entity_id": "Q1661160"
+        }
+      ]
+    ]
+  ]
+}

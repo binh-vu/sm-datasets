@@ -1,0 +1,100 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1325627:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1325627",
+        "rel_uri": "wd:Q1325627",
+        "approximation": false,
+        "readable_label": "isotope of strontium (Q1325627)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      },
+      {
+        "id": "col-4",
+        "col_index": 4,
+        "label": "col4"
+      },
+      {
+        "id": "col-5",
+        "col_index": 5,
+        "label": "col5"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P2067",
+        "rel_uri": "p:P2067",
+        "approximation": false,
+        "readable_label": "mass (P2067)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P1122",
+        "rel_uri": "p:P1122",
+        "approximation": false,
+        "readable_label": "spin quantum number (P1122)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1086",
+        "rel_uri": "p:P1086",
+        "approximation": false,
+        "readable_label": "atomic number (P1086)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-4",
+        "abs_uri": "http://www.wikidata.org/prop/P2160",
+        "rel_uri": "p:P2160",
+        "approximation": false,
+        "readable_label": "mass excess (P2160)",
+        "id": 5
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1325627:0",
+        "target": "col-5",
+        "abs_uri": "http://www.wikidata.org/prop/P1148",
+        "rel_uri": "p:P1148",
+        "approximation": false,
+        "readable_label": "neutron number (P1148)",
+        "id": 6
+      }
+    ]
+  }
+]

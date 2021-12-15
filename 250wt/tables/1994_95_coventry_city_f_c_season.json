@@ -1,0 +1,280 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1994–95_Coventry_City_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "18 August 1994",
+          "28 August 1994",
+          "9 September 1994",
+          "19 October 1994",
+          "30 December 1994",
+          "16 February 1995",
+          "2 March 1995",
+          "2 March 1995",
+          "22 March 1995"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Pos",
+        "values": [
+          "MF",
+          "DF",
+          "FW",
+          "DF",
+          "MF",
+          "MF",
+          "DF",
+          "GK",
+          "MF"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "Paul Cook",
+          "Gary Gillespie",
+          "Dion Dublin",
+          "Steven Pressley",
+          "Mike Marsh",
+          "Kevin Richardson",
+          "David Burrows",
+          "John Filan",
+          "Gordon Strachan"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "From",
+        "values": [
+          "Wolverhampton Wanderers",
+          "Celtic",
+          "Manchester United",
+          "Rangers",
+          "West Ham United",
+          "Aston Villa",
+          "Everton",
+          "Cambridge United",
+          "Leeds United"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Fee",
+        "values": [
+          "Transfer",
+          "Free transfer",
+          "£2,000,000",
+          "£600,000",
+          "£450,000",
+          "£300,000",
+          "£1,100,000",
+          "£300,000",
+          "Free transfer"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1994–95 Coventry City F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/1994–95_Coventry_City_F.C._season",
+    "page_entity_id": "Q4589951"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Paul_Cook_(footballer)",
+          "entity_id": "Q3305315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.",
+          "entity_id": "Q19500"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gary_Gillespie",
+          "entity_id": "Q939490"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Celtic_F.C.",
+          "entity_id": "Q19593"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dion_Dublin",
+          "entity_id": "Q531093"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Manchester_United_F.C.",
+          "entity_id": "Q18656"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Steven_Pressley",
+          "entity_id": "Q2118161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rangers_F.C.",
+          "entity_id": "Q19597"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mike_Marsh_(footballer)",
+          "entity_id": "Q1338918"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/West_Ham_United_F.C.",
+          "entity_id": "Q18747"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Richardson_(footballer)",
+          "entity_id": "Q966909"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aston_Villa_F.C.",
+          "entity_id": "Q18711"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/David_Burrows_(footballer)",
+          "entity_id": "Q542287"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Everton_F.C.",
+          "entity_id": "Q5794"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/John_Filan",
+          "entity_id": "Q2480367"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cambridge_United_F.C.",
+          "entity_id": "Q18509"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gordon_Strachan",
+          "entity_id": "Q314095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Leeds_United_A.F.C.",
+          "entity_id": "Q1128631"
+        }
+      ],
+      []
+    ]
+  ]
+}

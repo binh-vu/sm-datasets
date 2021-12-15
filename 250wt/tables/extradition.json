@@ -1,0 +1,498 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Extradition",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Morton Sobell",
+          "Adolf Eichmann",
+          "Antoine Argoud",
+          "Isang Yun",
+          "Mordechai Vanunu",
+          "Humberto Álvarez Machaín",
+          "Abdullah Ocalan",
+          "Wang Bingzhang",
+          "Hassan Mustafa Osama Nasr",
+          "Rodrigo Granda",
+          "Konstantin Yaroshenko",
+          "Dirar Abu Seesi",
+          "Gui Minhai",
+          "Trịnh Xuân Thanh",
+          "Xiao Jianhua"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Year",
+        "values": [
+          "1950",
+          "1960",
+          "1963",
+          "1967",
+          "1986",
+          "1990",
+          "1999",
+          "2002",
+          "2003",
+          "2004",
+          "2008",
+          "2011",
+          "2015",
+          "2017",
+          "2017"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "From",
+        "values": [
+          "Mexico",
+          "Argentina",
+          "West Germany",
+          "West Germany",
+          "Italy",
+          "Mexico",
+          "Kenya",
+          "Vietnam",
+          "Italy",
+          "Venezuela",
+          "Liberia",
+          "Ukraine",
+          "Thailand",
+          "Germany",
+          "Hong Kong"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "To",
+        "values": [
+          "United States",
+          "Israel",
+          "France",
+          "South Korea",
+          "Israel",
+          "United States",
+          "Turkey",
+          "China",
+          "Egypt",
+          "Colombia",
+          "United States",
+          "Israel",
+          "China",
+          "Vietnam",
+          "China"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Extradition",
+    "page_url": "https://en.wikipedia.org/wiki/Extradition",
+    "page_entity_id": "Q210603"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Morton_Sobell",
+          "entity_id": "Q931840"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Adolf_Eichmann",
+          "entity_id": "Q28085"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Antoine_Argoud",
+          "entity_id": "Q585607"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Germany",
+          "entity_id": "Q713750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Isang_Yun",
+          "entity_id": "Q153611"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Germany",
+          "entity_id": "Q713750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/South_Korea",
+          "entity_id": "Q884"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mordechai_Vanunu",
+          "entity_id": "Q48775"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Humberto_%C3%81lvarez_Macha%C3%ADn",
+          "entity_id": "Q5940132"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Abdullah_Ocalan",
+          "entity_id": "Q191530"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Turkey",
+          "entity_id": "Q43"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Wang_Bingzhang_(dissident)",
+          "entity_id": "Q7967366"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vietnam",
+          "entity_id": "Q881"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Hassan_Mustafa_Osama_Nasr",
+          "entity_id": "Q335231"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rodrigo_Granda",
+          "entity_id": "Q17996727"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Colombia",
+          "entity_id": "Q739"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Liberia",
+          "entity_id": "Q1014"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dirar_Abu_Seesi",
+          "entity_id": "Q976374"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gui_Minhai",
+          "entity_id": "Q22099950"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thailand",
+          "entity_id": "Q869"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Xu%C3%A2n_Thanh",
+          "entity_id": "Q26945273"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vietnam",
+          "entity_id": "Q881"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Xiao_Jianhua",
+          "entity_id": "Q9185969"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ]
+    ]
+  ]
+}

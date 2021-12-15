@@ -1,0 +1,247 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Premier_Badminton_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Country",
+        "values": [
+          " Malaysia",
+          " Germany",
+          " Denmark",
+          " India",
+          " India",
+          " India",
+          " India",
+          " Russia",
+          " India",
+          " India"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Lee Chong Wei",
+          "Marc Zwiebler",
+          "Tine Baun",
+          "Pranav Chopra",
+          "Manu Attri",
+          "N. Siki Reddy",
+          "P. C. Thulasi",
+          "Vladimir Ivanov",
+          "Rasika Raje",
+          "B. Sumeeth Reddy"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Salary",
+        "values": [
+          "$135,000",
+          "$15,000",
+          "$30,000",
+          "$36,000",
+          "$10,000",
+          "$11,000",
+          "$10,000",
+          "$15,000",
+          "$3,000",
+          "$7,500"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Premier Badminton League",
+    "page_url": "https://en.wikipedia.org/wiki/Premier_Badminton_League",
+    "page_entity_id": "Q14191429"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Chong_Wei",
+          "entity_id": "Q319346"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Marc_Zwiebler",
+          "entity_id": "Q63693"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tine_Baun",
+          "entity_id": "Q434835"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pranav_Chopra",
+          "entity_id": "Q1473394"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Manu_Attri",
+          "entity_id": "Q13505049"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/N._Siki_Reddy",
+          "entity_id": "Q2285553"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/P._C._Thulasi",
+          "entity_id": "Q2043562"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Vladimir_Ivanov_(badminton)",
+          "entity_id": "Q528315"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/B._Sumeeth_Reddy",
+          "entity_id": "Q14592828"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "8N0XYUTE",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "Osceola County",
+          "Ringgold County",
+          "Mills County",
+          "Worth County",
+          "Wayne County",
+          "Humboldt County",
+          "Winnebago County",
+          "Taylor County",
+          "Howard County",
+          "Ida County",
+          "Decatur County",
+          "Clarke County",
+          "Chickasaw County",
+          "Butler County",
+          "Kossuth County",
+          "Adams County",
+          "Emmet County",
+          "Linn County",
+          "Fayette County",
+          "Delaware County"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Iowa",
+          "National Register of Historic Places listings in Linn County, Iowa",
+          "National Register of Historic Places listings in Fayette County, Iowa",
+          "National Register of Historic Places listings in Delaware County, Iowa"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa",
+          "Iowa"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q485795",
+          "qnode_id": "Q485795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q485752",
+          "qnode_id": "Q485752"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q485720",
+          "qnode_id": "Q485720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q485463",
+          "qnode_id": "Q485463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q485460",
+          "qnode_id": "Q485460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q485455",
+          "qnode_id": "Q485455"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q249638",
+          "qnode_id": "Q249638"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q176068",
+          "qnode_id": "Q176068"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q156647",
+          "qnode_id": "Q156647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q156642",
+          "qnode_id": "Q156642"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q156634",
+          "qnode_id": "Q156634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q115298",
+          "qnode_id": "Q115298"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q113805",
+          "qnode_id": "Q113805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q113783",
+          "qnode_id": "Q113783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q113201",
+          "qnode_id": "Q113201"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q110768",
+          "qnode_id": "Q110768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q110482",
+          "qnode_id": "Q110482"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 53,
+          "url": "http://www.wikidata.org/entity/Q1967630",
+          "qnode_id": "Q1967630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q485741",
+          "qnode_id": "Q485741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 66,
+          "url": "http://www.wikidata.org/entity/Q1839118",
+          "qnode_id": "Q1839118"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q486184",
+          "qnode_id": "Q486184"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 69,
+          "url": "http://www.wikidata.org/entity/Q1839064",
+          "qnode_id": "Q1839064"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q115281",
+          "qnode_id": "Q115281"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 70,
+          "url": "http://www.wikidata.org/entity/Q1839056",
+          "qnode_id": "Q1839056"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://www.wikidata.org/entity/Q1546",
+          "qnode_id": "Q1546"
+        }
+      ]
+    ]
+  ]
+}

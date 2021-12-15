@@ -1,0 +1,116 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1616075",
+        "rel_uri": "wd:Q1616075",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Network"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q56061",
+        "rel_uri": "wd:Q56061",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Country/Location"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Airing Date"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Timeslot"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Notes"
+      },
+      {
+        "id": "context-Q5975239",
+        "value": "http://www.wikidata.org/entity/Q5975239",
+        "readable_label": "My Queen (Q5975239)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P17",
+        "rel_uri": "p:P17",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "context-Q5975239",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P3301",
+        "rel_uri": "p:P3301",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P3301",
+        "rel_uri": "p:P3301",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P580",
+        "rel_uri": "p:P580",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]

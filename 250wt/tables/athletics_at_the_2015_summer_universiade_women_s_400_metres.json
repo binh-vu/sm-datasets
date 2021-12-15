@@ -1,0 +1,276 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Athletics_at_the_2015_Summer_Universiade_–_Women's_400_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Lane",
+        "values": [
+          "5",
+          "4",
+          "3",
+          "8",
+          "6",
+          "1",
+          "7",
+          "2"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "Justine Palframan",
+          "Małgorzata Hołub",
+          "Yang Huizhen",
+          "Ruth Spelmeyer",
+          "Iveta Putalová",
+          "Justyna Święty",
+          "Marta Milani",
+          "Sanda Belgyan"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " South Africa",
+          " Poland",
+          " China",
+          " Germany",
+          " Slovakia",
+          " Poland",
+          " Italy",
+          " Romania"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "51.27",
+          "51.93",
+          "51.98",
+          "52.04",
+          "52.18",
+          "52.44",
+          "53.06",
+          "53.36"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "PB",
+          "SB",
+          "PB",
+          "PB",
+          "PB",
+          "SB",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Athletics at the 2015 Summer Universiade – Women's 400 metres",
+    "page_url": "https://en.wikipedia.org/wiki/Athletics_at_the_2015_Summer_Universiade_–_Women's_400_metres",
+    "page_entity_id": "Q20806554"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Justine_Palframan",
+          "entity_id": "Q20895960"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ma%C5%82gorzata_Ho%C5%82ub",
+          "entity_id": "Q11772283"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yang_Huizhen",
+          "entity_id": "Q20128397"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ruth_Spelmeyer",
+          "entity_id": "Q24585049"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Iveta_Putalov%C3%A1",
+          "entity_id": "Q19667038"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slovakia",
+          "entity_id": "Q214"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Justyna_%C5%9Awi%C4%99ty",
+          "entity_id": "Q11729726"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marta_Milani",
+          "entity_id": "Q926787"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sanda_Belgyan",
+          "entity_id": "Q20993653"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

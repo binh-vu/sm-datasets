@@ -1,0 +1,798 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_restaurant_chains_in_the_United_States",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Au Bon Pain",
+          "Auntie Anne's",
+          "Bruegger's Bagels",
+          "Cinnabon",
+          "Corner Bakery Cafe",
+          "Daylight Donuts",
+          "Duck Donuts",
+          "Einstein Bros. Bagels",
+          "Great American Cookies",
+          "Great Harvest Bread Company",
+          "Honey Dew Donuts",
+          "Insomnia Cookies",
+          "Krispy Kreme",
+          "Le Madeleine",
+          "Le Pain Quotidien",
+          "Mrs. Fields",
+          "Pretzelmaker",
+          "Shipley Do-Nuts",
+          "Wetzel's Pretzels",
+          "Winchell's Donuts"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Original location",
+        "values": [
+          "Boston, Massachusetts",
+          "Downingtown, Pennsylvania",
+          "Troy, New York",
+          "Seattle, Washington",
+          "Chicago, Illinois",
+          "Tulsa, Oklahoma",
+          "Duck, North Carolina",
+          "Golden, Colorado",
+          "Atlanta, Georgia",
+          "Great Falls, Montana",
+          "Mansfield, Massachusetts",
+          "Philadelphia, Pennsylvania",
+          "Winston-Salem, North Carolina",
+          "Dallas, Texas",
+          "Brussels, Belgium",
+          "Palo Alto, California",
+          "Pennsylvania",
+          "Houston, Texas",
+          "Redondo Beach, California",
+          "Temple City, California"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Year started",
+        "values": [
+          "1976",
+          "1988",
+          "1983",
+          "1985",
+          "1991",
+          "1954",
+          "2006",
+          "1995",
+          "1977",
+          "1976",
+          "1973",
+          "2003",
+          "1937",
+          "1983",
+          "1990",
+          "1977",
+          "1991",
+          "1936",
+          "1994",
+          "1948"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Headquarters",
+        "values": [
+          "Boston, Massachusetts",
+          "Lancaster, Pennsylvania",
+          "Burlington, Vermont",
+          "Sandy Springs, Georgia",
+          "Dallas, Texas",
+          "Tulsa, Oklahoma",
+          "Hampden Township, Pennsylvania",
+          "Lakewood, Colorado",
+          "Atlanta, Georgia",
+          "Dillon, Montana",
+          "Plainville, Massachusetts",
+          "New York, New York",
+          "Winston-Salem, North Carolina",
+          "Dallas, Texas",
+          "New York, New York",
+          "Broomfield, Colorado",
+          "Atlanta, Georgia",
+          "Houston, Texas",
+          "Pasadena, California",
+          "City of Industry, California"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Number of worldwide locations",
+        "values": [
+          "204",
+          "1,500+",
+          "260",
+          "1,200+",
+          "192",
+          "1,000",
+          "83",
+          "855",
+          "290",
+          "200+",
+          "150",
+          "155",
+          "1,005",
+          "86",
+          "260",
+          "400",
+          "280",
+          "",
+          "305",
+          "170"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Areas served",
+        "values": [
+          "Nationwide",
+          "Nationwide",
+          "East, Southwest",
+          "Nationwide",
+          "Nationwide",
+          "Midwest",
+          "East",
+          "Nationwide",
+          "East",
+          "Nationwide",
+          "New England",
+          "Nationwide",
+          "Nationwide",
+          "Southeast, Texas",
+          "Mid-Atlantic, Florida, Illinois, California",
+          "Nationwide",
+          "Nationwide",
+          "Texas, Oklahoma",
+          "Nationwide",
+          "West"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of restaurant chains in the United States",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_restaurant_chains_in_the_United_States",
+    "page_entity_id": "Q6636527"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Au_Bon_Pain",
+          "entity_id": "Q4818942"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Auntie_Anne%27s",
+          "entity_id": "Q4822010"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Downingtown,_Pennsylvania",
+          "entity_id": "Q1133437"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Lancaster,_Pennsylvania",
+          "entity_id": "Q320514"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bruegger%27s",
+          "entity_id": "Q4978656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Troy,_New_York",
+          "entity_id": "Q600301"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Burlington,_Vermont",
+          "entity_id": "Q31058"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cinnabon",
+          "entity_id": "Q1092539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Sandy_Springs,_Georgia",
+          "entity_id": "Q914884"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Corner_Bakery_Cafe",
+          "entity_id": "Q5171598"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Daylight_Donuts",
+          "entity_id": "Q48970508"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",
+          "entity_id": "Q44989"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",
+          "entity_id": "Q44989"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Duck_Donuts",
+          "entity_id": "Q54958282"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Duck,_North_Carolina",
+          "entity_id": "Q2724064"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Hampden_Township,_Cumberland_County,_Pennsylvania",
+          "entity_id": "Q5646005"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Einstein_Bros._Bagels",
+          "entity_id": "Q5349788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Golden,_Colorado",
+          "entity_id": "Q983543"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Lakewood,_Colorado",
+          "entity_id": "Q462804"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Great_American_Cookies",
+          "entity_id": "Q5598629"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Great_Harvest_Bread_Company",
+          "entity_id": "Q5599297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Great_Falls,_Montana",
+          "entity_id": "Q466190"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dillon,_Montana",
+          "entity_id": "Q955026"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Honey_Dew_Donuts",
+          "entity_id": "Q5893524"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Mansfield,_Massachusetts",
+          "entity_id": "Q1193955"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Plainville,_Massachusetts",
+          "entity_id": "Q2536981"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Insomnia_Cookies",
+          "entity_id": "Q16997024"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Krispy_Kreme",
+          "entity_id": "Q1192805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Winston-Salem,_North_Carolina",
+          "entity_id": "Q49227"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Winston-Salem,_North_Carolina",
+          "entity_id": "Q49227"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/La_Madeleine_(restaurant_chain)",
+          "entity_id": "Q6463578"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Le_Pain_Quotidien",
+          "entity_id": "Q2046903"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Brussels",
+          "entity_id": "Q240"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mrs._Fields",
+          "entity_id": "Q3866841"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Palo_Alto,_California",
+          "entity_id": "Q47265"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Broomfield,_Colorado",
+          "entity_id": "Q492819"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pretzelmaker",
+          "entity_id": "Q7242321"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pennsylvania",
+          "entity_id": "Q1400"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shipley_Do-Nuts",
+          "entity_id": "Q7498017"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wetzel%27s_Pretzels",
+          "entity_id": "Q7990205"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Redondo_Beach,_California",
+          "entity_id": "Q840678"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Pasadena,_California",
+          "entity_id": "Q485176"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Winchell%27s_Donuts",
+          "entity_id": "Q8023756"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Temple_City,_California",
+          "entity_id": "Q864144"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/City_of_Industry,_California",
+          "entity_id": "Q927094"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

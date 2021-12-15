@@ -1,0 +1,1046 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "David_Crane_(programmer)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1978",
+          "1978",
+          "1979",
+          "1979",
+          "1980",
+          "1980",
+          "1981",
+          "1981",
+          "1981",
+          "1981",
+          "1982",
+          "1983",
+          "1983",
+          "1984",
+          "1984",
+          "1984",
+          "1984",
+          "1985",
+          "1986",
+          "1987",
+          "1988",
+          "1989",
+          "1990",
+          "1991",
+          "1991",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1994",
+          "1996",
+          "1997"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title",
+        "values": [
+          "Boggle (unreleased)",
+          "Outlaw",
+          "Canyon Bomber",
+          "Slot Machine",
+          "Dragster",
+          "Fishing Derby",
+          "Laser Blast",
+          "Freeway",
+          "Grand Prix",
+          "Kaboom!",
+          "Pitfall!",
+          "The Activision Decathlon",
+          "The Activision Decathlon",
+          "Pitfall II: Lost Caverns",
+          "Pitfall!",
+          "Pitfall II: Lost Caverns",
+          "Ghostbusters",
+          "Little Computer People",
+          "Transformers: The Battle to Save the Earth",
+          "Skate Boardin'",
+          "Super Skate Boardin'",
+          "A Boy and His Blob: Trouble on Blobolonia",
+          "The Rescue of Princess Blobette",
+          "The Simpsons: Bart vs. the Space Mutants",
+          "The Simpsons: Bart vs. the World",
+          "Bart Simpson's Escape from Camp Deadly",
+          "David Crane's Amazing Tennis",
+          "Toys",
+          "Home Improvement: Power Tool Pursuit!",
+          "Night Trap",
+          "SPQR: The Empire's Darkest Hour",
+          "Klondike"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Credits",
+        "values": [
+          "Programmer",
+          "Programmer",
+          "Programmer",
+          "Programmer",
+          "Designer",
+          "Designer",
+          "Designer",
+          "Designer",
+          "Designer",
+          "Graphics",
+          "Designer, programmer",
+          "Designer, programmer",
+          "Designer",
+          "Designer, programmer, audio",
+          "Designer",
+          "Designer",
+          "Designer, programmer",
+          "Designer, programmer",
+          "Designer",
+          "Designer, programmer",
+          "Designer, programmer",
+          "Designer, programmer",
+          "Designer, programmer",
+          "Programmer",
+          "Designer",
+          "Programmer",
+          "Designer, programmer",
+          "Designer, producer",
+          "Designer",
+          "Programmer",
+          "Advice",
+          "Designer"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Publisher",
+        "values": [
+          "Atari, Inc.",
+          "Atari, Inc.",
+          "Atari, Inc.",
+          "Atari, Inc.",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Activision",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Absolute Entertainment",
+          "Digital Pictures",
+          "GT Interactive",
+          "Sega"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "System",
+        "values": [
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 2600",
+          "Atari 5200",
+          "Atari 2600",
+          "Atari 5200",
+          "Atari 5200",
+          "Commodore 64",
+          "",
+          "Commodore 64",
+          "Atari 2600",
+          "Atari 7800",
+          "NES",
+          "Game Boy",
+          "",
+          "",
+          "Game Boy",
+          "",
+          "SNES",
+          "SNES",
+          "",
+          "Windows",
+          "Sega Channel"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "David Crane (programmer)",
+    "page_url": "https://en.wikipedia.org/wiki/David_Crane_(programmer)",
+    "page_entity_id": "Q1174091"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Atari,_Inc.",
+          "entity_id": "Q13409231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Outlaw_(video_game)",
+          "entity_id": "Q7112116"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Atari,_Inc.",
+          "entity_id": "Q13409231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Canyon_Bomber",
+          "entity_id": "Q2936913"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Atari,_Inc.",
+          "entity_id": "Q13409231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Atari,_Inc.",
+          "entity_id": "Q13409231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dragster_(video_game)",
+          "entity_id": "Q5305511"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Fishing_Derby",
+          "entity_id": "Q5455016"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Laser_Blast",
+          "entity_id": "Q2527852"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Freeway_(video_game)",
+          "entity_id": "Q5501239"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Grand_Prix_(video_game)",
+          "entity_id": "Q10290923"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kaboom!_(video_game)",
+          "entity_id": "Q644479"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pitfall!",
+          "entity_id": "Q1573878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Activision_Decathlon",
+          "entity_id": "Q475051"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Activision_Decathlon",
+          "entity_id": "Q475051"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_5200",
+          "entity_id": "Q743222"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Pitfall_II:_Lost_Caverns",
+          "entity_id": "Q3905832"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pitfall!",
+          "entity_id": "Q1573878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_5200",
+          "entity_id": "Q743222"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Pitfall_II:_Lost_Caverns",
+          "entity_id": "Q3905832"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_5200",
+          "entity_id": "Q743222"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/List_of_Ghostbusters_video_games#Ghostbusters_.28Activision.29",
+          "entity_id": "Q1521912"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Commodore_64",
+          "entity_id": "Q99775"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Little_Computer_People",
+          "entity_id": "Q1424936"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Transformers:_The_Battle_to_Save_the_Earth",
+          "entity_id": "Q1873701"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Commodore_64",
+          "entity_id": "Q99775"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Skate_Boardin%27",
+          "entity_id": "Q7534105"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_2600",
+          "entity_id": "Q206261"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Skate_Boardin%27",
+          "entity_id": "Q7534105"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Activision",
+          "entity_id": "Q200491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atari_7800",
+          "entity_id": "Q753600"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/A_Boy_and_His_Blob:_Trouble_on_Blobolonia",
+          "entity_id": "Q300339"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/NES",
+          "entity_id": "Q172742"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/The_Rescue_of_Princess_Blobette",
+          "entity_id": "Q656503"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Game_Boy",
+          "entity_id": "Q186437"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/The_Simpsons:_Bart_vs._the_Space_Mutants",
+          "entity_id": "Q1837967"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/The_Simpsons:_Bart_vs._the_World",
+          "entity_id": "Q2534019"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Bart_Simpson%27s_Escape_from_Camp_Deadly",
+          "entity_id": "Q2710516"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Game_Boy",
+          "entity_id": "Q186437"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/David_Crane%27s_Amazing_Tennis",
+          "entity_id": "Q2841430"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Toys_(video_game)",
+          "entity_id": "Q3536083"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/SNES",
+          "entity_id": "Q183259"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Home_Improvement:_Power_Tool_Pursuit!",
+          "entity_id": "Q5888431"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Absolute_Entertainment",
+          "entity_id": "Q2822030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/SNES",
+          "entity_id": "Q183259"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Night_Trap",
+          "entity_id": "Q1323428"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Digital_Pictures",
+          "entity_id": "Q4037348"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/SPQR:_The_Empire%27s_Darkest_Hour",
+          "entity_id": "Q7392638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/GT_Interactive",
+          "entity_id": "Q527336"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Windows",
+          "entity_id": "Q1406"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Sega",
+          "entity_id": "Q122741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sega_Channel",
+          "entity_id": "Q7446143"
+        }
+      ]
+    ]
+  ]
+}

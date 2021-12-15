@@ -1,0 +1,79 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Name"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q55313687",
+        "rel_uri": "wd:Q55313687",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Location"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Photo"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Date Established"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q33506",
+        "rel_uri": "wd:Q33506",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P1619",
+        "rel_uri": "p:P1619",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      }
+    ]
+  }
+]

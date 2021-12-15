@@ -1,0 +1,878 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2006_in_Japanese_television",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Show",
+        "values": [
+          ".hack//Roots",
+          "Bakegyamon",
+          "Black Lagoon",
+          "Black Lagoon: The Second Barrage",
+          "Buso Renkin",
+          "Code Geass: Lelouch of the Rebellion",
+          "D.Gray-Man",
+          "Dare Yorimo Mama wo Ai su",
+          "Demashita! Powerpuff Girls Z",
+          "Digimon Savers",
+          "Fushigiboshi no Futagohime Gyu!",
+          "Futari wa Pretty Cure Splash Star",
+          "Gintama",
+          "GoGo Sentai Boukenger",
+          "Hataraki Man",
+          "Kamen Rider Kabuto",
+          "Kanon",
+          "Kenichi: The Mightiest Disciple",
+          "Kirarin Revolution",
+          "Lion-Maru G",
+          "Madan Senki Ryukendo",
+          "Mamotte! Lollipop",
+          "Ouran High School Host Club",
+          "Rockman EXE Beast+",
+          "Pocket Monsters Diamond & Pearl",
+          "Ryusei no Rockman",
+          "Saiyūki",
+          "School Rumble: 2nd Semester",
+          "Sumomomo Momomo: The Strongest Bride on Earth",
+          "Tama & Friends: Search! The Magic Puni-Puni Stone",
+          "Ultraman Mebius",
+          "xxxHolic"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Station",
+        "values": [
+          "TV Tokyo",
+          "TV Tokyo",
+          "Chiba TV",
+          "Sendai TV",
+          "TV Tokyo",
+          "MBS",
+          "TV Tokyo",
+          "TBS",
+          "TV Tokyo",
+          "Fuji TV",
+          "TV Tokyo",
+          "TV Asahi",
+          "TV Tokyo",
+          "TV Asahi",
+          "Fuji TV",
+          "TV Asahi",
+          "BS-i",
+          "TV Tokyo",
+          "TV Tokyo",
+          "TV Tokyo",
+          "TV Aichi",
+          "TV Setouchi",
+          "Nippon TV",
+          "TV Tokyo",
+          "TV Tokyo",
+          "TV Tokyo",
+          "Fuji TV",
+          "TV Tokyo",
+          "TV Asahi",
+          "Animax",
+          "CBC",
+          "TBS"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Premiere date",
+        "values": [
+          "April 5",
+          "April 3",
+          "April 8",
+          "October 2",
+          "October 5",
+          "October 5",
+          "October 3",
+          "July 2",
+          "July 1",
+          "April 2",
+          "April 1",
+          "February 5",
+          "April 4",
+          "February 19",
+          "October 12",
+          "January 29",
+          "October 5",
+          "October 7",
+          "April 7",
+          "October 1",
+          "January 8",
+          "July 1",
+          "April 4",
+          "April 8",
+          "September 28",
+          "October 7",
+          "January 9",
+          "April 2",
+          "October 5",
+          "May 6",
+          "April 8",
+          "April 6"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Genre",
+        "values": [
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "drama",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "anime",
+          "tokusatsu",
+          "anime",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "tokusatsu",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "drama",
+          "anime",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "animePsalms of Planets Eureka seveN"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Original run",
+        "values": [
+          "April 5, 2006 - September 27, 2006",
+          "April 3, 2006 - March 26, 2007",
+          "April 8, 2006 – June 24, 2006",
+          "October 2, 2006 – December 18, 2006",
+          "October 5, 2006 - March 29, 2007",
+          "October 5, 2006 - March 29, 2007",
+          "October 3, 2006 – September 30, 2008",
+          "July 2, 2006 - September 10, 2006",
+          "July 1, 2006 - June 30, 2007",
+          "April 2, 2006 - March 25, 2007",
+          "April 1, 2006 – March 31, 2007",
+          "February 5, 2006 – January 28, 2007",
+          "April 4, 2006 - March 25, 2010",
+          "February 19, 2006 – February 11, 2007",
+          "October 12, 2006 - December 21, 2006",
+          "January 29, 2006 – January 21, 2007",
+          "October 5, 2006 - March 15, 2007",
+          "October 7, 2006 – September 29, 2007",
+          "April 7, 2006 - March 28, 2008",
+          "October 1, 2006 - November 24, 2006",
+          "January 8, 2006 – December 31, 2006",
+          "July 1, 2006 - September 23, 2006",
+          "April 4, 2006 – September 26, 2006",
+          "April 8, 2006 - September 30, 2006",
+          "September 28, 2006 - September 9, 2010",
+          "October 7, 2006 – October 27, 2007",
+          "January 9, 2006 - March 20, 2006",
+          "April 2, 2006 - September 24, 2006",
+          "October 5, 2006 - March 15, 2007",
+          "May 6, 2006 - November 4, 2006",
+          "April 8, 2006 – March 31, 2007",
+          "April 6, 2006 - September 28, 2006"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2006 in Japanese television",
+    "page_url": "https://en.wikipedia.org/wiki/2006_in_Japanese_television",
+    "page_entity_id": "Q4607256"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/.hack//Roots",
+          "entity_id": "Q1745049"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bakegyamon",
+          "entity_id": "Q804287"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Black_Lagoon",
+          "entity_id": "Q423652"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chiba_Television_Broadcasting",
+          "entity_id": "Q1071746"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Black_Lagoon",
+          "entity_id": "Q423652"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sendai_Television",
+          "entity_id": "Q843347"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Buso_Renkin",
+          "entity_id": "Q177333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Code_Geass",
+          "entity_id": "Q4384067"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Mainichi_Broadcasting_System",
+          "entity_id": "Q1331921"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/D.Gray-Man",
+          "entity_id": "Q170019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Dare_Yorimo_Mama_wo_Ai_su",
+          "entity_id": "Q4184132"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Demashita!_Powerpuff_Girls_Z",
+          "entity_id": "Q865498"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Digimon_Savers",
+          "entity_id": "Q666569"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_TV",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Fushigiboshi_no_Futagohime",
+          "entity_id": "Q1141816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Futari_wa_Pretty_Cure_Splash_Star",
+          "entity_id": "Q1475446"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gintama",
+          "entity_id": "Q764135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/GoGo_Sentai_Boukenger",
+          "entity_id": "Q1193877"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hataraki_Man",
+          "entity_id": "Q1075090"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_TV",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kamen_Rider_Kabuto",
+          "entity_id": "Q630860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kanon_(visual_novel)",
+          "entity_id": "Q682892"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/BS-i",
+          "entity_id": "Q1143709"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Kenichi:_The_Mightiest_Disciple",
+          "entity_id": "Q698229"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kirarin_Revolution",
+          "entity_id": "Q484955"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lion-Maru_G",
+          "entity_id": "Q6555348"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Madan_Senki_Ryukendo",
+          "entity_id": "Q1377015"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Aichi",
+          "entity_id": "Q1324062"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mamotte!_Lollipop",
+          "entity_id": "Q2724193"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/TV_Setouchi",
+          "entity_id": "Q328264"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Ouran_High_School_Host_Club",
+          "entity_id": "Q327773"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nippon_TV",
+          "entity_id": "Q864910"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/List_of_MegaMan_NT_Warrior_episodes_(Beast_and_Beast%2B)",
+          "entity_id": "Q6589758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Pok%C3%A9mon_(anime)",
+          "entity_id": "Q239937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ryusei_no_Rockman_(anime)",
+          "entity_id": "Q13582535"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saiy%C5%ABki_(TV_series)",
+          "entity_id": "Q702980"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/School_Rumble",
+          "entity_id": "Q482472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Sumomomo_Momomo:_The_Strongest_Bride_on_Earth",
+          "entity_id": "Q1314527"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/Tama_and_Friends",
+          "entity_id": "Q2635100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Animax",
+          "entity_id": "Q161405"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ultraman_Mebius",
+          "entity_id": "Q3270546"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Chubu-Nippon_Broadcasting",
+          "entity_id": "Q528448"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/XxxHolic",
+          "entity_id": "Q308035"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

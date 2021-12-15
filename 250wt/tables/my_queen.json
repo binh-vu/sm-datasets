@@ -1,0 +1,344 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "My_Queen",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Network",
+        "values": [
+          "TTV",
+          "SETTV",
+          "TTV",
+          "SETTV",
+          "SETTV",
+          "SETTV",
+          "SETTV",
+          "SETTV",
+          "TTV",
+          "東森戲劇台",
+          "中華電信MOD 044星光偶像HD台",
+          "TVB J2"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Country/Location",
+        "values": [
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Taiwan",
+          "Hong Kong"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Airing Date",
+        "values": [
+          "January 4, 2009",
+          "January 10, 2009",
+          "January 11, 2009",
+          "January 17, 2009",
+          "June 3, 2009",
+          "June 4, 2009",
+          "June 4, 2009",
+          "December 23, 2010",
+          "January 26, 2011",
+          "December 25, 2011",
+          "June 11, 2012",
+          "January 17, 2010"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Timeslot",
+        "values": [
+          "Sundays, 10pm",
+          "Saturdays, 9pm",
+          "Sundays, 1pm",
+          "Sundays, 1:30pm",
+          "Mondays to Fridays, 8pm",
+          "Mondays to Fridays, 12am",
+          "Mondays to Fridays, 1pm",
+          "Mondays to Fridays, 8pm",
+          "Mondays to Fridays, 10am",
+          "Saturdays - Sundays, 6pm",
+          "Mondays to Fridays, 8-9pm",
+          "Sundays, 8:30pm"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "Premiere",
+          "Cable TV premiere",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Replays",
+          "Overseas"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "My Queen",
+    "page_url": "https://en.wikipedia.org/wiki/My_Queen",
+    "page_entity_id": "Q5975239"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TTV_Main_Channel",
+          "entity_id": "Q10915848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TTV_Main_Channel",
+          "entity_id": "Q10915848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sanlih_E-Television",
+          "entity_id": "Q703248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TTV_Main_Channel",
+          "entity_id": "Q10915848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_China",
+          "entity_id": "Q865"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/TVB_J2",
+          "entity_id": "Q7672166"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

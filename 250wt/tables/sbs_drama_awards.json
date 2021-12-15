@@ -1,0 +1,3423 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "SBS_Drama_Awards",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2001",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2003",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2004",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2007",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2012",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2013",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2014",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2015",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2016"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Winner",
+        "values": [
+          "Cho Jae-hyun",
+          "Choi Ji-woo",
+          "Do Ji-won",
+          "Jeon In-hwa",
+          "Kang Soo-yeon",
+          "Kim Min-jong",
+          "Lee Byung-hun",
+          "Ryu Si-won",
+          "Song Hye-kyo",
+          "Song Seung-heon",
+          "Ahn Jae-mo",
+          "Go Soo",
+          "Han Jae-suk",
+          "Jang Hyuk",
+          "Jang Na-ra",
+          "Jeon Do-yeon",
+          "Jo In-sung",
+          "Kim Hyun-joo",
+          "Kim Jaewon",
+          "So Yoo-jin",
+          "Cha In-pyo",
+          "Choi Myung-gil",
+          "Choi Ji-woo",
+          "Kim Hee-ae",
+          "Kim Yeong-cheol",
+          "Kwon Sang-woo",
+          "Lee Byung-hun",
+          "So Ji-sub",
+          "Song Hye-kyo",
+          "Sung Yu-ri",
+          "Ha Ji-won",
+          "Ji Sung",
+          "Jo In-sung",
+          "Kim Hyun-joo",
+          "Kim Jung-eun",
+          "Kim Rae-won",
+          "Kim Tae-hee",
+          "Lee Dong-gun",
+          "Park Shin-yang",
+          "Song Yun-ah",
+          "Go Hyun-jung",
+          "Go Soo",
+          "Jeon Do-yeon",
+          "Jo Hyun-jae",
+          "Jo In-sung",
+          "Joo Jin-mo",
+          "Kim Hyun-joo",
+          "Kim Joo-hyuk",
+          "Kim Min-jung",
+          "Lee Yo-won",
+          "Han Hye-sook",
+          "Kim Jung-eun",
+          "Kim Kap-soo",
+          "Lee Bo-young",
+          "Lee Da-hae",
+          "Lee Seo-jin",
+          "Eric Mun",
+          "Park Jin-hee",
+          "Shim Hye-jin",
+          "Son Ye-jin",
+          "Jun Kwang-ryul",
+          "Kim Hee-ae",
+          "Lee Beom-soo",
+          "Lee Yo-won",
+          "Lee Young-ah",
+          "Oh Ji-ho",
+          "Park Jin-hee",
+          "Park Shin-yang",
+          "Shin Eun-kyung",
+          "Song Chang-eui",
+          "Ahn Nae-sang",
+          "Han Ye-seul",
+          "Jang Hyuk",
+          "Kim Ha-neul",
+          "Kim Rae-won",
+          "Lee Joon-gi",
+          "Moon Geun-young",
+          "Oh Hyun-kyung",
+          "Park Yong-ha",
+          "Song Yun-ah",
+          "Bae Soo-bin",
+          "Cha Seung-won",
+          "Han Hyo-joo",
+          "Jang Keun-suk",
+          "Jang Seo-hee",
+          "Kim Hye-soo",
+          "Kim Sun-a",
+          "Lee Seung-gi",
+          "Lee Soo-kyung",
+          "So Ji-sub",
+          "Go Hyun-jung",
+          "Ha Ji-won",
+          "Hyun Bin",
+          "Jeong Bo-seok",
+          "Kim So-yeon",
+          "Kwon Sang-woo",
+          "Lee Beom-soo",
+          "Lee Seung-gi",
+          "Park Jin-hee",
+          "Shin Min-ah",
+          "Choi Kang-hee",
+          "Han Suk-kyu",
+          "Jang Hyuk",
+          "Ji Sung",
+          "Kim Rae-won",
+          "Kim Sun-a",
+          "Lee Dong-wook",
+          "Lee Min-ho",
+          "Lee Yo-won",
+          "Soo Ae",
+          "Chae Shi-ra",
+          "Han Ji-min",
+          "Jang Dong-gun",
+          "Jung Ryeo-won",
+          "Kim Ha-neul",
+          "Lee Min-ho",
+          "Park Yoochun",
+          "Shin Eun-kyung",
+          "So Ji-sub",
+          "Son Hyun-joo",
+          "Jo In-sung",
+          "Kim Woo-bin",
+          "Lee Bo-young",
+          "Lee Jong-suk",
+          "Lee Min-ho",
+          "Lee Yo-won",
+          "Nam Sang-mi",
+          "Park Shin-hye",
+          "So Ji-sub",
+          "Song Hye-kyo",
+          "Han Ye-seul",
+          "Hwang Jung-eum",
+          "Jo In-sung",
+          "Joo Sang-wook",
+          "Jun Ji-hyun",
+          "Kim Soo-hyun",
+          "Lee Je-hoon",
+          "Lee Jong-suk",
+          "Park Shin-hye",
+          "Park Yoochun",
+          "Joo Won",
+          "Kim Hyun-joo",
+          "Ju Ji-hoon",
+          "Kim Tae-hee",
+          "Yoo Ah-in",
+          "Moon Geun-young",
+          "Cho Jae-hyun",
+          "Shin Se-kyung",
+          "Ji Jin-hee",
+          "Park Yoochun",
+          "Kim Sung-ryung",
+          "Namkoong Min",
+          "Park Shin-hye",
+          "Lee Joon-gi",
+          "Jo Jung-suk",
+          "Lee Min-ho",
+          "Jun Ji-hyun",
+          "Seo Hyun-jin",
+          "Han Suk-kyu"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Drama",
+        "values": [
+          "Piano",
+          "Beautiful Days",
+          "Ladies of the Palace",
+          "Ladies of the Palace",
+          "Ladies of the Palace",
+          "Guardian Angel",
+          "Beautiful Days",
+          "Beautiful Days",
+          "Guardian Angel",
+          "Law Firm",
+          "Rustic Period",
+          "Age of Innocence",
+          "Great Ambition , Glass Slippers",
+          "Great Ambition , Successful Story of a Bright Girl",
+          "Successful Story of a Bright Girl",
+          "Shoot for the Stars",
+          "Shoot for the Stars",
+          "Glass Slippers",
+          "Romance",
+          "Rival",
+          "Perfect Love",
+          "South of the Sun",
+          "Stairway to Heaven",
+          "Perfect Love",
+          "Rustic Period",
+          "Stairway to Heaven , Into the Sun",
+          "All In",
+          "Thousand Years of Love",
+          "All In",
+          "Thousand Years of Love",
+          "Something Happened in Bali",
+          "Save the Last Dance for Me",
+          "Something Happened in Bali",
+          "Miss Kim's Million Dollar Quest",
+          "Lovers in Paris",
+          "Love Story in Harvard",
+          "Love Story in Harvard",
+          "Stained Glass , Lovers in Paris",
+          "Lovers in Paris",
+          "Into the Storm",
+          "Spring Day",
+          "Green Rose",
+          "Lovers in Prague",
+          "Only You",
+          "Spring Day",
+          "Fashion 70's",
+          "The Land",
+          "Lovers in Prague",
+          "Fashion 70's",
+          "Fashion 70's",
+          "Dear Heaven",
+          "Lovers",
+          "Yeon Gaesomun",
+          "Queen of the Game",
+          "My Girl",
+          "Lovers",
+          "Invincible Parachute Agent",
+          "Please Come Back, Soon-ae",
+          "Please Come Back, Soon-ae",
+          "Alone in Love",
+          "The King and I",
+          "My Husband's Woman",
+          "Surgeon Bong Dal-hee",
+          "Surgeon Bong Dal-hee",
+          "Golden Bride",
+          "Get Karl! Oh Soo-jung",
+          "War of Money",
+          "War of Money",
+          "Bad Couple",
+          "Golden Bride",
+          "First Wives' Club",
+          "Tazza",
+          "Tazza",
+          "On Air",
+          "Gourmet",
+          "Iljimae",
+          "Painter of the Wind",
+          "First Wives' Club",
+          "On Air",
+          "On Air",
+          "Brilliant Legacy",
+          "City Hall",
+          "Brilliant Legacy",
+          "You're Beautiful",
+          "Temptation of Wife",
+          "Style",
+          "City Hall",
+          "Brilliant Legacy",
+          "Loving You a Thousand Times",
+          "Cain and Abel",
+          "Daemul",
+          "Secret Garden",
+          "Secret Garden",
+          "Giant",
+          "Prosecutor Princess , Dr. Champ",
+          "Daemul",
+          "Giant",
+          "My Girlfriend Is a Nine-Tailed Fox",
+          "Giant",
+          "My Girlfriend Is a Nine-Tailed Fox",
+          "Protect the Boss",
+          "Deep Rooted Tree",
+          "Deep Rooted Tree",
+          "Protect the Boss",
+          "A Thousand Days' Promise",
+          "Scent of a Woman",
+          "Scent of a Woman",
+          "City Hunter",
+          "49 Days",
+          "A Thousand Days' Promise",
+          "Five Fingers",
+          "Rooftop Prince",
+          "A Gentleman's Dignity",
+          "History of a Salaryman",
+          "A Gentleman's Dignity",
+          "Faith",
+          "Rooftop Prince",
+          "Still You",
+          "Phantom",
+          "The Chaser",
+          "That Winter, the Wind Blows",
+          "The Heirs",
+          "I Can Hear Your Voice",
+          "I Can Hear Your Voice",
+          "The Heirs",
+          "Empire of Gold",
+          "Goddess of Marriage",
+          "The Heirs",
+          "Master's Sun",
+          "That Winter, the Wind Blows",
+          "Birth of a Beauty",
+          "Endless Love",
+          "It's Okay, That's Love",
+          "Birth of a Beauty",
+          "My Love from the Star",
+          "My Love from the Star",
+          "Secret Door",
+          "Pinocchio , Doctor Stranger",
+          "Pinocchio",
+          "Three Days",
+          "Yong-pal",
+          "I Have a Lover",
+          "Mask",
+          "Yong-pal",
+          "Six Flying Dragons",
+          "The Village: Achiara's Secret",
+          "Punch",
+          "The Girl Who Sees Smells , Six Flying Dragons",
+          "I Have a Lover",
+          "The Girl Who Sees Smells",
+          "Mrs. Cop 2",
+          "Beautiful Gong Shim",
+          "Doctors",
+          "Moon Lovers: Scarlet Heart Ryeo",
+          "Jealousy Incarnate",
+          "Legend of the Blue Sea",
+          "Legend of the Blue Sea",
+          "Romantic Doctor, Teacher Kim",
+          "Romantic Doctor, Teacher Kim"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "SBS Drama Awards",
+    "page_url": "https://en.wikipedia.org/wiki/SBS_Drama_Awards",
+    "page_entity_id": "Q10854813"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cho_Jae-hyun",
+          "entity_id": "Q486241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Piano_(TV_series)",
+          "entity_id": "Q12622278"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Choi_Ji-woo",
+          "entity_id": "Q494337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Beautiful_Days_(TV_series)",
+          "entity_id": "Q498665"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Do_Ji-won",
+          "entity_id": "Q12963430"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jeon_In-hwa",
+          "entity_id": "Q624195"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kang_Soo-yeon",
+          "entity_id": "Q449147"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Min-jong",
+          "entity_id": "Q625698"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Guardian_Angel_(TV_series)",
+          "entity_id": "Q624095"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Byung-hun",
+          "entity_id": "Q380121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Beautiful_Days_(TV_series)",
+          "entity_id": "Q498665"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ryu_Si-won",
+          "entity_id": "Q406909"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Beautiful_Days_(TV_series)",
+          "entity_id": "Q498665"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Song_Hye-kyo",
+          "entity_id": "Q1080180"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Guardian_Angel_(TV_series)",
+          "entity_id": "Q624095"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Song_Seung-heon",
+          "entity_id": "Q486455"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ahn_Jae-mo",
+          "entity_id": "Q6821789"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Go_Soo",
+          "entity_id": "Q257468"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Age_of_Innocence_(TV_series)",
+          "entity_id": "Q493928"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Jae-suk",
+          "entity_id": "Q483773"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Glass_Slippers",
+          "entity_id": "Q490052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jang_Hyuk",
+          "entity_id": "Q482745"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 50,
+          "url": "http://en.wikipedia.org/wiki/Successful_Story_of_a_Bright_Girl",
+          "entity_id": "Q6789637"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jang_Na-ra",
+          "entity_id": "Q494190"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Successful_Story_of_a_Bright_Girl",
+          "entity_id": "Q6789637"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jeon_Do-yeon",
+          "entity_id": "Q267037"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jo_In-sung",
+          "entity_id": "Q130894"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hyun-joo",
+          "entity_id": "Q488828"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Glass_Slippers",
+          "entity_id": "Q490052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kim_Jaewon",
+          "entity_id": "Q486438"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/So_Yoo-jin",
+          "entity_id": "Q6711063"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cha_In-pyo",
+          "entity_id": "Q489036"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Choi_Myung-gil",
+          "entity_id": "Q623856"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Choi_Ji-woo",
+          "entity_id": "Q494337"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Stairway_to_Heaven_(South_Korean_TV_series)",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hee-ae",
+          "entity_id": "Q484360"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kim_Yeong-cheol_(actor)",
+          "entity_id": "Q6409614"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kwon_Sang-woo",
+          "entity_id": "Q483621"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Stairway_to_Heaven_(South_Korean_TV_series)",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Byung-hun",
+          "entity_id": "Q380121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/All_In_(TV_series)",
+          "entity_id": "Q483139"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/So_Ji-sub",
+          "entity_id": "Q484859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Thousand_Years_of_Love",
+          "entity_id": "Q6851096"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Song_Hye-kyo",
+          "entity_id": "Q1080180"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/All_In_(TV_series)",
+          "entity_id": "Q483139"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sung_Yu-ri",
+          "entity_id": "Q487560"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Thousand_Years_of_Love",
+          "entity_id": "Q6851096"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ha_Ji-won",
+          "entity_id": "Q44260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Something_Happened_in_Bali",
+          "entity_id": "Q491393"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ji_Sung",
+          "entity_id": "Q491763"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Save_the_Last_Dance_for_Me_(TV_series)",
+          "entity_id": "Q486205"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jo_In-sung",
+          "entity_id": "Q130894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Something_Happened_in_Bali",
+          "entity_id": "Q491393"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hyun-joo",
+          "entity_id": "Q488828"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Jung-eun",
+          "entity_id": "Q489001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lovers_in_Paris",
+          "entity_id": "Q626909"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Rae-won",
+          "entity_id": "Q494539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Love_Story_in_Harvard",
+          "entity_id": "Q486285"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Tae-hee",
+          "entity_id": "Q464574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Love_Story_in_Harvard",
+          "entity_id": "Q486285"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Dong-gun",
+          "entity_id": "Q492997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Stained_Glass_(TV_series)",
+          "entity_id": "Q483121"
+        },
+        {
+          "start": 16,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Lovers_in_Paris",
+          "entity_id": "Q626909"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Park_Shin-yang",
+          "entity_id": "Q483122"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lovers_in_Paris",
+          "entity_id": "Q626909"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Song_Yun-ah",
+          "entity_id": "Q493026"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Go_Hyun-jung",
+          "entity_id": "Q488025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Spring_Day_(TV_series)",
+          "entity_id": "Q491367"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Go_Soo",
+          "entity_id": "Q257468"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Green_Rose",
+          "entity_id": "Q491345"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jeon_Do-yeon",
+          "entity_id": "Q267037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Lovers_in_Prague",
+          "entity_id": "Q4380354"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jo_Hyun-jae",
+          "entity_id": "Q487903"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Only_You_(2005_TV_series)",
+          "entity_id": "Q3259694"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jo_In-sung",
+          "entity_id": "Q130894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Spring_Day_(TV_series)",
+          "entity_id": "Q491367"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Joo_Jin-mo",
+          "entity_id": "Q489204"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fashion_70%27s",
+          "entity_id": "Q625562"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hyun-joo",
+          "entity_id": "Q488828"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Joo-hyuk",
+          "entity_id": "Q491363"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Lovers_in_Prague",
+          "entity_id": "Q4380354"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Min-jung_(actress)",
+          "entity_id": "Q494333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fashion_70%27s",
+          "entity_id": "Q625562"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Yo-won",
+          "entity_id": "Q485894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fashion_70%27s",
+          "entity_id": "Q625562"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Han_Hye-sook",
+          "entity_id": "Q6665629"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dear_Heaven",
+          "entity_id": "Q6731776"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Jung-eun",
+          "entity_id": "Q489001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lovers_(TV_series)",
+          "entity_id": "Q6692417"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Kap-soo",
+          "entity_id": "Q486146"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Yeon_Gaesomun_(TV_series)",
+          "entity_id": "Q483321"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Bo-young",
+          "entity_id": "Q491807"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Da-hae",
+          "entity_id": "Q486518"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/My_Girl_(2005_TV_series)",
+          "entity_id": "Q496555"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Seo-jin",
+          "entity_id": "Q494097"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lovers_(TV_series)",
+          "entity_id": "Q6692417"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Eric_Mun",
+          "entity_id": "Q491580"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Jin-hee",
+          "entity_id": "Q6783700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Please_Come_Back,_Soon-ae",
+          "entity_id": "Q483521"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Shim_Hye-jin",
+          "entity_id": "Q484414"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Please_Come_Back,_Soon-ae",
+          "entity_id": "Q483521"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Son_Ye-jin",
+          "entity_id": "Q256932"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Alone_in_Love",
+          "entity_id": "Q97971216"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jun_Kwang-ryul",
+          "entity_id": "Q489630"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_King_and_I_(TV_series)",
+          "entity_id": "Q497048"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hee-ae",
+          "entity_id": "Q484360"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/My_Husband%27s_Woman",
+          "entity_id": "Q6797128"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Beom-soo",
+          "entity_id": "Q490711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Surgeon_Bong_Dal-hee",
+          "entity_id": "Q6834920"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Yo-won",
+          "entity_id": "Q485894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Surgeon_Bong_Dal-hee",
+          "entity_id": "Q6834920"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Young-ah",
+          "entity_id": "Q487922"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Golden_Bride",
+          "entity_id": "Q491382"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oh_Ji-ho",
+          "entity_id": "Q489078"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Get_Karl!_Oh_Soo-jung",
+          "entity_id": "Q491376"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Jin-hee",
+          "entity_id": "Q6783700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/War_of_Money",
+          "entity_id": "Q483681"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Park_Shin-yang",
+          "entity_id": "Q483122"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/War_of_Money",
+          "entity_id": "Q483681"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shin_Eun-kyung",
+          "entity_id": "Q433072"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Song_Chang-eui",
+          "entity_id": "Q485768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Golden_Bride",
+          "entity_id": "Q491382"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ahn_Nae-sang",
+          "entity_id": "Q3335107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/First_Wives%27_Club",
+          "entity_id": "Q6831252"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Ye-seul",
+          "entity_id": "Q483600"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tazza_(TV_series)",
+          "entity_id": "Q7213003"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jang_Hyuk",
+          "entity_id": "Q482745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tazza_(TV_series)",
+          "entity_id": "Q7213003"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Ha-neul",
+          "entity_id": "Q292687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/On_Air_(TV_series)",
+          "entity_id": "Q484212"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Rae-won",
+          "entity_id": "Q494539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gourmet_(TV_series)",
+          "entity_id": "Q626013"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Joon-gi",
+          "entity_id": "Q130947"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Iljimae",
+          "entity_id": "Q497754"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Moon_Geun-young",
+          "entity_id": "Q102098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Painter_of_the_Wind",
+          "entity_id": "Q496833"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oh_Hyun-kyung",
+          "entity_id": "Q6843128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/First_Wives%27_Club",
+          "entity_id": "Q6831252"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Yong-ha",
+          "entity_id": "Q483277"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/On_Air_(TV_series)",
+          "entity_id": "Q484212"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Song_Yun-ah",
+          "entity_id": "Q493026"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/On_Air_(TV_series)",
+          "entity_id": "Q484212"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bae_Soo-bin",
+          "entity_id": "Q496858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Brilliant_Legacy",
+          "entity_id": "Q489617"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cha_Seung-won",
+          "entity_id": "Q490067"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_City_Hall_(TV_series)",
+          "entity_id": "Q6499214"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Hyo-joo",
+          "entity_id": "Q494346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Brilliant_Legacy",
+          "entity_id": "Q489617"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jang_Keun-suk",
+          "entity_id": "Q32049"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/You%27re_Beautiful_(TV_series)",
+          "entity_id": "Q45717"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jang_Seo-hee",
+          "entity_id": "Q494184"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Temptation_of_Wife_(2008_TV_series)",
+          "entity_id": "Q484746"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hye-soo",
+          "entity_id": "Q196223"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Style_(TV_series)",
+          "entity_id": "Q498781"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kim_Sun-a",
+          "entity_id": "Q488864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_City_Hall_(TV_series)",
+          "entity_id": "Q6499214"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Seung-gi",
+          "entity_id": "Q483571"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Brilliant_Legacy",
+          "entity_id": "Q489617"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Soo-kyung_(actress,_born_1982)",
+          "entity_id": "Q777387"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Loving_You_a_Thousand_Times",
+          "entity_id": "Q496253"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/So_Ji-sub",
+          "entity_id": "Q484859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cain_and_Abel_(South_Korean_TV_series)",
+          "entity_id": "Q490995"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Go_Hyun-jung",
+          "entity_id": "Q488025"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Daemul",
+          "entity_id": "Q492110"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ha_Ji-won",
+          "entity_id": "Q44260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Secret_Garden_(South_Korean_TV_series)",
+          "entity_id": "Q45871"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hyun_Bin",
+          "entity_id": "Q380118"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Secret_Garden_(South_Korean_TV_series)",
+          "entity_id": "Q45871"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jeong_Bo-seok",
+          "entity_id": "Q490415"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Giant_(TV_series)",
+          "entity_id": "Q497836"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_So-yeon",
+          "entity_id": "Q464372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Prosecutor_Princess",
+          "entity_id": "Q491337"
+        },
+        {
+          "start": 22,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Dr._Champ",
+          "entity_id": "Q493287"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kwon_Sang-woo",
+          "entity_id": "Q483621"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Daemul",
+          "entity_id": "Q492110"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Beom-soo",
+          "entity_id": "Q490711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Giant_(TV_series)",
+          "entity_id": "Q497836"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Seung-gi",
+          "entity_id": "Q483571"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Nine-Tailed_Fox",
+          "entity_id": "Q488064"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Jin-hee",
+          "entity_id": "Q6783700"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Giant_(TV_series)",
+          "entity_id": "Q497836"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Shin_Min-ah",
+          "entity_id": "Q464569"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/My_Girlfriend_Is_a_Nine-Tailed_Fox",
+          "entity_id": "Q488064"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Choi_Kang-hee_(actress)",
+          "entity_id": "Q3582801"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Protect_the_Boss",
+          "entity_id": "Q18911"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Suk-kyu",
+          "entity_id": "Q490452"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Deep_Rooted_Tree",
+          "entity_id": "Q487137"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jang_Hyuk",
+          "entity_id": "Q482745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Deep_Rooted_Tree",
+          "entity_id": "Q487137"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ji_Sung",
+          "entity_id": "Q491763"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Protect_the_Boss",
+          "entity_id": "Q18911"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Rae-won",
+          "entity_id": "Q494539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/A_Thousand_Days%27_Promise",
+          "entity_id": "Q487051"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kim_Sun-a",
+          "entity_id": "Q488864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Scent_of_a_Woman_(TV_series)",
+          "entity_id": "Q487101"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lee_Dong-wook",
+          "entity_id": "Q494714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Scent_of_a_Woman_(TV_series)",
+          "entity_id": "Q487101"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Min-ho_(actor_born_1987)",
+          "entity_id": "Q80758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/City_Hunter_(TV_series)",
+          "entity_id": "Q484941"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Yo-won",
+          "entity_id": "Q485894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/49_Days",
+          "entity_id": "Q488652"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Soo_Ae",
+          "entity_id": "Q491071"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/A_Thousand_Days%27_Promise",
+          "entity_id": "Q487051"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chae_Shi-ra",
+          "entity_id": "Q486151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Five_Fingers_(2012_TV_series)",
+          "entity_id": "Q1030361"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Han_Ji-min",
+          "entity_id": "Q485842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rooftop_Prince",
+          "entity_id": "Q485856"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jang_Dong-gun",
+          "entity_id": "Q468490"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/A_Gentleman%27s_Dignity",
+          "entity_id": "Q706372"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jung_Ryeo-won",
+          "entity_id": "Q487861"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/History_of_a_Salaryman",
+          "entity_id": "Q492343"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Ha-neul",
+          "entity_id": "Q292687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/A_Gentleman%27s_Dignity",
+          "entity_id": "Q706372"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Min-ho_(actor_born_1987)",
+          "entity_id": "Q80758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Faith_(2012_TV_series)",
+          "entity_id": "Q128811"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Yoochun",
+          "entity_id": "Q482519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rooftop_Prince",
+          "entity_id": "Q485856"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shin_Eun-kyung",
+          "entity_id": "Q433072"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Still_You",
+          "entity_id": "Q5357285"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/So_Ji-sub",
+          "entity_id": "Q484859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phantom_(TV_series)",
+          "entity_id": "Q492337"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Son_Hyun-joo",
+          "entity_id": "Q624683"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/The_Chaser_(TV_series)",
+          "entity_id": "Q492047"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jo_In-sung",
+          "entity_id": "Q130894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/That_Winter,_the_Wind_Blows",
+          "entity_id": "Q3660551"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Woo-bin",
+          "entity_id": "Q5356443"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_Heirs",
+          "entity_id": "Q13409848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Bo-young",
+          "entity_id": "Q491807"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/I_Can_Hear_Your_Voice",
+          "entity_id": "Q13416878"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Jong-suk",
+          "entity_id": "Q486582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/I_Can_Hear_Your_Voice",
+          "entity_id": "Q13416878"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Min-ho_(actor_born_1987)",
+          "entity_id": "Q80758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_Heirs",
+          "entity_id": "Q13409848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Yo-won",
+          "entity_id": "Q485894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Empire_of_Gold",
+          "entity_id": "Q12625778"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nam_Sang-mi",
+          "entity_id": "Q483701"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Goddess_of_Marriage",
+          "entity_id": "Q13452464"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Park_Shin-hye",
+          "entity_id": "Q497785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_Heirs",
+          "entity_id": "Q13409848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/So_Ji-sub",
+          "entity_id": "Q484859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Master%27s_Sun",
+          "entity_id": "Q13718334"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Song_Hye-kyo",
+          "entity_id": "Q1080180"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/That_Winter,_the_Wind_Blows",
+          "entity_id": "Q3660551"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Ye-seul",
+          "entity_id": "Q483600"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Birth_of_a_Beauty",
+          "entity_id": "Q18116666"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hwang_Jung-eum",
+          "entity_id": "Q485744"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Endless_Love_(2014_TV_series)",
+          "entity_id": "Q16690547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jo_In-sung",
+          "entity_id": "Q130894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/It%27s_Okay,_That%27s_Love",
+          "entity_id": "Q16888237"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Joo_Sang-wook",
+          "entity_id": "Q491095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Birth_of_a_Beauty",
+          "entity_id": "Q18116666"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jun_Ji-hyun",
+          "entity_id": "Q253626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/My_Love_from_the_Star",
+          "entity_id": "Q14655473"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Soo-hyun",
+          "entity_id": "Q496491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/My_Love_from_the_Star",
+          "entity_id": "Q14655473"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Je-hoon",
+          "entity_id": "Q496314"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Secret_Door_(TV_series)",
+          "entity_id": "Q17172323"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lee_Jong-suk",
+          "entity_id": "Q486582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pinocchio_(2014_TV_series)",
+          "entity_id": "Q17401474"
+        },
+        {
+          "start": 12,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Doctor_Stranger",
+          "entity_id": "Q15644612"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Park_Shin-hye",
+          "entity_id": "Q497785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pinocchio_(2014_TV_series)",
+          "entity_id": "Q17401474"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Yoochun",
+          "entity_id": "Q482519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Three_Days_(TV_series)",
+          "entity_id": "Q15149232"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Joo_Won",
+          "entity_id": "Q498113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Yong-pal",
+          "entity_id": "Q20154656"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kim_Hyun-joo",
+          "entity_id": "Q488828"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/I_Have_a_Lover",
+          "entity_id": "Q20444737"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ju_Ji-hoon",
+          "entity_id": "Q494734"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Mask_(2015_TV_series)",
+          "entity_id": "Q19161710"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kim_Tae-hee",
+          "entity_id": "Q464574"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Yong-pal",
+          "entity_id": "Q20154656"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Yoo_Ah-in",
+          "entity_id": "Q489930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Six_Flying_Dragons",
+          "entity_id": "Q18880750"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Moon_Geun-young",
+          "entity_id": "Q102098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/The_Village:_Achiara%27s_Secret",
+          "entity_id": "Q20886955"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cho_Jae-hyun",
+          "entity_id": "Q486241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Punch_(2014_TV_series)",
+          "entity_id": "Q18328998"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Shin_Se-kyung",
+          "entity_id": "Q494342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Girl_Who_Sees_Smells",
+          "entity_id": "Q19401891"
+        },
+        {
+          "start": 27,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Six_Flying_Dragons",
+          "entity_id": "Q18880750"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ji_Jin-hee",
+          "entity_id": "Q485004"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/I_Have_a_Lover",
+          "entity_id": "Q20444737"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Park_Yoochun",
+          "entity_id": "Q482519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Girl_Who_Sees_Smells",
+          "entity_id": "Q19401891"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kim_Sung-ryung",
+          "entity_id": "Q4502171"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mrs._Cop_2",
+          "entity_id": "Q22054795"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Namkoong_Min",
+          "entity_id": "Q412342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Beautiful_Gong_Shim",
+          "entity_id": "Q23488923"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Park_Shin-hye",
+          "entity_id": "Q497785"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/The_Doctors_(2016_TV_series)",
+          "entity_id": "Q23661269"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Joon-gi",
+          "entity_id": "Q130947"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Moon_Lovers:_Scarlet_Heart_Ryeo",
+          "entity_id": "Q21980662"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jo_Jung-suk",
+          "entity_id": "Q391965"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Jealousy_Incarnate",
+          "entity_id": "Q22975029"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Min-ho_(actor,_born_1987)",
+          "entity_id": "Q80758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Legend_of_the_Blue_Sea",
+          "entity_id": "Q24698311"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jun_Ji-hyun",
+          "entity_id": "Q253626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Legend_of_the_Blue_Sea",
+          "entity_id": "Q24698311"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Seo_Hyun-jin",
+          "entity_id": "Q485279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Romantic_Doctor,_Teacher_Kim",
+          "entity_id": "Q27067918"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Han_Suk-kyu",
+          "entity_id": "Q490452"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Romantic_Doctor,_Teacher_Kim",
+          "entity_id": "Q27067918"
+        }
+      ]
+    ]
+  ]
+}

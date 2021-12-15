@@ -1,0 +1,134 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Venue"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1850442",
+        "rel_uri": "wd:Q1850442",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "City"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Date"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Country"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Attendance"
+      },
+      {
+        "id": "context-Q15915664",
+        "value": "http://www.wikidata.org/entity/Q15915664",
+        "readable_label": "Live Tour 2014: Tree (Q15915664)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q811430",
+        "rel_uri": "wd:Q811430",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P17",
+        "rel_uri": "p:P17",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "context-Q15915664",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P1110",
+        "rel_uri": "p:P1110",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "d-0",
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "rel_uri": "p:P585",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

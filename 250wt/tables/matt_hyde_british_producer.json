@@ -1,0 +1,559 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Matt_Hyde_(British_producer)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Musicians / Band",
+        "values": [
+          "As I Lay Dying",
+          "Gallows",
+          "Bullet for My Valentine",
+          "Machine Head",
+          "Dååth",
+          "Trivium",
+          "Bullet for My Valentine",
+          "Slipknot",
+          "Slipknot",
+          "Chimaira",
+          "Ash",
+          "Funeral for a Friend",
+          "Urma Sellinger",
+          "Urma Sellinger",
+          "The Glitterati",
+          "Rodrigo y Gabriela",
+          "Kreator",
+          "Trivium",
+          "Brutai"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Albums",
+        "values": [
+          "An Ocean Between Us",
+          "Abandon Ship",
+          "Scream Aim Fire",
+          "The Blackening",
+          "The Hinderers",
+          "The Crusade",
+          "Tears Don't Fall (Single)",
+          "9.0: Live",
+          "All Hope Is Gone",
+          "Chimaira",
+          "Meltdown Live",
+          "Casually Dressed & Deep in Conversation",
+          "Live Laugh Love",
+          "Urma Sellinger",
+          "Are You One of Us?",
+          "11:11",
+          "Hordes of Chaos",
+          "Shogun",
+          "Born"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Productions",
+        "values": [
+          "Mixing, engineer",
+          "Mixing",
+          "Recording, Mixing",
+          "Mixing, engineer",
+          "Engineer, Mixing",
+          "Engineer, Mixing",
+          "Engineer",
+          "Mixing, engineer, co-producer",
+          "Co-producer",
+          "Engineer, Mixing",
+          "Engineer, Mixing",
+          "Engineer",
+          "Producer, engineer, Mixing",
+          "Producer, engineer, Mixing",
+          "Producer, Recording, Mixing",
+          "Mixing",
+          "Mixing",
+          "Mixing",
+          "Mixing, Producer"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Record label",
+        "values": [
+          "Metal Blade Records",
+          "Warner Music",
+          "Sony Music",
+          "Roadrunner Records",
+          "Roadrunner Records",
+          "Roadrunner Records",
+          "Sony BMG",
+          "Roadrunner Records",
+          "Roadrunner Records",
+          "Roadrunner Records",
+          "Mushroom Records",
+          "East West Records",
+          "Lunatic Music, Auto-production",
+          "Auto-production",
+          "DR2",
+          "Ruby Works",
+          "SPV",
+          "Roadrunner",
+          "Transcend"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Matt Hyde (British producer)",
+    "page_url": "https://en.wikipedia.org/wiki/Matt_Hyde_(British_producer)",
+    "page_entity_id": "Q1418964"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/As_I_Lay_Dying_(band)",
+          "entity_id": "Q693583"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/An_Ocean_Between_Us",
+          "entity_id": "Q2452624"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Metal_Blade_Records",
+          "entity_id": "Q756320"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gallows_(band)",
+          "entity_id": "Q1492599"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Abandon_Ship_(Gallows_song)",
+          "entity_id": "Q4663361"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Warner_Music",
+          "entity_id": "Q21077"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bullet_for_My_Valentine",
+          "entity_id": "Q485385"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Scream_Aim_Fire",
+          "entity_id": "Q1464069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sony_Music",
+          "entity_id": "Q56760250"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Machine_Head_(band)",
+          "entity_id": "Q319458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Blackening",
+          "entity_id": "Q1474901"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/D%C3%A5%C3%A5th",
+          "entity_id": "Q1233918"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Hinderers",
+          "entity_id": "Q3987553"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Trivium_(band)",
+          "entity_id": "Q390684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Crusade_(album)",
+          "entity_id": "Q385638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bullet_for_My_Valentine",
+          "entity_id": "Q485385"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Tears_Don%27t_Fall",
+          "entity_id": "Q2353884"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Slipknot_(Slipknot_album)",
+          "entity_id": "Q743725"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/9.0:_Live",
+          "entity_id": "Q846371"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Slipknot_(Slipknot_album)",
+          "entity_id": "Q743725"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/All_Hope_Is_Gone",
+          "entity_id": "Q653967"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chimaira_(band)",
+          "entity_id": "Q1073095"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chimaira_(album)",
+          "entity_id": "Q641171"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roadrunner_Records",
+          "entity_id": "Q18628"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Ash_(band)",
+          "entity_id": "Q724582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Meltdown_(Ash_album)",
+          "entity_id": "Q3854309"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mushroom_Records",
+          "entity_id": "Q2299832"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Funeral_for_a_Friend",
+          "entity_id": "Q916973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Casually_Dressed_%26_Deep_in_Conversation",
+          "entity_id": "Q2724622"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/East_West_Records",
+          "entity_id": "Q2576206"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Urma_Sellinger",
+          "entity_id": "Q1164188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Live_Laugh_Love",
+          "entity_id": "Q16960805"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Urma_Sellinger",
+          "entity_id": "Q1164188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Urma_Sellinger_(album)",
+          "entity_id": "Q2500872"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Glitterati",
+          "entity_id": "Q7736771"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rodrigo_y_Gabriela",
+          "entity_id": "Q1469093"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/11:11_(Rodrigo_y_Gabriela_album)",
+          "entity_id": "Q2807107"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kreator",
+          "entity_id": "Q151890"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Hordes_of_Chaos_(album)",
+          "entity_id": "Q1324390"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/SPV_GmbH",
+          "entity_id": "Q694052"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Trivium_(band)",
+          "entity_id": "Q390684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Shogun_(Trivium_album)",
+          "entity_id": "Q371946"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

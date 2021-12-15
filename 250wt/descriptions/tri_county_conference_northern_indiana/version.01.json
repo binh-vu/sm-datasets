@@ -1,0 +1,197 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q9826",
+        "rel_uri": "wd:Q9826",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "School"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Location"
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q13410438",
+        "rel_uri": "wd:Q13410438",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "# / County"
+      },
+      {
+        "id": "d:c-8",
+        "col_index": 8,
+        "label": "Conference joined"
+      },
+      {
+        "id": "c-6",
+        "col_index": 6,
+        "label": "Previous Conference"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Mascot"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Colors"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Year Joined"
+      },
+      {
+        "id": "d-7",
+        "col_index": 7,
+        "label": "Year Left"
+      },
+      {
+        "id": "context-Q7839698",
+        "value": "http://www.wikidata.org/entity/Q7839698",
+        "readable_label": "Tri-County Conference (Q7839698)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P822",
+        "rel_uri": "p:P822",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-8",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "c-6",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-1",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-2",
+        "target": "context-Q7839698",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      },
+      {
+        "source": "c-2",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P580",
+        "rel_uri": "p:P580",
+        "approximation": false,
+        "readable_label": null,
+        "id": 11
+      },
+      {
+        "source": "c-2",
+        "target": "d-7",
+        "abs_uri": "http://www.wikidata.org/prop/P582",
+        "rel_uri": "p:P582",
+        "approximation": false,
+        "readable_label": null,
+        "id": 12
+      }
+    ]
+  }
+]

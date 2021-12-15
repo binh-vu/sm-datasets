@@ -1,0 +1,74 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q476028:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q476028",
+        "rel_uri": "wd:Q476028",
+        "approximation": false,
+        "readable_label": "association football club (Q476028)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q31629:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q31629",
+        "rel_uri": "wd:Q31629",
+        "approximation": false,
+        "readable_label": "type of sport (Q31629)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q476028:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q476028:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P2522",
+        "rel_uri": "p:P2522",
+        "approximation": false,
+        "readable_label": "victory (P2522)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q476028:0",
+        "target": "http://www.wikidata.org/entity/Q31629:0",
+        "abs_uri": "http://www.wikidata.org/prop/P641",
+        "rel_uri": "p:P641",
+        "approximation": false,
+        "readable_label": "sport (P641)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q31629:0",
+        "target": "col-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,1060 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Charles_Ramsay_Trophy",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2012/13",
+          "2011/12",
+          "2010/11",
+          "2009/10",
+          "2008/09",
+          "2007/08",
+          "2006/07",
+          "2005/06",
+          "2004/05",
+          "2003/04",
+          "2002/03",
+          "2001/02",
+          "2000/01",
+          "1999/00",
+          "1998/99",
+          "1997/98",
+          "1996/97",
+          "1995/96",
+          "1994/95",
+          "1993/94",
+          "1992/93",
+          "1991/92",
+          "1990/91",
+          "1989/90",
+          "1988/89",
+          "1987/88",
+          "1986/87",
+          "1985/86",
+          "1984/85",
+          "1983/84",
+          "1982/83",
+          "1981/82",
+          "1980/81",
+          "1979/80",
+          "1978/79",
+          "1977/78"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Francis Guérette-Charland",
+          "Martin Gascon",
+          "Carl Mallette",
+          "Jonathan Bellemare",
+          "Jean-François Dufour",
+          "Marc-André Thinel",
+          "Marc-André Thinel",
+          "Carl Mallette",
+          "Steven Reinprecht",
+          "François Rozenthal",
+          "Éric Doucet",
+          "Guillaume Besse",
+          "Juha Jokiharju",
+          "Juha Jokiharju",
+          "Josef Podlaha",
+          "Éric Pinard",
+          "Franck Pajonkowski",
+          "Franck Pajonkowski",
+          "Guy Fournier",
+          "Franck Pajonkowski",
+          "Claude Verret",
+          "Guy Fournier",
+          "Franck Pajonkowski",
+          "Jean-François Sauvé",
+          "André Côté",
+          "Marc Gervais",
+          "Guy Fournier",
+          "Guy Fournier",
+          "Franck Pajonkowski",
+          "Roland Cloutier",
+          "Luc Tardif senior",
+          "Roland Cloutier",
+          "Luc Tardif senior",
+          "Luc Tardif senior",
+          "Luc Tardif senior",
+          "Guy Dupuis"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Team",
+        "values": [
+          "Chamonix Hockey Club",
+          "Ducs de Dijon",
+          "Dragons de Rouen",
+          "Ducs d'Angers",
+          "Diables Rouges de Briançon",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Scorpions de Mulhouse",
+          "Gothiques d'Amiens",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Gothiques d'Amiens",
+          "Brûleurs de Loups de Grenoble",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Dragons de Rouen",
+          "Association des sports de glace de Tours",
+          "Diables Rouges de Briançon",
+          "Ours de Villard-de-Lans",
+          "Viry-Châtillon Essonne Hockey",
+          "Viry-Châtillon Essonne Hockey",
+          "Club des Sports de Megève",
+          "Gap Hockey Club",
+          "Chamonix Hockey Club",
+          "Chamonix Hockey Club",
+          "Chamonix Hockey Club",
+          "Chamonix Hockey Club",
+          "Chamonix Hockey Club",
+          "Ours de Villard-de-Lans"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Goals",
+        "values": [
+          "30",
+          "15",
+          "25",
+          "18",
+          "18",
+          "24",
+          "21",
+          "29",
+          "20",
+          "22",
+          "38",
+          "34",
+          "20",
+          "20",
+          "29",
+          "44",
+          "37",
+          "37",
+          "28",
+          "50",
+          "40",
+          "33",
+          "38",
+          "43",
+          "35",
+          "50",
+          "64",
+          "46",
+          "42",
+          "",
+          "",
+          "",
+          "41",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Assists",
+        "values": [
+          "17",
+          "44",
+          "32",
+          "43",
+          "40",
+          "37",
+          "35",
+          "31",
+          "27",
+          "18",
+          "44",
+          "24",
+          "41",
+          "39",
+          "36",
+          "35",
+          "38",
+          "21",
+          "31",
+          "54",
+          "43",
+          "31",
+          "50",
+          "62",
+          "69",
+          "36",
+          "46",
+          "42",
+          "42",
+          "",
+          "",
+          "",
+          "29",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Points",
+        "values": [
+          "47",
+          "59",
+          "57",
+          "61",
+          "58",
+          "61",
+          "56",
+          "60",
+          "47",
+          "40",
+          "82",
+          "58",
+          "61",
+          "59",
+          "65",
+          "79",
+          "75",
+          "58",
+          "59",
+          "104",
+          "83",
+          "64",
+          "88",
+          "105",
+          "104",
+          "86",
+          "110",
+          "88",
+          "84",
+          "",
+          "",
+          "",
+          "70",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Charles Ramsay Trophy",
+    "page_url": "https://en.wikipedia.org/wiki/Charles_Ramsay_Trophy",
+    "page_entity_id": "Q642268"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/w/index.php?title=Francis_Gu%C3%A9rette-Charland&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Martin_Gascon&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ducs_de_Dijon",
+          "entity_id": "Q162047"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Carl_Mallette&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Jonathan_Bellemare",
+          "entity_id": "Q3183319"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Association_des_Sports_de_Glisse_d%27Angers",
+          "entity_id": "Q743466"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jean-Fran%C3%A7ois_Dufour&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Diables_Rouges_de_Brian%C3%A7on",
+          "entity_id": "Q367921"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Thinel",
+          "entity_id": "Q1650588"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Marc-Andr%C3%A9_Thinel",
+          "entity_id": "Q1650588"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Carl_Mallette&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Steven_Reinprecht",
+          "entity_id": "Q920235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Scorpions_de_Mulhouse_(1997-2005)",
+          "entity_id": "Q2578188"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rozenthal",
+          "entity_id": "Q515247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/HC_Amiens_Somme",
+          "entity_id": "Q664732"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=%C3%89ric_Doucet&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Guillaume_Besse_(ice_hockey)",
+          "entity_id": "Q1553852"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Juha_Jokiharju&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Juha_Jokiharju&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/HC_Amiens_Somme",
+          "entity_id": "Q664732"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Josef_Podlaha&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Grenoble_M%C3%A9tropole_Hockey_38",
+          "entity_id": "Q652397"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=%C3%89ric_Pinard&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Franck_Pajonkowski",
+          "entity_id": "Q1381031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Franck_Pajonkowski",
+          "entity_id": "Q1381031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Guy_Fournier",
+          "entity_id": "Q3121787"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Franck_Pajonkowski",
+          "entity_id": "Q1381031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Claude_Verret",
+          "entity_id": "Q2978244"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Guy_Fournier",
+          "entity_id": "Q3121787"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Franck_Pajonkowski",
+          "entity_id": "Q1381031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rouen_Hockey_%C3%89lite_76",
+          "entity_id": "Q1170911"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Sauv%C3%A9",
+          "entity_id": "Q3165884"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/Association_des_sports_de_glace_de_Tours",
+          "entity_id": "Q743449"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Andr%C3%A9_C%C3%B4t%C3%A9&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Diables_Rouges_de_Brian%C3%A7on",
+          "entity_id": "Q367921"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marc_Gervais",
+          "entity_id": "Q6755576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Ours_de_Villard-de-Lans",
+          "entity_id": "Q1541571"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Guy_Fournier",
+          "entity_id": "Q3121787"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Viry-Ch%C3%A2tillon_Essonne_Hockey",
+          "entity_id": "Q1474778"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Guy_Fournier",
+          "entity_id": "Q3121787"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Viry-Ch%C3%A2tillon_Essonne_Hockey",
+          "entity_id": "Q1474778"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Franck_Pajonkowski",
+          "entity_id": "Q1381031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Club_des_Sports_de_Meg%C3%A8ve",
+          "entity_id": "Q1103218"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Roland_Cloutier",
+          "entity_id": "Q3440003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gap_Hockey_Club",
+          "entity_id": "Q1493824"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Luc_Tardif_senior&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Roland_Cloutier",
+          "entity_id": "Q3440003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Luc_Tardif_senior&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Luc_Tardif_senior&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Luc_Tardif_senior&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chamonix_Hockey_Club",
+          "entity_id": "Q1060927"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Guy_Dupuis_(Eishockey,_1957)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Ours_de_Villard-de-Lans",
+          "entity_id": "Q1541571"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

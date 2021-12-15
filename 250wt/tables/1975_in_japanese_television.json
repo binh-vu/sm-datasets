@@ -1,0 +1,566 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1975_in_Japanese_television",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Show",
+        "values": [
+          "Akai Meiro",
+          "Ai to Makoto",
+          "Calimero",
+          "Chiisana Viking Bikke",
+          "Denjin Zaborger",
+          "Dog of Flanders",
+          "Don Chuck Monogatari",
+          "Ganba no Bōken",
+          "Getter Robo",
+          "Great Mazinger",
+          "Hurricane Polymar",
+          "Kamen Rider Amazon",
+          "Kamen Rider Stronger",
+          "La Seine no Hoshi",
+          "Majokko Megu-chan",
+          "Sci-Fi Drama: Army of the Apes",
+          "Space Battleship Yamato",
+          "Super Robot Mach Baron",
+          "Tekkaman The Space Knight",
+          "Ultraman Leo"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Station",
+        "values": [
+          "TBS",
+          "Tokyo Channel 12",
+          "NET",
+          "Fuji TV",
+          "Fuji TV",
+          "Fuji TV",
+          "Tokyo Channel 12",
+          "Nippon TV",
+          "Fuji TV",
+          "Fuji TV",
+          "NET",
+          "NET",
+          "TBS",
+          "Fuji TV",
+          "NET",
+          "TBS",
+          "Yomiuri TV",
+          "Nippon TV",
+          "NET",
+          "TBS"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Ending Date",
+        "values": [
+          "March 28th",
+          "March 28th",
+          "September 30th",
+          "September 24th",
+          "June 29th",
+          "December 28th",
+          "September 27th",
+          "September 29th",
+          "May 8th",
+          "September 28th",
+          "March 28th",
+          "March 29th",
+          "December 27th",
+          "December 26th",
+          "September 29th",
+          "March 30th",
+          "March 30th",
+          "March 31st",
+          "December 24th",
+          "March 28th"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Genre",
+        "values": [
+          "drama",
+          "drama",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "tokusatsu",
+          "anime",
+          "anime",
+          "tokusatsu",
+          "anime",
+          "tokusatsu",
+          "anime",
+          "tokusatsu"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Original Run",
+        "values": [
+          "October 4, 1974 – March 28, 1975",
+          "October 4, 1974 – March 28, 1975",
+          "October 15, 1974 – September 30, 1975",
+          "April 3, 1974 – September 24, 1975",
+          "April 6, 1974 – June 29, 1975",
+          "January 5, 1975 – December 28, 1975",
+          "April 5, 1975 – September 27, 1975",
+          "April 7, 1975 – September 29, 1975",
+          "April 4, 1974 – May 8, 1975",
+          "September 8, 1974 – September 28, 1975",
+          "October 4, 1974 – March 28, 1975",
+          "October 19, 1974 – March 29, 1975",
+          "April 5, 1975 - December 27, 1975",
+          "April 4, 1975 – December 26, 1975",
+          "April 1, 1974 - September 29, 1975",
+          "October 6, 1974 – March 30, 1975",
+          "October 6, 1974 – March 30, 1975",
+          "October 7, 1974 – March 31, 1975",
+          "July 2, 1975 – December 24, 1975",
+          "April 12, 1974 – March 28, 1975"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1975 in Japanese television",
+    "page_url": "https://en.wikipedia.org/wiki/1975_in_Japanese_television",
+    "page_entity_id": "Q4576886"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Akai_Meiro",
+          "entity_id": "Q4700166"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ai_to_Makoto",
+          "entity_id": "Q877292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Calimero",
+          "entity_id": "Q128969"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Wickie_und_die_starken_M%C3%A4nner",
+          "entity_id": "Q713578"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Denjin_Zaborger",
+          "entity_id": "Q2464086"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dog_of_Flanders_(TV_series)",
+          "entity_id": "Q699949"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Don_Chuck_Monogatari",
+          "entity_id": "Q2346888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/TV_Tokyo",
+          "entity_id": "Q734663"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ganba_no_B%C5%8Dken",
+          "entity_id": "Q3828498"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nippon_TV",
+          "entity_id": "Q864910"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Getter_Robo",
+          "entity_id": "Q2478381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Great_Mazinger",
+          "entity_id": "Q698757"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Hurricane_Polymar",
+          "entity_id": "Q3787692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kamen_Rider_Amazon",
+          "entity_id": "Q1193496"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Kamen_Rider_Stronger",
+          "entity_id": "Q1204069"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/La_Seine_no_Hoshi",
+          "entity_id": "Q1093846"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Fuji_Television",
+          "entity_id": "Q744800"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Majokko_Megu-chan",
+          "entity_id": "Q2628322"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Saru_No_Gundan",
+          "entity_id": "Q153382"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Space_Battleship_Yamato",
+          "entity_id": "Q4292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Yomiuri_Telecasting_Corporation",
+          "entity_id": "Q1142348"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Super_Robot_Mach_Baron",
+          "entity_id": "Q4183763"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nippon_TV",
+          "entity_id": "Q864910"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Tekkaman_The_Space_Knight",
+          "entity_id": "Q2268511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TV_Asahi",
+          "entity_id": "Q908436"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ultraman_Leo",
+          "entity_id": "Q2704139"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Broadcasting_System",
+          "entity_id": "Q605233"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

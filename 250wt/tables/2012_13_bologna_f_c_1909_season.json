@@ -1,0 +1,1331 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2012–13_Bologna_F.C._1909_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "21 May 2012",
+          "24 May 2012",
+          "2 July 2012",
+          "5 July 2012",
+          "12 July 2012",
+          "12 July 2012",
+          "12 July 2012",
+          "12 July 2012",
+          "20 July 2012",
+          "20 July 2012",
+          "26 July 2012",
+          "26 July 2012",
+          "31 August 2012",
+          "31 August 2012",
+          "31 August 2012",
+          "31 August 2012",
+          "31 August 2012",
+          "2 January 2013",
+          "15 January 2013",
+          "29 January 2013",
+          "30 January 2013",
+          "30 January 2013"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Pos.",
+        "values": [
+          "CB",
+          "ST",
+          "ST",
+          "GK",
+          "DF",
+          "DF",
+          "DF",
+          "DF",
+          "MF",
+          "FW",
+          "FW",
+          "LB",
+          "MF",
+          "MF",
+          "FW",
+          "AM",
+          "AM",
+          "FW",
+          "FW",
+          "DF",
+          "FW",
+          "MF"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nat.",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Andrea Raggi",
+          "Marco Di Vaio",
+          "Marco Bernacci",
+          "Jean-François Gillet",
+          "José Ángel Crespo",
+          "Angelo Gregorio",
+          "Giuseppe Nazzani",
+          "Andrea Ingegneri",
+          "Gaby Mudingayi",
+          "Manuel Gavilán",
+          "Riccardo Pasi",
+          "Juan Cruz",
+          "Federico Casarini",
+          "Alessandro Marchi",
+          "Massimo Coda",
+          "Nicola Capellini",
+          "Gastón Ramírez",
+          "Andrea Pisanu",
+          "Federico Rodríguez",
+          "Daniele Portanova",
+          "Robert Acquafresca",
+          "Henry Giménez"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Age",
+        "values": [
+          "27",
+          "35",
+          "28",
+          "33",
+          "25",
+          "21",
+          "22",
+          "20",
+          "30",
+          "21",
+          "21",
+          "19",
+          "23",
+          "23",
+          "23",
+          "21",
+          "21",
+          "31",
+          "22",
+          "34",
+          "25",
+          "27"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Moving To",
+        "values": [
+          " Monaco",
+          " Montreal Impact",
+          "Unattached",
+          "Torino",
+          "Hellas Verona",
+          "Pontedera",
+          "Giacomense",
+          "Foligno",
+          "Internazionale",
+          "Nocerina",
+          "Südtirol",
+          "Carrarese",
+          "Cagliari",
+          "Frosinone",
+          "San Marino",
+          "San Marino",
+          " Southampton",
+          " Montreal Impact",
+          " Montevideo Wanderers",
+          "Genoa",
+          " Levante",
+          "Grosseto"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Transfer fee",
+        "values": [
+          "Free",
+          "Free",
+          "N/A",
+          "€1,800,000",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "€750,000",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "€15,200,000",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed",
+          "Undisclosed"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Type of Transfer",
+        "values": [
+          "Transfer",
+          "Transfer",
+          "Contract Termination",
+          "Transfer",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Loan",
+          "Transfer",
+          "Loan",
+          "Transfer",
+          "Loan",
+          "Loan",
+          "Transfer",
+          "Loan",
+          "Loan"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Transfer Window",
+        "values": [
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Summer",
+          "Winter",
+          "Winter",
+          "Winter",
+          "Winter",
+          "Winter"
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Source",
+        "values": [
+          "asm-fc.com/",
+          "impactmontreal.com/",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "bolognafc.it",
+          "sportemotori.blogosphere.it",
+          "bolognafc.it",
+          "bolognafc.it"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2012–13 Bologna F.C. 1909 season",
+    "page_url": "https://en.wikipedia.org/wiki/2012–13_Bologna_F.C._1909_season",
+    "page_entity_id": "Q3641795"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)#Centre-back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andrea_Raggi",
+          "entity_id": "Q494887"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/AS_Monaco_FC",
+          "entity_id": "Q180305"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.asm-fc.com/en/news/team/andrea-raggi-premiere-recrue-de-l-asm",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Striker_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Marco_Di_Vaio",
+          "entity_id": "Q136940"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Impact",
+          "entity_id": "Q167615"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.impactmontreal.com/en/news/2012/05/forward-marco-di-vaio-becomes-first-ever-montreal-impact-designated-player",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Striker_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marco_Bernacci",
+          "entity_id": "Q1407338"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.bolognafc.it/news.asp?pg=8#.UBQIHETwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Gillet",
+          "entity_id": "Q509996"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Torino_F.C.",
+          "entity_id": "Q2768"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.bolognafc.it/news.asp?id=3365#.UBQMfUTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_%C3%81ngel_Crespo",
+          "entity_id": "Q513874"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hellas_Verona_F.C.",
+          "entity_id": "Q8639"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130718120914/http://www.bolognafc.it/news.asp?id=3391#.UBQUPkTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Angelo_Gregorio",
+          "entity_id": "Q4762890"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/U.S._Citt%C3%A0_di_Pontedera_S.S.D.",
+          "entity_id": "Q1056821"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130718120914/http://www.bolognafc.it/news.asp?id=3391#.UBQUPkTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Giuseppe_Nazzani",
+          "entity_id": "Q5565474"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/A.C._Giacomense",
+          "entity_id": "Q3105024"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130718120914/http://www.bolognafc.it/news.asp?id=3391#.UBQUPkTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Foligno_Calcio",
+          "entity_id": "Q1435421"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130718120914/http://www.bolognafc.it/news.asp?id=3391#.UBQUPkTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder#Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gaby_Mudingayi",
+          "entity_id": "Q439742"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Inter_Milan",
+          "entity_id": "Q631"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218135127/http://www.bolognafc.it/news.asp?id=3429#.UBUBkkTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/A.S.G._Nocerina",
+          "entity_id": "Q297680"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218123524/http://www.bolognafc.it/news.asp?id=3430#.UBUBlETwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Riccardo_Pasi",
+          "entity_id": "Q10504910"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/F.C._S%C3%BCdtirol-Alto_Adige",
+          "entity_id": "Q1387710"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://web.archive.org/web/20150205085745/http://www.bolognafc.it/news.asp?id=3454#.UBUBrUTwK-8#.UBUBrUTwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)#Full-back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Carrarese_Calcio",
+          "entity_id": "Q650365"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://web.archive.org/web/20140103143624/http://www.bolognafc.it/news.asp?id=3458#.UBUBt0TwK-8#.UBUBt0TwK-8",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder#Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Federico_Casarini",
+          "entity_id": "Q381554"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cagliari_Calcio",
+          "entity_id": "Q1900"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://web.archive.org/web/20140714225803/http://www.bolognafc.it/news.asp?id=3648#.UERqSFTwK7E",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder#Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Alessandro_Marchi",
+          "entity_id": "Q4716376"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frosinone_Calcio",
+          "entity_id": "Q845043"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218083148/http://www.bolognafc.it/news.asp?id=3649%23.UERrBFTwK7E#.UERrBFTwK7E",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Massimo_Coda",
+          "entity_id": "Q6784727"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/San_Marino_Calcio",
+          "entity_id": "Q742685"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218145945/http://www.bolognafc.it/news.asp?id=3650#.UERrblTwK7E",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder#Attacking_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/San_Marino_Calcio",
+          "entity_id": "Q742685"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218145945/http://www.bolognafc.it/news.asp?id=3650#.UERrblTwK7E",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder#Attacking_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gast%C3%B3n_Ram%C3%ADrez",
+          "entity_id": "Q437673"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        },
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Southampton_F.C.",
+          "entity_id": "Q18732"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://web.archive.org/web/20150327193741/http://www.bolognafc.it/news.asp?id=3656#.UERsUFTwK7E",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Andrea_Pisanu",
+          "entity_id": "Q542953"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Impact",
+          "entity_id": "Q167615"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130218105831/http://www.bolognafc.it/news.asp?id=4365#.Ud2oRvmcd3A",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Federico_Rodr%C3%ADguez",
+          "entity_id": "Q2629575"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        },
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Montevideo_Wanderers_F.C.",
+          "entity_id": "Q872702"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130413003427/http://www.bolognafc.it/news.asp?id=4467#.Ud2ow_mcd3A",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defender_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Daniele_Portanova",
+          "entity_id": "Q891749"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Genoa_C.F.C.",
+          "entity_id": "Q2074"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://sportemotori.blogosfere.it/2013/01/calciomercato-portanova-al-genoa-per-meta-gilardino.html",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Forward_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Robert_Acquafresca",
+          "entity_id": "Q380131"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Levante_UD",
+          "entity_id": "Q8823"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://web.archive.org/web/20131104132352/http://www.bolognafc.it/news.asp?id=4552",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Midfielder_(association_football)",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Henry_Dami%C3%A1n_Gim%C3%A9nez",
+          "entity_id": "Q726587"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/U.S._Grosseto_F.C.",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "https://archive.is/20130710185302/http://www.bolognafc.it/news.asp?id=4551",
+          "entity_id": null
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016–17_Pro_A_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Antibes Sharks",
+          "Monaco",
+          "ASVEL  ●",
+          "BCM Gravelines Dunkerque",
+          "Champagne Châlons Reims",
+          "Cholet Basket",
+          "Élan Béarnais Pau-Orthez",
+          "Élan Chalon",
+          "ESSM Le Portel  ◆",
+          "Hyères-Toulon Var Basket",
+          "JDA Dijon",
+          "Nanterre 92",
+          "Le Mans Sarthe Basket",
+          "Limoges CSP",
+          "Orléans Loiret Basket",
+          "Paris-Levallois Basket",
+          "SLUC Nancy Basket",
+          "SIG Strasbourg"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home city",
+        "values": [
+          "Antibes",
+          "Fontvieille, Monaco",
+          "Lyon – Villeurbanne",
+          "Gravelines",
+          "Reims",
+          "Cholet",
+          "Pau",
+          "Chalon-sur-Saône",
+          "Le Portel",
+          "Hyères – Toulon",
+          "Dijon",
+          "Nanterre",
+          "Le Mans",
+          "Limoges",
+          "Orléans",
+          "Paris – Levallois",
+          "Nancy",
+          "Strasbourg"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "Azur Arena",
+          "Salle Gaston Médecin",
+          "Astroballe",
+          "Sportica",
+          "Complexe René-Tys",
+          "La Meilleraie",
+          "Palais des Sports de Pau",
+          "Le Colisée",
+          "Le Chaudron",
+          "Palais des Sports de Toulon",
+          "Palais des Sports de Dijon",
+          "Palais des Sports de Nanterre",
+          "Antarès",
+          "Beaublanc",
+          "Zénith d'Orléans",
+          "Stade Pierre de Coubertin  \nPalais des Sports Marcel Cerdan",
+          "Palais des Sports Jean Weille",
+          "Rhénus Sport"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          " 5,249",
+          " 3,700",
+          " 5,556",
+          " 3,500",
+          " 3,000",
+          " 5,191",
+          " 7,707",
+          " 5,000",
+          " 3,500",
+          " 4,700",
+          " 5,000",
+          " 3,000",
+          " 6,003",
+          " 6,000",
+          " 5,338",
+          " 4,200 \n3,050",
+          " 6,027",
+          " 6,200"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016–17 Pro A season",
+    "page_url": "https://en.wikipedia.org/wiki/2016–17_Pro_A_season",
+    "page_entity_id": "Q24647432"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Olympique_Antibes",
+          "entity_id": "Q2600783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Antibes",
+          "entity_id": "Q126898"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/AS_Monaco_Basket",
+          "entity_id": "Q2868091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Fontvieille,_Monaco",
+          "entity_id": "Q55098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Salle_Gaston_M%C3%A9decin",
+          "entity_id": "Q22936222"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/ASVEL_Basket",
+          "entity_id": "Q4089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Lyon",
+          "entity_id": "Q456"
+        },
+        {
+          "start": 7,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Villeurbanne",
+          "entity_id": "Q582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Astroballe",
+          "entity_id": "Q8546"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/BCM_Gravelines",
+          "entity_id": "Q795707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gravelines",
+          "entity_id": "Q323399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gravelines_Sportica",
+          "entity_id": "Q3494044"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Champagne_Ch%C3%A2lons_Reims_Basket",
+          "entity_id": "Q371741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Reims",
+          "entity_id": "Q41876"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cholet_Basket",
+          "entity_id": "Q1075934"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cholet",
+          "entity_id": "Q185066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/La_Meilleraie",
+          "entity_id": "Q1164904"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/%C3%89lan_B%C3%A9arnais_Pau-Orthez",
+          "entity_id": "Q274566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Pau,_Pyr%C3%A9n%C3%A9es-Atlantiques",
+          "entity_id": "Q132671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_de_Pau",
+          "entity_id": "Q778495"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/%C3%89lan_Chalon",
+          "entity_id": "Q274570"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Chalon-sur-Sa%C3%B4ne",
+          "entity_id": "Q203645"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Le_Colis%C3%A9e",
+          "entity_id": "Q3221561"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/ESSM_Le_Portel",
+          "entity_id": "Q3592475"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Le_Portel",
+          "entity_id": "Q877744"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Hy%C3%A8res-Toulon_Var_Basket",
+          "entity_id": "Q1630116"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hy%C3%A8res",
+          "entity_id": "Q192574"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Toulon",
+          "entity_id": "Q44160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_de_Toulon",
+          "entity_id": "Q3361123"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/JDA_Dijon",
+          "entity_id": "Q1682230"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dijon",
+          "entity_id": "Q7003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_de_Dijon",
+          "entity_id": "Q770637"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nanterre_92",
+          "entity_id": "Q1630671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nanterre",
+          "entity_id": "Q170507"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_de_Nanterre",
+          "entity_id": "Q14931634"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Le_Mans_Sarthe_Basket",
+          "entity_id": "Q40063"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Le_Mans",
+          "entity_id": "Q1476"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Antar%C3%A8s",
+          "entity_id": "Q571481"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Limoges_CSP",
+          "entity_id": "Q1419876"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Limoges",
+          "entity_id": "Q45656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_de_Fetes",
+          "entity_id": "Q3361141"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Entente_Orl%C3%A9anaise",
+          "entity_id": "Q206768"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Orl%C3%A9ans",
+          "entity_id": "Q6548"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Z%C3%A9nith_d%27Orl%C3%A9ans",
+          "entity_id": "Q3576482"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Paris-Levallois_Basket",
+          "entity_id": "Q2600759"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        },
+        {
+          "start": 8,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Levallois-Perret",
+          "entity_id": "Q166640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Stade_Pierre_de_Coubertin_(Paris)",
+          "entity_id": "Q462240"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/SLUC_Nancy_Basket",
+          "entity_id": "Q762219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Nancy,_France",
+          "entity_id": "Q40898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Palais_des_Sports_Jean_Weille",
+          "entity_id": "Q3361126"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/SIG_Strasbourg",
+          "entity_id": "Q2737338"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Strasbourg",
+          "entity_id": "Q6602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rh%C3%A9nus_Sport",
+          "entity_id": "Q3429929"
+        }
+      ],
+      []
+    ]
+  ]
+}

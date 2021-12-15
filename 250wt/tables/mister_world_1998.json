@@ -1,0 +1,1178 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Mister_World_1998",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Country",
+        "values": [
+          " Argentina",
+          " Australia",
+          " Austria",
+          " Belgium",
+          " Bolivia",
+          " Brazil",
+          " Colombia",
+          " Croatia",
+          " Egypt",
+          " France",
+          " Germany",
+          " Greece",
+          " Holland",
+          " Hungary",
+          " India",
+          " Ireland",
+          " Israel",
+          " Italy",
+          " Jamaica",
+          " Latvia",
+          " Lebanon",
+          " Malaysia",
+          " Malta",
+          " Mexico",
+          " Norway",
+          " Peru",
+          " Philippines",
+          " Poland",
+          " Portugal",
+          " Puerto Rico",
+          " Russia",
+          " Singapore",
+          " Slovakia",
+          " Slovenia",
+          " Spain",
+          " Sri Lanka",
+          " Turkey",
+          " Ukraine",
+          " United Kingdom",
+          " United States",
+          " Uruguay",
+          " Venezuela",
+          " Yugoslavia"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Contestant",
+        "values": [
+          "Mariano Fernández",
+          "Joel Williams",
+          "Andreas Sappl",
+          "Franck Clemente",
+          "Steven Aras Zallio",
+          "Edilson Leite Ferreira",
+          "Felipe Arturo Barbosa Carrasco",
+          "Leonid Holjar",
+          "Hani Salama",
+          "Gregory Rossi",
+          "Adrian Virgil Ursache",
+          "Dimitri Drabakoulos",
+          "Richard van Bokkum",
+          "Kristian Chis",
+          "Sachin Khurana",
+          "Brian Guidera",
+          "Elad Madany",
+          "Matteo Mammì",
+          "Kinte Thelwell",
+          "Gatis Didrihsons",
+          "Ghassan Mawla",
+          "Yap Leong Chai",
+          "Nikovich Sammut",
+          "Eduardo Rodríguez Álvarez",
+          "Espen Engtroe",
+          "Jean Pierre Vismara",
+          "Rico Lee Miguel",
+          "Robert Koszucki",
+          "Rubim Fonseca",
+          "Germán Cardoso Méndez",
+          "Aleksey Korolev",
+          "Alvin Tan Wei Jin",
+          "Matúš Haňo",
+          "Eduard Žalar",
+          "Enrique Miranda García",
+          "Tariq Saleem",
+          "Bora Erdem",
+          "Ihor Skrypnychenko",
+          "Brett Phippen",
+          "Daniel Weaver",
+          "Mauro Ramírez del Puerto",
+          "Sandro Finoglio Speranza",
+          "Darko Marojević"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Age",
+        "values": [
+          "25",
+          "25",
+          "28",
+          "27",
+          "21",
+          "23",
+          "25",
+          "20",
+          "20",
+          "22",
+          "23",
+          "22",
+          "24",
+          "23",
+          "22",
+          "23",
+          "22",
+          "22",
+          "23",
+          "24",
+          "20",
+          "26",
+          "21",
+          "24",
+          "23",
+          "23",
+          "21",
+          "21",
+          "25",
+          "22",
+          "24",
+          "21",
+          "22",
+          "22",
+          "27",
+          "22",
+          "29",
+          "17",
+          "26",
+          "29",
+          "24",
+          "25",
+          "25"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Height",
+        "values": [
+          "1.82 m (5 ft 11  1 ⁄ 2 in)",
+          "1.85 m (6 ft 1 in)",
+          "1.90 m (6 ft 3 in)",
+          "1.85 m (6 ft 1 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.82 m (5 ft 11  1 ⁄ 2 in)",
+          "1.89 m (6 ft 2  1 ⁄ 2 in)",
+          "1.97 m (6 ft 5  1 ⁄ 2 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.95 m (6 ft 5 in)",
+          "1.84 m (6 ft 1 ⁄ 2 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.94 m (6 ft 4  1 ⁄ 2 in)",
+          "1.91 m (6 ft 3 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.80 m (5 ft 11 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.84 m (6 ft 1 ⁄ 2 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.82 m (5 ft 11  1 ⁄ 2 in)",
+          "1.89 m (6 ft 2  1 ⁄ 2 in)",
+          "1.86 m (6 ft 1 in)",
+          "1.85 m (6 ft 1 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.79 m (5 ft 10  1 ⁄ 2 in)",
+          "1.80 m (5 ft 11 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.87 m (6 ft 1  1 ⁄ 2 in)",
+          "1.83 m (6 ft 0 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.92 m (6 ft 3  1 ⁄ 2 in)",
+          "1.84 m (6 ft 1 ⁄ 2 in)",
+          "1.96 m (6 ft 5 in)",
+          "1.88 m (6 ft 2 in)",
+          "1.86 m (6 ft 1 in)",
+          "1.88 m (6 ft 2 in)"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Hometown",
+        "values": [
+          "Macachín",
+          "Gold Coast",
+          "Breitenbach am Inn",
+          "Liège",
+          "Santa Cruz de la Sierra",
+          "Brasília",
+          "Barranquilla",
+          "Rijeka",
+          "Cairo",
+          "Cassis",
+          "Berlin",
+          "Athens",
+          "Rotterdam",
+          "Eger",
+          "Delhi",
+          "Dublin",
+          "Tel Aviv",
+          "Milan",
+          "Kingston",
+          "Ventspils",
+          "Beirut",
+          "Kuala Lumpur",
+          "Bugibba",
+          "San Luis Potosí",
+          "Kristiansund",
+          "Callao",
+          "Batangas City",
+          "Kraków",
+          "Lisbon",
+          "San Juan",
+          "Moscow",
+          "Singapore",
+          "Vranov nad Topľou",
+          "Maribor",
+          "Cádiz",
+          "Colombo",
+          "İzmir",
+          "Odessa",
+          "Swansea",
+          "Los Angeles",
+          "Montevideo",
+          "Caracas",
+          "Belgrade"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Mister World 1998",
+    "page_url": "https://en.wikipedia.org/wiki/Mister_World_1998",
+    "page_entity_id": "Q3316960"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Macach%C3%ADn",
+          "entity_id": "Q2911913"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gold_Coast,_Queensland",
+          "entity_id": "Q140075"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Breitenbach_am_Inn",
+          "entity_id": "Q700444"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Li%C3%A8ge",
+          "entity_id": "Q3992"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bolivia",
+          "entity_id": "Q750"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Santa_Cruz_de_la_Sierra",
+          "entity_id": "Q170688"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "entity_id": "Q2844"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Colombia",
+          "entity_id": "Q739"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Barranquilla",
+          "entity_id": "Q62823"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Croatia",
+          "entity_id": "Q224"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Rijeka",
+          "entity_id": "Q1647"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cairo",
+          "entity_id": "Q85"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cassis",
+          "entity_id": "Q243002"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Athens",
+          "entity_id": "Q1524"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Rotterdam",
+          "entity_id": "Q34370"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Eger",
+          "entity_id": "Q167109"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sachin_Khurana",
+          "entity_id": "Q16239051"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Delhi",
+          "entity_id": "Q1353"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dublin",
+          "entity_id": "Q1761"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tel_Aviv",
+          "entity_id": "Q33935"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Milan",
+          "entity_id": "Q490"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jamaica",
+          "entity_id": "Q766"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kingston,_Jamaica",
+          "entity_id": "Q34692"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Latvia",
+          "entity_id": "Q211"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ventspils",
+          "entity_id": "Q104036"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lebanon",
+          "entity_id": "Q822"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Beirut",
+          "entity_id": "Q3820"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kuala_Lumpur",
+          "entity_id": "Q1865"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Malta",
+          "entity_id": "Q233"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bugibba",
+          "entity_id": "Q44632"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD",
+          "entity_id": "Q78980"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kristiansund",
+          "entity_id": "Q109483"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Peru",
+          "entity_id": "Q419"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Callao",
+          "entity_id": "Q105037"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philippines",
+          "entity_id": "Q928"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Batangas_City",
+          "entity_id": "Q1723"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Krak%C3%B3w",
+          "entity_id": "Q31487"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lisbon",
+          "entity_id": "Q597"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Puerto_Rico",
+          "entity_id": "Q1183"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+          "entity_id": "Q41211"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Singapore",
+          "entity_id": "Q334"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Singapore",
+          "entity_id": "Q334"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slovakia",
+          "entity_id": "Q214"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou",
+          "entity_id": "Q842005"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slovenia",
+          "entity_id": "Q215"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Maribor",
+          "entity_id": "Q1010"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/C%C3%A1diz",
+          "entity_id": "Q15682"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sri_Lanka",
+          "entity_id": "Q854"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Colombo",
+          "entity_id": "Q35381"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Turkey",
+          "entity_id": "Q43"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/%C4%B0zmir",
+          "entity_id": "Q35997"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Odessa",
+          "entity_id": "Q1874"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Swansea",
+          "entity_id": "Q23051"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Montevideo",
+          "entity_id": "Q1335"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Sandro_Finoglio",
+          "entity_id": "Q8008631"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Caracas",
+          "entity_id": "Q1533"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Serbia_and_Montenegro",
+          "entity_id": "Q37024"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgrade",
+          "entity_id": "Q3711"
+        }
+      ]
+    ]
+  ]
+}

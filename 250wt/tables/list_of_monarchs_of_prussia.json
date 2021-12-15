@@ -1,0 +1,348 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_monarchs_of_Prussia",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Frederick I    the Mercenary King",
+          "Frederick William I    the Soldier King",
+          "Frederick II    the Great",
+          "Frederick William II",
+          "Frederick William III",
+          "Frederick William IV",
+          "William I",
+          "Frederick III",
+          "William II"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Lifespan",
+        "values": [
+          "( 1657-07-11 ) 11 July 1657 – 25 February 1713 (1713-02-25) (aged 55)",
+          "( 1688-08-14 ) 14 August 1688 – 31 May 1740 (1740-05-31) (aged 51)",
+          "( 1712-01-24 ) 24 January 1712 – 17 August 1786 (1786-08-17) (aged 74)",
+          "( 1744-09-25 ) 25 September 1744 – 16 November 1797 (1797-11-16) (aged 53)",
+          "( 1770-07-03 ) 3 July 1770 – 7 June 1840 (1840-06-07) (aged 69)",
+          "( 1795-10-15 ) 15 October 1795 – 2 January 1861 (1861-01-02) (aged 65)",
+          "( 1797-03-22 ) 22 March 1797 – 9 March 1888 (1888-03-09) (aged 90)",
+          "( 1831-10-18 ) 18 October 1831 – 15 June 1888 (1888-06-15) (aged 56)",
+          "( 1859-01-27 ) 27 January 1859 – 4 June 1941 (1941-06-04) (aged 82)"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Reign start",
+        "values": [
+          "18 January 1701",
+          "25 February 1713",
+          "31 May 1740",
+          "17 August 1786",
+          "16 November 1797",
+          "7 June 1840",
+          "2 January 1861",
+          "9 March 1888",
+          "15 June 1888"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Reign end",
+        "values": [
+          "25 February 1713",
+          "31 May 1740",
+          "17 August 1786",
+          "16 November 1797",
+          "7 June 1840",
+          "2 January 1861",
+          "9 March 1888",
+          "15 June 1888",
+          "28 November 1918 \n(abdicated)"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "Son of Frederick William",
+          "Son of Frederick I",
+          "Son of Frederick William I",
+          "Nephew of Frederick II, Grandson of Frederick William I",
+          "Son of Frederick William II",
+          "Son of Frederick William III; also President of the Erfurt Union (1849-1850)",
+          "Brother of Frederick William IV, Son of Frederick William III; also President of the North German Confederation (1867-1871) and German Emperor (from 1871)",
+          "Son of William I; also German Emperor",
+          "Son of Frederick III; also German Emperor"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Family",
+        "values": [
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern",
+          "Hohenzollern"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Image",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of monarchs of Prussia",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_monarchs_of_Prussia",
+    "page_entity_id": "Q1770786"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Frederick_I_of_Prussia",
+          "entity_id": "Q151826"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia",
+          "entity_id": "Q105013"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Frederick_the_Great",
+          "entity_id": "Q33550"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Frederick_William_II_of_Prussia",
+          "entity_id": "Q152229"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Frederick_William_III_of_Prussia",
+          "entity_id": "Q37134"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Frederick_William_IV_of_Prussia",
+          "entity_id": "Q57180"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 52,
+          "end": 64,
+          "url": "http://en.wikipedia.org/wiki/Erfurt_Union",
+          "entity_id": "Q327179"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/William_I,_German_Emperor",
+          "entity_id": "Q150652"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 85,
+          "end": 111,
+          "url": "http://en.wikipedia.org/wiki/North_German_Confederation",
+          "entity_id": "Q150981"
+        },
+        {
+          "start": 128,
+          "end": 142,
+          "url": "http://en.wikipedia.org/wiki/German_Emperor",
+          "entity_id": "Q501503"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Frederick_III,_German_Emperor",
+          "entity_id": "Q58600"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor",
+          "entity_id": "Q2677"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/House_of_Hohenzollern",
+          "entity_id": "Q83969"
+        }
+      ],
+      []
+    ]
+  ]
+}

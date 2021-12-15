@@ -1,0 +1,4444 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "The_Declaration_Tour",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "February 13, 2009",
+          "February 14, 2009",
+          "February 15, 2009",
+          "February 18, 2009",
+          "February 19, 2009",
+          "February 20, 2009",
+          "February 21, 2009",
+          "February 23, 2009",
+          "February 24, 2009",
+          "February 25, 2009",
+          "February 27, 2009",
+          "March 1, 2009",
+          "March 2, 2009",
+          "March 3, 2009",
+          "March 6, 2009",
+          "March 7, 2009",
+          "March 8, 2009",
+          "March 10, 2009",
+          "March 11, 2009",
+          "March 13, 2009",
+          "March 14, 2009",
+          "March 16, 2009",
+          "March 19, 2009",
+          "March 20, 2009",
+          "March 21, 2009",
+          "March 23, 2009",
+          "March 24, 2009",
+          "March 26, 2009",
+          "March 27, 2009",
+          "March 28, 2009",
+          "March 30, 2009",
+          "March 31, 2009",
+          "April 2, 2009",
+          "April 3, 2009",
+          "April 4, 2009",
+          "April 5, 2009",
+          "April 7, 2009",
+          "April 8, 2009",
+          "April 10, 2009",
+          "April 11, 2009",
+          "April 13, 2009",
+          "April 14, 2009",
+          "April 20, 2009",
+          "April 21, 2009",
+          "April 22, 2009",
+          "April 24, 2009",
+          "April 25, 2009",
+          "April 27, 2009",
+          "April 28, 2009",
+          "April 29, 2009",
+          "May 1, 2009",
+          "May 2, 2009",
+          "May 4, 2009",
+          "May 5, 2009",
+          "May 6, 2009",
+          "May 8, 2009",
+          "May 16, 2009",
+          "May 22, 2009",
+          "May 23, 2009",
+          "May 24, 2009",
+          "May 26, 2009",
+          "May 27, 2009",
+          "May 28, 2009",
+          "May 30, 2009",
+          "May 31, 2009",
+          "June 18, 2009",
+          "June 20, 2009",
+          "June 21, 2009",
+          "June 23, 2009",
+          "June 24, 2009",
+          "June 26, 2009",
+          "June 27, 2009",
+          "June 28, 2009",
+          "June 30, 2009",
+          "July 1, 2009",
+          "July 3, 2009",
+          "July 4, 2009",
+          "July 5, 2009",
+          "July 7, 2009",
+          "July 8, 2009",
+          "July 10, 2009",
+          "July 11, 2009",
+          "July 12, 2009",
+          "July 15, 2009",
+          "July 16, 2009",
+          "July 17, 2009",
+          "July 19, 2009",
+          "July 20, 2009",
+          "July 22, 2009",
+          "July 23, 2009",
+          "July 24, 2009",
+          "July 25, 2009",
+          "July 27, 2009",
+          "July 29, 2009",
+          "July 30, 2009",
+          "July 31, 2009",
+          "August 1, 2009",
+          "August 3, 2009",
+          "August 4, 2009",
+          "August 6, 2009",
+          "August 8, 2009",
+          "August 9, 2009",
+          "August 12, 2009",
+          "August 14, 2009",
+          "August 15, 2009",
+          "August 20, 2009",
+          "August 21, 2009",
+          "August 23, 2009",
+          "August 24, 2009",
+          "August 25, 2009",
+          "August 27, 2009",
+          "August 29, 2009",
+          "August 30, 2009",
+          "September 1, 2009",
+          "September 2, 2009",
+          "September 3, 2009",
+          "September 5, 2009",
+          "September 8, 2009",
+          "September 9, 2009",
+          "September 10, 2009",
+          "September 15, 2009",
+          "September 17, 2009",
+          "September 18, 2009",
+          "September 20, 2009",
+          "September 26, 2009",
+          "September 27, 2009",
+          "September 28, 2009",
+          "October 2, 2009",
+          "October 3, 2009",
+          "October 9, 2009",
+          "October 10, 2009",
+          "October 11, 2009",
+          "October 13, 2009",
+          "October 15, 2009",
+          "October 16, 2009",
+          "October 17, 2009",
+          "October 18, 2009",
+          "November 3, 2009",
+          "November 4, 2009",
+          "November 6, 2009",
+          "November 7, 2009",
+          "November 8, 2009",
+          "November 10, 2009",
+          "November 11, 2009",
+          "November 12, 2009",
+          "November 14, 2009",
+          "November 16, 2009",
+          "November 18, 2009",
+          "November 19, 2009",
+          "November 20, 2009",
+          "November 23, 2009",
+          "November 24, 2009",
+          "November 27, 2009",
+          "November 28, 2009",
+          "November 29, 2009",
+          "December 1, 2009",
+          "December 2, 2009"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Tallahassee",
+          "Biloxi",
+          "Oxford",
+          "Eau Claire",
+          "Cedar Falls",
+          "Green Bay",
+          "Valparaiso",
+          "Waverly",
+          "Fulton",
+          "Conway",
+          "Portsmouth",
+          "Newburgh",
+          "Brookville",
+          "Carlisle",
+          "Morgantown",
+          "Glassboro",
+          "Willimantic",
+          "Poughkeepsie",
+          "Brockport",
+          "Niagara Falls",
+          "Elkins",
+          "Bloomsburg",
+          "Mansifield",
+          "Atlantic City",
+          "Atlantic City",
+          "Selinsgrove",
+          "York",
+          "Buies Creek",
+          "Pemberton",
+          "Williamsburg",
+          "New London",
+          "New Haven",
+          "Wilmington",
+          "Townson",
+          "Lewisburg",
+          "Radford",
+          "Columbia",
+          "Macon",
+          "Knoxville",
+          "Memphis",
+          "Joliet",
+          "Macomb",
+          "Tyler",
+          "Searcy",
+          "Kansas City",
+          "Omaha",
+          "Tulsa",
+          "Rolla",
+          "Warrensburg",
+          "Little Rock",
+          "Gainesville",
+          "West Palm Beach",
+          "Athens",
+          "Louisville",
+          "Perrysburg",
+          "Akron",
+          "Pasay",
+          "New York City",
+          "Northampton",
+          "New Haven",
+          "Elyria",
+          "Springfield",
+          "Newark",
+          "Virginia Beach",
+          "Carrboro",
+          "Del Mar",
+          "Bonner Springs",
+          "Wichita",
+          "Tulsa",
+          "Oklahoma City",
+          "Denver",
+          "Aspen",
+          "Beaver Creek",
+          "Santa Fe",
+          "Amarillo",
+          "Thackerville",
+          "Baton Rouge",
+          "Galveston",
+          "New Orleans",
+          "Chattanooga",
+          "Lansing",
+          "Chesaning",
+          "Chicago",
+          "Duluth",
+          "Des Moines",
+          "Sioux City",
+          "Indianapolis",
+          "Covington",
+          "Mahnomen",
+          "West Bend",
+          "Prior Lake",
+          "Monticello",
+          "Harrington",
+          "Washington, D.C.",
+          "Sayreville",
+          "Glenside",
+          "Ledyard",
+          "Bethelehem",
+          "Millvale",
+          "New York City",
+          "Columbus",
+          "Perrysburg",
+          "Ventura",
+          "Knoxville",
+          "Lewisburg",
+          "Lancaster",
+          "Sacramento",
+          "Yakima",
+          "Seattle",
+          "Spokane",
+          "Casper",
+          "Mitchell",
+          "Fargo",
+          "Billings",
+          "Idaho Fallas",
+          "Missoula",
+          "Salem",
+          "San Francisco",
+          "Los Angeles",
+          "San Diego",
+          "Allegan",
+          "Cleveland",
+          "York",
+          "Newport Beach",
+          "Atlantic City",
+          "Union",
+          "Bloomsburg",
+          "Montreal",
+          "Ottawa",
+          "Clifton Park",
+          "Providence",
+          "Charlottesville",
+          "Richmond",
+          "North Myrtle Beach",
+          "Greensboro",
+          "Columbia",
+          "Perry",
+          "Phoenix",
+          "El Paso",
+          "Shawnee",
+          "Houston",
+          "Dallas",
+          "St. Louis",
+          "Milwaukee",
+          "Friant",
+          "Windsor",
+          "Orillia",
+          "Hammond",
+          "Peoria",
+          "Elizabeth",
+          "Atlanta",
+          "Mobile",
+          "St. Petersburg",
+          "Orlando",
+          "Davie",
+          "Charlotte",
+          "Norfolk"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Philippines",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Club Downunder at Florida State University",
+          "Beau Rivage",
+          "University of Mississippi",
+          "University of Wisconsin–Eau Claire",
+          "University of Northern Iowa",
+          "University of Wisconsin–Green Bay",
+          "Valparaiso University",
+          "Wartburg College",
+          "Westminster College",
+          "University of Central Arkansas",
+          "Shawnee State University",
+          "Mount Saint Mary College",
+          "CW Post – LIU \nOpen to students only",
+          "Dickinson College",
+          "West Virginia University",
+          "Rowan University \nOpen to students only",
+          "Eastern Connecticut State University \nOpen to students only",
+          "Marist College",
+          "State University of New York at Brockport \nOpen to students only",
+          "Seneca Niagara Casino",
+          "Davis & Elkins College",
+          "Bloomsburg University",
+          "Mansfield University of Pennsylvania",
+          "The Borgata",
+          "The Borgata",
+          "Susquehanna University \nOpen to students only",
+          "Penn State York",
+          "Campbell University",
+          "Burlington County College",
+          "College of William & Mary \nOpen to students only",
+          "Colby–Sawyer College  Cancelled",
+          "Southern Connecticut State University  Cancelled",
+          "Azalea Fest at UNC Wilmington",
+          "Towson University \nOpen to students only",
+          "Bucknell University",
+          "Radford University",
+          "University of South Carolina \nOpen to students only",
+          "Mercer University",
+          "The Square Room",
+          "Minglewood Hall",
+          "University of St. Francis \nOpen to students only",
+          "Western Illinois University",
+          "University of Texas at Tyler \nOpen to students only",
+          "Harding University",
+          "Ameristar Casino Kansas City",
+          "Creighton University \nOpen to students only",
+          "University of Tulsa",
+          "Missouri S&T",
+          "University of Central Missouri",
+          "Revolution Music Room",
+          "Common Grounds",
+          "Sunfest",
+          "Georgia Theatre",
+          "Headliners Music Club",
+          "Owens Community College \nRescheduled for September 9, 2009",
+          "Musica",
+          "Mall of Asia Concert Grounds \nwith David Archuleta",
+          "New York University",
+          "Pearl Street Night Club",
+          "Toad's Place",
+          "Lorain County Community College",
+          "Clark State Community College",
+          "Ohio State University at Newark",
+          "The Patriotic Festival",
+          "Cat's Cradle",
+          "San Diego County Fair",
+          "Capitol Federal Park at Sandstone",
+          "Cotillion Ballroom",
+          "Cain's Ballroom",
+          "Diamond Ballroom",
+          "Ogden Theatre",
+          "Belly Up",
+          "Vilar Center For The Arts",
+          "Lensic Theater",
+          "Midnight Rodeo & Piranha Room",
+          "WinStar World Casino",
+          "Blue Bayou and Dixie Landin'",
+          "Moody Gardens",
+          "House of Blues",
+          "Chattanooga Convention Center",
+          "Common Ground Music Festival",
+          "Chesaning Showboat Music Festival",
+          "House of Blues",
+          "Duluth Entertainment Convention Center",
+          "Simon Estes Amphitheater",
+          "Orpheum Theatre",
+          "The Egyptian Room",
+          "Madison Theater",
+          "Shooting Star Casino",
+          "Washington County Fair",
+          "Mystic Lake Casino",
+          "Great Jones County Fair",
+          "Delaware State Fair",
+          "Birchmere Theater",
+          "Starland Ballroom",
+          "Keswick Theatre",
+          "MGM Grand at Foxwoods",
+          "Musikfest",
+          "Mr. Smalls Theater",
+          "Nokia Theater",
+          "Ohio State Fair",
+          "Owens Community College",
+          "Ventura County Fair",
+          "Tennessee Theatre",
+          "State Fair of West Virginia",
+          "Antelope Valley Fair",
+          "California State Fair",
+          "Capitol Theatre",
+          "Showbox SoDo",
+          "Knitting Factory",
+          "Casper Events Center",
+          "Corn Palace",
+          "The Venue At The Hub",
+          "Shrine Auditorium",
+          "Civic Auditorium",
+          "Wilma Theatre",
+          "Oregon State Fair",
+          "The Fillmore",
+          "Henry Fonda Theatre",
+          "Spreckels Theater",
+          "Allegan County Fair",
+          "House of Blues",
+          "York Fair",
+          "Taste of Newport",
+          "Borgata Hotel Casino",
+          "Wilkins Theater, Kean University",
+          "Bloomsburg Fair",
+          "Metropolis",
+          "Ritual Nightclub",
+          "Northern Lights",
+          "Lupo's Heartbreak Hotel",
+          "Paramount Theater",
+          "The National",
+          "House of Blues",
+          "N Club",
+          "South Carolina State Fair",
+          "Georgia National Fair",
+          "Arizona State Fair",
+          "Club 101",
+          "Firelake Grand Casino",
+          "Warehouse Live",
+          "Palladium Ballroom",
+          "The Pageant",
+          "Riverside Theater",
+          "Table Mountain Casino",
+          "Caesars Windsor Casino",
+          "Casino Rama",
+          "The Venue at Horseshoe",
+          "Peoria Civic Center",
+          "Horseshoe Southern Indiana",
+          "The Tabernacle",
+          "Saenger Theatre",
+          "Mahaffey Theater",
+          "Hard Rock Live",
+          "Arena at D. Taft University Center",
+          "The Fillmore",
+          "Ted Constant Convocation Center  Cancelled"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "The Declaration Tour",
+    "page_url": "https://en.wikipedia.org/wiki/The_Declaration_Tour",
+    "page_entity_id": "Q3021034"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tallahassee,_Florida",
+          "entity_id": "Q37043"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 18,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Florida_State_University",
+          "entity_id": "Q861548"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Biloxi,_Mississippi",
+          "entity_id": "Q490720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Beau_Rivage_(Mississippi)",
+          "entity_id": "Q4877381"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oxford,_Mississippi",
+          "entity_id": "Q983822"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/University_of_Mississippi",
+          "entity_id": "Q1138384"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Eau_Claire,_Wisconsin",
+          "entity_id": "Q122563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Eau_Claire",
+          "entity_id": "Q3551771"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cedar_Falls,_Iowa",
+          "entity_id": "Q582212"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/University_of_Northern_Iowa",
+          "entity_id": "Q1781094"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Green_Bay,_Wisconsin",
+          "entity_id": "Q47430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Green_Bay",
+          "entity_id": "Q2378091"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Valparaiso,_Indiana",
+          "entity_id": "Q868888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Valparaiso_University",
+          "entity_id": "Q186047"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Waverly,_Iowa",
+          "entity_id": "Q996036"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Wartburg_College",
+          "entity_id": "Q7971008"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fulton,_Missouri",
+          "entity_id": "Q839802"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Westminster_College_(Missouri)",
+          "entity_id": "Q7989150"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Conway,_Arkansas",
+          "entity_id": "Q79853"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/University_of_Central_Arkansas",
+          "entity_id": "Q1782724"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Portsmouth,_Ohio",
+          "entity_id": "Q685335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Shawnee_State_University",
+          "entity_id": "Q7491567"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Newburgh_(city),_New_York",
+          "entity_id": "Q1044808"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Mount_Saint_Mary_College",
+          "entity_id": "Q6923424"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Brookville,_New_York",
+          "entity_id": "Q3449260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Carlisle,_Pennsylvania",
+          "entity_id": "Q1010228"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dickinson_College",
+          "entity_id": "Q1210045"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Morgantown,_West_Virginia",
+          "entity_id": "Q653636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/West_Virginia_University",
+          "entity_id": "Q115376"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Glassboro,_New_Jersey",
+          "entity_id": "Q1083910"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rowan_University",
+          "entity_id": "Q1799872"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Willimantic,_Connecticut",
+          "entity_id": "Q754078"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Connecticut_State_University",
+          "entity_id": "Q1278152"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Poughkeepsie,_New_York",
+          "entity_id": "Q178093"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marist_College",
+          "entity_id": "Q6765664"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Brockport,_New_York",
+          "entity_id": "Q3473405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/State_University_of_New_York_at_Brockport",
+          "entity_id": "Q7603617"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Niagara_Falls,_New_York",
+          "entity_id": "Q128133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Seneca_Niagara_Casino_%26_Hotel",
+          "entity_id": "Q7450321"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Elkins,_West_Virginia",
+          "entity_id": "Q952594"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Davis_%26_Elkins_College",
+          "entity_id": "Q5241825"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bloomsburg,_Pennsylvania",
+          "entity_id": "Q1133544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bloomsburg_University",
+          "entity_id": "Q4928377"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mansfield,_Pennsylvania",
+          "entity_id": "Q1181562"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mansfield_University_of_Pennsylvania",
+          "entity_id": "Q6751699"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Borgata",
+          "entity_id": "Q2910840"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Borgata",
+          "entity_id": "Q2910840"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Selinsgrove,_Pennsylvania",
+          "entity_id": "Q1183010"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Susquehanna_University",
+          "entity_id": "Q7649352"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/York,_Pennsylvania",
+          "entity_id": "Q821105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Penn_State_York",
+          "entity_id": "Q7163306"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Buies_Creek,_North_Carolina",
+          "entity_id": "Q2023998"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Campbell_University",
+          "entity_id": "Q904219"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pemberton,_New_Jersey",
+          "entity_id": "Q1083423"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Burlington_County_College",
+          "entity_id": "Q4999226"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Williamsburg,_Virginia",
+          "entity_id": "Q492346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/College_of_William_%26_Mary",
+          "entity_id": "Q875637"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/New_London,_New_Hampshire",
+          "entity_id": "Q2417089"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Colby%E2%80%93Sawyer_College",
+          "entity_id": "Q5142055"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "entity_id": "Q49145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Southern_Connecticut_State_University",
+          "entity_id": "Q1253123"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Wilmington,_North_Carolina",
+          "entity_id": "Q659400"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/University_of_North_Carolina_at_Wilmington",
+          "entity_id": "Q2092214"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Towson,_Maryland",
+          "entity_id": "Q755615"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Towson_University",
+          "entity_id": "Q1474129"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lewisburg,_Pennsylvania",
+          "entity_id": "Q1185021"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bucknell_University",
+          "entity_id": "Q3444679"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Radford,_Virginia",
+          "entity_id": "Q586070"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Radford_University",
+          "entity_id": "Q632465"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbia,_South_Carolina",
+          "entity_id": "Q38453"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/University_of_South_Carolina",
+          "entity_id": "Q1024426"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Macon,_Georgia",
+          "entity_id": "Q219656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mercer_University",
+          "entity_id": "Q1798612"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Knoxville,_Tennessee",
+          "entity_id": "Q185582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Memphis,_Tennessee",
+          "entity_id": "Q16563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Joliet,_Illinois",
+          "entity_id": "Q40345"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/University_of_St._Francis",
+          "entity_id": "Q1276380"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Macomb,_Illinois",
+          "entity_id": "Q575389"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Western_Illinois_University",
+          "entity_id": "Q1474005"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tyler,_Texas",
+          "entity_id": "Q499169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/University_of_Texas_at_Tyler",
+          "entity_id": "Q212528"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Searcy,_Arkansas",
+          "entity_id": "Q79709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City,_Missouri",
+          "entity_id": "Q41819"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Ameristar_Casino_Kansas_City",
+          "entity_id": "Q4745797"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Omaha,_Nebraska",
+          "entity_id": "Q43199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Creighton_University",
+          "entity_id": "Q770544"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",
+          "entity_id": "Q44989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/University_of_Tulsa",
+          "entity_id": "Q1848657"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Rolla,_Missouri",
+          "entity_id": "Q955386"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Missouri_University_of_Science_and_Technology",
+          "entity_id": "Q4380853"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Warrensburg,_Missouri",
+          "entity_id": "Q959761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/University_of_Central_Missouri",
+          "entity_id": "Q7895252"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Little_Rock,_Arkansas",
+          "entity_id": "Q33405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gainesville,_Florida",
+          "entity_id": "Q487999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/West_Palm_Beach,_Florida",
+          "entity_id": "Q163749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Athens,_Georgia",
+          "entity_id": "Q203263"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Georgia_Theatre",
+          "entity_id": "Q5547844"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Louisville,_Kentucky",
+          "entity_id": "Q43668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Perrysburg,_Ohio",
+          "entity_id": "Q998647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Akron,_Ohio",
+          "entity_id": "Q163132"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Pasay",
+          "entity_id": "Q17189"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Philippines",
+          "entity_id": "Q928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/SM_Mall_of_Asia",
+          "entity_id": "Q1435577"
+        },
+        {
+          "start": 35,
+          "end": 50,
+          "url": "http://en.wikipedia.org/wiki/David_Archuleta",
+          "entity_id": "Q214831"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/New_York_University",
+          "entity_id": "Q49210"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Northampton,_Massachusetts",
+          "entity_id": "Q49186"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "entity_id": "Q49145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Toad%27s_Place",
+          "entity_id": "Q7811352"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Elyria,_Ohio",
+          "entity_id": "Q932561"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Lorain_County_Community_College",
+          "entity_id": "Q6678731"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Springfield,_Ohio",
+          "entity_id": "Q40325"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Clark_State_Community_College",
+          "entity_id": "Q5127383"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Newark,_Ohio",
+          "entity_id": "Q986689"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Ohio_State_University,_Newark_Campus",
+          "entity_id": "Q7080963"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",
+          "entity_id": "Q49259"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Carrboro,_North_Carolina",
+          "entity_id": "Q780330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Del_Mar,_California",
+          "entity_id": "Q674469"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/San_Diego_County_Fair",
+          "entity_id": "Q7413631"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bonner_Springs,_Kansas",
+          "entity_id": "Q892775"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Capitol_Federal_Park_at_Sandstone",
+          "entity_id": "Q7416948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wichita,_Kansas",
+          "entity_id": "Q49266"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Cotillion_Ballroom",
+          "entity_id": "Q5175376"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tulsa,_Oklahoma",
+          "entity_id": "Q44989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cain%27s_Ballroom",
+          "entity_id": "Q5017561"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City",
+          "entity_id": "Q34863"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver",
+          "entity_id": "Q16554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ogden_Theatre",
+          "entity_id": "Q7079953"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Aspen,_Colorado",
+          "entity_id": "Q205842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Beaver_Creek,_Colorado",
+          "entity_id": "Q3478248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Santa_Fe,_New_Mexico",
+          "entity_id": "Q38555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lensic_Theater",
+          "entity_id": "Q6523247"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Amarillo,_Texas",
+          "entity_id": "Q51691"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Thackerville,_Oklahoma",
+          "entity_id": "Q3287632"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/WinStar_World_Casino",
+          "entity_id": "Q8023608"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Baton_Rouge,_Louisiana",
+          "entity_id": "Q28218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Blue_Bayou_and_Dixie_Landin%27",
+          "entity_id": "Q4928861"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Galveston,_Texas",
+          "entity_id": "Q135744"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Moody_Gardens",
+          "entity_id": "Q6907207"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chattanooga,_Tennessee",
+          "entity_id": "Q186702"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lansing,_Michigan",
+          "entity_id": "Q28237"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Chesaning,_Michigan",
+          "entity_id": "Q2962827"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Duluth,_Minnesota",
+          "entity_id": "Q485708"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Duluth_Entertainment_Convention_Center",
+          "entity_id": "Q5313509"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Des_Moines,_Iowa",
+          "entity_id": "Q39709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sioux_City,_Iowa",
+          "entity_id": "Q489255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Orpheum_Theatre_(Sioux_City,_Iowa)",
+          "entity_id": "Q7103972"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Covington,_Kentucky",
+          "entity_id": "Q747599"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Mahnomen,_Minnesota",
+          "entity_id": "Q1924509"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/West_Bend,_Wisconsin",
+          "entity_id": "Q989459"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Prior_Lake,_Minnesota",
+          "entity_id": "Q993458"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mystic_Lake_Casino",
+          "entity_id": "Q17060955"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Monticello,_Iowa",
+          "entity_id": "Q1928200"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Harrington,_Delaware",
+          "entity_id": "Q755773"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Delaware_State_Fair",
+          "entity_id": "Q5253358"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sayreville,_New_Jersey",
+          "entity_id": "Q1013228"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Starland_Ballroom",
+          "entity_id": "Q2332948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Glenside,_Pennsylvania",
+          "entity_id": "Q745037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Keswick_Theatre",
+          "entity_id": "Q15235806"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ledyard,_Connecticut",
+          "entity_id": "Q126051"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_at_Foxwoods",
+          "entity_id": "Q8565258"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bethlehem,_Pennsylvania",
+          "entity_id": "Q164380"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Millvale,_Pennsylvania",
+          "entity_id": "Q1185796"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Best_Buy_Theater",
+          "entity_id": "Q4896607"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ohio_State_Fair",
+          "entity_id": "Q7080916"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Perrysburg,_Ohio",
+          "entity_id": "Q998647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ventura,_California",
+          "entity_id": "Q490434"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Knoxville,_Tennessee",
+          "entity_id": "Q185582"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tennessee_Theatre",
+          "entity_id": "Q7700215"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lewisburg,_West_Virginia",
+          "entity_id": "Q731071"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/State_Fair_of_West_Virginia",
+          "entity_id": "Q7603211"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lancaster,_California",
+          "entity_id": "Q494711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/California_State_Fair",
+          "entity_id": "Q5021024"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yakima,_Washington",
+          "entity_id": "Q499203"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Capitol_Theatre_(Yakima,_Washington)",
+          "entity_id": "Q5035951"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Showbox_at_the_Market",
+          "entity_id": "Q7503150"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Spokane,_Washington",
+          "entity_id": "Q187805"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Knitting_Factory",
+          "entity_id": "Q838068"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Casper,_Wyoming",
+          "entity_id": "Q223177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Casper_Events_Center",
+          "entity_id": "Q5049083"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Mitchell,_South_Dakota",
+          "entity_id": "Q1988986"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Fargo,_North_Dakota",
+          "entity_id": "Q34109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Billings,_Montana",
+          "entity_id": "Q166304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Idaho_Falls,_Idaho",
+          "entity_id": "Q496360"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Missoula,_Montana",
+          "entity_id": "Q189602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wilma_Theatre_(Missoula,_Montana)",
+          "entity_id": "Q14704793"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Salem,_Oregon",
+          "entity_id": "Q43919"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Oregon_State_Fair",
+          "entity_id": "Q7101359"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/The_Fillmore",
+          "entity_id": "Q1348537"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/San_Diego",
+          "entity_id": "Q16552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Spreckels_Theater_Building",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Allegan,_Michigan",
+          "entity_id": "Q2733200"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cleveland",
+          "entity_id": "Q37320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/York,_Pennsylvania",
+          "entity_id": "Q821105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Newport_Beach,_California",
+          "entity_id": "Q268873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City,_New_Jersey",
+          "entity_id": "Q139564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Union_Township,_Union_County,_New_Jersey",
+          "entity_id": "Q1089738"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Kean_University",
+          "entity_id": "Q6382148"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bloomsburg,_Pennsylvania",
+          "entity_id": "Q1133544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bloomsburg_Fair",
+          "entity_id": "Q4928371"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ottawa",
+          "entity_id": "Q1930"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Clifton_Park,_New_York",
+          "entity_id": "Q3709610"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Providence,_Rhode_Island",
+          "entity_id": "Q18383"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Charlottesville,_Virginia",
+          "entity_id": "Q123766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paramount_Theater_(Charlottesville,_Virginia)",
+          "entity_id": "Q7135357"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Richmond,_Virginia",
+          "entity_id": "Q43421"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/North_Myrtle_Beach,_South_Carolina",
+          "entity_id": "Q2690579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Greensboro,_North_Carolina",
+          "entity_id": "Q49238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbia,_South_Carolina",
+          "entity_id": "Q38453"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perry,_Georgia",
+          "entity_id": "Q668422"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Georgia_National_Fair",
+          "entity_id": "Q5547620"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phoenix,_Arizona",
+          "entity_id": "Q16556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Arizona_State_Fair",
+          "entity_id": "Q4791407"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/El_Paso,_Texas",
+          "entity_id": "Q16562"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Shawnee,_Oklahoma",
+          "entity_id": "Q843999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Houston",
+          "entity_id": "Q16555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Warehouse_Live",
+          "entity_id": "Q7969291"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Louis",
+          "entity_id": "Q38022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Pageant",
+          "entity_id": "Q7755889"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Riverside_Theater_(Milwaukee)",
+          "entity_id": "Q7338624"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Friant,_California",
+          "entity_id": "Q1951238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Windsor,_Ontario",
+          "entity_id": "Q182625"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Caesars_Windsor",
+          "entity_id": "Q1025472"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Orillia",
+          "entity_id": "Q2373358"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Casino_Rama",
+          "entity_id": "Q5048871"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hammond,_Indiana",
+          "entity_id": "Q856860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Horseshoe_Hammond",
+          "entity_id": "Q5906020"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Peoria,_Illinois",
+          "entity_id": "Q233129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Peoria_Civic_Center",
+          "entity_id": "Q3375001"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Elizabeth,_Indiana",
+          "entity_id": "Q2734135"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Horseshoe_Southern_Indiana",
+          "entity_id": "Q14688431"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Tabernacle",
+          "entity_id": "Q10381839"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mobile,_Alabama",
+          "entity_id": "Q79875"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Saenger_Theatre_(Mobile,_Alabama)",
+          "entity_id": "Q7398301"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/St._Petersburg,_Florida",
+          "entity_id": "Q49236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mahaffey_Theater",
+          "entity_id": "Q6732800"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Orlando,_Florida",
+          "entity_id": "Q49233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Davie,_Florida",
+          "entity_id": "Q985438"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/The_Fillmore",
+          "entity_id": "Q1348537"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norfolk,_Virginia",
+          "entity_id": "Q49231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Ted_Constant_Convocation_Center",
+          "entity_id": "Q7693083"
+        }
+      ]
+    ]
+  ]
+}

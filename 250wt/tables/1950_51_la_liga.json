@@ -1,0 +1,498 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1950–51_La_Liga",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Club",
+        "values": [
+          "Alcoyano",
+          "Atlético Bilbao",
+          "Atlético Madrid",
+          "Barcelona",
+          "Celta",
+          "Deportivo La Coruña",
+          "Español",
+          "Lérida",
+          "Málaga",
+          "Murcia",
+          "Real Madrid",
+          "Real Santander",
+          "Real Sociedad",
+          "Sevilla",
+          "Valencia",
+          "Valladolid"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Alcoy",
+          "Bilbao",
+          "Madrid",
+          "Barcelona",
+          "Vigo",
+          "A Coruña",
+          "Barcelona",
+          "Lérida",
+          "Málaga",
+          "Murcia",
+          "Madrid",
+          "Santander",
+          "San Sebastián",
+          "Seville",
+          "Valencia",
+          "Valladolid"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "El Collao",
+          "San Mamés",
+          "Metropolitano",
+          "Les Corts",
+          "Balaídos",
+          "Riazor",
+          "Sarriá",
+          "Campo de los Deportes",
+          "La Rosaleda",
+          "La Condomina",
+          "Chamartín",
+          "El Sardinero",
+          "Atotxa",
+          "Nervión",
+          "Mestalla",
+          "Municipal"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1950–51 La Liga",
+    "page_url": "https://en.wikipedia.org/wiki/1950–51_La_Liga",
+    "page_entity_id": "Q524368"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/CD_Alcoyano",
+          "entity_id": "Q837238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Alcoy",
+          "entity_id": "Q494777"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Estadio_El_Collao",
+          "entity_id": "Q1029895"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Athletic_Bilbao",
+          "entity_id": "Q8687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bilbao",
+          "entity_id": "Q8692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Estadio_de_San_Mam%C3%A9s",
+          "entity_id": "Q244592"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid",
+          "entity_id": "Q8701"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Madrid",
+          "entity_id": "Q2807"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Metropolitano_de_Madrid",
+          "entity_id": "Q1857355"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/FC_Barcelona",
+          "entity_id": "Q7156"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Camp_de_Les_Corts",
+          "entity_id": "Q918580"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Celta_Vigo",
+          "entity_id": "Q8749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Vigo",
+          "entity_id": "Q8745"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bala%C3%ADdos",
+          "entity_id": "Q1326578"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Deportivo_La_Coru%C3%B1a",
+          "entity_id": "Q8760"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/A_Coru%C3%B1a",
+          "entity_id": "Q8757"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Riazor",
+          "entity_id": "Q22130"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/RCD_Espanyol",
+          "entity_id": "Q8780"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Sarri%C3%A1",
+          "entity_id": "Q1325234"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/UE_Lleida",
+          "entity_id": "Q837218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/L%C3%A9rida",
+          "entity_id": "Q15090"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Camp_d%27Esports",
+          "entity_id": "Q2711030"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/CD_M%C3%A1laga",
+          "entity_id": "Q124518"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A1laga",
+          "entity_id": "Q8851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/La_Rosaleda_Stadium",
+          "entity_id": "Q695879"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Real_Murcia",
+          "entity_id": "Q12230"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Murcia",
+          "entity_id": "Q12225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Estadio_La_Condomina",
+          "entity_id": "Q643155"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Real_Madrid_C.F.",
+          "entity_id": "Q8682"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Madrid",
+          "entity_id": "Q2807"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Santiago_Bernab%C3%A9u",
+          "entity_id": "Q164027"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Racing_de_Santander",
+          "entity_id": "Q12236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Santander,_Spain",
+          "entity_id": "Q12233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Estadio_El_Sardinero_(1913)",
+          "entity_id": "Q5400177"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Real_Sociedad",
+          "entity_id": "Q10315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Sebasti%C3%A1n",
+          "entity_id": "Q10313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Atotxa_Stadium",
+          "entity_id": "Q3179478"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sevilla_FC",
+          "entity_id": "Q10329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seville",
+          "entity_id": "Q8717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Estadio_de_Nervi%C3%B3n",
+          "entity_id": "Q5400548"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Valencia_CF",
+          "entity_id": "Q10333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Valencia",
+          "entity_id": "Q8818"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Mestalla_Stadium",
+          "entity_id": "Q202762"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Real_Valladolid",
+          "entity_id": "Q10319"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Valladolid",
+          "entity_id": "Q8356"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Zorrilla_(1940)",
+          "entity_id": "Q939703"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016–17_KML_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "G4S Noorteliiga",
+          "Kalev/Cramo",
+          "Port of Pärnu",
+          "AVIS UTILITAS Rapla",
+          "Rakvere Tarvas/Palmse Metall",
+          "TLÜ/Kalev",
+          "TTÜ",
+          "University of Tartu",
+          "Valga-Valka/Maks & Moorits"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home city",
+        "values": [
+          "Tallinn",
+          "Tallinn",
+          "Pärnu",
+          "Rapla",
+          "Rakvere",
+          "Tallinn",
+          "Tallinn",
+          "Tartu",
+          "Valga"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Arena",
+        "values": [
+          "Audentes Sports Centre",
+          "Saku Suurhall",
+          "Pärnu Sports Hall",
+          "Sadolin Sports Hall",
+          "Rakvere Sports Hall",
+          "Audentes Sports Centre",
+          "TTÜ Sports Hall",
+          "University of Tartu Sports Hall",
+          "Valga Sports Hall"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "1,030",
+          "7,200",
+          "1,820",
+          "818",
+          "2,747",
+          "1,030",
+          "1,000",
+          "1,650",
+          "561"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016–17 KML season",
+    "page_url": "https://en.wikipedia.org/wiki/2016–17_KML_season",
+    "page_entity_id": "Q28128133"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Audentes/Noortekoondis",
+          "entity_id": "Q17989318"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tallinn",
+          "entity_id": "Q1770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Audentes_Sports_Centre",
+          "entity_id": "Q25063088"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/BC_Kalev",
+          "entity_id": "Q1862016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tallinn",
+          "entity_id": "Q1770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saku_Suurhall",
+          "entity_id": "Q33172"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/KK_P%C3%A4rnu",
+          "entity_id": "Q3739947"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/P%C3%A4rnu",
+          "entity_id": "Q102365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/P%C3%A4rnu_Sports_Hall",
+          "entity_id": "Q23042563"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Rapla_KK",
+          "entity_id": "Q3930226"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Rapla",
+          "entity_id": "Q215971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Sadolin_Sports_Hall",
+          "entity_id": "Q23042577"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/BC_Rakvere_Tarvas",
+          "entity_id": "Q2087162"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rakvere",
+          "entity_id": "Q191889"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Rakvere_Sports_Hall",
+          "entity_id": "Q7286833"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/BC_Tallinna_Kalev",
+          "entity_id": "Q580398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tallinn",
+          "entity_id": "Q1770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Audentes_Sports_Centre",
+          "entity_id": "Q25063088"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TT%C3%9C_KK",
+          "entity_id": "Q3741997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tallinn",
+          "entity_id": "Q1770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/TT%C3%9C_Sports_Hall",
+          "entity_id": "Q23042586"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/BC_Tartu",
+          "entity_id": "Q2302539"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tartu",
+          "entity_id": "Q13972"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/University_of_Tartu_Sports_Hall",
+          "entity_id": "Q23042594"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/BC_Valga",
+          "entity_id": "Q3742193"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Valga,_Estonia",
+          "entity_id": "Q193905"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Valga_Sports_Hall",
+          "entity_id": "Q23042597"
+        }
+      ],
+      []
+    ]
+  ]
+}

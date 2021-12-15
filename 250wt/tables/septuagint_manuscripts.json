@@ -1,0 +1,3246 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Septuagint_manuscripts",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Symbol",
+        "values": [
+          "801",
+          "802",
+          "803",
+          "804",
+          "805",
+          "806",
+          "807",
+          "808",
+          "809",
+          "810",
+          "811",
+          "812",
+          "813",
+          "814",
+          "815",
+          "816",
+          "817",
+          "818",
+          "819",
+          "[820] \nmissing",
+          "[821] \nmissing",
+          "[822] \nmissing",
+          "[823] \nmissing",
+          "[824] \nmissing",
+          "[825] \nmissing",
+          "[826] \nmissing",
+          "[827] \nmissing",
+          "828",
+          "829",
+          "830",
+          "831",
+          "832",
+          "833",
+          "834",
+          "835",
+          "836",
+          "837",
+          "838",
+          "839",
+          "{840} \nlocked",
+          "841",
+          "842",
+          "843",
+          "844",
+          "845",
+          "846",
+          "847",
+          "848",
+          "849",
+          "850",
+          "851",
+          "852",
+          "853",
+          "854",
+          "855",
+          "856",
+          "857",
+          "858",
+          "859",
+          "860",
+          "861",
+          "{862} \nlocked",
+          "863",
+          "864",
+          "865",
+          "866",
+          "867",
+          "868",
+          "869",
+          "870",
+          "871",
+          "872",
+          "873",
+          "874",
+          "875",
+          "876",
+          "877",
+          "878",
+          "879",
+          "880",
+          "881",
+          "[882] \nmissing",
+          "883",
+          "[884] \ndestroyed",
+          "885",
+          "886",
+          "887",
+          "888",
+          "889",
+          "890",
+          "891",
+          "892",
+          "893",
+          "894",
+          "895",
+          "896",
+          "897"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "4Q119 \n(4Q LXXLev a )",
+          "4Q120 \n(4Q LXXLev b )",
+          "4Q121 \n(4Q LXXNum)",
+          "7Q2 \n(7QLXXEpJer)",
+          "7Q1 \n(7Q LXXEx)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4Q122 \n(4Q LXXDeut)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "P. Berlin 17212",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Papyrus Fouad 266",
+          "Papyrus Fouad 266",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "P. Oxyrhynchus 3522",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Date",
+        "values": [
+          "1st century BCE",
+          "1st century BCE",
+          "1st century BCE",
+          "1st century BCE",
+          "1st century BCE",
+          "5th century",
+          "5th century",
+          "5th century",
+          "6th century",
+          "5th/6th century",
+          "5th century",
+          "5th/6th century",
+          "5th century",
+          "IIE",
+          "4th/5th century",
+          "IIE",
+          "4th century",
+          "3rd century",
+          "2nd century BCE",
+          "9th? century",
+          "5th/6th century",
+          "5th/6th century",
+          "5th/6th? century",
+          "5th century",
+          "4th/5th century",
+          "5th/6th century",
+          "6th? century",
+          "3rd/4th century",
+          "3rd century",
+          "IIE",
+          "c. 500",
+          "4th century",
+          "8th/9th century",
+          "5th/6th century",
+          "4th century",
+          "3rd/4th century",
+          "3rd century",
+          "4th century",
+          "7th/8th century",
+          "",
+          "6th/7th? century",
+          "4th century",
+          "4th/5th century",
+          "3rd century",
+          "4th century",
+          "4th/5th century",
+          "2nd/1st century BCE",
+          "2nd/1st century BCE",
+          "7th/8th century",
+          "3rd/4th century",
+          "4th century",
+          "5th century",
+          "6th/7th century",
+          "3rd century",
+          "6th century",
+          "4th century",
+          "1st century",
+          "3rd century",
+          "4th century",
+          "5th century",
+          "3rd/4th century",
+          "3rd/4th century",
+          "4th/5th century",
+          "4th/5th century",
+          "",
+          "4th century",
+          "7th century",
+          "6th/7th century",
+          "3rd/4th century",
+          "4th/5th century",
+          "4th/6th? century",
+          "4th century",
+          "5th century",
+          "6th century",
+          "3rd century",
+          "5th? century",
+          "5th century",
+          "3rd century",
+          "4th century",
+          "7th century",
+          "3rd century",
+          "5th? century",
+          "5th/6th century",
+          "5th/6th century",
+          "5th/6th century",
+          "5th century",
+          "4th century",
+          "c. 700",
+          "4th century",
+          "7th century",
+          "4th/5th century",
+          "7th century",
+          "8th century",
+          "5th/6th century",
+          "5th century",
+          "3rd century",
+          "4th century"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Content",
+        "values": [
+          "fragments of Leviticus 26:2-16",
+          "fragments of Leviticus 1:11, 2:3-6:5",
+          "fragments of Numbers 3:39-4:16",
+          "fragments of Baruch 6:43,44",
+          "fragments of Exodus 28:4-7",
+          "Gen. 27:43–28:6 fragm.",
+          "Gen. 43:16-17. 20-21 fragm.",
+          "Exod. 16:32, 17:1-2 fragm.",
+          "Lev. 8:14-15, 17–19 fragm.",
+          "Prov. 26:11, 16-18 fragm.",
+          "Prov. 27:10-11, 15-16 fragm.",
+          "Prov. 30:32 - 31:1.3-6 fragm.",
+          "Dan. o' 3:23-25 fragm.",
+          "Gen. 14:5-8.12-15 fragm.",
+          "Gen. 41:48-57 fragm.",
+          "Jos 9:27-11:3 (with gaps)",
+          "Jer. 17:26-27, 18:8-11, 46:14-47:1.7-9 fragm.",
+          "Eccl.3:17f, 21f, 6:3-5.8-11 fragm.",
+          "fragments of Deut 11:4",
+          "Gen. 10:12-13",
+          "Reg. III 18:26-22:10 (with gaps)",
+          "Est. 8:10-E4",
+          "Idt. 2:19",
+          "Prov. 4:26-5:8, 6:8a-16",
+          "Cant. 2:1-6, 2:17-3:2, 5:8-13",
+          "Sap. 10:19-11:11",
+          "Jer. 25:10-12",
+          "Sir. 29:15-18, 25-27 fragm.",
+          "Excerpta Os. 2:10-9:6, Am. 2:8-10.15",
+          "Lev. 10:15-13:6, 23:20-30, 25:30-40 (with gaps)",
+          "Gen. 36:14-15.24-25 fragm.",
+          "Gen. 13:7-8.10-11 fragm.",
+          "Gen. 10:20-13:3, Num. 3:43-4:7",
+          "Job 31:32-34, 31:39-32:1 fragm.",
+          "Exod. 5:14-17, 6:22-25, 7:15-17 fragm.",
+          "Exod. 34:35-35:8 fragm.",
+          "Jeremiah 2:2,3.8–9.16–19.24–26.30–32,37; 3:1,6–7.12–13.18.24–25",
+          "Cant. 5:13-6:4 fragm.",
+          "Jos 4:3-11",
+          "",
+          "Esdr.I 2:10, 9:21-24 fragm.",
+          "Reg. I 23:28-24:2.6-8.12-13.18-20 fragm.",
+          "Exod. 4:4-6",
+          "Is. 23:4-7.10-13",
+          "Reg. I 13:16-18.20-21; 13:23-14:1.3-4; 18:8-25",
+          "Reg. I 24:11-17; 24:20-25:20; 31:12- II 2:4 fragm.",
+          "Deuteronomy 10:22; 11:1.10,11.16; 31:26-19; 32:2,4; 33:14-19.22-23.26-27",
+          "Deuteronomy 17:14 to 33:29 (with gaps)",
+          "Job 7:8-11 fragm.",
+          "Is. 48:6-18 fragm.",
+          "Jer. 5:10-6:10",
+          "Is. 1:22-2:2 fragm.",
+          "Dan. 6:20",
+          "Job 9:2,12-13 fragm.",
+          "Job 7:9-10:14 fragm.",
+          "Sap. 4:17-5:1 fragm.",
+          "Job 42:11,12",
+          "Lev. 19:16-19.31-33 fragm.",
+          "Sap. 17:5-20 fragm.",
+          "Reg. III 2:30-31.35 fragm.",
+          "Sus., Dan. 1:1-20 fragm.",
+          "",
+          "Sir. 29:13-26 fragm.",
+          "Sir. 26:1-2.5-7; 27:29-28:2.5-8 fragm.",
+          "Exod. 4:2-6,14-17 fragm.",
+          "Exod. 4:16-7:21; 33:11-35:4 lukami)",
+          "Reg. I 4:6.9.13.15-16 fragm.",
+          "Reg. IV 20:5-6.10-12 fragm.",
+          "Est. 4:4-5.8-11 fragm.",
+          "quotes of Eccl. 1-4.7.8; Cant. 4; Sir. 48.50f fragm.",
+          "Prov 7:3-13",
+          "Jer. 41:3.1-11; 42:9-10.16-17",
+          "Jer. 31:15-17.22.25-27",
+          "Jer. 24:9-10; 25:16-17 fragm.",
+          "Dan. o' 1:2-5.6-10 fragm.",
+          "Jg. 3:15.20; 13:10.11.16; 16:6-8.11-12.21-23.26 fragm.",
+          "Exod. 21:27-28.36 fragm.",
+          "Tob. 12:6-11",
+          "Gen. 34:21-22.25 fragm.",
+          "Par. I 25:26-29; 26:30(?); II 4:6-8; 6:19-20; 29:3",
+          "Is. 33:7-8.17-19; 40:13-14.24-26 fragm.",
+          "Sir. 1:25-2:11",
+          "Gen. 37:3-4.8-9 fragm.",
+          "Deut. 24:15-21; 25:3.6-8; 27:4-8.11-12.21-26; 28:20.24.29.32; 29:22-24 fragm.",
+          "Exod. 9:1-2.6-8.10-11.14 fragm.",
+          "Gen. 25:19-22; 26:3-4; Exod. 3:2-8.12-13.16-19 fragm.",
+          "Num. 6:22-23.25-27.24",
+          "Sap. 10:8-9.17",
+          "Sap. 4:12(?); 11:19; Sir 25:16; Ps 7:12",
+          "quotes from Prov. 10-14.16.18 and NT",
+          "Gen. 27:30-28:10",
+          "Sir. 10 and 13 (with gaps)",
+          "Sir. 33:13; 34:1-37:5",
+          "Gen. 36:11-12.18-19 fragm.",
+          "Ps. 118:2; Thr. 3:27-31 / quotes of NT",
+          "Exod. 22:27; 22:31-23:2.14-16",
+          "Jer. 14:3-5.7-9"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Institution",
+        "values": [
+          "Rockefeller Museum , Gr. 1004 [4Q119]",
+          "Rockefeller Museum , 4Q120",
+          "Rockefeller Museum , Gr. 265 [4Q121]",
+          "Rockefeller Museum , Gr. 789 [7Q2]",
+          "Rockefeller Museum , Gr. 789 [7Q1]",
+          "ÖNB , P. Vindob. G 26101",
+          "ÖNB , P. Vindob. G 26112",
+          "ÖNB , P. Vindob. G 39210",
+          "ÖNB , P. Vindob. G 19893",
+          "ÖNB , P. Vindob. G 3077",
+          "ÖNB , P. Vindob. G 39209",
+          "ÖNB , P. Vindob. G 30135",
+          "ÖNB , P. Vindob. G 29255",
+          "YBR , P. CtYBR Inv. 419",
+          "Univ.-Bibl., P. Erl. Inv. 2",
+          "Schøyen Coll., MS 2648",
+          "University of Paris , Inv. 2250",
+          "UML , P. Mich. Inv. 27; \nUniv. S. Cuore, P. Med. Inv. 151",
+          "Rockefeller Museum , Gr. 265 [4Q122]",
+          "Om.-Mosch., Treu Nr. I",
+          "Om.-Mosch., Treu Nr. II",
+          "Om.-Mosch., Treu Nr. III",
+          "Om.-Mosch., Treu Nr. IV",
+          "Om.-Mosch., Treu Nr. VI",
+          "Om.-Mosch., Treu Nr. VII",
+          "Om.-Mosch., Treu Nr. VIII",
+          "Om.-Mosch., Treu Nr. IX",
+          "Int. Pap., „G. Vitelli”, Inv. 531",
+          "BL , P. Inv. Nr. 10825",
+          "Schøyen Coll., MS 2649",
+          "Ägyptisches Museum, P. 17035",
+          "UML , P. Mich. Inv. 2724",
+          "Bibl. Univ., S. Salv. 140+126",
+          "Ägyptisches Museum, P. 6788",
+          "Ägyptisches Museum, P. 11766 + 14046",
+          "Ägyptisches Museum, P. 14039",
+          "Ägyptisches Museum, P. 17212",
+          "Ägyptisches Museum, P. 18196",
+          "Westm. Coll., Cod. Clim. Rescr., Bl. 5",
+          "Bibl. Univ., S. Salv. 126: s. 833",
+          "MMA, Inv. 12.180.184",
+          "Coll. Univ., P. Feinberg 1",
+          "Bodleian Library , Gr. bibl. g. 2 (P)",
+          "LoC, 4082 B",
+          "ÖNB , Suppl. Gr. 187; \nLaurentian Library , PL Inv. III/957",
+          "YBR , MS 544",
+          "Sociandé Royale de Papyrologie, Gr. P. 458",
+          "Sociandé Royale de Papyrologie, Gr. P. 458",
+          "John Rylands Library, P. Ryl. Copt. 3",
+          "Gr.-Röm. Mus., P. Alex. Inv 203",
+          "Bibl. Publ. and Univ., P. Gen. gr. Inv. 252",
+          "IfA, P.Colon. Inv. 2420",
+          "Bodleian Library , Gr. bibl. c. 2 (P)",
+          "Chester Beatty Library, P. Ch. Beatty XVIII",
+          "ÖNB , P. Vindob. G 35767",
+          "P.Oxy. 4444",
+          "Sackler Library, P.Oxy.L 3522",
+          "IfP, P. Heid. Inv. G 954",
+          "IfA, P.Colon. Inv. 5849",
+          "Univ.-Bibl., P. Amst. Inv. 45",
+          "Bodmer Library , P. Bodm. XLV/XLVI",
+          "Bodmer Library , P. Bodm. XLVI s:861",
+          "private collections of Fackelmann, P. A. Fackelmann 12",
+          "Laurentian Library , PL Inv. III/424",
+          "private collections of Horsley",
+          "Schøyen Coll., MS 187; \nGal. F. Antonovich; \nNLH Nr. III",
+          "Ägyptisches Museum, P. 21291",
+          "Ägyptisches Museum, P. 21289",
+          "Sem. Pap., P. Palau Rib. Inv. 163",
+          "Sem. Pap., P. Palau Rib. Inv. 225r",
+          "UML , P. Mich. Inv. 768",
+          "ÖNB , P. Vindob. G 19891",
+          "ÖNB , P. Vindob. G 26072",
+          "Int. Pap., „G. Vitelli” PSI Inv. 74",
+          "NLH Nr. II",
+          "PML, Pap. G. 198",
+          "Laurentian Library , PL Inv. III/310B",
+          "Int. Pap., „G. Vitelli” PSI Inv. 2666",
+          "Ägypt. Mus., S. R. 3805 (9)",
+          "P. Sinai Gr. 1 (= Π 1)",
+          "ÖNB , P. Vindob. G 23164 + 17417",
+          "NLH Nr. I",
+          "Bibl. publ. and univ., P. Gen. gr. Inv. 99",
+          "Univ. Bibl., P. 19, Nr. 1-9, + P. 13 + P. 22 + P. 26",
+          "Bodleian Library , Gr. bibl. f. 4 (P)",
+          "BNU, Pap. Gr. 748; \nUniv., Inv. P. Lange 32 A",
+          "Byz. Mus., ?",
+          "Bibl. Univ., Khirband Mird PAM 21 a+b",
+          "P.Oxy. 2073",
+          "UML , P. Mich. 3718",
+          "Neue Slg., ΜΓ 76",
+          "Neue Slg., ΜΓ 77",
+          "Neue Slg., ΜΓ 107",
+          "IfP, P. Heid. Inv. G 5148",
+          "UML , P. Mich. 1574",
+          "Woodbr. Coll., OLCR, P. Inv. 54 c",
+          "private collections of"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "City",
+        "values": [
+          "Jerusalem",
+          "Jerusalem",
+          "Jerusalem",
+          "Jerusalem",
+          "Jerusalem",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "Vienna",
+          "New Haven",
+          "Erlangen",
+          "Oslo",
+          "Paris",
+          "Ann Arbor ; \nMilan",
+          "Jerusalem",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Damascus",
+          "Florence",
+          "London",
+          "Oslo",
+          "Berlin",
+          "Ann Arbor",
+          "Messina",
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Berlin",
+          "Cambridge",
+          "Messina",
+          "New York",
+          "New York",
+          "Oxford",
+          "Washington, D.C.",
+          "Vienna ; \nFlorence",
+          "New Haven",
+          "Cairo",
+          "Cairo",
+          "Manchester",
+          "Alexandria",
+          "Geneva",
+          "Cologne",
+          "Oxford",
+          "Dublin",
+          "Vienna",
+          "Oxyrhynchus",
+          "Oxford",
+          "Heidelberg",
+          "Cologne",
+          "Amsterdam",
+          "Cologny ( Canton of Geneva )",
+          "Cologny ( Canton of Geneva )",
+          "Vienna",
+          "Florence",
+          "Bundoora",
+          "Oslo ; \nParis ; \n?",
+          "Berlin",
+          "Berlin",
+          "Barcelona",
+          "Barcelona",
+          "Ann Arbor",
+          "Vienna",
+          "Vienna",
+          "Florence",
+          "?",
+          "New York",
+          "Florence",
+          "Florence",
+          "Cairo",
+          "Sinai",
+          "Vienna",
+          "?",
+          "Geneva",
+          "Gießen",
+          "Oxford",
+          "Strasbourg ; \nCopenhagen",
+          "Thessaloniki",
+          "Leuven",
+          "Oxyrhynchus",
+          "Ann Arbor",
+          "Sinai",
+          "Sinai",
+          "Sinai",
+          "Heidelberg",
+          "Ann Arbor",
+          "Birmingham",
+          "Cambridge"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Country",
+        "values": [
+          "Israel",
+          "Israel",
+          "Israel",
+          "Israel",
+          "Israel",
+          "Austria",
+          "Austria",
+          "Austria",
+          "Austria",
+          "Austria",
+          "Austria",
+          "Austria",
+          "Austria",
+          "United States",
+          "Germany",
+          "Norway",
+          "Francia",
+          "United States ; \nItaly",
+          "Israel",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Syria",
+          "Italy",
+          "U. Kingdom",
+          "Norway",
+          "Germany",
+          "United States",
+          "Italy",
+          "Germany",
+          "Germany",
+          "Germany",
+          "Germany",
+          "Germany",
+          "U. Kingdom",
+          "Italy",
+          "United States",
+          "United States",
+          "U. Kingdom",
+          "United States",
+          "Austria ; \nItaly",
+          "United States",
+          "Egypt",
+          "Egypt",
+          "U. Kingdom",
+          "Egypt",
+          "Switzerland",
+          "Germany",
+          "U. Kingdom",
+          "Ireland",
+          "Austria",
+          "",
+          "U. Kingdom",
+          "Germany",
+          "Germany",
+          "Netherlands",
+          "Switzerland",
+          "Switzerland",
+          "Austria",
+          "Italy",
+          "Australia",
+          "Norway ; \nFrancia ; \n?",
+          "Germany",
+          "Germany",
+          "Spain",
+          "Spain",
+          "United States",
+          "Austria",
+          "Austria",
+          "Italy",
+          "",
+          "United States",
+          "Italy",
+          "Italy",
+          "Egypt",
+          "Egypt",
+          "Austria",
+          "",
+          "Switzerland",
+          "Germany",
+          "U. Kingdom",
+          "Francia ; \nDenmark",
+          "Greece",
+          "Austria",
+          "",
+          "United States",
+          "Egypt",
+          "Egypt",
+          "Egypt",
+          "Germany",
+          "United States",
+          "U. Kingdom",
+          "U. Kingdom"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Septuagint manuscripts",
+    "page_url": "https://en.wikipedia.org/wiki/Septuagint_manuscripts",
+    "page_entity_id": "Q7452368"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/4Q119",
+          "entity_id": "Q9133816"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/4Q120",
+          "entity_id": "Q8179424"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/4Q121",
+          "entity_id": "Q9133818"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/w/index.php?title=7Q2&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/w/index.php?title=7Q1&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Yale_University",
+          "entity_id": "Q49112"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "entity_id": "Q49145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Erlangen",
+          "entity_id": "Q3126"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oslo",
+          "entity_id": "Q585"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/University_of_Paris",
+          "entity_id": "Q209842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Francia",
+          "entity_id": "Q146246"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Michigan",
+          "entity_id": "Q230492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor",
+          "entity_id": "Q485172"
+        },
+        {
+          "start": 13,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Milan",
+          "entity_id": "Q490"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        },
+        {
+          "start": 17,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/4Q122",
+          "entity_id": "Q16525807"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rockefeller_Museum",
+          "entity_id": "Q1430185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jerusalem",
+          "entity_id": "Q1218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Damascus",
+          "entity_id": "Q3766"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syria",
+          "entity_id": "Q858"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/British_Library",
+          "entity_id": "Q23308"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oslo",
+          "entity_id": "Q585"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Michigan",
+          "entity_id": "Q230492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Messina",
+          "entity_id": "Q13666"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Papyrus_Berlin_17212&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cambridge",
+          "entity_id": "Q350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Messina",
+          "entity_id": "Q13666"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bodleian_Library",
+          "entity_id": "Q82133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oxford",
+          "entity_id": "Q34217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Washington,_D.C.",
+          "entity_id": "Q61"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        },
+        {
+          "start": 23,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Laurentian_Library",
+          "entity_id": "Q856419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        },
+        {
+          "start": 11,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Yale_University",
+          "entity_id": "Q49112"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/New_Haven,_Connecticut",
+          "entity_id": "Q49145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Papyrus_Fouad_266",
+          "entity_id": "Q841800"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cairo",
+          "entity_id": "Q85"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Papyrus_Fouad_266",
+          "entity_id": "Q841800"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cairo",
+          "entity_id": "Q85"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Manchester",
+          "entity_id": "Q18125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Alexandria",
+          "entity_id": "Q87"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Geneva",
+          "entity_id": "Q71"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cologne",
+          "entity_id": "Q365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bodleian_Library",
+          "entity_id": "Q82133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oxford",
+          "entity_id": "Q34217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dublin",
+          "entity_id": "Q1761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_3522",
+          "entity_id": "Q669862"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oxford",
+          "entity_id": "Q34217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Heidelberg",
+          "entity_id": "Q2966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cologne",
+          "entity_id": "Q365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Amsterdam",
+          "entity_id": "Q727"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bodmer_Library",
+          "entity_id": "Q667858"
+        }
+      ],
+      [
+        {
+          "start": 10,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Canton_of_Geneva",
+          "entity_id": "Q11917"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bodmer_Library",
+          "entity_id": "Q667858"
+        }
+      ],
+      [
+        {
+          "start": 10,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Canton_of_Geneva",
+          "entity_id": "Q11917"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Laurentian_Library",
+          "entity_id": "Q856419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oslo",
+          "entity_id": "Q585"
+        },
+        {
+          "start": 8,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        },
+        {
+          "start": 10,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Francia",
+          "entity_id": "Q146246"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Michigan",
+          "entity_id": "Q230492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Laurentian_Library",
+          "entity_id": "Q856419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Florence",
+          "entity_id": "Q2044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cairo",
+          "entity_id": "Q85"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Austrian_National_Library",
+          "entity_id": "Q304037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vienna",
+          "entity_id": "Q1741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Geneva",
+          "entity_id": "Q71"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Giessen",
+          "entity_id": "Q3874"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bodleian_Library",
+          "entity_id": "Q82133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oxford",
+          "entity_id": "Q34217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Strasbourg",
+          "entity_id": "Q6602"
+        },
+        {
+          "start": 14,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Copenhagen",
+          "entity_id": "Q1748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Francia",
+          "entity_id": "Q146246"
+        },
+        {
+          "start": 11,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Thessaloniki",
+          "entity_id": "Q17151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Leuven",
+          "entity_id": "Q118958"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Michigan",
+          "entity_id": "Q230492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Heidelberg",
+          "entity_id": "Q2966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/University_of_Michigan",
+          "entity_id": "Q230492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cambridge",
+          "entity_id": "Q350"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ]
+    ]
+  ]
+}

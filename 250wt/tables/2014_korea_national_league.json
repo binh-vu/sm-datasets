@@ -1,0 +1,350 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2014_Korea_National_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Busan Transportation Corporation",
+          "Changwon City",
+          "Cheonan City",
+          "Daejeon Korail",
+          "Gangneung City",
+          "Gimhae City",
+          "Gyeongju Korea Hydro & Nuclear Power",
+          "Mokpo City",
+          "Ulsan Hyundai Mipo Dockyard Dolphin",
+          "Yongin City"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Busan",
+          "Changwon",
+          "Cheonan",
+          "Daejeon",
+          "Gangneung",
+          "Gimhae",
+          "Gyeongju",
+          "Mokpo",
+          "Ulsan",
+          "Yongin"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "Busan Gudeok Stadium",
+          "Changwon Football Center",
+          "Cheonan Stadium",
+          "Daejeon Hanbat Stadium",
+          "Gangneung Stadium",
+          "Gimhae Stadium",
+          "Gyeongju Civic Stadium",
+          "Mokpo International Football Center",
+          "Ulsan Stadium",
+          "Yongin Football Center"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Stadium capacity",
+        "values": [
+          "24,363",
+          "15,500",
+          "32,000",
+          "20,618",
+          "22,333",
+          "30,000",
+          "12,199",
+          "5,952",
+          "19,665",
+          "12,000"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2014 Korea National League",
+    "page_url": "https://en.wikipedia.org/wiki/2014_Korea_National_League",
+    "page_entity_id": "Q16834825"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Busan_Transportation_Corporation_FC",
+          "entity_id": "Q483733"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Busan",
+          "entity_id": "Q16520"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Busan_Gudeok_Stadium",
+          "entity_id": "Q5001263"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Changwon_City_FC",
+          "entity_id": "Q626789"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Changwon",
+          "entity_id": "Q243327"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Changwon_Football_Center",
+          "entity_id": "Q493801"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cheonan_City_FC",
+          "entity_id": "Q495903"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cheonan",
+          "entity_id": "Q42146"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cheonan_Stadium",
+          "entity_id": "Q5091591"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daejeon_Korail_FC",
+          "entity_id": "Q483579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Daejeon",
+          "entity_id": "Q20921"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Daejeon_Hanbat_Stadium",
+          "entity_id": "Q5208223"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gangneung_City_FC",
+          "entity_id": "Q624762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gangneung",
+          "entity_id": "Q42056"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Gangneung_Stadium",
+          "entity_id": "Q5521164"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gimhae_City_FC",
+          "entity_id": "Q495864"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gimhae",
+          "entity_id": "Q42082"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gimhae_Stadium",
+          "entity_id": "Q5562687"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Gyeongju_Korea_Hydro_%26_Nuclear_Power_FC",
+          "entity_id": "Q624792"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gyeongju",
+          "entity_id": "Q42097"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Gyeongju_Civic_Stadium",
+          "entity_id": "Q5624065"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mokpo_City_FC",
+          "entity_id": "Q9212676"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Mokpo",
+          "entity_id": "Q42094"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Mokpo_International_Football_Center",
+          "entity_id": "Q6895410"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Ulsan_Hyundai_Mipo_Dolphin_FC",
+          "entity_id": "Q15584432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ulsan",
+          "entity_id": "Q41278"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ulsan_Stadium",
+          "entity_id": "Q486725"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yongin_City_FC",
+          "entity_id": "Q9213551"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yongin",
+          "entity_id": "Q18459"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Yongin_Football_Center",
+          "entity_id": "Q2888622"
+        }
+      ],
+      []
+    ]
+  ]
+}

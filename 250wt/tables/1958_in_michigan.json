@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1958_in_Michigan",
+    "columns": [
+      {
+        "index": 0,
+        "name": "1950 \nRank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Detroit",
+          "Grand Rapids",
+          "Flint",
+          "Dearborn",
+          "Saginaw",
+          "Lansing",
+          "Pontiac",
+          "Kalamazoo",
+          "Bay City",
+          "Jackson",
+          "Battle Creek",
+          "Muskegon",
+          "Ann Arbor",
+          "Royal Oak",
+          "Warren"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "County",
+        "values": [
+          "Wayne",
+          "Kent",
+          "Genesee",
+          "Wayne",
+          "Saginaw",
+          "Ingham",
+          "Oakland",
+          "Kalamazoo",
+          "Bay",
+          "Jackson",
+          "Calhoun",
+          "Muskegon",
+          "Washtenaw",
+          "Oakland",
+          "Macomb"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "1940 Pop.",
+        "values": [
+          "1,623,452",
+          "164,292",
+          "151,543",
+          "63,589",
+          "82,794",
+          "78,753",
+          "66,626",
+          "54,097",
+          "47,956",
+          "49,656",
+          "43,453",
+          "47,697",
+          "29,815",
+          "25,087",
+          "23,658"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "1950 Pop.",
+        "values": [
+          "1,849,568",
+          "176,515",
+          "163,143",
+          "94,994",
+          "92,918",
+          "92,129",
+          "73,681",
+          "57,704",
+          "52,523",
+          "51,088",
+          "48,666",
+          "48,429",
+          "48,251",
+          "46,898",
+          "42,653"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "1960 Pop.",
+        "values": [
+          "1,670,144",
+          "177,313",
+          "196,940",
+          "112,007",
+          "98,265",
+          "107,807",
+          "82,233",
+          "82,089",
+          "53,604",
+          "50,720",
+          "44,169",
+          "46,485",
+          "67,340",
+          "80,612",
+          "89,246"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Change 1950-60",
+        "values": [
+          "−9.7%",
+          "0.5%",
+          "20.7%",
+          "17.9%",
+          "5.8%",
+          "17.0%",
+          "11.6%",
+          "42.4%",
+          "2.1%",
+          "−0.7%",
+          "−9.2%",
+          "−4.0%",
+          "39.6%",
+          "71.9%",
+          "109.2%"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1958 in Michigan",
+    "page_url": "https://en.wikipedia.org/wiki/1958_in_Michigan",
+    "page_entity_id": "Q39086624"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Grand_Rapids,_Michigan",
+          "entity_id": "Q184587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Kent_County,_Michigan",
+          "entity_id": "Q82499"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Flint,_Michigan",
+          "entity_id": "Q490584"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Genesee_County,_Michigan",
+          "entity_id": "Q497695"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dearborn,_Michigan",
+          "entity_id": "Q430464"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saginaw,_Michigan",
+          "entity_id": "Q719"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saginaw_County,_Michigan",
+          "entity_id": "Q82505"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lansing,_Michigan",
+          "entity_id": "Q28237"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ingham_County,_Michigan",
+          "entity_id": "Q133853"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pontiac,_Michigan",
+          "entity_id": "Q847596"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "entity_id": "Q498024"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo,_Michigan",
+          "entity_id": "Q167155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo_County,_Michigan",
+          "entity_id": "Q137509"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bay_City,_Michigan",
+          "entity_id": "Q746820"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Bay_County,_Michigan",
+          "entity_id": "Q74704"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jackson,_Michigan",
+          "entity_id": "Q984374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jackson_County,_Michigan",
+          "entity_id": "Q497702"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Battle_Creek,_Michigan",
+          "entity_id": "Q810998"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Calhoun_County,_Michigan",
+          "entity_id": "Q137516"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Muskegon,_Michigan",
+          "entity_id": "Q952097"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Muskegon_County,_Michigan",
+          "entity_id": "Q63719"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Washtenaw_County,_Michigan",
+          "entity_id": "Q137916"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Royal_Oak,_Michigan",
+          "entity_id": "Q529165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "entity_id": "Q498024"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Warren,_Michigan",
+          "entity_id": "Q499401"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Macomb_County,_Michigan",
+          "entity_id": "Q133857"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

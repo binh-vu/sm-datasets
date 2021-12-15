@@ -1,0 +1,165 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q11446",
+        "rel_uri": "wd:Q11446",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Name"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q4508",
+        "rel_uri": "wd:Q4508",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Service"
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Pennant \nor hull #"
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q2235308",
+        "rel_uri": "wd:Q2235308",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Type"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q559026",
+        "rel_uri": "wd:Q559026",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Class"
+      },
+      {
+        "id": "d:c-7",
+        "col_index": 7,
+        "label": "Notes"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Flight operation"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "In commission"
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q20031543",
+        "rel_uri": "wd:Q20031543",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P137",
+        "rel_uri": "p:P137",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P289",
+        "rel_uri": "p:P289",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P289",
+        "rel_uri": "p:P289",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P879",
+        "rel_uri": "p:P879",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-5",
+        "target": "d-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      }
+    ]
+  }
+]

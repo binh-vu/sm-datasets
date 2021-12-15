@@ -1,0 +1,5960 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_Zamalek_SC_players",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Belal Zebiba",
+          "Mahmoud Marie",
+          "Ali Al-Hosni",
+          "seif zebiba",
+          "Husien Fawzy",
+          "Ibrahim Yakan",
+          "Amin Gabriel",
+          "Mohamed El-Sayed",
+          "Youssef Mohamed",
+          "Gamil Othman",
+          "Mahmoud Gabr",
+          "Fouad Al-Gamil",
+          "Sayed Abaza",
+          "Ali Riad",
+          "Mohamed Latif",
+          "Mahmoud Basiony",
+          "Hussein Hegazi",
+          "Mostafa Kamel Taha",
+          "Nicola",
+          "Mahmoud Emam",
+          "Sayed Marie",
+          "Ali Shafi",
+          "Ali El-Kaf",
+          "Al-Labban",
+          "Ali Shoier",
+          "Husein Labib",
+          "Hassan El-Far",
+          "Ismail Rafaat",
+          "Ahmed Kholosy",
+          "Mohammed Bakhati",
+          "Mohammed Hassan Helmy",
+          "Kamel Abd Rabu",
+          "Ahmed Halim Ibrahim",
+          "Husien Al-Far",
+          "Mahmoud Marie",
+          "Abdulrahman Fawzi",
+          "Ismail Al-Samkary",
+          "Khamees Farahat",
+          "Qadry Mostafa",
+          "Ibrahim Nigm",
+          "Yehia Emam",
+          "Omar Shendi",
+          "Abdel-Karim Sakr",
+          "Galal Keraitam",
+          "Hanafy Bastan",
+          "Al-Arabi",
+          "Galal Qadri",
+          "Mohsen Al-Sehaimy",
+          "Al-Beshbeshy",
+          "Mahmoud Hafez \"Zoklot\"",
+          "Abdel Rehim Shendi",
+          "Sherif El-Far",
+          "Ali Sharaf",
+          "Mohamed Amin",
+          "Saad Rostom",
+          "Essam Baheeg",
+          "Alaa El-Hamouly",
+          "Abd El-Aziz Qabil",
+          "Nour El-Dali",
+          "Zaki Osman",
+          "Yones Marie",
+          "Halim Thaloth",
+          "Yakan Hussien",
+          "Bebo",
+          "Samir Abd El-Aziz",
+          "Mimi Fekry",
+          "Raafat Attia",
+          "Samir Qotb",
+          "Mohamed Refaie",
+          "Abdu Noshi",
+          "Ali Mohsen",
+          "Zamer Ezzat",
+          "Halim",
+          "Hamada Emam",
+          "Aldo Stella",
+          "Ahmed Mostafa",
+          "Abo Al-Qasem",
+          "Ahmed Abo Hussien",
+          "Hilal Musa",
+          "Khalil Qadtry",
+          "Ali Bakr",
+          "Ali Mahmoud",
+          "Farouk Al-Turky",
+          "Auliman Dawood",
+          "Hamada Al-Sharqawy",
+          "Mahmoud Abou-Regaila",
+          "Nabil Nosair",
+          "Omar Al-Noor",
+          "Hossam Wasfy",
+          "Ahmed Reffat",
+          "Ahmed Effat",
+          "Abd El-Maksoud Salah",
+          "Farouk El-Sayed",
+          "Abd El-Karim El-Gohary",
+          "Abdel Hamid Shaheen",
+          "Hesham Azmy",
+          "Shawky Abu El-Saod",
+          "El-Bardesy",
+          "Samir Mohamed Ali",
+          "El-gohary El-Sagheer",
+          "Tarek Ghonaim",
+          "Abd El-Sammad",
+          "Said Doalla",
+          "Galal Mahmoud",
+          "Hassan Shehata",
+          "Taha Basry",
+          "Shawky Hussein",
+          "Ashraf Abu El-Nour",
+          "Mohamed Tawfik",
+          "Ghanem Soltan",
+          "Ali Khalil",
+          "Nooh Adam",
+          "Farouk Gaafar",
+          "Mahmoud El-Khawaga",
+          "Salah El-Nahy",
+          "Helmy Toulan",
+          "Adel El-Maamour",
+          "Mohamed Salah",
+          "Wahid Kamal",
+          "Mohamed Said",
+          "Farouk Fawzy",
+          "Mahmoud Saad",
+          "Ibrahim Yossef",
+          "Sami Mansour",
+          "Gamal Abdullah",
+          "Sabry El-Meniawy",
+          "Mohamed Taher",
+          "Mahmoud Fawzy",
+          "Abd El-Rehem Mohamed",
+          "Adel Abd El-Moaty",
+          "Hamama",
+          "Ahmed Abd El-Halim",
+          "Mamdouh Mosbah",
+          "Hashim Ibrahim",
+          "Mansour Hafiz",
+          "Said El-Gadie",
+          "Hesham Yakan",
+          "Badr Hamid",
+          "Medhat Mekky",
+          "Hamada Nasr",
+          "Mohamed Gamal",
+          "El-Rasheedi El-Ebaidi",
+          "Reda Hemida",
+          "Hany Ebada",
+          "Adolf",
+          "Hesham Ismail",
+          "Adel Dosoky",
+          "Mohamed Genedy",
+          "Atef Gad",
+          "Osama Abd El-Gelil",
+          "Adel Ibrahim",
+          "Medhat Mostafa",
+          "Henry Thompson",
+          "Abd El-Moniem El-Sayad",
+          "Ismail Scondo",
+          "Shabandar",
+          "Mansour Hafiz",
+          "Amr Abd-El-Salam",
+          "Mohamed Abd El-Gelil",
+          "Akl Gad Allah",
+          "Zakaria Nasef",
+          "Hussein Abd El-Rasoul",
+          "Mohammed Helmy",
+          "Adel Abd El-Wahid",
+          "Tarek Yehia",
+          "Emmanuel Quarshie",
+          "Ayman Younes",
+          "Hamada Abd El-Latif",
+          "Nasr Ibrahim",
+          "Gamal Abdel-Hameed",
+          "Ashraf Kasem",
+          "Ismail Yossef",
+          "Nasser Abd El-Latif",
+          "Magdy Shalaby",
+          "Khaled Galal",
+          "Magdy Tolba",
+          "Ahmed Ramzy",
+          "Hussein El-Sayed",
+          "Emad Al-Mandoh",
+          "Alaa Abd El-Aal",
+          "Tarek Abd El-Alim",
+          "Khaled Abd El-Rahman",
+          "Ayman Taher",
+          "Atef Abd El-Hady",
+          "Effat Nassar",
+          "Ahmed Salim",
+          "Salah Al-Tayeb",
+          "Nabil Mahmoud",
+          "Ahmed El-Shazly",
+          "Reda Abdel-Aal",
+          "Tamer Abdel Hamid",
+          "Emad Salah",
+          "Talaat Mansour"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Nationality",
+        "values": [
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Yemen",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Italy",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Ghana",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Ghana",
+          " Sudan",
+          " Sudan",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Ghana",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt",
+          " Egypt"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Position",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Winger",
+          "",
+          "Forward",
+          "Forward",
+          "",
+          "",
+          "",
+          "Midfielder",
+          "Defender",
+          "",
+          "",
+          "",
+          "Defender",
+          "Forward",
+          "",
+          "Midfielder",
+          "Midfielder",
+          "",
+          "Midfielder",
+          "",
+          "",
+          "Winger",
+          "",
+          "",
+          "",
+          "",
+          "Goalkeeper",
+          "Defender",
+          "Forward",
+          "",
+          "Defender",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Winger",
+          "",
+          "",
+          "",
+          "Winger",
+          "Forward",
+          "",
+          "Midfielder",
+          "",
+          "",
+          "",
+          "Defender",
+          "",
+          "",
+          "",
+          "Forward",
+          "Midfielder",
+          "Defender",
+          "Midfielder",
+          "Forward",
+          "",
+          "",
+          "Forward",
+          "Goalkeeper",
+          "Defender",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Defender",
+          "Winger",
+          "Midfielder",
+          "Midfielder",
+          "Midfielder",
+          "",
+          "",
+          "Winger",
+          "Defender",
+          "Goalkeeper",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Forward",
+          "Midfielder",
+          "Defender",
+          "Goalkeeper",
+          "Defender",
+          "Midfielder",
+          "Forward",
+          "Defender",
+          "Midfielder",
+          "Winger",
+          "",
+          "Midfielder",
+          "Goalkeeper",
+          "Defender",
+          "",
+          "",
+          "",
+          "Defender",
+          "Defender",
+          "Defender",
+          "Defender",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Defender",
+          "",
+          "",
+          "",
+          "Defender",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Midfielder",
+          "Midfielder",
+          "Midfielder",
+          "",
+          "",
+          "Forward",
+          "Defender",
+          "Midfielder",
+          "",
+          "",
+          "Defender",
+          "Midfielder",
+          "Midfielder",
+          "Goalkeeper",
+          "",
+          "",
+          "",
+          "",
+          "Goalkeeper",
+          "",
+          "Midfielder",
+          "",
+          "",
+          "",
+          "",
+          "Midfielder",
+          "Defender",
+          "Midfielder",
+          "Defender"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Zamalek career",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1920–1925",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1920–1935 \n1936–1945",
+          "",
+          "1923–1928 \n1929–1932",
+          "1929–1938",
+          "",
+          "",
+          "",
+          "",
+          "1930–1938",
+          "",
+          "",
+          "",
+          "1930–1938",
+          "1930–1938",
+          "",
+          "1933–1937",
+          "1934–1948",
+          "",
+          "1933–1937",
+          "",
+          "",
+          "1935–1947",
+          "",
+          "",
+          "",
+          "",
+          "1937–1953",
+          "1938–1949",
+          "1938–1945",
+          "",
+          "1940–1958",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1946–1961",
+          "",
+          "",
+          "",
+          "1949–1960",
+          "1950–1961",
+          "",
+          "1950–1959",
+          "",
+          "",
+          "",
+          "1954–1972",
+          "",
+          "",
+          "",
+          "1955–1967",
+          "1955–1967",
+          "1955–1965",
+          "1955–1965",
+          "1956–1965",
+          "",
+          "",
+          "1957–1974",
+          "1958–1962",
+          "1958–1967",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1959–1966",
+          "1959–1967",
+          "1960–1975",
+          "1960–1973",
+          "1961–1973",
+          "",
+          "",
+          "1963–1977",
+          "1963–1976",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1967–1968 \n1971–1983",
+          "1967–1979",
+          "1968–1977",
+          "1970–1975",
+          "1970–1980",
+          "1970–1981",
+          "1970–1980",
+          "1970–1976",
+          "1971–1988",
+          "1971–1982",
+          "",
+          "1972–1979",
+          "1975–1988",
+          "1975–1988",
+          "",
+          "",
+          "",
+          "1975–1987",
+          "1977–1989",
+          "1977–1985",
+          "1977–1990",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1982–1995",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1981–1992",
+          "1983–1986",
+          "1983–1992",
+          "",
+          "",
+          "1984–1994",
+          "1984–1997",
+          "1984–1997",
+          "",
+          "",
+          "1986–1995",
+          "1986–1989",
+          "1987–1996",
+          "1987–1999",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "1987–1996",
+          "",
+          "",
+          "",
+          "",
+          "1987–1993",
+          "1988–1993",
+          "1989–1990",
+          "1989–1996"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Captaincy",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Appearances",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Goals",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "9",
+          "",
+          "",
+          "",
+          "",
+          "11",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "84",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "25",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "102",
+          "26",
+          "",
+          "",
+          "",
+          "2",
+          "97",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "97",
+          "28",
+          "25",
+          "",
+          "",
+          "",
+          "",
+          "23",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "-42",
+          "",
+          "34",
+          "",
+          "",
+          "17",
+          "10",
+          "14",
+          "12",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of Zamalek SC players",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_Zamalek_SC_players",
+    "page_entity_id": "Q12236901"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mohamed_Latif",
+          "entity_id": "Q2706818"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hussein_Hegazi",
+          "entity_id": "Q3044573"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mostafa_Taha",
+          "entity_id": "Q667140"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ali_Shafi",
+          "entity_id": "Q770517"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ali_El-Kaf",
+          "entity_id": "Q507454"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hassan_El-Far",
+          "entity_id": "Q3128134"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ismail_Rafaat",
+          "entity_id": "Q402214"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mohammed_Bakhati",
+          "entity_id": "Q2697871"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Mohammed_Hassan_Helmy",
+          "entity_id": "Q12240394"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kamel_Abd_Rabu&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Ahmed_Halim_Ibrahim",
+          "entity_id": "Q4695839"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Husien_Al-Far&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mahmoud_Marie&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Abdulrahman_Fawzi",
+          "entity_id": "Q2704062"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ismail_Al-Samkary&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Khamees_Farahat&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Qadry_Mostafa&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ibrahim_Nigm&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Yehia_Emam",
+          "entity_id": "Q12251652"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Omar_Shendi",
+          "entity_id": "Q12228443"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Abdel-Karim_Sakr",
+          "entity_id": "Q18217949"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Galal_Keraitam",
+          "entity_id": "Q19560983"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hanafy_Bastan",
+          "entity_id": "Q5646832"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Galal_Qadri&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mohsen_Al-Sehaimy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mahmoud_Hafez&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abdel_Rehim_Shendi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sherif_El-Far&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ali_Sharaf&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Essam_Baheeg",
+          "entity_id": "Q12227261"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Alaa_El-Hamouly",
+          "entity_id": "Q5662022"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abd_El-Aziz_Qabil&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nour_El-Dali",
+          "entity_id": "Q6045809"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Zaki_Osman_(footballer,_born_1932)",
+          "entity_id": "Q16623831"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Yones_Marie&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Halim_Thaloth&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Yakan_Hussien&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Samir_Abd_El-Aziz&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mimi_Fekry&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Raafat_Attia",
+          "entity_id": "Q7278381"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Samir_Qotb",
+          "entity_id": "Q5947492"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abdu_Noshi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ali_Mohsen",
+          "entity_id": "Q2836307"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yemen",
+          "entity_id": "Q805"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Zamer_Ezzat&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Hamada_Emam",
+          "entity_id": "Q12208663"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aldo_Stella_(footballer)",
+          "entity_id": "Q18350925"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ahmed_Mostafa_(footballer,_born_1940)",
+          "entity_id": "Q18710313"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hilal_Musa",
+          "entity_id": "Q17097393"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Khalil_Qadtry&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ali_Bakr&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ali_Mahmoud",
+          "entity_id": "Q4724984"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Farouk_Al-Turky&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Auliman_Dawood&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hamada_Al-Sharqawy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Mahmoud_Abou-Regaila",
+          "entity_id": "Q18683770"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nabil_Nosair",
+          "entity_id": "Q19539041"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Omar_Al-Noor&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hossam_Wasfy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ahmed_Reffat&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ahmed_Effat&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abd_El-Maksoud_Salah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Farouk_El-Sayed",
+          "entity_id": "Q57585477"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abd_El-Karim_El-Gohary&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Abdel_Hamid_Shaheen",
+          "entity_id": "Q17355043"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hesham_Azmy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Shawky_Abu_El-Saod&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Samir_Mohamed_Ali&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tarek_Ghonaim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Said_Doalla&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Galal_Mahmoud&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hassan_Shehata",
+          "entity_id": "Q734006"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Taha_Basry",
+          "entity_id": "Q7675373"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Shawky_Hussein&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ashraf_Abu_El-Nour&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mohamed_Tawfik&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ghanem_Soltan&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ali_Khalil&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nooh_Adam&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Farouk_Gaafar",
+          "entity_id": "Q5436169"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mahmoud_El-Khawaga&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Salah_El-Nahy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Helmy_Toulan",
+          "entity_id": "Q13647470"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Adel_El-Maamour",
+          "entity_id": "Q4681551"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mohamed_Salah_(coach)",
+          "entity_id": "Q20423055"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Wahid_Kamal&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Farouk_Fawzy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mahmoud_Saad_(footballer,_born_1952)",
+          "entity_id": "Q6734401"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ibrahim_Yossef&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sami_Mansour",
+          "entity_id": "Q51271483"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gamal_Abdullah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sabry_El-Meniawy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abd_El-Rehem_Mohamed&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adel_Abd_El-Moaty&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ahmed_Abd_El-Halim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mamdouh_Mosbah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hashim_Ibrahim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mansour_Hafiz&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Said_El-Gadie&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hesham_Yakan",
+          "entity_id": "Q920197"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Badr_Hamid&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Medhat_Mekky&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hamada_Nasr&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mohamed_Gamal&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=El-Rasheedi_El-Ebaidi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Reda_Hemida&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hany_Ebada&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ghana",
+          "entity_id": "Q117"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hesham_Ismail_(footballer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adel_Dosoky&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mohamed_Genedy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Atef_Gad&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Osama_Abd_El-Gelil&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adel_Ibrahim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Medhat_Mostafa&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Henry_Thompson_(Ghanian_footballer)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ghana",
+          "entity_id": "Q117"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abd_El-Moniem_El-Sayad&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ismail_Scondo&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mansour_Hafiz&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Amr_Abd-El-Salam&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mohamed_Abd_El-Gelil&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Akl_Gad_Allah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Zakaria_Nasef&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hussein_Abd_El-Rasoul&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mohammed_Helmy_(footballer)",
+          "entity_id": "Q10435838"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Adel_Abd_El-Wahid&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tarek_Yehia",
+          "entity_id": "Q7685781"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Emmanuel_Quarshie",
+          "entity_id": "Q14928241"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ghana",
+          "entity_id": "Q117"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ayman_Younes",
+          "entity_id": "Q19519556"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hamada_Abd_El-Latif&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nasr_Ibrahim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gamal_Abdel-Hameed",
+          "entity_id": "Q2439000"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ashraf_Kasem",
+          "entity_id": "Q2628960"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ismail_Yossef&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nasser_Abd_El-Latif&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Magdy_Shalaby&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Khaled_Galal",
+          "entity_id": "Q54869319"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Magdy_Tolba",
+          "entity_id": "Q2438955"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ahmed_Ramzy_(footballer)",
+          "entity_id": "Q2439013"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hussein_El-Sayed",
+          "entity_id": "Q18350422"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Emad_Al-Mandoh&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Alaa_Abd_El-Aal&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tarek_Abd_El-Alim&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Khaled_Abd_El-Rahman&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ayman_Taher",
+          "entity_id": "Q2439720"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Atef_Abd_El-Hady&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Effat_Nassar",
+          "entity_id": "Q17496587"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ahmed_Salim",
+          "entity_id": "Q17198680"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Salah_Al-Tayeb&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nabil_Mahmoud&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ahmed_El-Shazly&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Reda_Abdel-Aal",
+          "entity_id": "Q16145888"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tamer_Abdel_Hamid_(footballer_born_1971)",
+          "entity_id": "Q44321498"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Emad_Salah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Talaat_Mansour&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

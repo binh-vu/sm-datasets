@@ -1,0 +1,605 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Miss_Nepal_2004",
+    "columns": [
+      {
+        "index": 0,
+        "name": "No",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Anita Gurung",
+          "Arati Anand",
+          "Bimina Ranjit",
+          "Deepshikha Shah",
+          "Dhartee Sunuwar",
+          "Harina Bogati",
+          "Jigme Dolker Lama",
+          "Mahima Bhattachan",
+          "Mamta Malhotra",
+          "Payal Shakya",
+          "Rama Maharjan",
+          "Rashmi Acharya",
+          "Shobnam Khadka",
+          "Sarah Gurung",
+          "Sailja Basnet",
+          "Shrismita Amatya",
+          "Sukriti Baskota",
+          "Suzan Gurung"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Age",
+        "values": [
+          "18",
+          "19",
+          "18",
+          "18",
+          "18",
+          "19",
+          "19",
+          "18",
+          "18",
+          "18",
+          "19",
+          "24",
+          "18",
+          "18",
+          "20",
+          "21",
+          "19",
+          "20"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Height",
+        "values": [
+          "1.73 m (5 ft 8 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.70 m (5 ft 7 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.73 m (5 ft 8 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.70 m (5 ft 7 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.75 m (5 ft 9 in)",
+          "1.70 m (5 ft 7 in)",
+          "1.73 m (5 ft 8 in)",
+          "1.69 m (5 ft 7 in)",
+          "1.75 m (5 ft 9 in)",
+          "1.70 m (5 ft 7 in)",
+          "1.68 m (5 ft 6 in)",
+          "1.68 m (5 ft 6 in)"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Representing",
+        "values": [
+          "Pokhara",
+          "Nepalgunj",
+          "Sanepa",
+          "Lazimpat",
+          "Baneshwor",
+          "Dhobighat",
+          "Maharajgunj",
+          "Baluwatar",
+          "Baneshwor",
+          "Nayabazar",
+          "Patan",
+          "Nayabazar",
+          "Kalanki",
+          "Dhobighat",
+          "Jawalakhel",
+          "Kuleshwor",
+          "Maharajgunj",
+          "Lainchaur"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "District",
+        "values": [
+          "Kaski District",
+          "Banke District",
+          "Lalitpur District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Lalitpur District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District",
+          "Kathmandu District"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Placement",
+        "values": [
+          "2nd Runner Up",
+          "",
+          "",
+          "Top 10",
+          "",
+          "Top 5",
+          "",
+          "Miss Beautiful Hair",
+          "Top 5, Miss Best Complexion",
+          "WINNER , Miss Photogenic",
+          "",
+          "Top 10, Miss Best Dress",
+          "Top 10",
+          "1st Runner Up",
+          "Top 10",
+          "Top 10",
+          "Miss Beautiful Smile",
+          "Miss Personality"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Miss Nepal 2004",
+    "page_url": "https://en.wikipedia.org/wiki/Miss_Nepal_2004",
+    "page_entity_id": "Q6877142"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pokhara",
+          "entity_id": "Q6640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kaski_District",
+          "entity_id": "Q28436"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nepalgunj",
+          "entity_id": "Q1025462"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Banke_District",
+          "entity_id": "Q28447"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sanepa",
+          "entity_id": "Q7417573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lalitpur_District,_Nepal",
+          "entity_id": "Q1108338"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lazimpat",
+          "entity_id": "Q6506006"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baneshwor",
+          "entity_id": "Q4854845"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maharajgunj",
+          "entity_id": "Q6733275"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baluwatar,_Kathmandu",
+          "entity_id": "Q4853109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Baneshwor",
+          "entity_id": "Q4854845"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Payal_Shakya",
+          "entity_id": "Q7156652"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nayabazar",
+          "entity_id": "Q2342123"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Patan,_Nepal",
+          "entity_id": "Q6647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lalitpur_District,_Nepal",
+          "entity_id": "Q1108338"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nayabazar",
+          "entity_id": "Q2342123"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jawalakhel",
+          "entity_id": "Q6166026"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Maharajgunj",
+          "entity_id": "Q6733275"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu_District",
+          "entity_id": "Q797472"
+        }
+      ],
+      []
+    ]
+  ]
+}

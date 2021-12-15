@@ -1,0 +1,628 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1946_in_Michigan",
+    "columns": [
+      {
+        "index": 0,
+        "name": "1940 \nRank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Detroit",
+          "Grand Rapids",
+          "Flint",
+          "Saginaw",
+          "Lansing",
+          "Pontiac",
+          "Dearborn",
+          "Kalamazoo",
+          "Highland Park",
+          "Hamtramck",
+          "Jackson",
+          "Bay City",
+          "Muskegon",
+          "Battle Creek",
+          "Port Huron",
+          "Wyandotte",
+          "Ann Arbor",
+          "Royal Oak",
+          "Ferndale"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "County",
+        "values": [
+          "Wayne",
+          "Kent",
+          "Genesee",
+          "Saginaw",
+          "Ingham",
+          "Oakland",
+          "Wayne",
+          "Kalamazoo",
+          "Wayne",
+          "Wayne",
+          "Jackson",
+          "Bay",
+          "Muskegon",
+          "Calhoun",
+          "St. Clair",
+          "Wayne",
+          "Washtenaw",
+          "Oakland",
+          "Oakland"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "1930 Pop.",
+        "values": [
+          "1,568,662",
+          "168,592",
+          "156,492",
+          "80,715",
+          "78,397",
+          "64,928",
+          "50,358",
+          "54,786",
+          "52,959",
+          "56,268",
+          "55,187",
+          "47,355",
+          "41,390",
+          "45,573",
+          "31,361",
+          "28,368",
+          "26,944",
+          "22,904",
+          "20,855"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "1940 Pop.",
+        "values": [
+          "1,623,452",
+          "164,292",
+          "151,543",
+          "82,794",
+          "78,753",
+          "66,626",
+          "63,589",
+          "54,097",
+          "50,810",
+          "49,839",
+          "49,656",
+          "47,956",
+          "47,697",
+          "43,453",
+          "32,759",
+          "30,618",
+          "29,815",
+          "25,087",
+          "22,523"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "1950 Pop.",
+        "values": [
+          "1,849,568",
+          "176,515",
+          "163,143",
+          "92,918",
+          "92,129",
+          "73,681",
+          "94,994",
+          "57,704",
+          "46,393",
+          "43,555",
+          "51,088",
+          "52,523",
+          "48,429",
+          "48,666",
+          "35,725",
+          "36,846",
+          "48,251",
+          "46,898",
+          "29,675"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Change 1940-50",
+        "values": [
+          "13.9%",
+          "7.4%",
+          "7.7%",
+          "12.2%",
+          "17.0%",
+          "10.6%",
+          "49.4%",
+          "6.7%",
+          "−8.7%",
+          "−12.6%",
+          "2.9%",
+          "9.5%",
+          "1.5%",
+          "12.0%",
+          "9.1%",
+          "20.3%",
+          "61.8%",
+          "86.9%",
+          "31.8%"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1946 in Michigan",
+    "page_url": "https://en.wikipedia.org/wiki/1946_in_Michigan",
+    "page_entity_id": "Q39087523"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Detroit",
+          "entity_id": "Q12439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Grand_Rapids,_Michigan",
+          "entity_id": "Q184587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Kent_County,_Michigan",
+          "entity_id": "Q82499"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Flint,_Michigan",
+          "entity_id": "Q490584"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Genesee_County,_Michigan",
+          "entity_id": "Q497695"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saginaw,_Michigan",
+          "entity_id": "Q719"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Saginaw_County,_Michigan",
+          "entity_id": "Q82505"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lansing,_Michigan",
+          "entity_id": "Q28237"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ingham_County,_Michigan",
+          "entity_id": "Q133853"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pontiac,_Michigan",
+          "entity_id": "Q847596"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "entity_id": "Q498024"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dearborn,_Michigan",
+          "entity_id": "Q430464"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo,_Michigan",
+          "entity_id": "Q167155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kalamazoo_County,_Michigan",
+          "entity_id": "Q137509"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Highland_Park,_Michigan",
+          "entity_id": "Q1144544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hamtramck,_Michigan",
+          "entity_id": "Q1013717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jackson,_Michigan",
+          "entity_id": "Q984374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jackson_County,_Michigan",
+          "entity_id": "Q497702"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bay_City,_Michigan",
+          "entity_id": "Q746820"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Bay_County,_Michigan",
+          "entity_id": "Q74704"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Muskegon,_Michigan",
+          "entity_id": "Q952097"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Muskegon_County,_Michigan",
+          "entity_id": "Q63719"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Battle_Creek,_Michigan",
+          "entity_id": "Q810998"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Calhoun_County,_Michigan",
+          "entity_id": "Q137516"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Port_Huron,_Michigan",
+          "entity_id": "Q1000222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St._Clair_County,_Michigan",
+          "entity_id": "Q115273"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wyandotte,_Michigan",
+          "entity_id": "Q594249"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wayne_County,_Michigan",
+          "entity_id": "Q195664"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ann_Arbor,_Michigan",
+          "entity_id": "Q485172"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Washtenaw_County,_Michigan",
+          "entity_id": "Q137916"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Royal_Oak,_Michigan",
+          "entity_id": "Q529165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "entity_id": "Q498024"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ferndale,_Michigan",
+          "entity_id": "Q1406927"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Oakland_County,_Michigan",
+          "entity_id": "Q498024"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Kumar_Gaurav",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1981",
+          "1982",
+          "1982",
+          "1983",
+          "1983",
+          "1984",
+          "1984",
+          "1984",
+          "1985",
+          "1985",
+          "1986",
+          "1986",
+          "1987",
+          "1987",
+          "1987",
+          "1989",
+          "1989",
+          "1991",
+          "1991",
+          "1991",
+          "1992",
+          "1993",
+          "1996",
+          "1996",
+          "2000",
+          "2002",
+          "2004",
+          "2009",
+          "2009"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Film",
+        "values": [
+          "Love Story",
+          "Teri Kasam",
+          "Star",
+          "Lovers",
+          "Romance",
+          "Hum Hain Lajawab",
+          "All Rounder",
+          "Divorce",
+          "Ek Se Bhale Do",
+          "Janam",
+          "Begaana",
+          "Naam",
+          "Dil Tujhko Diya",
+          "Albela",
+          "Aaj",
+          "Goonj",
+          "Jurrat",
+          "Hai Meri Jaan",
+          "Pratigyabadh",
+          "Indrajeet",
+          "Siyasat",
+          "Phool",
+          "Muthi Bhar Zameen",
+          "Sautela Bhai",
+          "Gang",
+          "Kaante",
+          "Guiana 1838",
+          "My Daddy Strongest",
+          "Bihaad"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Role",
+        "values": [
+          "Bunty",
+          "Tony/Deepak",
+          "Dev Kumar",
+          "Viju",
+          "Amar",
+          "Pawan Kumar Singh",
+          "Ajay",
+          "",
+          "Bunty D'Mello",
+          "Rahul",
+          "Anand Mathur / Kailashnath Rana",
+          "Ravi Kapoor",
+          "Vijay 'Chhotu' 'Munna' Sahni",
+          "",
+          "Akshay",
+          "Sanjeev Kamat",
+          "Inspector Avinash",
+          "Bunty",
+          "Shakti Yadav",
+          "Vijay",
+          "",
+          "Karamraj 'Raju' / Gopal",
+          "Karan",
+          "Shankar",
+          "Nihal Singh",
+          "Anand 'Andy' Mathur",
+          "Laxman",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Female Lead",
+        "values": [
+          "Vijayta Pandit",
+          "Poonam Dhillon",
+          "Rati Agnihotri / Padmini Kolhapure",
+          "Padmini Kolhapure",
+          "Poonam Dhillon",
+          "Padmini Kolhapure",
+          "Rati Agnihotri",
+          "Jasmin",
+          "Rati Agnihotri",
+          "Shernaz Patel",
+          "Rati Agnihotri",
+          "Poonam Dhillon",
+          "Rati Agnihotri",
+          "Rati Agnihotri",
+          "Anamika Paul",
+          "Juhi Chawla",
+          "Amala Akkineni",
+          "Ayesha Jhulka",
+          "Neelam Kothari",
+          "Neelam Kothari",
+          "Kimi Katkar",
+          "Madhuri Dixit",
+          "Poonam Dhillon",
+          "Farah Naaz",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Kumar Gaurav",
+    "page_url": "https://en.wikipedia.org/wiki/Kumar_Gaurav",
+    "page_entity_id": "Q6443482"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Love_Story_(1981_film)",
+          "entity_id": "Q6691345"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Vijayta_Pandit",
+          "entity_id": "Q7929326"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Teri_Kasam",
+          "entity_id": "Q1567418"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Poonam_Dhillon",
+          "entity_id": "Q3595934"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Star_(1982_film)",
+          "entity_id": "Q7600580"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        },
+        {
+          "start": 17,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Padmini_Kolhapure",
+          "entity_id": "Q3595902"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lovers_(1983_film)",
+          "entity_id": "Q18127535"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Padmini_Kolhapure",
+          "entity_id": "Q3595902"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Romance_(1983_film)",
+          "entity_id": "Q7362379"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Poonam_Dhillon",
+          "entity_id": "Q3595934"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hum_Hain_Lajawab_(1984_film)",
+          "entity_id": "Q18125778"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Padmini_Kolhapure",
+          "entity_id": "Q3595902"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/All_Rounder_(1984_film)",
+          "entity_id": "Q4729292"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ek_Se_Bhale_Do",
+          "entity_id": "Q5350245"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Janam_(1985_film)",
+          "entity_id": "Q6150743"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Shernaz_Patel",
+          "entity_id": "Q7495297"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Begaana_(1986_film)",
+          "entity_id": "Q18110348"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Naam_(1986_film)",
+          "entity_id": "Q6956537"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Poonam_Dhillon",
+          "entity_id": "Q3595934"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dil_Tujhko_Diya",
+          "entity_id": "Q5276647"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/w/index.php?title=Albela_(1987_film)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rati_Agnihotri",
+          "entity_id": "Q2575841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Aaj_(1987_film)",
+          "entity_id": "Q18109318"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Goonj_(1989_film)",
+          "entity_id": "Q18125189"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Juhi_Chawla",
+          "entity_id": "Q158745"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jurrat_(film)",
+          "entity_id": "Q11270242"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Amala_Akkineni",
+          "entity_id": "Q3530159"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hai_Meri_Jaan",
+          "entity_id": "Q5638936"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ayesha_Jhulka",
+          "entity_id": "Q1749634"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pratigyabadh",
+          "entity_id": "Q7238688"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Neelam_Kothari",
+          "entity_id": "Q6986770"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Indrajeet",
+          "entity_id": "Q13115896"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Neelam_Kothari",
+          "entity_id": "Q6986770"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Siyasat",
+          "entity_id": "Q2347152"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kimi_Katkar",
+          "entity_id": "Q6410080"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Phool_(1993_film)",
+          "entity_id": "Q7187329"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Madhuri_Dixit",
+          "entity_id": "Q232451"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Poonam_Dhillon",
+          "entity_id": "Q3595934"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sautela_Bhai_(1996_film)",
+          "entity_id": "Q18209632"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Farah_Naaz",
+          "entity_id": "Q5434715"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Gang_(film)",
+          "entity_id": "Q5520900"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaante",
+          "entity_id": "Q3812382"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Guiana_1838&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Narayani_Shastri",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2000",
+          "2000",
+          "2001 - 2002",
+          "2001 - 2003",
+          "2002",
+          "2002",
+          "2002 - 2003",
+          "2002 - 2003 ; 2005",
+          "2002 - 2006",
+          "2003",
+          "2004",
+          "2006",
+          "2006",
+          "2006",
+          "2006 - 2008",
+          "2007",
+          "2007",
+          "2008",
+          "2008",
+          "2009 - 2010",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2013",
+          "2013",
+          "2014",
+          "2014",
+          "2015 - 2016",
+          "2017 - 2018",
+          "2018",
+          "2018",
+          "2018",
+          "2018 - 2019",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Show",
+        "values": [
+          "Kahani Saat Pheron Ki",
+          "Thriller At 10 - Chor Pe Mor",
+          "Kohi Apna Sa",
+          "Kyunki Saas Bhi Kabhi Bahu Thi",
+          "Ssshhhh...Koi Hai - Anushaasan",
+          "Sanjivani",
+          "Babul Ki Duwayen Leti Jaa",
+          "Kkusum",
+          "Piya Ka Ghar",
+          "Kya Hadsaa Kya Haqeeqat - Kabzaa",
+          "Vikraal Aur Gabraal - Anushaasan",
+          "Twinkle Beauty Parlour Lajpat Nagar",
+          "C.I.D. - The Case Of Mysterious Gift",
+          "Nach Baliye 2",
+          "Sanskar",
+          "Aahat - Timmy",
+          "Mamta",
+          "Ghar Ki Lakshmi Betiyann",
+          "Zara Nachke Dikha",
+          "Namak Haraam",
+          "Meethi Choori No 1",
+          "Zor Ka Jhatka: Total Wipeout",
+          "Phir Subah Hogi",
+          "Do Dil Bandhe Ek Dori Se",
+          "Beta Hi Chahiye",
+          "Arjun",
+          "The Adventures Of Hatim",
+          "Savdhaan India",
+          "Piya Rangrezz",
+          "Rishton Ka Chakravyuh",
+          "Gandii Baat - Preeto Rani",
+          "Juzzbaatt - Sangeen Se Namkeen Tak",
+          "Laal Ishq - Kya Aap Akele Hain",
+          "Karn Sangini",
+          "Nazar"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Role",
+        "values": [
+          "Deepa Shekhar Sehgal",
+          "Tina (Episode 167 - Episode170)",
+          "Shruti Tushar Gill",
+          "Kesar Anupam Kapadia",
+          "Ruby (Episode 45)",
+          "Patient's Wife (Episode 34)",
+          "Jenny",
+          "Natasha \"Tashu\" Kanwar / Natasha Abhay Kapoor",
+          "Rimjhim / Megha",
+          "Aashna (Aashu) (Before Plastic Surgery) (Episode 142 - Episode 157)",
+          "Ruby (Episode 25)",
+          "Ranjana",
+          "Sunanda (Episode 426)",
+          "Contestant",
+          "Anupama / Nandini",
+          "Disha (Episode 7)",
+          "Mamta Akshay Srivastav",
+          "Advocate Damini Verma (Episode 358 - Episode 365)",
+          "Contestant",
+          "Swati Karan Sehgal",
+          "Contestant",
+          "Contestant",
+          "Gulabia",
+          "Guest Dancer (Episode 16)",
+          "Guest Dancer (Episode 75)",
+          "Senior Inspector Lata Mane (Episode 106)",
+          "Neena (Episode 61)",
+          "Saroja Arvind Khattar (Episode 962)",
+          "Bhanvari Devi Singh",
+          "Satrupa Baldev Singh",
+          "Preeto Rani (Episode 4)",
+          "Guest (Episode 15)",
+          "Sejal (Episode 37)",
+          "Radha",
+          "Devika (Episode 152)"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Channel",
+        "values": [
+          "DD National",
+          "Zee TV",
+          "Zee TV",
+          "Star Plus",
+          "Star Plus",
+          "Star Plus",
+          "Zee TV",
+          "Sony TV",
+          "Zee TV",
+          "Sony TV",
+          "Star Plus",
+          "SAB TV",
+          "Sony TV",
+          "Star One",
+          "DD National",
+          "Sony TV",
+          "Zee TV",
+          "Zee TV",
+          "Star One",
+          "Real TV",
+          "NDTV Imagine",
+          "Colors TV",
+          "Zee TV",
+          "Zee TV",
+          "Big Magic",
+          "Star Plus",
+          "Life OK",
+          "Life OK",
+          "Life OK",
+          "Star Plus",
+          "ALT Balaji",
+          "Zee TV",
+          "&TV",
+          "Star Plus",
+          "Star Plus"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "Lead Role",
+          "Episodic Role",
+          "Lead Role",
+          "Supporting Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Supporting Role",
+          "Negative Role",
+          "Lead Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Lead Role",
+          "Episodic Role",
+          "Reality Show",
+          "Lead Role",
+          "Episodic Role",
+          "Lead Role",
+          "Cameo Role",
+          "Reality Show",
+          "Lead Role",
+          "Reality Show",
+          "Reality Show",
+          "Suppoting Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Episodic Role",
+          "Negative Role",
+          "Supporting Role",
+          "Episodic Role - Web Series",
+          "Talk Show",
+          "Episodic Role",
+          "Supporting Role",
+          "Episodic Role"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Narayani Shastri",
+    "page_url": "https://en.wikipedia.org/wiki/Narayani_Shastri",
+    "page_entity_id": "Q6965558"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Kahani_Saat_Pheron_Ki",
+          "entity_id": "Q16255466"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/DD_National",
+          "entity_id": "Q2023247"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Thriller_At_10&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kohi_Apna_Sa",
+          "entity_id": "Q6425987"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Kyunki_Saas_Bhi_Kabhi_Bahu_Thi",
+          "entity_id": "Q6452765"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ssshhhh...Koi_Hai",
+          "entity_id": "Q7586645"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sanjivani_(2002_TV_series)",
+          "entity_id": "Q7418573"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Babul_Ki_Duwayen_Leti_Jaa",
+          "entity_id": "Q4838085"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kkusum",
+          "entity_id": "Q6419532"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sony_Entertainment_Television_(India)",
+          "entity_id": "Q3631750"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Piya_Ka_Ghar_(TV_series)",
+          "entity_id": "Q7199766"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kya_Hadsaa_Kya_Haqeeqat",
+          "entity_id": "Q6450610"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sony_Entertainment_Television_(India)",
+          "entity_id": "Q3631750"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Vikraal_Aur_Gabraal",
+          "entity_id": "Q7929541"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Twinkle_Beauty_Parlour_Lajpat_Nagar",
+          "entity_id": "Q7858386"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/SAB_TV",
+          "entity_id": "Q10366321"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/C.I.D._(Indian_TV_series)",
+          "entity_id": "Q252118"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sony_Entertainment_Television_(India)",
+          "entity_id": "Q3631750"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Nach_Baliye#_Season_2",
+          "entity_id": "Q6957111"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Star_One_(Indian_TV_channel)",
+          "entity_id": "Q3630161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reality_Show",
+          "entity_id": "Q182415"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sanskar_(TV_series)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/DD_National",
+          "entity_id": "Q2023247"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Aahat",
+          "entity_id": "Q4661258"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sony_Entertainment_Television_(India)",
+          "entity_id": "Q3631750"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Mamta_(TV_series)",
+          "entity_id": "Q6745985"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Ghar_Ki_Lakshmi_Betiyann",
+          "entity_id": "Q5555665"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Zara_Nachke_Dikha",
+          "entity_id": "Q8066535"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Star_One_(Indian_TV_channel)",
+          "entity_id": "Q3630161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reality_Show",
+          "entity_id": "Q182415"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Namak_Haraam_(TV_series)",
+          "entity_id": "Q6961223"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Real_TV_(Indian_Channel)",
+          "entity_id": "Q7300836"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Meethi_Choori_No_1",
+          "entity_id": "Q19893895"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/NDTV_Imagine",
+          "entity_id": "Q6002760"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reality_Show",
+          "entity_id": "Q182415"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Zor_Ka_Jhatka:_Total_Wipeout",
+          "entity_id": "Q8074292"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Colors_TV",
+          "entity_id": "Q3595312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reality_Show",
+          "entity_id": "Q182415"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Phir_Subah_Hogi_(TV_series)",
+          "entity_id": "Q7186440"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Do_Dil_Bandhe_Ek_Dori_Se",
+          "entity_id": "Q17051951"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Beta_Hi_Chahiye",
+          "entity_id": "Q16951361"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Big_Magic",
+          "entity_id": "Q4835668"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Arjun_(TV_series)",
+          "entity_id": "Q4791548"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/The_Adventures_Of_Hatim",
+          "entity_id": "Q15608684"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Life_OK",
+          "entity_id": "Q6544937"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Savdhaan_India",
+          "entity_id": "Q7427971"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Life_OK",
+          "entity_id": "Q6544937"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Piya_Rangrezz",
+          "entity_id": "Q19824843"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Life_OK",
+          "entity_id": "Q6544937"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Rishton_Ka_Chakravyuh",
+          "entity_id": "Q39055495"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gandii_Baat",
+          "entity_id": "Q55074916"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/ALT_Balaji",
+          "entity_id": "Q30325120"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/w/index.php?title=Juzzbaatt_-_Sangeen_Se_Namkeen_Tak&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zee_TV",
+          "entity_id": "Q2044826"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Talk_Show",
+          "entity_id": "Q622812"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Laal_Ishq_(2018_TV_series)",
+          "entity_id": "Q56278698"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/%26TV",
+          "entity_id": "Q19371519"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Karn_Sangini",
+          "entity_id": "Q56277776"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Radha_(Mahabharata)",
+          "entity_id": "Q4263257"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Nazar_(TV_series)",
+          "entity_id": "Q55813610"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Star_Plus",
+          "entity_id": "Q3631478"
+        }
+      ],
+      []
+    ]
+  ]
+}

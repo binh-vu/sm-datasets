@@ -1,0 +1,913 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2018–19_West_Bromwich_Albion_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Start date",
+        "values": [
+          "1 July 2018",
+          "26 July 2018",
+          "3 August 2018",
+          "3 August 2018",
+          "6 August 2018",
+          "7 August 2018",
+          "9 August 2018",
+          "10 August 2018",
+          "17 August 2018",
+          "12 October 2018",
+          "26 October 2018",
+          "14 November 2018",
+          "5 January 2019",
+          "14 January 2019",
+          "22 January 2019",
+          "26 January 2019",
+          "31 January 2019",
+          "31 January 2019",
+          "31 January 2019",
+          "12 April 2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Position",
+        "values": [
+          "CF",
+          "LB",
+          "CB",
+          "RB",
+          "CF",
+          "CB",
+          "CB",
+          "GK",
+          "RB",
+          "CM",
+          "GK",
+          "GK",
+          "RW",
+          "RB",
+          "DM",
+          "RB",
+          "CM",
+          "CB",
+          "CB",
+          "GK"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Zhang Yuning",
+          "Max Melbourne",
+          "Jack Fitzwater",
+          "Kane Wilson",
+          "Salomón Rondón",
+          "Dara O'Shea",
+          "Kyle Jameson",
+          "Ben Pierce",
+          "Allan Nyom",
+          "Alex Bradley",
+          "Adam Przyek",
+          "Alex Palmer",
+          "Oliver Burke",
+          "Kane Wilson",
+          "Sam Wilding",
+          "Dan Meredith",
+          "Alex Bradley",
+          "Jack Fitzwater",
+          "Kyle Howkins",
+          "Alex Palmer"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To",
+        "values": [
+          " ADO Den Haag",
+          " Partick Thistle",
+          "Walsall",
+          "Walsall",
+          "Newcastle United",
+          "Exeter City",
+          "Barrow",
+          "Redditch United",
+          " Leganes",
+          "Havant & Waterlooville",
+          "Gloucester City",
+          "Oldham Athletic",
+          " Celtic",
+          "Exeter City",
+          "Leamington",
+          "Maidstone United",
+          "Burton Albion",
+          "Walsall",
+          "Port Vale",
+          "Notts County"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "End date",
+        "values": [
+          "22 February 2019",
+          "January 2019",
+          "3 January 2019",
+          "3 January 2019",
+          "31 May 2019",
+          "31 May 2019",
+          "January 2019",
+          "January 2019",
+          "31 May 2019",
+          "November 2018",
+          "30 November 2018",
+          "22 November 2018",
+          "31 May 2019",
+          "31 May 2019",
+          "February 2019",
+          "February 2019",
+          "31 May 2019",
+          "31 May 2019",
+          "31 May 2019",
+          "19 April 2019"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Ref.",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2018–19 West Bromwich Albion F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/2018–19_West_Bromwich_Albion_F.C._season",
+    "page_entity_id": "Q54818012"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Zhang_Yuning_(footballer,_born_1997)",
+          "entity_id": "Q21057329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        },
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/ADO_Den_Haag",
+          "entity_id": "Q24904"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Max_Melbourne",
+          "entity_id": "Q50505207"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        },
+        {
+          "start": 1,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Partick_Thistle_F.C.",
+          "entity_id": "Q822722"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jack_Fitzwater",
+          "entity_id": "Q21181127"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walsall_F.C.",
+          "entity_id": "Q19644"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kane_Wilson",
+          "entity_id": "Q26678769"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walsall_F.C.",
+          "entity_id": "Q19644"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salom%C3%B3n_Rond%C3%B3n",
+          "entity_id": "Q357613"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Newcastle_United_F.C.",
+          "entity_id": "Q18716"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dara_O%27Shea",
+          "entity_id": "Q56331751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Exeter_City_F.C.",
+          "entity_id": "Q48939"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Barrow_A.F.C.",
+          "entity_id": "Q18507"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Redditch_United_F.C.",
+          "entity_id": "Q639349"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Cameroon",
+          "entity_id": "Q1009"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Allan_Nyom",
+          "entity_id": "Q2705713"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        },
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/CD_Leganes",
+          "entity_id": "Q856119"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Havant_%26_Waterlooville_F.C.",
+          "entity_id": "Q2028870"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gloucester_City_A.F.C.",
+          "entity_id": "Q4140000"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Alex_Palmer",
+          "entity_id": "Q60733809"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Oldham_Athletic_A.F.C.",
+          "entity_id": "Q19601"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_winger_(football)",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Oliver_Burke",
+          "entity_id": "Q18125392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Celtic_F.C.",
+          "entity_id": "Q19593"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kane_Wilson",
+          "entity_id": "Q26678769"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Exeter_City_F.C.",
+          "entity_id": "Q48939"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Leamington_F.C.",
+          "entity_id": "Q2944694"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Maidstone_United_F.C.",
+          "entity_id": "Q1764590"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Burton_Albion_F.C.",
+          "entity_id": "Q48929"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jack_Fitzwater",
+          "entity_id": "Q21181127"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walsall_F.C.",
+          "entity_id": "Q19644"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kyle_Howkins",
+          "entity_id": "Q26251623"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Port_Vale_F.C.",
+          "entity_id": "Q48948"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Alex_Palmer",
+          "entity_id": "Q60733809"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Notts_County_F.C.",
+          "entity_id": "Q19598"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

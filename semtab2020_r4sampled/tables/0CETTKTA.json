@@ -1,0 +1,334 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "0CETTKTA",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "Heliolisk",
+          "Furfrou",
+          "Staraptor",
+          "Persian",
+          "Watchog",
+          "Unfezant",
+          "Tranquill",
+          "Stoutland",
+          "Sawsbuck",
+          "Braviary",
+          "Audino",
+          "Ditto",
+          "Azurill",
+          "Igglybuff",
+          "Dodrio",
+          "Swellow",
+          "Spinda",
+          "Dunsparce",
+          "Kecleon",
+          "Glameow"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "100",
+          "120",
+          "120",
+          "100",
+          "110",
+          "120",
+          "60",
+          "120",
+          "190",
+          "150",
+          "110",
+          "30",
+          "20",
+          "30",
+          "180",
+          "70",
+          "110",
+          "150",
+          "100",
+          "50"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "21",
+          "28",
+          "249",
+          "32",
+          "27",
+          "29",
+          "15",
+          "61",
+          "925",
+          "41",
+          "31",
+          "4",
+          "2",
+          "1",
+          "852",
+          "198",
+          "5",
+          "14",
+          "22",
+          "39"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q16563079",
+          "qnode_id": "Q16563079"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q16557928",
+          "qnode_id": "Q16557928"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q12709644",
+          "qnode_id": "Q12709644"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q11109038",
+          "qnode_id": "Q11109038"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q4018510",
+          "qnode_id": "Q4018510"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q4004647",
+          "qnode_id": "Q4004647"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q3997453",
+          "qnode_id": "Q3997453"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q3974563",
+          "qnode_id": "Q3974563"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q3951175",
+          "qnode_id": "Q3951175"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q3643950",
+          "qnode_id": "Q3643950"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q3629484",
+          "qnode_id": "Q3629484"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://www.wikidata.org/entity/Q3362536",
+          "qnode_id": "Q3362536"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q2739480",
+          "qnode_id": "Q2739480"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q2739085",
+          "qnode_id": "Q2739085"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q2739048",
+          "qnode_id": "Q2739048"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q2738326",
+          "qnode_id": "Q2738326"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q2721212",
+          "qnode_id": "Q2721212"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q2720920",
+          "qnode_id": "Q2720920"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q2720910",
+          "qnode_id": "Q2720910"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.wikidata.org/entity/Q2720845",
+          "qnode_id": "Q2720845"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

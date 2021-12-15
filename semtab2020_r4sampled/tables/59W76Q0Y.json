@@ -1,0 +1,334 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "59W76Q0Y",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "Port Said Governorate",
+          "Qalyubia Governorate",
+          "Al Sharqia Governorate",
+          "Suez Governorate",
+          "Dakahlia Governorate",
+          "Ismailia Governorate",
+          "Qena Governorate",
+          "Kafr el-Sheikh Governorate",
+          "Gharbia Governorate",
+          "Giza Governorate",
+          "Red Sea Governorate",
+          "South Sinai Governorate",
+          "Cairo Governorate",
+          "Luxor Governorate",
+          "Monufia Governorate",
+          "Beni Suef Governorate",
+          "Matrouh Governorate",
+          "Minya Governorate",
+          "Sohag Governorate",
+          "North Sinai Governorate"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "749371",
+          "5627420",
+          "7163824",
+          "728180",
+          "6492381",
+          "1303993",
+          "3164281",
+          "3362185",
+          "4999633",
+          "8632021",
+          "359888",
+          "102018",
+          "9539673",
+          "1250209",
+          "4301601",
+          "3154100",
+          "425624",
+          "5497095",
+          "4967409",
+          "450328"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "1345",
+          "1124",
+          "4911",
+          "9002",
+          "3538",
+          "5067",
+          "8980",
+          "3467",
+          "1942",
+          "13184",
+          "120000",
+          "31272",
+          "3085",
+          "2960",
+          "2499",
+          "10954",
+          "166563",
+          "32279",
+          "11218",
+          "27564"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://www.wikidata.org/entity/Q31079",
+          "qnode_id": "Q31079"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://www.wikidata.org/entity/Q31075",
+          "qnode_id": "Q31075"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://www.wikidata.org/entity/Q31074",
+          "qnode_id": "Q31074"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q31070",
+          "qnode_id": "Q31070"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://www.wikidata.org/entity/Q31068",
+          "qnode_id": "Q31068"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://www.wikidata.org/entity/Q31067",
+          "qnode_id": "Q31067"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q31065",
+          "qnode_id": "Q31065"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://www.wikidata.org/entity/Q30946",
+          "qnode_id": "Q30946"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.wikidata.org/entity/Q30835",
+          "qnode_id": "Q30835"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q30832",
+          "qnode_id": "Q30832"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.wikidata.org/entity/Q30831",
+          "qnode_id": "Q30831"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://www.wikidata.org/entity/Q30815",
+          "qnode_id": "Q30815"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q30805",
+          "qnode_id": "Q30805"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q30797",
+          "qnode_id": "Q30797"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.wikidata.org/entity/Q30786",
+          "qnode_id": "Q30786"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://www.wikidata.org/entity/Q30683",
+          "qnode_id": "Q30683"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://www.wikidata.org/entity/Q30682",
+          "qnode_id": "Q30682"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q30675",
+          "qnode_id": "Q30675"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q30669",
+          "qnode_id": "Q30669"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://www.wikidata.org/entity/Q30662",
+          "qnode_id": "Q30662"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

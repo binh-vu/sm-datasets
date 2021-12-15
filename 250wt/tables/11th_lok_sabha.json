@@ -1,0 +1,970 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "11th_Lok_Sabha",
+    "columns": [
+      {
+        "index": 0,
+        "name": "No.",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Constituency",
+        "values": [
+          "Bidar",
+          "Gulbarga",
+          "Raichur",
+          "Koppal",
+          "Bellary",
+          "Davangere",
+          "Chitradurga",
+          "Tumkur",
+          "Chikballapur",
+          "Kolar",
+          "Kanakapura",
+          "Bangalore North",
+          "Bangalore South",
+          "Mandya",
+          "Chamarajanagar",
+          "Mysore",
+          "Mangalore",
+          "Udupi",
+          "Hassan",
+          "Chikmagalur",
+          "Shimoga",
+          "Kanara",
+          "Dharwad South",
+          "Dharwad North",
+          "Belgaum",
+          "Chikkodi",
+          "Bagalkot",
+          "Bijapur"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Type",
+        "values": [
+          "SC",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "SC",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "SC",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "SC",
+          "GEN",
+          "GEN"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name of Elected M.P.",
+        "values": [
+          "Ramchandra Veerappa",
+          "Qamar ul Islam",
+          "Raja Rangappa Naik",
+          "Basavaraj Rayareddy",
+          "K.C. Kondaiah",
+          "Gowdar Mallikarjunappa",
+          "Puli Kodandaramaiah",
+          "C.N. Bhaskarappa",
+          "R.L. Jalappa",
+          "K.H. Muniyappa",
+          "H. D. Kumaraswamy",
+          "C. Narayanaswamy",
+          "Ananth Kumar",
+          "Ambareesh",
+          "Siddaraju A.",
+          "Srikanta Datta Narsimharaja Wodeyar",
+          "Dhananjay Kumar",
+          "Oscar Fernandes",
+          "Rudresh Gowda",
+          "B. L. Shankar",
+          "S. Bangarappa",
+          "Ananth Kumar Hegde",
+          "Imam Sanadi",
+          "Vijay Sankeshwar",
+          "Shivanand Hemappa Koujalgi",
+          "Ratnamala D. Savanoor",
+          "H. Y. Meti",
+          "Basanagouda Patil Yatnal"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Party Affiliation",
+        "values": [
+          "Bharatiya Janata Party",
+          "Janata Dal",
+          "Janata Dal",
+          "Janata Dal",
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Janata Dal",
+          "Janata Dal",
+          "Janata Dal",
+          "Indian National Congress",
+          "Janata Dal",
+          "IJanata Dal",
+          "Bharatiya Janata Party",
+          "Janata Dal",
+          "Janata Dal",
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Indian National Congress",
+          "Janata Dal",
+          "Janata Dal",
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Janata Dal",
+          "Janata Dal",
+          "Janata Dal",
+          "Bharatiya Janata Party"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "11th Lok Sabha",
+    "page_url": "https://en.wikipedia.org/wiki/11th_Lok_Sabha",
+    "page_entity_id": "Q3534024"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Bidar_(Lok_Sabha_constituency)",
+          "entity_id": "Q3883318"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Ramchandra_Veerappa",
+          "entity_id": "Q7289295"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gulbarga_(Lok_Sabha_constituency)",
+          "entity_id": "Q4172532"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Qamar_ul_Islam",
+          "entity_id": "Q7266408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Raichur_(Lok_Sabha_constituency)",
+          "entity_id": "Q4172533"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Raja_Rangappa_Naik&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Koppal_(Lok_Sabha_constituency)",
+          "entity_id": "Q4348317"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Basavaraj_Rayareddy",
+          "entity_id": "Q27916394"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bellary_(Lok_Sabha_constituency)",
+          "entity_id": "Q3521014"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/K.C._Kondaiah",
+          "entity_id": "Q6323219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Davangere_(Lok_Sabha_constituency)",
+          "entity_id": "Q4877000"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gowdar_Mallikarjunappa&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chitradurga_(Lok_Sabha_constituency)",
+          "entity_id": "Q5102316"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Puli_Kodandaramaiah&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tumkur_(Lok_Sabha_constituency)",
+          "entity_id": "Q5245318"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=C.N._Bhaskarappa&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chikballapur_(Lok_Sabha_constituency)",
+          "entity_id": "Q5097405"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/R.L._Jalappa",
+          "entity_id": "Q7273797"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kolar_(Lok_Sabha_constituency)",
+          "entity_id": "Q6427060"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/K.H._Muniyappa",
+          "entity_id": "Q6323379"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kanakapura_(Lok_Sabha_constituency)",
+          "entity_id": "Q6360408"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/H._D._Kumaraswamy",
+          "entity_id": "Q251790"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bangalore_North_(Lok_Sabha_constituency)",
+          "entity_id": "Q4855069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/C._Narayanaswamy",
+          "entity_id": "Q16604117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=IJanata_Dal&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bangalore_South_(Lok_Sabha_constituency)",
+          "entity_id": "Q6509948"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ananth_Kumar",
+          "entity_id": "Q4751468"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mandya_(Lok_Sabha_constituency)",
+          "entity_id": "Q5187868"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ambareesh",
+          "entity_id": "Q2721714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chamarajanagar_(Lok_Sabha_constituency)",
+          "entity_id": "Q5069470"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Siddaraju_A.&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mysore_(Lok_Sabha_constituency)",
+          "entity_id": "Q5332086"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Srikanta_Datta_Narsimharaja_Wodeyar",
+          "entity_id": "Q7586387"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dakshina_Kannada_(Lok_Sabha_constituency)",
+          "entity_id": "Q5121423"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dhananjay_Kumar",
+          "entity_id": "Q7906032"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Udupi_(Lok_Sabha_constituency)",
+          "entity_id": "Q7877353"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Oscar_Fernandes",
+          "entity_id": "Q1453956"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hassan_(Lok_Sabha_constituency)",
+          "entity_id": "Q5679532"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rudresh_Gowda",
+          "entity_id": "Q50889778"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chikmagalur_(Lok_Sabha_constituency)",
+          "entity_id": "Q5097473"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=B._L._Shankar&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Shimoga_(Lok_Sabha_constituency)",
+          "entity_id": "Q4876992"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/S._Bangarappa",
+          "entity_id": "Q3536460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kanara_(Lok_Sabha_constituency)",
+          "entity_id": "Q4756549"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Ananth_Kumar_Hegde",
+          "entity_id": "Q4751466"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dharwad_South_(Lok_Sabha_constituency)",
+          "entity_id": "Q5269409"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Imam_Sanadi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dharwad_North_(Lok_Sabha_constituency)",
+          "entity_id": "Q5269408"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vijay_Sankeshwar",
+          "entity_id": "Q7929202"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Belgaum_(Lok_Sabha_constituency)",
+          "entity_id": "Q3995921"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/w/index.php?title=Shivanand_Hemappa_Koujalgi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chikkodi_(Lok_Sabha_constituency)",
+          "entity_id": "Q3939251"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ratnamala_D._Savanoor&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bagalkot_(Lok_Sabha_constituency)",
+          "entity_id": "Q4841427"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/H._Y._Meti",
+          "entity_id": "Q55613164"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bijapur_(Lok_Sabha_constituency)",
+          "entity_id": "Q4907176"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/w/index.php?title=Basanagouda_Patil_Yatnal&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ]
+  ]
+}

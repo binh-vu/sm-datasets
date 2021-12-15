@@ -1,0 +1,352 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1997_IAAF_World_Indoor_Championships_–_Men's_heptathlon",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "2",
+          "1",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "Chris Huffins",
+          "Tomáš Dvořák",
+          "Robert Změlík",
+          "Christian Plaziat",
+          "Steve Fritz",
+          "Jón Arnar Magnússon",
+          "Erki Nool",
+          "Sébastien Levicq",
+          "Sebastian Chmara"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " United States",
+          " Czech Republic",
+          " Czech Republic",
+          " France",
+          " United States",
+          " Iceland",
+          " Estonia",
+          " France",
+          " Poland"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "7.80",
+          "7.87",
+          "7.88",
+          "7.89",
+          "7.97",
+          "8.02",
+          "8.08",
+          "8.15",
+          "DNS"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Points",
+        "values": [
+          "1033",
+          "1015",
+          "1012",
+          "1010",
+          "989",
+          "977",
+          "962",
+          "944",
+          "0"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Total",
+        "values": [
+          "4580",
+          "4481",
+          "4409",
+          "4383",
+          "4300",
+          "4571",
+          "4344",
+          "4007",
+          "DNF"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1997 IAAF World Indoor Championships – Men's heptathlon",
+    "page_url": "https://en.wikipedia.org/wiki/1997_IAAF_World_Indoor_Championships_–_Men's_heptathlon",
+    "page_entity_id": "Q18344966"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chris_Huffins",
+          "entity_id": "Q917115"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Dvo%C5%99%C3%A1k",
+          "entity_id": "Q550398"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Robert_Zm%C4%9Bl%C3%ADk",
+          "entity_id": "Q707080"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Christian_Plaziat",
+          "entity_id": "Q1081443"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Steve_Fritz",
+          "entity_id": "Q7612597"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/J%C3%B3n_Arnar_Magn%C3%BAsson",
+          "entity_id": "Q3045107"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Erki_Nool",
+          "entity_id": "Q334700"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Estonia",
+          "entity_id": "Q191"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A9bastien_Levicq",
+          "entity_id": "Q3510204"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sebastian_Chmara",
+          "entity_id": "Q945273"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

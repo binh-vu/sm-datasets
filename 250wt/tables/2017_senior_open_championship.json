@@ -1,0 +1,306 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2017_Senior_Open_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "T4",
+          "T4",
+          "T4",
+          "T7",
+          "T7",
+          "T7",
+          "T7"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Bernhard Langer",
+          "Corey Pavin",
+          "Peter Lonard",
+          "Steve Flesch",
+          "Miguel Ángel Jiménez",
+          "Billy Mayfair",
+          "Magnus Persson Atlevi",
+          "Scott Dunlap",
+          "Santiago Luna",
+          "Phillip Price"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " Germany",
+          " United States",
+          " Australia",
+          " United States",
+          " Spain",
+          " United States",
+          " Sweden",
+          " United States",
+          " Spain",
+          " Wales"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "69-74-65=208",
+          "73-74-65=212",
+          "71-75-67=213",
+          "72-71-71=214",
+          "76-73-65=214",
+          "71-72-71=214",
+          "77-73-65=215",
+          "76-73-66=215",
+          "77-70-68=215",
+          "74-73-68=215"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "−5",
+          "−1",
+          "E",
+          "+1",
+          "+1",
+          "+1",
+          "+2",
+          "+2",
+          "+2",
+          "+2"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2017 Senior Open Championship",
+    "page_url": "https://en.wikipedia.org/wiki/2017_Senior_Open_Championship",
+    "page_entity_id": "Q55393434"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bernhard_Langer",
+          "entity_id": "Q45012"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Corey_Pavin",
+          "entity_id": "Q1132650"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Peter_Lonard",
+          "entity_id": "Q714104"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Steve_Flesch",
+          "entity_id": "Q2346962"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Miguel_%C3%81ngel_Jim%C3%A9nez",
+          "entity_id": "Q951788"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Billy_Mayfair",
+          "entity_id": "Q863182"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Magnus_Persson_Atlevi",
+          "entity_id": "Q18088354"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Scott_Dunlap",
+          "entity_id": "Q7436270"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Santiago_Luna",
+          "entity_id": "Q327334"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Phillip_Price",
+          "entity_id": "Q2693197"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

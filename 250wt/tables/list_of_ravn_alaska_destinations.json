@@ -1,0 +1,3360 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_Ravn_Alaska_destinations",
+    "columns": [
+      {
+        "index": 0,
+        "name": "City",
+        "values": [
+          "Akiachak",
+          "Akiak",
+          "Alakanuk",
+          "Ambler",
+          "Anchorage",
+          "Aniak",
+          "Anvik",
+          "Atmautluak",
+          "Atqasuk",
+          "Barrow",
+          "Barter Island / Kaktovik",
+          "Bethel",
+          "Brevig Mission",
+          "Buckland",
+          "Chefornak",
+          "Chevak",
+          "Chuathbaluk",
+          "Cordova",
+          "Crooked Creek",
+          "Deering",
+          "Dillingham",
+          "Eek",
+          "Elim",
+          "Emmonak",
+          "Fairbanks",
+          "Fort Yukon",
+          "Galena",
+          "Gambell",
+          "Golovin",
+          "Grayling",
+          "Holy Cross",
+          "Homer",
+          "Hooper Bay",
+          "Huslia",
+          "Kalskag",
+          "Kaltag",
+          "Kasigluk",
+          "Kenai",
+          "Kiana",
+          "King Salmon",
+          "Kipnuk",
+          "Kivalina",
+          "Kobuk",
+          "Kodiak",
+          "Kongiganak",
+          "Kotlik",
+          "Kotzebue",
+          "Koyuk",
+          "Koyukuk",
+          "Kwethluk",
+          "Kwigillingok",
+          "Marshall",
+          "Mekoryuk",
+          "Mountain Village",
+          "Newtok",
+          "Nightmute",
+          "Noatak",
+          "Nome",
+          "Noorvik",
+          "Nuiqsut",
+          "Nulato",
+          "Nunapitchuk",
+          "Pilot Station",
+          "Point Hope",
+          "Point Lay",
+          "Prudhoe Bay / Deadhorse",
+          "Quinhagak",
+          "Red Devil",
+          "Ruby",
+          "Russian Mission",
+          "Saint Mary's",
+          "Saint Michael",
+          "Savoonga",
+          "Scammon Bay",
+          "Selawik",
+          "Shageluk",
+          "Shaktoolik",
+          "Sheldon Point / Nunam Iqua",
+          "Shishmaref",
+          "Shungnak",
+          "Sleetmute",
+          "Stebbins",
+          "Stony River",
+          "Teller",
+          "Togiak Village",
+          "Toksook Bay",
+          "Tuluksak",
+          "Tuntutuliak",
+          "Tununak",
+          "Unalakleet",
+          "Valdez",
+          "Wainwright",
+          "Wales",
+          "White Mountain"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Country",
+        "values": [
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )",
+          "United States ( Alaska )"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "IATA",
+        "values": [
+          "KKI",
+          "AKI",
+          "AUK",
+          "ABL",
+          "ANC",
+          "ANI",
+          "ANV",
+          "ATT",
+          "ATK",
+          "BRW",
+          "BTI",
+          "BET",
+          "KTS",
+          "BKC",
+          "CYF",
+          "VAK",
+          "CHU",
+          "CDV",
+          "CKD",
+          "DRG",
+          "DLG",
+          "EEK",
+          "ELI",
+          "EMK",
+          "FAI",
+          "FYU",
+          "GAL",
+          "GAM",
+          "GLV",
+          "KGX",
+          "HCR",
+          "HOM",
+          "HPB",
+          "HSL",
+          "KLG",
+          "KAL",
+          "KUK",
+          "ENA",
+          "IAN",
+          "AKN",
+          "KPN",
+          "KVL",
+          "OBU",
+          "ADQ",
+          "KKH",
+          "KOT",
+          "OTZ",
+          "KKA",
+          "KYU",
+          "KWT",
+          "KWK",
+          "MLL",
+          "MYU",
+          "MOU",
+          "WWT",
+          "NME",
+          "WTK",
+          "OME",
+          "ORV",
+          "NUI",
+          "NUL",
+          "NUP",
+          "PQS",
+          "PHO",
+          "PIZ",
+          "SCC",
+          "KWN",
+          "RDV",
+          "RBY",
+          "RSH",
+          "KSM",
+          "SMK",
+          "SVA",
+          "SCM",
+          "WLK",
+          "SHX",
+          "SKK",
+          "SXP",
+          "SHH",
+          "SHG",
+          "SLQ",
+          "WBB",
+          "SRV",
+          "TLA",
+          "TOG",
+          "OOK",
+          "TLT",
+          "WTL",
+          "TNK",
+          "UNK",
+          "VDZ",
+          "AIN",
+          "WWA",
+          "WMO"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "ICAO",
+        "values": [
+          "none",
+          "PFAK",
+          "PAUK",
+          "PAFM",
+          "PANC",
+          "PANI",
+          "PANV",
+          "none",
+          "PATQ",
+          "PABR",
+          "PABA",
+          "PABE",
+          "PFKT",
+          "PABL",
+          "PACK",
+          "PAVA",
+          "PACH",
+          "PACV",
+          "none",
+          "PADE",
+          "PADL",
+          "PAEE",
+          "PFEL",
+          "PAEM",
+          "PAFA",
+          "PFYU",
+          "PAGA",
+          "PAGM",
+          "PAGL",
+          "PAGX",
+          "PAHC",
+          "PAHO",
+          "PAHP",
+          "PAHL",
+          "PALG",
+          "PAKV",
+          "PFKA",
+          "PAEN",
+          "PAIK",
+          "PAKN",
+          "PAKI",
+          "PAVL",
+          "PAOB",
+          "PADQ",
+          "PADY",
+          "PFKO",
+          "PAOT",
+          "PAKK",
+          "PFKU",
+          "PFKW",
+          "PAGG",
+          "PADM",
+          "PAMY",
+          "PAMO",
+          "PAEW",
+          "PAGT",
+          "PAWN",
+          "PAOM",
+          "PFNO",
+          "PAQT",
+          "PANU",
+          "none",
+          "none",
+          "PAPO",
+          "PPIZ",
+          "PASC",
+          "PAQH",
+          "none",
+          "PARY",
+          "PARS",
+          "PASM",
+          "PAMK",
+          "PASA",
+          "PACM",
+          "PASK",
+          "PAHX",
+          "PFSH",
+          "none",
+          "PASH",
+          "PAGH",
+          "PASL",
+          "none",
+          "none",
+          "PATE",
+          "PATG",
+          "PAOO",
+          "none",
+          "none",
+          "none",
+          "PAUN",
+          "PAVD",
+          "PAWI",
+          "PAIW",
+          "PAWM"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Airport",
+        "values": [
+          "Akiachak Airport",
+          "Akiak Airport",
+          "Alakanuk Airport",
+          "Ambler Airport",
+          "Ted Stevens Anchorage International Airport",
+          "Aniak Airport",
+          "Anvik Airport",
+          "Atmautluak Airport",
+          "Atqasuk Edward Burnell Sr. Memorial Airport",
+          "Wiley Post-Will Rogers Memorial Airport",
+          "Barter Island LRRS Airport",
+          "Bethel Airport",
+          "Brevig Mission Airport",
+          "Buckland Airport",
+          "Chefornak Airport",
+          "Chevak Airport",
+          "Chuathbaluk Airport",
+          "Merle K. (Mudhole) Smith Airport",
+          "Crooked Creek Airport",
+          "Deering Airport",
+          "Dillingham Airport",
+          "Eek Airport",
+          "Elim Airport",
+          "Emmonak Airport",
+          "Fairbanks International Airport",
+          "Fort Yukon Airport",
+          "Edward G. Pitka Sr. Airport",
+          "Gambell Airport",
+          "Golovin Airport",
+          "Grayling Airport",
+          "Holy Cross Airport",
+          "Homer Airport",
+          "Hooper Bay Airport",
+          "Huslia Airport",
+          "Kalskag Airport",
+          "Kaltag Airport",
+          "Kasigluk Airport",
+          "Kenai Municipal Airport",
+          "Bob Baker Memorial Airport",
+          "King Salmon Airport",
+          "Kipnuk Airport",
+          "Kivalina Airport",
+          "Kobuk Airport",
+          "Kodiak Airport",
+          "Kongiganak Airport",
+          "Kotlik Airport",
+          "Ralph Wien Memorial Airport",
+          "Koyuk Alfred Adams Airport",
+          "Koyukuk Airport",
+          "Kwethluk Airport",
+          "Kwigillingok Airport",
+          "Marshall Don Hunter Sr. Airport",
+          "Mekoryuk Airport",
+          "Mountain Village Airport",
+          "Newtok Airport",
+          "Nightmute Airport",
+          "Noatak Airport",
+          "Nome Airport",
+          "Robert (Bob) Curtis Memorial Airport",
+          "Nuiqsut Airport",
+          "Nulato Airport",
+          "Nunapitchuk Airport",
+          "Pilot Station Airport",
+          "Point Hope Airport",
+          "Point Lay LRRS Airport",
+          "Deadhorse Airport",
+          "Quinhagak Airport",
+          "Red Devil Airport",
+          "Ruby Airport",
+          "Russian Mission Airport",
+          "St. Mary's Airport",
+          "St. Michael Airport",
+          "Savoonga Airport",
+          "Scammon Bay Airport",
+          "Selawik Airport",
+          "Shageluk Airport",
+          "Shaktoolik Airport",
+          "Sheldon Point Airport",
+          "Shishmaref Airport",
+          "Shungnak Airport",
+          "Sleetmute Airport",
+          "Stebbins Airport",
+          "Stony River Airport",
+          "Teller Airport",
+          "Togiak Airport",
+          "Toksook Bay Airport",
+          "Tuluksak Airport",
+          "Tuntutuliak Airport",
+          "Tununak Airport",
+          "Unalakleet Airport",
+          "Valdez Airport",
+          "Wainwright Airport",
+          "Wales Airport",
+          "White Mountain Airport"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Refs",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of Ravn Alaska destinations",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_Ravn_Alaska_destinations",
+    "page_entity_id": "Q25037387"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Akiachak,_Alaska",
+          "entity_id": "Q948838"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Akiachak_Airport",
+          "entity_id": "Q4059475"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Akiak,_Alaska",
+          "entity_id": "Q80070"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Akiak_Airport",
+          "entity_id": "Q4059477"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Alakanuk,_Alaska",
+          "entity_id": "Q79334"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Alakanuk_Airport",
+          "entity_id": "Q2060348"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ambler,_Alaska",
+          "entity_id": "Q602422"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ambler_Airport",
+          "entity_id": "Q2060909"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Anchorage,_Alaska",
+          "entity_id": "Q39450"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Ted_Stevens_Anchorage_International_Airport",
+          "entity_id": "Q767753"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Aniak,_Alaska",
+          "entity_id": "Q79540"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Aniak_Airport",
+          "entity_id": "Q2231697"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Anvik,_Alaska",
+          "entity_id": "Q79573"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Anvik_Airport",
+          "entity_id": "Q2060150"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Atmautluak,_Alaska",
+          "entity_id": "Q950654"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Atmautluak_Airport",
+          "entity_id": "Q2901694"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atqasuk,_Alaska",
+          "entity_id": "Q79714"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Atqasuk_Edward_Burnell_Sr._Memorial_Airport",
+          "entity_id": "Q2901946"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Barrow,_Alaska",
+          "entity_id": "Q79809"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Wiley_Post-Will_Rogers_Memorial_Airport",
+          "entity_id": "Q2061693"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Barter_Island",
+          "entity_id": "Q682051"
+        },
+        {
+          "start": 16,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Kaktovik,_Alaska",
+          "entity_id": "Q79717"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Barter_Island_LRRS_Airport",
+          "entity_id": "Q2789750"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bethel,_Alaska",
+          "entity_id": "Q80022"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bethel_Airport",
+          "entity_id": "Q619997"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brevig_Mission,_Alaska",
+          "entity_id": "Q79698"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Brevig_Mission_Airport",
+          "entity_id": "Q3813540"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Buckland,_Alaska",
+          "entity_id": "Q79731"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Buckland_Airport",
+          "entity_id": "Q3886986"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Chefornak,_Alaska",
+          "entity_id": "Q80075"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chefornak_Airport",
+          "entity_id": "Q1708562"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chevak,_Alaska",
+          "entity_id": "Q79343"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chevak_Airport",
+          "entity_id": "Q1707627"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chuathbaluk,_Alaska",
+          "entity_id": "Q79572"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Chuathbaluk_Airport",
+          "entity_id": "Q3274156"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cordova,_Alaska",
+          "entity_id": "Q79607"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Merle_K._(Mudhole)_Smith_Airport",
+          "entity_id": "Q652306"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Crooked_Creek,_Alaska",
+          "entity_id": "Q2025467"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Crooked_Creek_Airport",
+          "entity_id": "Q1658297"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Deering,_Alaska",
+          "entity_id": "Q79729"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Deering_Airport",
+          "entity_id": "Q1656069"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dillingham_Census_Area,_Alaska",
+          "entity_id": "Q277728"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Dillingham_Airport",
+          "entity_id": "Q1658290"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Eek,_Alaska",
+          "entity_id": "Q79356"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Eek_Airport",
+          "entity_id": "Q5347039"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Elim,_Alaska",
+          "entity_id": "Q79557"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Elim_Airport",
+          "entity_id": "Q4531227"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Emmonak,_Alaska",
+          "entity_id": "Q79553"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Emmonak_Airport",
+          "entity_id": "Q2060917"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Fairbanks,_Alaska",
+          "entity_id": "Q79638"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Fairbanks_International_Airport",
+          "entity_id": "Q1431295"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Fort_Yukon,_Alaska",
+          "entity_id": "Q79408"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fort_Yukon_Airport",
+          "entity_id": "Q4492014"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Galena,_Alaska",
+          "entity_id": "Q79737"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Edward_G._Pitka_Sr._Airport",
+          "entity_id": "Q3734163"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gambell,_Alaska",
+          "entity_id": "Q79677"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gambell_Airport",
+          "entity_id": "Q3275291"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Golovin,_Alaska",
+          "entity_id": "Q79379"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Golovin_Airport",
+          "entity_id": "Q49748652"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grayling,_Alaska",
+          "entity_id": "Q79551"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Grayling_Airport",
+          "entity_id": "Q3914146"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Holy_Cross,_Alaska",
+          "entity_id": "Q79507"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Holy_Cross_Airport",
+          "entity_id": "Q3207043"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Homer,_Alaska",
+          "entity_id": "Q79441"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Homer_Airport",
+          "entity_id": "Q49746891"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hooper_Bay,_Alaska",
+          "entity_id": "Q80144"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hooper_Bay_Airport",
+          "entity_id": "Q3206872"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Huslia,_Alaska",
+          "entity_id": "Q80086"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Huslia_Airport",
+          "entity_id": "Q80086"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Upper_Kalskag,_Alaska",
+          "entity_id": "Q79452"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kalskag_Airport",
+          "entity_id": "Q4210326"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaltag,_Alaska",
+          "entity_id": "Q79345"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kaltag_Airport",
+          "entity_id": "Q4210329"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kasigluk,_Alaska",
+          "entity_id": "Q2569800"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kasigluk_Airport",
+          "entity_id": "Q4219001"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kenai,_Alaska",
+          "entity_id": "Q79422"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kenai_Municipal_Airport",
+          "entity_id": "Q2502745"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kiana,_Alaska",
+          "entity_id": "Q79730"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Bob_Baker_Memorial_Airport",
+          "entity_id": "Q598164"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/King_Salmon,_Alaska",
+          "entity_id": "Q532057"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/King_Salmon_Airport",
+          "entity_id": "Q49747231"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kipnuk,_Alaska",
+          "entity_id": "Q2172124"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kipnuk_Airport",
+          "entity_id": "Q4221052"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kivalina,_Alaska",
+          "entity_id": "Q80133"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kivalina_Airport",
+          "entity_id": "Q4220005"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kobuk,_Alaska",
+          "entity_id": "Q79333"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kobuk_Airport",
+          "entity_id": "Q4225074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kodiak,_Alaska",
+          "entity_id": "Q79985"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kodiak_Airport",
+          "entity_id": "Q2667517"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kongiganak,_Alaska",
+          "entity_id": "Q1896049"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kongiganak_Airport",
+          "entity_id": "Q4230434"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kotlik,_Alaska",
+          "entity_id": "Q79561"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kotlik_Airport",
+          "entity_id": "Q2060188"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kotzebue,_Alaska",
+          "entity_id": "Q79810"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Ralph_Wien_Memorial_Airport",
+          "entity_id": "Q2061650"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Koyuk,_Alaska",
+          "entity_id": "Q80055"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Koyuk_Alfred_Adams_Airport",
+          "entity_id": "Q4163723"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Koyukuk,_Alaska",
+          "entity_id": "Q79685"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Koyukuk_Airport",
+          "entity_id": "Q3734883"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kwethluk,_Alaska",
+          "entity_id": "Q80147"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kwethluk_Airport",
+          "entity_id": "Q4250384"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kwigillingok,_Alaska",
+          "entity_id": "Q777889"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Kwigillingok_Airport",
+          "entity_id": "Q4218665"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Marshall,_Alaska",
+          "entity_id": "Q79550"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Marshall_Don_Hunter_Sr._Airport",
+          "entity_id": "Q650231"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Mekoryuk,_Alaska",
+          "entity_id": "Q80182"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mekoryuk_Airport",
+          "entity_id": "Q650218"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mountain_Village,_Alaska",
+          "entity_id": "Q79558"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Mountain_Village_Airport",
+          "entity_id": "Q3886095"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Newtok,_Alaska",
+          "entity_id": "Q1925873"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Newtok_Airport",
+          "entity_id": "Q4328379"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nightmute,_Alaska",
+          "entity_id": "Q79565"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nightmute_Airport",
+          "entity_id": "Q4312465"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Noatak,_Alaska",
+          "entity_id": "Q763921"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Noatak_Airport",
+          "entity_id": "Q4321802"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Nome,_Alaska",
+          "entity_id": "Q79996"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nome_Airport",
+          "entity_id": "Q2502241"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Noorvik,_Alaska",
+          "entity_id": "Q79377"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Robert_(Bob)_Curtis_Memorial_Airport",
+          "entity_id": "Q4328065"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nuiqsut,_Alaska",
+          "entity_id": "Q80112"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nuiqsut_Airport",
+          "entity_id": "Q3015471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Nulato,_Alaska",
+          "entity_id": "Q79392"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nulato_Airport",
+          "entity_id": "Q3015963"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nunapitchuk,_Alaska",
+          "entity_id": "Q79905"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Nunapitchuk_Airport",
+          "entity_id": "Q3015944"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pilot_Station,_Alaska",
+          "entity_id": "Q79921"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Pilot_Station_Airport",
+          "entity_id": "Q4342260"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Point_Hope,_Alaska",
+          "entity_id": "Q79813"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Point_Hope_Airport",
+          "entity_id": "Q4368996"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Point_Lay,_Alaska",
+          "entity_id": "Q1025954"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Point_Lay_LRRS_Airport",
+          "entity_id": "Q4368995"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Prudhoe_Bay,_Alaska",
+          "entity_id": "Q1013046"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Deadhorse,_Alaska",
+          "entity_id": "Q605671"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Deadhorse_Airport",
+          "entity_id": "Q1708497"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Quinhagak,_Alaska",
+          "entity_id": "Q79426"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Quinhagak_Airport",
+          "entity_id": "Q4245564"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Red_Devil,_Alaska",
+          "entity_id": "Q1866801"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Red_Devil_Airport",
+          "entity_id": "Q4392062"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Ruby,_Alaska",
+          "entity_id": "Q79807"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ruby_Airport",
+          "entity_id": "Q4274769"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Russian_Mission,_Alaska",
+          "entity_id": "Q79337"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Russian_Mission_Airport",
+          "entity_id": "Q4391335"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/St._Mary%27s,_Alaska",
+          "entity_id": "Q80087"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/St._Mary%27s_Airport_(Alaska)",
+          "entity_id": "Q4416330"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/St._Michael,_Alaska",
+          "entity_id": "Q80160"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St._Michael_Airport",
+          "entity_id": "Q4416324"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Savoonga,_Alaska",
+          "entity_id": "Q79513"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Savoonga_Airport",
+          "entity_id": "Q4404253"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Scammon_Bay,_Alaska",
+          "entity_id": "Q80094"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Scammon_Bay_Airport",
+          "entity_id": "Q4421544"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Selawik,_Alaska",
+          "entity_id": "Q79395"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Selawik_Airport",
+          "entity_id": "Q4413435"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shageluk,_Alaska",
+          "entity_id": "Q80081"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Shageluk_Airport",
+          "entity_id": "Q4519296"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Shaktoolik,_Alaska",
+          "entity_id": "Q79397"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Shaktoolik_Airport",
+          "entity_id": "Q4519591"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sheldon_Point,_Alaska",
+          "entity_id": "Q79545"
+        },
+        {
+          "start": 16,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Nunam_Iqua,_Alaska",
+          "entity_id": "Q79545"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Sheldon_Point_Airport",
+          "entity_id": "Q4522576"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Shishmaref,_Alaska",
+          "entity_id": "Q79723"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Shishmaref_Airport",
+          "entity_id": "Q2061661"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shungnak,_Alaska",
+          "entity_id": "Q79353"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Shungnak_Airport",
+          "entity_id": "Q4520157"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sleetmute,_Alaska",
+          "entity_id": "Q2744067"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sleetmute_Airport",
+          "entity_id": "Q4423475"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stebbins,_Alaska",
+          "entity_id": "Q79689"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Stebbins_Airport",
+          "entity_id": "Q4441417"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Stony_River,_Alaska",
+          "entity_id": "Q932485"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Stony_River_Airport",
+          "entity_id": "Q7619608"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Teller,_Alaska",
+          "entity_id": "Q79856"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Teller_Airport",
+          "entity_id": "Q4454235"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Togiak_Village,_Alaska",
+          "entity_id": "Q79258"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Togiak_Airport",
+          "entity_id": "Q4459336"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Toksook_Bay,_Alaska",
+          "entity_id": "Q79411"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Toksook_Bay_Airport",
+          "entity_id": "Q4459632"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tuluksak,_Alaska",
+          "entity_id": "Q2255196"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Tuluksak_Airport",
+          "entity_id": "Q4450606"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tuntutuliak,_Alaska",
+          "entity_id": "Q2212608"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Tuntutuliak_Airport",
+          "entity_id": "Q4451314"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tununak,_Alaska",
+          "entity_id": "Q550177"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tununak_Airport",
+          "entity_id": "Q4465556"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Unalakleet,_Alaska",
+          "entity_id": "Q79812"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Unalakleet_Airport",
+          "entity_id": "Q4475609"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Valdez,_Alaska",
+          "entity_id": "Q80037"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Valdez_Airport",
+          "entity_id": "Q2061683"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Wainwright,_Alaska",
+          "entity_id": "Q80033"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)",
+          "entity_id": "Q49751696"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wales,_Alaska",
+          "entity_id": "Q80043"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wales_Airport_(Alaska)",
+          "entity_id": "Q4479769"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/White_Mountain,_Alaska",
+          "entity_id": "Q79361"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Alaska",
+          "entity_id": "Q797"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/White_Mountain_Airport",
+          "entity_id": "Q4468436"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,4802 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_closed_railway_stations_in_Norfolk",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name on closure",
+        "values": [
+          "Abbey & West Dereham",
+          "Aldeby",
+          "Ashwellthorpe",
+          "Attlebridge",
+          "Aylsham North",
+          "Belton & Burgh",
+          "Bluestone",
+          "Boyces Bridge",
+          "Burnham Market",
+          "Buxton Lammas",
+          "Burston",
+          "Caister-on-Sea",
+          "Catfield",
+          "Cawston",
+          "Clenchwarton",
+          "Coltishall",
+          "Corpusty & Saxthorpe",
+          "County School",
+          "Cromer High",
+          "Cromer Links Halt",
+          "Docking",
+          "Drayton",
+          "Denver",
+          "Dereham",
+          "Dersingham",
+          "Ditchingham",
+          "Dunham",
+          "Earsham",
+          "East Rudham",
+          "East Winch",
+          "Ellingham",
+          "Elmbridge",
+          "Emneth",
+          "Fakenham West",
+          "Fakenham East",
+          "Felmingham",
+          "Ferry",
+          "Flordon",
+          "Forncett",
+          "Foulsham",
+          "Fransham",
+          "Gayton Road",
+          "Geldeston",
+          "Gorleston",
+          "Gorleston Links",
+          "Gorleston North",
+          "Great Ormesby",
+          "Grimston Road",
+          "Guestwick",
+          "Haddiscoe",
+          "Haddiscoe High Level",
+          "Hardingham",
+          "Harleston",
+          "Heacham",
+          "Hellesdon",
+          "Hemsby",
+          "Hethersett",
+          "Hilgay",
+          "Hillington",
+          "Hindolvestone",
+          "Holkham",
+          "Holme Hale",
+          "Holt",
+          "Homersfield",
+          "Honing",
+          "Hopton",
+          "Hunstanton",
+          "Kimberley Park",
+          "Lenwade",
+          "Martham",
+          "Massingham",
+          "Melton Constable",
+          "Middleton Towers",
+          "Middle Drove",
+          "Mundesley",
+          "Narborough & Pentney",
+          "Newtown Halt",
+          "North Elmham",
+          "North Walsham Town",
+          "North Wootton",
+          "Norwich City",
+          "Norwich Victoria",
+          "Overstrand",
+          "Paston & Knapton",
+          "Potter Heigham",
+          "Pulham Market",
+          "Pulham St Mary",
+          "Raynham Park",
+          "Redenhall",
+          "Reepham",
+          "Roudham Junction",
+          "Ryburgh",
+          "Ryston",
+          "Sedgeford",
+          "Sheringham",
+          "Sidestrand Halt",
+          "Smeeth Road",
+          "Snettisham",
+          "South Lynn",
+          "Spinks Lane",
+          "St Olaves",
+          "Stanhoe",
+          "Stalham",
+          "Starston",
+          "Stoke Ferry",
+          "Stow Bardolph",
+          "Stow Bedon",
+          "Swaffham",
+          "Swainsthorpe",
+          "Terrington",
+          "Thetford Bridge",
+          "Thursford",
+          "Thuxton",
+          "Tivetshall",
+          "Trimingham",
+          "Trowse",
+          "Upwell",
+          "Walpole",
+          "Walsingham",
+          "Watton",
+          "Wells-next-the-Sea",
+          "Wendling",
+          "Weybourne",
+          "Whitlingham",
+          "Whitwell & Reepham",
+          "Wighton Halt",
+          "Wolferton",
+          "Wortwell",
+          "Wretham & Hockham",
+          "Yarmouth Beach",
+          "Yarmouth South Town",
+          "Yaxham"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Place",
+        "values": [
+          "West Dereham",
+          "Aldeby",
+          "Ashwellthorpe",
+          "Attlebridge",
+          "Aylsham",
+          "Belton",
+          "Oulton",
+          "Emneth Hungate",
+          "Burnham Market",
+          "Buxton Lammas",
+          "Burston",
+          "Caister-on-Sea",
+          "Catfield",
+          "Cawston",
+          "Clenchwarton",
+          "Coltishall",
+          "Corpusty",
+          "North Elmham",
+          "Cromer",
+          "Cromer",
+          "Docking",
+          "Drayton",
+          "Denver",
+          "East Dereham",
+          "Dersingham",
+          "Ditchingham",
+          "Great Dunham",
+          "Earsham",
+          "East Rudham",
+          "East Winch",
+          "Ellingham",
+          "Elmbridge",
+          "Emneth Hungate",
+          "Fakenham",
+          "Fakenham",
+          "Felmingham",
+          "",
+          "Flordon",
+          "Forncett",
+          "Foulsham",
+          "Great Fransham",
+          "Gayton",
+          "Geldeston",
+          "Gorleston",
+          "Gorleston",
+          "Gorleston",
+          "Ormesby St Margaret",
+          "Grimston",
+          "Guestwick",
+          "Haddiscoe",
+          "Haddiscoe",
+          "Hardingham",
+          "Harleston",
+          "Heacham",
+          "Hellesdon",
+          "Hemsby",
+          "Hethersett",
+          "Hilgay",
+          "Hillington",
+          "Hindolveston",
+          "Holkham",
+          "Holme Hale",
+          "Holt",
+          "Homersfield",
+          "Honing",
+          "Hopton-on-Sea",
+          "Hunstanton",
+          "Kimberley",
+          "Lenwade",
+          "Martham",
+          "Massingham",
+          "Melton Constable",
+          "Middleton",
+          "Marshland St James",
+          "Mundesley",
+          "Narborough",
+          "Great Yarmouth",
+          "North Elmham",
+          "North Walsham",
+          "North Wootton",
+          "Norwich",
+          "Norwich",
+          "Overstrand",
+          "Paston",
+          "Potter Heigham",
+          "Pulham Market",
+          "Pulham St Mary",
+          "West Raynham",
+          "Redenhall",
+          "Reepham",
+          "Roudham",
+          "Ryburgh",
+          "Ryston",
+          "Sedgeford",
+          "Sheringham",
+          "Sidestrand",
+          "Smeeth",
+          "Snettisham",
+          "King's Lynn",
+          "Wymondham",
+          "St. Olaves",
+          "Stanhoe",
+          "Stalham",
+          "Starston",
+          "Stoke Ferry",
+          "Stow Bardolph",
+          "Stow Bedon",
+          "Swaffham",
+          "Swainsthorpe",
+          "Terrington",
+          "Thetford",
+          "Thursford",
+          "Thuxton",
+          "Tivetshall",
+          "Trimingham",
+          "Norwich",
+          "Upwell",
+          "Walpole",
+          "Walsingham",
+          "Watton",
+          "Wells-next-the-Sea",
+          "Wendling",
+          "Weybourne",
+          "Whitlingham",
+          "Reepham",
+          "Wighton",
+          "Wolferton",
+          "Wortwell",
+          "Wretham",
+          "Great Yarmouth",
+          "Great Yarmouth",
+          "Yaxham"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Opened",
+        "values": [
+          "1882",
+          "1854",
+          "1881",
+          "1882",
+          "1883",
+          "1859",
+          "1883",
+          "1883",
+          "1866",
+          "1872",
+          "1849",
+          "1877",
+          "1877",
+          "1881",
+          "1865",
+          "1879",
+          "1882",
+          "1884",
+          "1877",
+          "1923",
+          "1866",
+          "1882",
+          "1847",
+          "1847",
+          "1862",
+          "1863",
+          "1848",
+          "1860",
+          "1880",
+          "1846",
+          "1863",
+          "1883",
+          "1848",
+          "1880",
+          "1857",
+          "1883",
+          "1866",
+          "1849",
+          "1849",
+          "1882",
+          "1848",
+          "1887",
+          "1860",
+          "1903",
+          "1914",
+          "1903",
+          "1877",
+          "1879",
+          "1882",
+          "1847",
+          "1859",
+          "1847",
+          "1855",
+          "1862",
+          "1882",
+          "1877",
+          "1845",
+          "1847",
+          "1879",
+          "1882",
+          "1866",
+          "1869",
+          "1887",
+          "1860",
+          "1882",
+          "1903",
+          "1862",
+          "1847",
+          "1882",
+          "1877",
+          "1879",
+          "1882",
+          "1846",
+          "1848",
+          "1898",
+          "1846",
+          "1933",
+          "1857",
+          "1881",
+          "1862",
+          "1882",
+          "1849",
+          "1906",
+          "1898",
+          "1877",
+          "1860",
+          "1860",
+          "1880",
+          "1856",
+          "1881",
+          "1869",
+          "1857",
+          "1882",
+          "1866?",
+          "1887",
+          "1936",
+          "1848",
+          "1862",
+          "1886",
+          "1845",
+          "1859",
+          "1866",
+          "1877",
+          "1856",
+          "1882",
+          "1846",
+          "1869",
+          "1847",
+          "1849",
+          "1865",
+          "1875",
+          "1882",
+          "1847",
+          "1849",
+          "1906",
+          "1845",
+          "1883",
+          "1865",
+          "1857",
+          "1869",
+          "1857",
+          "1848",
+          "1901",
+          "1874",
+          "1882",
+          "",
+          "1862",
+          "1855",
+          "1869",
+          "1877",
+          "1859",
+          "1847"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Closed to passengers",
+        "values": [
+          "1930",
+          "1959",
+          "1939",
+          "1959",
+          "1959",
+          "1959",
+          "1916",
+          "1927",
+          "1952",
+          "1959",
+          "1966",
+          "1959",
+          "1959",
+          "1952",
+          "1959",
+          "1952",
+          "1959",
+          "1964",
+          "1954",
+          "1953",
+          "1952",
+          "1959",
+          "1930",
+          "1969",
+          "1969",
+          "1953",
+          "1968",
+          "1953",
+          "1959",
+          "1968",
+          "1953",
+          "1927",
+          "1968",
+          "1959",
+          "1964",
+          "1959",
+          "1959",
+          "1961",
+          "1966",
+          "1952",
+          "1968",
+          "1959",
+          "1953",
+          "1970",
+          "1970",
+          "1942",
+          "1959",
+          "1959",
+          "1959",
+          "1904",
+          "1959",
+          "1969",
+          "1953",
+          "1969",
+          "1953",
+          "1959",
+          "1966",
+          "1963",
+          "1959",
+          "1953",
+          "1952",
+          "1968",
+          "1964",
+          "1953",
+          "1959",
+          "1970",
+          "1969",
+          "1969",
+          "1959",
+          "1959",
+          "1959",
+          "1964",
+          "1968",
+          "1968",
+          "1964",
+          "1968",
+          "1959",
+          "1964",
+          "1959",
+          "1969",
+          "1959",
+          "1916",
+          "1953",
+          "1964",
+          "1959",
+          "1953",
+          "1953",
+          "1959",
+          "1866",
+          "1952",
+          "1932",
+          "1964",
+          "1930",
+          "1952",
+          "1967",
+          "1953",
+          "1968",
+          "1969",
+          "1959",
+          "1845",
+          "1959",
+          "1952",
+          "1959",
+          "1866",
+          "1930",
+          "1963",
+          "1964",
+          "1968",
+          "1952",
+          "1959",
+          "1953",
+          "1959",
+          "1969",
+          "1966",
+          "1953",
+          "1939",
+          "1927",
+          "1959",
+          "1964",
+          "1968",
+          "1964",
+          "1968",
+          "1964",
+          "1965",
+          "1959",
+          "1964",
+          "1969",
+          "1878",
+          "1968",
+          "1959",
+          "1970",
+          "1969"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Railway company",
+        "values": [
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Upwell Tramway",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Norfolk and Suffolk",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Upwell Tramway",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Norfolk and Suffolk",
+          "Norfolk and Suffolk",
+          "Norfolk and Suffolk",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Norfolk and Suffolk",
+          "Great Eastern",
+          "Great Eastern Railway",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Norfolk and Suffolk",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Norfolk & Suffolk",
+          "Norfolk and Suffolk",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Norfolk and Suffolk Joint Railway",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Norfolk and Suffolk",
+          "Great Eastern",
+          "Upwell Tramway",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Great Eastern",
+          "Midland & Great Northern",
+          "Norfolk and Suffolk",
+          "Great Eastern Railway"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "There is a Buxton railway station on the Bure Valley Railway .",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "A Coltishall railway station is open on the Bure Valley Railway .",
+          "",
+          "Preserved by the Mid-Norfolk Railway . Due to be re-opened.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the Mid-Norfolk Railway .",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Replaced in 1904 by the modern Haddiscoe railway station .",
+          "",
+          "Now part of the Mid Norfolk Railway",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Nearby station on North Norfolk Railway opened in late 1980s",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the Mid Norfolk Railway",
+          "",
+          "",
+          "",
+          "Site of major engineering works.",
+          "Line is still open for occasional sand traffic and rail tours",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the Mid-Norfolk Railway",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the North Norfolk Railway",
+          "",
+          "",
+          "",
+          "Served the southern edge of King's Lynn . On a separate line from the present King's Lynn railway station .",
+          "Closed after a few months.",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Preserved as part of the Mid-Norfolk Railway .",
+          "",
+          "",
+          "Briefly re-opened in 1986 while Norwich was renovated.",
+          "North Norfolk Railway has a preserved carriage from theWisbech and Upwell Tramway, which runs as part of its vintage set of carriages on special occasions",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the North Norfolk Railway",
+          "",
+          "Preserved by the Whitwell & Reepham Preservation Society",
+          "Preserved by the Wells and Walsingham",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Preserved by the Mid Norfolk Railway"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of closed railway stations in Norfolk",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_closed_railway_stations_in_Norfolk",
+    "page_entity_id": "Q6610276"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Abbey_and_West_Dereham_railway_station",
+          "entity_id": "Q4664070"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Dereham",
+          "entity_id": "Q2239667"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Aldeby_railway_station",
+          "entity_id": "Q4713500"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Aldeby",
+          "entity_id": "Q1785132"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ashwellthorpe_railway_station",
+          "entity_id": "Q4806182"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ashwellthorpe",
+          "entity_id": "Q3259701"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Attlebridge_railway_station",
+          "entity_id": "Q4818572"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Attlebridge",
+          "entity_id": "Q758213"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Aylsham_(North)_railway_station",
+          "entity_id": "Q4831441"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Aylsham",
+          "entity_id": "Q237625"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Belton_and_Burgh_railway_station",
+          "entity_id": "Q4884776"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Belton_with_Browston",
+          "entity_id": "Q532548"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bluestone_railway_station",
+          "entity_id": "Q4930587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Oulton,_Norfolk",
+          "entity_id": "Q2646193"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Boyces_Bridge_railway_station",
+          "entity_id": "Q4952264"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Emneth_Hungate",
+          "entity_id": "Q5373636"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Wisbech_and_Upwell_Tramway",
+          "entity_id": "Q8027074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Burnham_Market_railway_station",
+          "entity_id": "Q4999746"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Burnham_Market",
+          "entity_id": "Q2685104"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Buxton_Lammas_railway_station",
+          "entity_id": "Q5003271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Buxton_Lammas",
+          "entity_id": "Q5003287"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 11,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Buxton_(Norfolk)_railway_station",
+          "entity_id": "Q5003285"
+        },
+        {
+          "start": 41,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/Bure_Valley_Railway",
+          "entity_id": "Q4998335"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Burston_railway_station",
+          "entity_id": "Q5000658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Burston,_Norfolk",
+          "entity_id": "Q655332"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Caister-on-Sea_railway_station",
+          "entity_id": "Q5017839"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Caister-on-Sea",
+          "entity_id": "Q629427"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Catfield_railway_station",
+          "entity_id": "Q5051970"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Catfield",
+          "entity_id": "Q2193889"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cawston_railway_station",
+          "entity_id": "Q5055236"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cawston,_Norfolk",
+          "entity_id": "Q1820102"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Clenchwarton_railway_station",
+          "entity_id": "Q5131599"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Clenchwarton",
+          "entity_id": "Q5131603"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coltishall_railway_station",
+          "entity_id": "Q5149451"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coltishall",
+          "entity_id": "Q1009661"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 2,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Coltishall_railway_station",
+          "entity_id": "Q5149451"
+        },
+        {
+          "start": 44,
+          "end": 63,
+          "url": "http://en.wikipedia.org/wiki/Bure_Valley_Railway",
+          "entity_id": "Q4998335"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Corpusty_railway_station",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Corpusty",
+          "entity_id": "Q5172689"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/County_School_railway_station",
+          "entity_id": "Q5177758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/North_Elmham",
+          "entity_id": "Q1921629"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mid-Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cromer_High_railway_station",
+          "entity_id": "Q47504684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cromer",
+          "entity_id": "Q208296"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Cromer_Links_Halt_railway_station",
+          "entity_id": "Q47504685"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cromer",
+          "entity_id": "Q208296"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Docking_railway_station",
+          "entity_id": "Q5287222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Docking,_Norfolk",
+          "entity_id": "Q2659115"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Drayton_railway_station",
+          "entity_id": "Q5306138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Drayton,_Norfolk",
+          "entity_id": "Q589226"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver_railway_station_(Great_Eastern)",
+          "entity_id": "Q5259815"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Denver,_Norfolk",
+          "entity_id": "Q5259660"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Dereham_railway_station",
+          "entity_id": "Q5261757"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/East_Dereham",
+          "entity_id": "Q302893"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mid-Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dersingham_railway_station",
+          "entity_id": "Q5263267"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dersingham",
+          "entity_id": "Q1779758"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ditchingham_railway_station",
+          "entity_id": "Q5283636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ditchingham",
+          "entity_id": "Q2663539"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dunham_railway_station",
+          "entity_id": "Q5315258"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Great_Dunham",
+          "entity_id": "Q3544785"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Earsham_railway_station",
+          "entity_id": "Q5326982"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Earsham",
+          "entity_id": "Q2582310"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/East_Rudham_railway_station",
+          "entity_id": "Q5329310"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/East_Rudham",
+          "entity_id": "Q2771329"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/East_Winch_railway_station",
+          "entity_id": "Q5329690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/East_Winch",
+          "entity_id": "Q628818"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ellingham_railway_station",
+          "entity_id": "Q5365396"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ellingham,_Norfolk",
+          "entity_id": "Q2315450"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Elmbridge_railway_station",
+          "entity_id": "Q5366436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Elm,_Cambridgeshire",
+          "entity_id": "Q2288608"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Wisbech_and_Upwell_Tramway",
+          "entity_id": "Q8027074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Emneth_railway_station",
+          "entity_id": "Q5373637"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Emneth_Hungate",
+          "entity_id": "Q5373636"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Fakenham_West_railway_station",
+          "entity_id": "Q5431504"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Fakenham",
+          "entity_id": "Q237650"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Fakenham_East_railway_station",
+          "entity_id": "Q5431501"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Fakenham",
+          "entity_id": "Q237650"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Felmingham_railway_station",
+          "entity_id": "Q5442563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Felmingham",
+          "entity_id": "Q2304717"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ferry_railway_station",
+          "entity_id": "Q5445515"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Flordon_railway_station",
+          "entity_id": "Q5460500"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Flordon",
+          "entity_id": "Q2237563"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Forncett_railway_station",
+          "entity_id": "Q5470365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Forncett_St_Mary",
+          "entity_id": "Q5470368"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Foulsham_railway_station",
+          "entity_id": "Q5474217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Foulsham",
+          "entity_id": "Q2595321"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Fransham_railway_station",
+          "entity_id": "Q5492433"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Great_Fransham",
+          "entity_id": "Q5599217"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gayton_Road_railway_station",
+          "entity_id": "Q5528925"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gayton,_Norfolk",
+          "entity_id": "Q2368493"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Geldeston_railway_station",
+          "entity_id": "Q5530399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Geldeston",
+          "entity_id": "Q3290857"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gorleston_railway_station",
+          "entity_id": "Q5586592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gorleston",
+          "entity_id": "Q369657"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gorleston_Links_railway_station",
+          "entity_id": "Q5586591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gorleston",
+          "entity_id": "Q369657"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gorleston_North_railway_station",
+          "entity_id": "Q5586595"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gorleston",
+          "entity_id": "Q369657"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Ormesby_railway_station",
+          "entity_id": "Q5599719"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Ormesby_St_Margaret",
+          "entity_id": "Q7103398"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Grimston_Road_railway_station",
+          "entity_id": "Q5609361"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grimston,_Norfolk",
+          "entity_id": "Q2126573"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guestwick_railway_station",
+          "entity_id": "Q5615143"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guestwick",
+          "entity_id": "Q3227954"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Haddiscoe_(NR)_railway_station",
+          "entity_id": "Q5637679"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Haddiscoe",
+          "entity_id": "Q1869035"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 31,
+          "end": 56,
+          "url": "http://en.wikipedia.org/wiki/Haddiscoe_railway_station",
+          "entity_id": "Q2754722"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Herringfleet_Junction_railway_station",
+          "entity_id": "Q5637677"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Haddiscoe",
+          "entity_id": "Q1869035"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hardingham_railway_station",
+          "entity_id": "Q5656160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hardingham",
+          "entity_id": "Q2577845"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Mid_Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Harleston_railway_station",
+          "entity_id": "Q5658718"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Harleston,_Norfolk",
+          "entity_id": "Q2933556"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Heacham_railway_station",
+          "entity_id": "Q15223417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Heacham",
+          "entity_id": "Q2199636"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hellesdon_railway_station",
+          "entity_id": "Q5707438"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hellesdon",
+          "entity_id": "Q2596192"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hemsby_railway_station",
+          "entity_id": "Q5712761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hemsby",
+          "entity_id": "Q2670662"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hethersett_railway_station",
+          "entity_id": "Q5747955"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hethersett",
+          "entity_id": "Q181821"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hilgay_railway_station",
+          "entity_id": "Q5761820"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hilgay",
+          "entity_id": "Q2630161"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hillington_railway_station",
+          "entity_id": "Q5763323"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hillington,_Norfolk",
+          "entity_id": "Q683759"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hindolvestone_railway_station",
+          "entity_id": "Q5766156"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hindolveston",
+          "entity_id": "Q2616115"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Holkham_railway_station",
+          "entity_id": "Q5880737"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Holkham",
+          "entity_id": "Q2740658"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Holme_Hale_railway_station",
+          "entity_id": "Q5883373"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Holme_Hale",
+          "entity_id": "Q2613498"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Holt_railway_station",
+          "entity_id": "Q5884619"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Holt,_Norfolk",
+          "entity_id": "Q691558"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      [
+        {
+          "start": 18,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/North_Norfolk_Railway",
+          "entity_id": "Q7056196"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Homersfield_railway_station",
+          "entity_id": "Q5890363"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Homersfield",
+          "entity_id": "Q9293459"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Honing_railway_station",
+          "entity_id": "Q5896246"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Honing,_Norfolk",
+          "entity_id": "Q2520089"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hopton_railway_station",
+          "entity_id": "Q15225105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hopton-on-Sea,_Norfolk",
+          "entity_id": "Q2980788"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hunstanton_railway_station",
+          "entity_id": "Q5943782"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hunstanton",
+          "entity_id": "Q617188"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kimberley_Park_railway_station",
+          "entity_id": "Q6409843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kimberley,_Norfolk",
+          "entity_id": "Q2622982"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mid_Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lenwade_railway_station",
+          "entity_id": "Q6523418"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lenwade",
+          "entity_id": "Q6523417"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Martham_railway_station",
+          "entity_id": "Q6774637"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Martham",
+          "entity_id": "Q2107271"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Massingham_railway_station",
+          "entity_id": "Q6784777"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Great_Massingham",
+          "entity_id": "Q1866436"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Melton_Constable_railway_station",
+          "entity_id": "Q6813784"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Melton_Constable",
+          "entity_id": "Q2174070"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Middleton_Towers_railway_station",
+          "entity_id": "Q6842050"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Middleton,_Norfolk",
+          "entity_id": "Q2657926"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 61,
+          "url": "http://en.wikipedia.org/wiki/Lynn_and_Dereham_Railway",
+          "entity_id": "Q6709309"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Middle_Drove_railway_station",
+          "entity_id": "Q6841307"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Marshland_St_James",
+          "entity_id": "Q6773925"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mundesley_railway_station",
+          "entity_id": "Q6935791"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mundesley",
+          "entity_id": "Q601728"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Narborough_and_Pentney_railway_station",
+          "entity_id": "Q6965600"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Narborough,_Norfolk",
+          "entity_id": "Q2554095"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Newtown_Halt_railway_station",
+          "entity_id": "Q15262213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Great_Yarmouth",
+          "entity_id": "Q237253"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/North_Elmham_railway_station",
+          "entity_id": "Q15262512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/North_Elmham",
+          "entity_id": "Q1921629"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mid-Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/North_Walsham_Town_railway_station",
+          "entity_id": "Q15262540"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/North_Walsham",
+          "entity_id": "Q327168"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/North_Wootton_railway_station",
+          "entity_id": "Q7057424"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/North_Wootton,_Norfolk",
+          "entity_id": "Q2683611"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Norwich_City_railway_station",
+          "entity_id": "Q7061487"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norwich",
+          "entity_id": "Q130191"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Norwich_Victoria_railway_station",
+          "entity_id": "Q7061552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norwich",
+          "entity_id": "Q130191"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Overstrand_railway_station",
+          "entity_id": "Q7113989"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Overstrand",
+          "entity_id": "Q39448"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Paston_%26_Knapton_railway_station",
+          "entity_id": "Q7143021"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Paston,_Norfolk",
+          "entity_id": "Q2361291"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Potter_Heigham_railway_station",
+          "entity_id": "Q7235266"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Potter_Heigham",
+          "entity_id": "Q2511316"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pulham_Market_railway_station",
+          "entity_id": "Q7259301"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pulham_Market",
+          "entity_id": "Q964856"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Pulham_St_Mary_railway_station",
+          "entity_id": "Q7259302"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Pulham_St_Mary",
+          "entity_id": "Q7259303"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Raynham_Park_railway_station",
+          "entity_id": "Q7299341"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Raynham",
+          "entity_id": "Q7986326"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Redenhall_railway_station",
+          "entity_id": "Q7305786"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Redenhall",
+          "entity_id": "Q129764"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Reepham_(Norfolk)_railway_station",
+          "entity_id": "Q7306951"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Reepham,_Norfolk",
+          "entity_id": "Q1501141"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Roudham_Junction_railway_station",
+          "entity_id": "Q7370749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Roudham",
+          "entity_id": "Q7370750"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ryburgh_railway_station",
+          "entity_id": "Q7384790"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ryburgh",
+          "entity_id": "Q7384796"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ryston_railway_station",
+          "entity_id": "Q7385381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ryston",
+          "entity_id": "Q2176158"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sedgeford_railway_station",
+          "entity_id": "Q7445237"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sedgeford",
+          "entity_id": "Q7445242"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sheringham_(North_Norfolk_Railway)_railway_station",
+          "entity_id": "Q15277175"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sheringham",
+          "entity_id": "Q239496"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/North_Norfolk_Railway",
+          "entity_id": "Q7056196"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sidestrand_Halt_railway_station",
+          "entity_id": "Q7508480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sidestrand",
+          "entity_id": "Q332912"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Smeeth_Road_railway_station",
+          "entity_id": "Q7544369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Smeeth",
+          "entity_id": "Q2311580"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Snettisham_railway_station",
+          "entity_id": "Q7547684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Snettisham",
+          "entity_id": "Q999768"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/South_Lynn_railway_station",
+          "entity_id": "Q7567868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/King%27s_Lynn",
+          "entity_id": "Q157341"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      [
+        {
+          "start": 28,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/King%27s_Lynn",
+          "entity_id": "Q157341"
+        },
+        {
+          "start": 78,
+          "end": 105,
+          "url": "http://en.wikipedia.org/wiki/King%27s_Lynn_railway_station",
+          "entity_id": "Q285604"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Spinks_Lane_railway_station",
+          "entity_id": "Q7577580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wymondham",
+          "entity_id": "Q1787230"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/St_Olaves_railway_station",
+          "entity_id": "Q7594997"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St._Olaves",
+          "entity_id": "Q7595001"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Stanhoe_railway_station",
+          "entity_id": "Q7598855"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Stanhoe",
+          "entity_id": "Q1921791"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Stalham_railway_station",
+          "entity_id": "Q16248113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Stalham",
+          "entity_id": "Q2335729"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Starston_railway_station",
+          "entity_id": "Q7602442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Starston",
+          "entity_id": "Q2332002"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Stoke_Ferry_railway_station",
+          "entity_id": "Q7618455"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Stoke_Ferry",
+          "entity_id": "Q1914294"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Stow_Bardolph_railway_station",
+          "entity_id": "Q7620656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Stow_Bardolph",
+          "entity_id": "Q3109776"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Stow_Bedon_railway_station",
+          "entity_id": "Q7620657"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Stow_Bedon",
+          "entity_id": "Q2531738"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Swaffham_railway_station",
+          "entity_id": "Q7652930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Swaffham",
+          "entity_id": "Q1527491"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Swainsthorpe_railway_station",
+          "entity_id": "Q7653044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Swainsthorpe",
+          "entity_id": "Q2229179"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Terrington_railway_station",
+          "entity_id": "Q7703722"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Terrington",
+          "entity_id": "Q3451280"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Thetford_Bridge_railway_station",
+          "entity_id": "Q7783564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thetford",
+          "entity_id": "Q237250"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thursford_railway_station",
+          "entity_id": "Q7799421"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thursford",
+          "entity_id": "Q2472619"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Thuxton_railway_station",
+          "entity_id": "Q7799504"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Thuxton",
+          "entity_id": "Q7799506"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 25,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Mid-Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tivetshall_railway_station",
+          "entity_id": "Q7810412"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tivetshall_St_Margaret",
+          "entity_id": "Q1817703"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Trimingham_railway_station",
+          "entity_id": "Q7842232"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Trimingham",
+          "entity_id": "Q2930551"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Trowse_railway_station",
+          "entity_id": "Q7846695"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norwich",
+          "entity_id": "Q130191"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 32,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Norwich_railway_station",
+          "entity_id": "Q389902"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Upwell_railway_station_(Upwell_Tramway)",
+          "entity_id": "Q7899491"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Upwell",
+          "entity_id": "Q2595094"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Wisbech_and_Upwell_Tramway",
+          "entity_id": "Q8027074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walpole_railway_station_(England)",
+          "entity_id": "Q7963737"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walpole,_Norfolk",
+          "entity_id": "Q4983143"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Walsingham_railway_station",
+          "entity_id": "Q7963865"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Walsingham",
+          "entity_id": "Q739666"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Watton_railway_station",
+          "entity_id": "Q7975004"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Watton,_Norfolk",
+          "entity_id": "Q2396339"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Wells-On-Sea_railway_station",
+          "entity_id": "Q7981616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Wells-next-the-Sea",
+          "entity_id": "Q930204"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Wendling_railway_station",
+          "entity_id": "Q7982531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Wendling",
+          "entity_id": "Q693925"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Weybourne_railway_station",
+          "entity_id": "Q7990292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Weybourne,_Norfolk",
+          "entity_id": "Q2347426"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/North_Norfolk_Railway",
+          "entity_id": "Q7056196"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Whitlingham_railway_station",
+          "entity_id": "Q7996584"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Whitlingham",
+          "entity_id": "Q4568982"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Whitwell_railway_station,_Norfolk",
+          "entity_id": "Q7996956"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Reepham,_Norfolk",
+          "entity_id": "Q1501141"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Wighton_Halt_railway_station",
+          "entity_id": "Q7999660"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wighton",
+          "entity_id": "Q1931523"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Wells_and_Walsingham_Light_Railway",
+          "entity_id": "Q7981722"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wolferton_railway_station",
+          "entity_id": "Q8030006"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wolferton",
+          "entity_id": "Q8030009"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Wortwell_railway_station",
+          "entity_id": "Q8037292"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Wortwell",
+          "entity_id": "Q2368477"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wretham_and_Hockham_railway_station",
+          "entity_id": "Q8038109"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wretham",
+          "entity_id": "Q2063594"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Yarmouth_Beach_railway_station",
+          "entity_id": "Q8049388"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Great_Yarmouth",
+          "entity_id": "Q237253"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Midland_and_Great_Northern_Joint_Railway",
+          "entity_id": "Q6842471"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Yarmouth_South_Town_railway_station",
+          "entity_id": "Q8049402"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Great_Yarmouth",
+          "entity_id": "Q237253"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Norfolk_and_Suffolk_Joint_Railway",
+          "entity_id": "Q7051143"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yaxham_railway_station",
+          "entity_id": "Q8050492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yaxham",
+          "entity_id": "Q2273369"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Great_Eastern_Railway",
+          "entity_id": "Q1544279"
+        }
+      ],
+      [
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Mid_Norfolk_Railway",
+          "entity_id": "Q6840763"
+        }
+      ]
+    ]
+  ]
+}

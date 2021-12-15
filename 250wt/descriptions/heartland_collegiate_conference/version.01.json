@@ -1,0 +1,194 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q23002054",
+        "rel_uri": "wd:Q23002054",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Institution"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+        "rel_uri": "wd:Q1093829",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Location"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q847017",
+        "rel_uri": "wd:Q847017",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Nickname"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Founded"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Joined"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Left"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Conference \njoined"
+      },
+      {
+        "id": "context-Q28227926",
+        "value": "http://www.wikidata.org/entity/Q28227926",
+        "readable_label": "Heartland Collegiate Conference (Q28227926)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q2992826",
+        "rel_uri": "wd:Q2992826",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P571",
+        "rel_uri": "p:P571",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P1268",
+        "rel_uri": "p:P1268",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-3",
+        "target": "context-Q28227926",
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-3",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P580",
+        "rel_uri": "p:P580",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      },
+      {
+        "source": "c-3",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P582",
+        "rel_uri": "p:P582",
+        "approximation": false,
+        "readable_label": null,
+        "id": 11
+      },
+      {
+        "source": "c-4",
+        "target": "d-6",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 12
+      }
+    ]
+  }
+]

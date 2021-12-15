@@ -1,0 +1,784 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Live:_With_Teeth_Tour",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "May 26, 2006",
+          "May 27, 2006",
+          "May 28, 2006",
+          "May 30, 2006",
+          "May 31, 2006",
+          "June 2, 2006",
+          "June 3, 2006",
+          "June 4, 2006",
+          "June 6, 2006",
+          "June 7, 2006",
+          "June 9, 2006",
+          "June 10, 2006",
+          "June 11, 2006",
+          "June 13, 2006",
+          "June 14, 2006",
+          "June 16, 2006",
+          "June 17, 2006",
+          "June 18, 2006",
+          "June 20, 2006",
+          "June 21, 2006",
+          "June 23, 2006",
+          "June 24, 2006",
+          "June 25, 2006",
+          "June 27, 2006",
+          "June 28, 2006",
+          "June 30, 2006",
+          "July 1, 2006",
+          "July 2, 2006",
+          "July 3, 2006",
+          "July 7, 2006",
+          "July 8, 2006"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "George, Washington",
+          "Ridgefield, Washington",
+          "Nampa, Idaho",
+          "Morrison, Colorado",
+          "Albuquerque, New Mexico",
+          "Selma, Texas",
+          "Dallas",
+          "The Woodlands, Texas",
+          "Pelham, Alabama",
+          "Atlanta",
+          "Raleigh, North Carolina",
+          "Charlotte, North Carolina",
+          "Virginia Beach, Virginia",
+          "Bristow, Virginia",
+          "Camden, New Jersey",
+          "Holmdel, New Jersey",
+          "Wantagh, New York",
+          "Saratoga Springs, New York",
+          "Hartford, Connecticut",
+          "Portland, Maine",
+          "Boston",
+          "Toronto",
+          "Clarkston, Michigan",
+          "Cuyahoga Falls, Ohio",
+          "Columbus, Ohio",
+          "Burgettstown, Pennsylvania",
+          "Tinley Park, Illinois",
+          "Milwaukee",
+          "Noblesville, Indiana",
+          "Irvine, California",
+          "Mountain View, California"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "The Gorge Amphitheatre",
+          "The Amphitheater at Clark County",
+          "Idaho Center",
+          "Red Rocks Amphitheatre",
+          "Journal Pavilion",
+          "Verizon Wireless Amphitheater",
+          "Smirnoff Music Center",
+          "Cynthia Woods Mitchell Pavilion",
+          "Verizon Wireless Music Center",
+          "HiFi Buys Amphitheatre",
+          "Alltel Pavilion",
+          "Verizon Wireless Amphitheatre",
+          "Verizon Wireless Amphitheater",
+          "Nissan Pavilion",
+          "Tweeter Center at the Waterfront",
+          "PNC Bank Arts Center",
+          "Tommy Hilfiger at Jones Beach Theater",
+          "Saratoga Performing Arts Center",
+          "New England Dodge Music Center",
+          "Cumberland County Civic Center",
+          "Tweeter Center",
+          "Molson Amphitheatre",
+          "DTE Energy Music Theatre",
+          "Blossom Music Center",
+          "Germain Amphitheater",
+          "Post-Gazette Pavilion",
+          "First Midwest Bank Amphitheatre",
+          "Marcus Amphitheater",
+          "Verizon Wireless Music Center",
+          "Verizon Wireless Amphitheatre",
+          "Shoreline Amphitheatre"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Live: With Teeth Tour",
+    "page_url": "https://en.wikipedia.org/wiki/Live:_With_Teeth_Tour",
+    "page_entity_id": "Q6654535"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/George,_Washington",
+          "entity_id": "Q1519093"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/The_Gorge_Amphitheatre",
+          "entity_id": "Q254740"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Ridgefield,_Washington",
+          "entity_id": "Q1505990"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/The_Amphitheater_at_Clark_County",
+          "entity_id": "Q7539680"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nampa,_Idaho",
+          "entity_id": "Q622633"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Idaho_Center",
+          "entity_id": "Q5987326"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Morrison,_Colorado",
+          "entity_id": "Q2275047"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Red_Rocks_Amphitheatre",
+          "entity_id": "Q2182648"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico",
+          "entity_id": "Q34804"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Journal_Pavilion",
+          "entity_id": "Q14705992"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Selma,_Texas",
+          "entity_id": "Q981911"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheater_(Selma)",
+          "entity_id": "Q3023977"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Smirnoff_Music_Center",
+          "entity_id": "Q5554959"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Woodlands,_Texas",
+          "entity_id": "Q982421"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Cynthia_Woods_Mitchell_Pavilion",
+          "entity_id": "Q5200176"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Pelham,_Alabama",
+          "entity_id": "Q79479"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Music_Center_(Birmingham)",
+          "entity_id": "Q7921450"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/HiFi_Buys_Amphitheatre",
+          "entity_id": "Q4661762"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Raleigh,_North_Carolina",
+          "entity_id": "Q41087"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Alltel_Pavilion_at_Walnut_Creek",
+          "entity_id": "Q7805199"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_(Charlotte)",
+          "entity_id": "Q3023993"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",
+          "entity_id": "Q49259"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_Virginia_Beach",
+          "entity_id": "Q5435470"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bristow,_Virginia",
+          "entity_id": "Q4969135"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nissan_Pavilion",
+          "entity_id": "Q6192246"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Camden,_New_Jersey",
+          "entity_id": "Q138367"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_at_the_Waterfront",
+          "entity_id": "Q7649297"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Holmdel,_New_Jersey",
+          "entity_id": "Q1474335"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/PNC_Bank_Arts_Center",
+          "entity_id": "Q7119814"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wantagh,_New_York",
+          "entity_id": "Q3451844"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Tommy_Hilfiger_at_Jones_Beach_Theater",
+          "entity_id": "Q7036549"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Saratoga_Springs,_New_York",
+          "entity_id": "Q1144357"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Saratoga_Performing_Arts_Center",
+          "entity_id": "Q7423369"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Hartford,_Connecticut",
+          "entity_id": "Q33486"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/New_England_Dodge_Music_Center",
+          "entity_id": "Q5018312"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Maine",
+          "entity_id": "Q49201"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Cumberland_County_Civic_Center",
+          "entity_id": "Q145530"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_Boston",
+          "entity_id": "Q5018650"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Molson_Amphitheatre",
+          "entity_id": "Q6896841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Clarkston,_Michigan",
+          "entity_id": "Q1095872"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/DTE_Energy_Music_Theatre",
+          "entity_id": "Q5206234"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Cuyahoga_Falls,_Ohio",
+          "entity_id": "Q531958"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Blossom_Music_Center",
+          "entity_id": "Q4928440"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Germain_Amphitheater",
+          "entity_id": "Q5550971"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Burgettstown,_Pennsylvania",
+          "entity_id": "Q1132117"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Post-Gazette_Pavilion",
+          "entity_id": "Q5453451"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Tinley_Park,_Illinois",
+          "entity_id": "Q1761214"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/First_Midwest_Bank_Amphitheatre",
+          "entity_id": "Q5453333"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Marcus_Amphitheater",
+          "entity_id": "Q6757991"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Noblesville,_Indiana",
+          "entity_id": "Q1645069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Music_Center_(Indiana)",
+          "entity_id": "Q6421127"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Irvine,_California",
+          "entity_id": "Q49219"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_(Irvine)",
+          "entity_id": "Q7921446"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Mountain_View,_California",
+          "entity_id": "Q486860"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shoreline_Amphitheatre",
+          "entity_id": "Q7501435"
+        }
+      ]
+    ]
+  ]
+}

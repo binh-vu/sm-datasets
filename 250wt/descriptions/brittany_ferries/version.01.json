@@ -1,0 +1,186 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q11446",
+        "rel_uri": "wd:Q11446",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Ship"
+      },
+      {
+        "id": "c-8",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-8",
+        "col_index": 8,
+        "label": "Port of registry"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Built"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Entered service"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Gross tonnage"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Length"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Beam"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Service speed"
+      },
+      {
+        "id": "d-7",
+        "col_index": 7,
+        "label": "Vessel type"
+      },
+      {
+        "id": "d-9",
+        "col_index": 9,
+        "label": "Current status"
+      },
+      {
+        "id": "context-Q2925773",
+        "value": "http://www.wikidata.org/entity/Q2925773",
+        "readable_label": "Brittany Ferries (Q2925773)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1093",
+        "rel_uri": "p:P1093",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P2043",
+        "rel_uri": "p:P2043",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P2261",
+        "rel_uri": "p:P2261",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-8",
+        "abs_uri": "http://www.wikidata.org/prop/P532",
+        "rel_uri": "p:P532",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.wikidata.org/prop/P729",
+        "rel_uri": "p:P729",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-0",
+        "target": "d-6",
+        "abs_uri": "http://www.wikidata.org/prop/P2052",
+        "rel_uri": "p:P2052",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P137",
+        "rel_uri": "p:P137",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-8",
+        "target": "d:c-8",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-1",
+        "target": "context-Q2925773",
+        "abs_uri": "http://www.wikidata.org/prop/P137",
+        "rel_uri": "p:P137",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      },
+      {
+        "source": "c-1",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P580",
+        "rel_uri": "p:P580",
+        "approximation": false,
+        "readable_label": null,
+        "id": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,584 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2018–19_Walsall_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date from",
+        "values": [
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "7 August 2018",
+          "15 August 2018",
+          "1 January 2019",
+          "12 January 2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Position",
+        "values": [
+          "DM",
+          "CM",
+          "CM",
+          "GK",
+          "CF",
+          "AM",
+          "LB",
+          "LM",
+          "CF",
+          "CF",
+          "LW",
+          "CB"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Milan Butterfield",
+          "Florent Cuvelier",
+          "Reece Flanagan",
+          "Mark Gillespie",
+          "Simeon Jackson",
+          "Erhun Oztumer",
+          "Joshveer Shergill",
+          "Will Shorrock",
+          "Amadou Bakayoko",
+          "Joseph Cairns",
+          "Josh Ginnelly",
+          "Russell Martin"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To",
+        "values": [
+          "Free agent",
+          "Morecambe",
+          "Free agent",
+          " Motherwell",
+          " St Mirren",
+          "Bolton Wanderers",
+          "Leeds United",
+          "Free agent",
+          "Coventry City",
+          "Gottne",
+          "Preston North End",
+          "Milton Keynes Dons"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Fee",
+        "values": [
+          "Released",
+          "Released",
+          "Released",
+          "Free transfer",
+          "Released",
+          "Free transfer",
+          "Undisclosed",
+          "Released",
+          "Undisclosed",
+          "Free transfer",
+          "Undisclosed",
+          "Mutual consent"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Ref.",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2018–19 Walsall F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/2018–19_Walsall_F.C._season",
+    "page_entity_id": "Q55388288"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Bermuda",
+          "entity_id": "Q23635"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Milan_Butterfield",
+          "entity_id": "Q62604384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Free_agent",
+          "entity_id": "Q969772"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Florent_Cuvelier",
+          "entity_id": "Q2920474"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Morecambe_F.C.",
+          "entity_id": "Q48944"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Reece_Flanagan",
+          "entity_id": "Q18043855"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Free_agent",
+          "entity_id": "Q969772"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Goalkeeper_(association_football)",
+          "entity_id": "Q201330"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mark_Gillespie_(footballer)",
+          "entity_id": "Q6767750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        },
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Motherwell_F.C.",
+          "entity_id": "Q216523"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Simeon_Jackson",
+          "entity_id": "Q1319161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        },
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/St_Mirren_F.C.",
+          "entity_id": "Q319136"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Attacking_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Erhun_Oztumer",
+          "entity_id": "Q17715125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bolton_Wanderers_F.C.",
+          "entity_id": "Q19451"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Leeds_United_F.C.",
+          "entity_id": "Q1128631"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Will_Shorrock",
+          "entity_id": "Q28086165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Free_agent",
+          "entity_id": "Q969772"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Sierra_Leone",
+          "entity_id": "Q1044"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Amadou_Bakayoko",
+          "entity_id": "Q16153407"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Coventry_City_F.C.",
+          "entity_id": "Q19580"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_winger_(football)",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Josh_Ginnelly",
+          "entity_id": "Q18043944"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Preston_North_End_F.C.",
+          "entity_id": "Q19612"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Russell_Martin_(footballer)",
+          "entity_id": "Q555382"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Milton_Keynes_Dons_F.C.",
+          "entity_id": "Q248188"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

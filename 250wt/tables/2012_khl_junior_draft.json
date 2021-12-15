@@ -1,0 +1,826 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2012_KHL_Junior_Draft",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "107",
+          "108",
+          "109",
+          "110",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118",
+          "119",
+          "120",
+          "121",
+          "122",
+          "123",
+          "124",
+          "125",
+          "126",
+          "127",
+          "128",
+          "129",
+          "130",
+          "131",
+          "132",
+          "133"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Alexander Mokchantsev",
+          "Timur Bilyalov",
+          "Stepan Khripunov",
+          "Vladislav Vorolayev",
+          "Jakub Orsava",
+          "Artyom Prokhorov",
+          "Nikita Cherepanov",
+          "Nathan MacKinnon",
+          "Kevin Antipov",
+          "Igor Boldin",
+          "Pavel Popov",
+          "Kristian Khenkel",
+          "Joonas Korpisalo",
+          "Kirill Grigoriev",
+          "Nikita Mikhailis",
+          "Dmitri Vorobyov",
+          "Nikita Setdikov",
+          "Dmitri Yermochenko",
+          "Fredrik Claesson",
+          "Fyodor Kozlovski",
+          "Vadim Orekhov",
+          "Andrei Mironov",
+          "Jonatan Nielsen",
+          "Andrei Yerofeyev",
+          "Henri Ikonen",
+          "Jan Košťálek",
+          "Matej Paulovič"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Position",
+        "values": [
+          "F",
+          "",
+          "",
+          "",
+          "F",
+          "",
+          "",
+          "F",
+          "",
+          "",
+          "",
+          "D",
+          "G",
+          "",
+          "F",
+          "",
+          "",
+          "",
+          "D",
+          "",
+          "",
+          "",
+          "D",
+          "",
+          "F",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Russia",
+          " Russia",
+          " Russia",
+          " Russia",
+          " Czech Republic",
+          " Russia",
+          " Russia",
+          " Canada",
+          " Russia",
+          " Russia",
+          " Russia",
+          " Belarus",
+          " Finland",
+          " Russia",
+          " Kazakhstan",
+          " Russia",
+          " Russia",
+          " Russia",
+          " Sweden",
+          " Russia",
+          " Russia",
+          " Russia",
+          " Sweden",
+          " Russia",
+          " Finland",
+          " Czech Republic",
+          " Slovakia"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "KHL team",
+        "values": [
+          "Lokomotiv Yaroslavl",
+          "Ak Bars Kazan",
+          "Avtomobilist Yekaterinburg",
+          "Avtomobilist Yekaterinburg",
+          "Sibir Novossibirsk",
+          "HK CSKA Moscow",
+          "Lokomotiv Yaroslavl",
+          "Vityaz Chekhov",
+          "Metallurg Novokuznetsk",
+          "HK Spartak Moscow",
+          "Yugra Khanty-Mansiïsk",
+          "Dinamo Minsk",
+          "Amur Khabarovsk",
+          "Severstal Cherepovets",
+          "Barys Astana",
+          "HK Spartak Moscow",
+          "Salavat Yulayev Ufa",
+          "OHK Dinamo",
+          "Severstal Cherepovets",
+          "Avangard Omsk",
+          "Sibir Novossibirsk",
+          "OHK Dinamo",
+          "SKA Saint Petersburg",
+          "Traktor Chelyabinsk",
+          "HC Donbass",
+          "HC Lev Praha",
+          "HC Slovan Bratislava"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Drafted from",
+        "values": [
+          "Lokomotiv Yaroslavl",
+          "Ak Bars Kazan",
+          "Salavat Yulayev Ufa",
+          "Spoutnik Nizhni Taguil",
+          "HC Trinec",
+          "Krylia Sovetov",
+          "Lokomotiv Yaroslavl",
+          "Halifax Mooseheads",
+          "HK CSKA Moscow",
+          "HK Spartak Moscow",
+          "Traktor Chelyabinsk",
+          "HK Yunost Minsk",
+          "Jokerit jr.",
+          "HK Russ",
+          "Barys Astana",
+          "Krylia Sovetov",
+          "HK Russ",
+          "OHK Dinamo",
+          "Djurgården",
+          "Avangard Omsk",
+          "Sibir Novossibirsk",
+          "OHK Dinamo",
+          "Linköpings HC",
+          "Traktor Chelyabinsk",
+          "KalPa",
+          "HC Sparta Prague",
+          "Färjestad BK jr."
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Protected player",
+        "values": [
+          "",
+          "",
+          "1/5",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2012 KHL Junior Draft",
+    "page_url": "https://en.wikipedia.org/wiki/2012_KHL_Junior_Draft",
+    "page_entity_id": "Q1718679"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Spoutnik_Nizhni_Taguil&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/HC_Trinec",
+          "entity_id": "Q1532215"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nathan_MacKinnon",
+          "entity_id": "Q1966594"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Halifax_Mooseheads",
+          "entity_id": "Q1571070"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kristian_Khenkel",
+          "entity_id": "Q18916545"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/HK_Yunost_Minsk",
+          "entity_id": "Q36982"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Joonas_Korpisalo",
+          "entity_id": "Q6276024"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jokerit",
+          "entity_id": "Q1357204"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/w/index.php?title=HK_Russ&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nikita_Mikhailis",
+          "entity_id": "Q18001521"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kazakhstan",
+          "entity_id": "Q232"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Fredrik_Claesson",
+          "entity_id": "Q1343933"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Djurg%C3%A5rden",
+          "entity_id": "Q831527"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Andrei_Mironov_(ice_hockey)",
+          "entity_id": "Q13553996"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jonatan_Nielsen",
+          "entity_id": "Q165821"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Link%C3%B6pings_HC",
+          "entity_id": "Q1422769"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Henri_Ikonen",
+          "entity_id": "Q5715532"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/KalPa",
+          "entity_id": "Q1722202"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jan_Ko%C5%A1%C5%A5%C3%A1lek",
+          "entity_id": "Q16229356"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/HC_Sparta_Prague",
+          "entity_id": "Q1425170"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Matej_Paulovi%C4%8D",
+          "entity_id": "Q19518576"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slovakia",
+          "entity_id": "Q214"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/F%C3%A4rjestad_BK",
+          "entity_id": "Q1122553"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Area served"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+        "rel_uri": "wd:Q1093829",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "City of license"
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q1616075",
+        "rel_uri": "wd:Q1616075",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Callsign"
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q1254874",
+        "rel_uri": "wd:Q1254874",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-5",
+        "col_index": 5,
+        "label": "Network"
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "Notes"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "VC"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "RF"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-4",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P1416",
+        "rel_uri": "p:P1416",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-4",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P1408",
+        "rel_uri": "p:P1408",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-5",
+        "target": "d:c-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

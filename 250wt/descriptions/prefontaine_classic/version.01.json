@@ -1,0 +1,110 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Athlete"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q2312410",
+        "rel_uri": "wd:Q2312410",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Event"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q6256",
+        "rel_uri": "wd:Q6256",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Nationality"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Record"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Date"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Ref"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Video"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P2416",
+        "rel_uri": "p:P2416",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-2",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P27",
+        "rel_uri": "p:P27",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

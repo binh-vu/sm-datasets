@@ -1,0 +1,1294 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Walter_Payton_Award",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015",
+          "2014",
+          "2013",
+          "2012",
+          "2011",
+          "2010",
+          "2009",
+          "2008",
+          "2007",
+          "2006",
+          "2005",
+          "2004",
+          "2003",
+          "2002",
+          "2001",
+          "2000",
+          "1999",
+          "1998",
+          "1997",
+          "1996",
+          "1995",
+          "1994",
+          "1993",
+          "1992",
+          "1991",
+          "1990",
+          "1989",
+          "1988",
+          "1987"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Trey Lance",
+          "Devlin Hodges",
+          "Jeremiah Briscoe  (2)",
+          "Jeremiah Briscoe",
+          "Cooper Kupp",
+          "John Robertson",
+          "Jimmy Garoppolo",
+          "Taylor Heinicke",
+          "Bo Levi Mitchell",
+          "Jeremy Moses",
+          "Armanti Edwards  (2)",
+          "Armanti Edwards",
+          "Jayson Foster",
+          "Ricky Santos",
+          "Erik Meyer",
+          "Lang Campbell",
+          "Jamaal Branch",
+          "Tony Romo",
+          "Brian Westbrook",
+          "Louis Ivory",
+          "Adrian Peterson",
+          "Jerry Azumah",
+          "Brian Finneran",
+          "Archie Amerson",
+          "Dave Dickenson",
+          "Steve McNair",
+          "Doug Nussmeier",
+          "Michael Payton",
+          "Jamie Martin",
+          "Walter Dean",
+          "John Friesz",
+          "Dave Meggett",
+          "Kenny Gamble"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "School",
+        "values": [
+          "North Dakota State",
+          "Samford",
+          "Sam Houston State",
+          "Sam Houston State",
+          "Eastern Washington",
+          "Villanova",
+          "Eastern Illinois",
+          "Old Dominion",
+          "Eastern Washington",
+          "Stephen F. Austin",
+          "Appalachian State",
+          "Appalachian State",
+          "Georgia Southern",
+          "New Hampshire",
+          "Eastern Washington",
+          "William & Mary",
+          "Colgate",
+          "Eastern Illinois",
+          "Villanova",
+          "Furman",
+          "Georgia Southern",
+          "New Hampshire",
+          "Villanova",
+          "Northern Arizona",
+          "Montana",
+          "Alcorn State",
+          "Idaho",
+          "Marshall",
+          "Weber State",
+          "Grambling",
+          "Idaho",
+          "Towson State",
+          "Colgate"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Position",
+        "values": [
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "WR",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "RB",
+          "QB",
+          "RB",
+          "RB",
+          "RB",
+          "RB",
+          "WR",
+          "RB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "QB",
+          "RB",
+          "QB",
+          "RB",
+          "RB"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Walter Payton Award",
+    "page_url": "https://en.wikipedia.org/wiki/Walter_Payton_Award",
+    "page_entity_id": "Q7965804"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2019_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q60769436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Trey_Lance",
+          "entity_id": "Q81753651"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/2019_North_Dakota_State_Bison_football_team",
+          "entity_id": "Q73922580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2018_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q55264117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Devlin_Hodges",
+          "entity_id": "Q61964196"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2018_Samford_Bulldogs_football_team",
+          "entity_id": "Q55264318"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2017_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q28449509"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jeremiah_Briscoe",
+          "entity_id": "Q28147566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2016_Sam_Houston_State_Bearkats_football_team",
+          "entity_id": "Q24260888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2016_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q23302436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jeremiah_Briscoe",
+          "entity_id": "Q28147566"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2016_Sam_Houston_State_Bearkats_football_team",
+          "entity_id": "Q24260888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2015_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q18890013"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cooper_Kupp",
+          "entity_id": "Q16235552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/2015_Eastern_Washington_Eagles_football_team",
+          "entity_id": "Q19867738"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Wide_receiver",
+          "entity_id": "Q918224"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2014_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q16969524"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/John_Robertson_(American_football)",
+          "entity_id": "Q14950715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/2014_Villanova_Wildcats_football_team",
+          "entity_id": "Q17002703"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2013_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4629626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jimmy_Garoppolo",
+          "entity_id": "Q15631945"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/2013_Eastern_Illinois_Panthers_football_team",
+          "entity_id": "Q16971879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2012_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4626257"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Taylor_Heinicke",
+          "entity_id": "Q16235438"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/2012_Old_Dominion_Monarchs_football_team",
+          "entity_id": "Q4626429"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2011_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4621908"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bo_Levi_Mitchell",
+          "entity_id": "Q4931121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/2011_Eastern_Washington_Eagles_football_team",
+          "entity_id": "Q4620950"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2010_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4617924"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jeremy_Moses",
+          "entity_id": "Q18763542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2010_Stephen_F._Austin_Lumberjacks_football_team",
+          "entity_id": "Q28448876"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2009_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4614372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Armanti_Edwards",
+          "entity_id": "Q2862100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2009_Appalachian_State_Mountaineers_football_team",
+          "entity_id": "Q4613204"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2008_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4611570"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Armanti_Edwards",
+          "entity_id": "Q2862100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2008_Appalachian_State_Mountaineers_football_team",
+          "entity_id": "Q4610496"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2007_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4608943"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jayson_Foster",
+          "entity_id": "Q6167982"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/2007_Georgia_Southern_Eagles_football_team",
+          "entity_id": "Q4608537"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2006_NCAA_Division_I_FCS_football_season",
+          "entity_id": "Q4606656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ricky_Santos",
+          "entity_id": "Q7332185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/2006_New_Hampshire_Wildcats_football_team",
+          "entity_id": "Q18706098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2005_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q4604618"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Erik_Meyer",
+          "entity_id": "Q3731722"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Eastern_Washington_Eagles_football",
+          "entity_id": "Q16192128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2004_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q4603091"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lang_Campbell",
+          "entity_id": "Q6485592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/2004_William_%26_Mary_Tribe_football_team",
+          "entity_id": "Q4603459"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2003_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16820633"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jamaal_Branch",
+          "entity_id": "Q14950260"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Colgate_Raiders_football",
+          "entity_id": "Q5144783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2002_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16820621"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tony_Romo",
+          "entity_id": "Q14027"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/2002_Eastern_Illinois_Panthers_football_team",
+          "entity_id": "Q22094977"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2001_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16820610"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Brian_Westbrook",
+          "entity_id": "Q359126"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Villanova_Wildcats_football",
+          "entity_id": "Q7930885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2000_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16820598"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Louis_Ivory",
+          "entity_id": "Q6687448"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Furman_Paladins_football",
+          "entity_id": "Q5509586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1999_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822473"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Adrian_Peterson_(American_football,_born_1979)",
+          "entity_id": "Q1398352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/1999_Georgia_Southern_Eagles_football_team",
+          "entity_id": "Q22097156"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1998_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jerry_Azumah",
+          "entity_id": "Q1687797"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_Hampshire_Wildcats_football",
+          "entity_id": "Q7008335"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1997_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822454"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brian_Finneran",
+          "entity_id": "Q4963742"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Villanova_Wildcats_football",
+          "entity_id": "Q7930885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Wide_receiver",
+          "entity_id": "Q918224"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1996_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Archie_Amerson",
+          "entity_id": "Q4786608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Northern_Arizona_Lumberjacks_football",
+          "entity_id": "Q7058128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1995_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Dave_Dickenson",
+          "entity_id": "Q5228667"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1995_Montana_Grizzlies_football_team",
+          "entity_id": "Q4590488"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1994_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Steve_McNair",
+          "entity_id": "Q167818"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/1994_Alcorn_State_Braves_football_team",
+          "entity_id": "Q19864121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1993_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822409"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Doug_Nussmeier",
+          "entity_id": "Q5300782"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/1993_Idaho_Vandals_football_team",
+          "entity_id": "Q28449286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1992_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Michael_Payton",
+          "entity_id": "Q6833431"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/1992_Marshall_Thundering_Herd_football_team",
+          "entity_id": "Q4587762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1991_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822386"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jamie_Martin_(American_football)",
+          "entity_id": "Q6147171"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1991_Weber_State_Wildcats_football_team",
+          "entity_id": "Q85726530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1990_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822376"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Walter_Dean",
+          "entity_id": "Q7964663"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Grambling_State_Tigers_football",
+          "entity_id": "Q5593614"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1989_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822362"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Friesz",
+          "entity_id": "Q969241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/1989_Idaho_Vandals_football_team",
+          "entity_id": "Q4585219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1988_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dave_Meggett",
+          "entity_id": "Q5229372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Towson_Tigers_football",
+          "entity_id": "Q7830321"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1987_NCAA_Division_I-AA_football_season",
+          "entity_id": "Q16822341"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kenny_Gamble_(football_player)",
+          "entity_id": "Q6391058"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Colgate_Raiders_football",
+          "entity_id": "Q5144783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Running_back",
+          "entity_id": "Q912985"
+        }
+      ]
+    ]
+  ]
+}

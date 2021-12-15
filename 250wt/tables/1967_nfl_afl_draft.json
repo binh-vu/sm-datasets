@@ -1,0 +1,836 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1967_NFL/AFL_Draft",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Original NFL team",
+        "values": [
+          "Chicago Bears",
+          "Dallas Cowboys",
+          "Dallas Cowboys",
+          "Dallas Cowboys",
+          "Denver Broncos",
+          "Houston Oilers",
+          "Kansas City Chiefs",
+          "New Orleans Saints",
+          "New York Giants",
+          "New York Jets",
+          "New York Jets",
+          "Pittsburgh Steelers",
+          "San Diego Chargers",
+          "San Diego Chargers",
+          "San Diego Chargers",
+          "San Francisco 49ers"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Rudy Kuechenberg",
+          "Coy Bacon  †",
+          "Ron East",
+          "Mac Percival",
+          "Chip Myrtle",
+          "Alvin Reed  †",
+          "Jan Stenerud",
+          "Elijah Nevett",
+          "Bob Lurtsema",
+          "Randy Beverly",
+          "John Matlock",
+          "Sam Davis",
+          "Larry Little",
+          "Jeff Staggs",
+          "Kay Stephenson",
+          "Dave Olerich"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Pos.",
+        "values": [
+          "LB",
+          "DT",
+          "DT",
+          "K",
+          "LB",
+          "TE",
+          "K",
+          "CB",
+          "DE",
+          "CB",
+          "C",
+          "G",
+          "OT",
+          "LB",
+          "QB",
+          "LB"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "College",
+        "values": [
+          "Indiana",
+          "Jackson State",
+          "Montana State",
+          "Texas Tech",
+          "Maryland",
+          "Prairie View A&M",
+          "Montana State",
+          "Clark Atlanta",
+          "Western Michigan",
+          "Colorado State",
+          "Miami",
+          "Allen",
+          "Bethune-Cookman",
+          "San Diego State",
+          "Florida",
+          "San Francisco"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Conf.",
+        "values": [
+          "Big Ten",
+          "SWAC",
+          "Big Sky",
+          "SWC",
+          "ACC",
+          "SWAC",
+          "Big Sky",
+          "SIAC",
+          "MAC",
+          "Ind.",
+          "Ind.",
+          "SIAC",
+          "SIAC",
+          "CCAA",
+          "SEC",
+          "Ind. (Coll.)"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1967 NFL/AFL Draft",
+    "page_url": "https://en.wikipedia.org/wiki/1967_NFL/AFL_Draft",
+    "page_entity_id": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1967_Chicago_Bears_season",
+          "entity_id": "Q3514495"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rudy_Kuechenberg",
+          "entity_id": "Q7377636"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Linebacker",
+          "entity_id": "Q528145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1966_Indiana_Hoosiers_football_team",
+          "entity_id": "Q21188085"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Big_Ten_Conference",
+          "entity_id": "Q729478"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1967_Dallas_Cowboys_season",
+          "entity_id": "Q3513984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Coy_Bacon",
+          "entity_id": "Q5179994"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_tackle",
+          "entity_id": "Q2550304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jackson_State_Tigers_football",
+          "entity_id": "Q6117383"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Southwestern_Athletic_Conference",
+          "entity_id": "Q946006"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1967_Dallas_Cowboys_season",
+          "entity_id": "Q3513984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ron_East",
+          "entity_id": "Q7363726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_tackle",
+          "entity_id": "Q2550304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Montana_State_University",
+          "entity_id": "Q1861687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Big_Sky_Conference",
+          "entity_id": "Q859280"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1967_Dallas_Cowboys_season",
+          "entity_id": "Q3513984"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mac_Percival",
+          "entity_id": "Q6722348"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/Placekicker",
+          "entity_id": "Q1638113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/1966_Texas_Tech_Red_Raiders_football_team",
+          "entity_id": "Q41603579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Southwest_Conference",
+          "entity_id": "Q7571245"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1967_Denver_Broncos_season",
+          "entity_id": "Q2909454"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chip_Myrtle",
+          "entity_id": "Q5101534"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Linebacker",
+          "entity_id": "Q528145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/1966_Maryland_Terrapins_football_team",
+          "entity_id": "Q25004487"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_Coast_Conference",
+          "entity_id": "Q756355"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/1967_Houston_Oilers_season",
+          "entity_id": "Q2909326"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Alvin_Reed",
+          "entity_id": "Q4738204"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Tight_end",
+          "entity_id": "Q1153176"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Prairie_View_A%26M_Panthers_football",
+          "entity_id": "Q7238023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Southwestern_Athletic_Conference",
+          "entity_id": "Q946006"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1967_Kansas_City_Chiefs_season",
+          "entity_id": "Q2909480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jan_Stenerud",
+          "entity_id": "Q80404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/Placekicker",
+          "entity_id": "Q1638113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Montana_State_University",
+          "entity_id": "Q1861687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Big_Sky_Conference",
+          "entity_id": "Q859280"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1967_New_Orleans_Saints_season",
+          "entity_id": "Q3514023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Elijah_Nevett",
+          "entity_id": "Q5360974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Cornerback",
+          "entity_id": "Q869161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Clark_Atlanta_Panthers_football",
+          "entity_id": "Q48834467"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Southern_Intercollegiate_Athletic_Conference",
+          "entity_id": "Q7570039"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1967_New_York_Giants_season",
+          "entity_id": "Q3514187"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bob_Lurtsema",
+          "entity_id": "Q3641312"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_end",
+          "entity_id": "Q903354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/1966_Western_Michigan_Broncos_football_team",
+          "entity_id": "Q28444771"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Mid-American_Conference",
+          "entity_id": "Q1373755"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1967_New_York_Jets_season",
+          "entity_id": "Q2909399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Randy_Beverly",
+          "entity_id": "Q5574474"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Cornerback",
+          "entity_id": "Q869161"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Colorado_State_Rams_football",
+          "entity_id": "Q5148952"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/NCAA_Division_I_FBS_independent_schools",
+          "entity_id": "Q3150658"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/1967_New_York_Jets_season",
+          "entity_id": "Q2909399"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/John_Matlock",
+          "entity_id": "Q71334333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/Center_(gridiron_football)",
+          "entity_id": "Q25075"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/1966_Miami_Hurricanes_football_team",
+          "entity_id": "Q4572352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/NCAA_Division_I_FBS_independent_schools",
+          "entity_id": "Q3150658"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1967_Pittsburgh_Steelers_season",
+          "entity_id": "Q3514222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sam_Davis_(American_football)",
+          "entity_id": "Q7407400"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/Guard_(American_and_Canadian_football)",
+          "entity_id": "Q25113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Allen_Yellow_Jackets_football",
+          "entity_id": "Q49041"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Southern_Intercollegiate_Athletic_Conference",
+          "entity_id": "Q7570039"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1967_San_Diego_Chargers_season",
+          "entity_id": "Q2909538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Larry_Little",
+          "entity_id": "Q1806086"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Tackle_(gridiron_football_position)#Offensive_tackle",
+          "entity_id": "Q24976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bethune-Cookman_Wildcats_football",
+          "entity_id": "Q4898115"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Southern_Intercollegiate_Athletic_Conference",
+          "entity_id": "Q7570039"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1967_San_Diego_Chargers_season",
+          "entity_id": "Q2909538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jeff_Staggs",
+          "entity_id": "Q6175040"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Linebacker",
+          "entity_id": "Q528145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/1966_San_Diego_State_Aztecs_football_team",
+          "entity_id": "Q28451142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/California_Collegiate_Athletic_Association",
+          "entity_id": "Q5020346"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/1967_San_Diego_Chargers_season",
+          "entity_id": "Q2909538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kay_Stephenson",
+          "entity_id": "Q4108063"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Quarterback",
+          "entity_id": "Q622747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1966_Florida_Gators_football_team",
+          "entity_id": "Q20807531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Southeastern_Conference",
+          "entity_id": "Q963227"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/1967_San_Francisco_49ers_season",
+          "entity_id": "Q3514426"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dave_Olerich",
+          "entity_id": "Q14950981"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Linebacker",
+          "entity_id": "Q528145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco_Dons_football",
+          "entity_id": "Q7413998"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/NCAA_Division_II_independent_schools",
+          "entity_id": "Q6952924"
+        }
+      ],
+      []
+    ]
+  ]
+}

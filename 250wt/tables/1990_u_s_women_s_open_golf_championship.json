@@ -1,0 +1,292 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1990_U.S._Women's_Open_Golf_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "T4",
+          "T4",
+          "T6",
+          "T6",
+          "T8",
+          "T8",
+          "T8"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Patty Sheehan",
+          "Mary Murphy",
+          "Betsy King",
+          "Danielle Ammaccapane",
+          "Caroline Keggi",
+          "Amy Alcott",
+          "Beth Daniel",
+          "Tammie Green",
+          "Sherri Turner",
+          "Colleen Walker"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "66-68-75=209",
+          "70-74-69=213",
+          "72-71-71=214",
+          "72-73-70=215",
+          "67-75-73=215",
+          "72-72-72=216",
+          "71-71-74=216",
+          "70-74-73=217",
+          "74-72-71=217",
+          "69-75-73=217"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "−7",
+          "−3",
+          "−2",
+          "−1",
+          "−1",
+          "E",
+          "E",
+          "+1",
+          "+1",
+          "+1"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1990 U.S. Women's Open Golf Championship",
+    "page_url": "https://en.wikipedia.org/wiki/1990_U.S._Women's_Open_Golf_Championship",
+    "page_entity_id": null
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Patty_Sheehan",
+          "entity_id": "Q460348"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Betsy_King",
+          "entity_id": "Q782206"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Danielle_Ammaccapane",
+          "entity_id": "Q5219333"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Amy_Alcott",
+          "entity_id": "Q2844546"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Beth_Daniel",
+          "entity_id": "Q2900071"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tammie_Green",
+          "entity_id": "Q4950869"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sherri_Turner",
+          "entity_id": "Q4983643"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Colleen_Walker",
+          "entity_id": "Q964453"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

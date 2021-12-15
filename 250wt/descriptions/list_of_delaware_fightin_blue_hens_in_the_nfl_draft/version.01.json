@@ -1,0 +1,133 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Player name"
+      },
+      {
+        "id": "c-6",
+        "abs_uri": "http://www.wikidata.org/entity/Q17156793",
+        "rel_uri": "wd:Q17156793",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "NFL team"
+      },
+      {
+        "id": "d:c-7",
+        "col_index": 7,
+        "label": "Notes"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Round"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Pick"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Overall"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Position"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-4",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P413",
+        "rel_uri": "p:P413",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-4",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P647",
+        "rel_uri": "p:P647",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-6",
+        "target": "d:c-6",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-1",
+        "target": "c-6",
+        "abs_uri": "http://www.wikidata.org/prop/P647",
+        "rel_uri": "p:P647",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-1",
+        "target": "d-2",
+        "abs_uri": "http://www.wikidata.org/prop/P1836",
+        "rel_uri": "p:P1836",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-1",
+        "target": "d-0",
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "rel_uri": "p:P585",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      }
+    ]
+  }
+]

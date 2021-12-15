@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q35054:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q35054",
+        "rel_uri": "wd:Q35054",
+        "approximation": false,
+        "readable_label": "post office (Q35054)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q35054:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q35054:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P1435",
+        "rel_uri": "p:P1435",
+        "approximation": false,
+        "readable_label": "heritage designation (P1435)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q35054:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P6375",
+        "rel_uri": "p:P6375",
+        "approximation": false,
+        "readable_label": "street address (P6375)",
+        "id": 3
+      }
+    ]
+  }
+]

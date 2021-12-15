@@ -1,0 +1,210 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2009_World_Fencing_Championships",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Position",
+        "values": [
+          "1.",
+          "2.",
+          "3.",
+          "3.",
+          "5.",
+          "6.",
+          "7.",
+          "8."
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Nicolas Limbach",
+          "Rareș Dumitrescu",
+          "Luigi Tarantino",
+          "Tamás Decsi",
+          "Aldo Montano",
+          "Florin Zalomir",
+          "Oh Eun-seok",
+          "Vladimir Lukashenko"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " Germany",
+          " Romania",
+          " Italy",
+          " Hungary",
+          " Italy",
+          " Romania",
+          " South Korea",
+          " Ukraine"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2009 World Fencing Championships",
+    "page_url": "https://en.wikipedia.org/wiki/2009_World_Fencing_Championships",
+    "page_entity_id": "Q769651"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nicolas_Limbach",
+          "entity_id": "Q69202"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rare%C8%99_Dumitrescu",
+          "entity_id": "Q795927"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Luigi_Tarantino",
+          "entity_id": "Q765974"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tam%C3%A1s_Decsi",
+          "entity_id": "Q3514901"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Aldo_Montano_(fencer_born_1978)",
+          "entity_id": "Q955360"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Florin_Zalomir",
+          "entity_id": "Q1442858"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Oh_Eun-seok",
+          "entity_id": "Q487915"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/South_Korea",
+          "entity_id": "Q884"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Vladimir_Lukashenko",
+          "entity_id": "Q3562931"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ]
+    ]
+  ]
+}

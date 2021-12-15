@@ -1,0 +1,278 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Name of Elected M.P."
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Party Affiliation"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "No."
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Constituency"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Type"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q47481352",
+        "rel_uri": "wd:Q47481352",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-4",
+        "value": "http://www.wikidata.org/entity/Q42529900",
+        "readable_label": "Member of the 11th Lok Sabha (Q42529900)",
+        "is_in_context": false,
+        "datatype": "entity-id"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-3",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-3",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P768",
+        "rel_uri": "p:P768",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Name of Elected M.P."
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Party Affiliation"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "No."
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Constituency"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Type"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q47481352",
+        "rel_uri": "wd:Q47481352",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q7278",
+        "rel_uri": "wd:Q7278",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "context-Q3534024",
+        "value": "http://www.wikidata.org/entity/Q3534024",
+        "readable_label": "11th Lok Sabha (Q3534024)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-4",
+        "value": "http://www.wikidata.org/entity/Q16556694",
+        "readable_label": "member of the Lok Sabha (Q16556694)",
+        "is_in_context": false,
+        "datatype": "entity-id"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-3",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-3",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P102",
+        "rel_uri": "p:P102",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P768",
+        "rel_uri": "p:P768",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P39",
+        "rel_uri": "p:P39",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "context-Q3534024",
+        "abs_uri": "http://www.wikidata.org/prop/P2937",
+        "rel_uri": "p:P2937",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "12th_Lok_Sabha",
+    "columns": [
+      {
+        "index": 0,
+        "name": "No.",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Constituency",
+        "values": [
+          "Karimganj",
+          "Silchar",
+          "Autonomous District",
+          "Dhubri",
+          "Kokrajhar",
+          "Barpeta",
+          "Gauhati",
+          "Mangaldoi",
+          "Tezpur",
+          "Nowgong",
+          "Kaliabor",
+          "Jorhat",
+          "Dibrugarh",
+          "Lakhimpur"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Type",
+        "values": [
+          "SC",
+          "GEN",
+          "ST",
+          "GEN",
+          "ST",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN",
+          "GEN"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name of Elected M.P.",
+        "values": [
+          "Nepal Chandra Das",
+          "Kabindra Purkayastha",
+          "Dr. Jayanta Rongpi",
+          "Abdul Hamid",
+          "Sansuma Khunggur Bwiswmuthiary",
+          "A. F. Golam Osmani",
+          "Bhubaneswar Kalita",
+          "Madhab Rajbangshi",
+          "Moni Kumar Subba",
+          "Nripen Goswami",
+          "Tarun Gogoi",
+          "Bijoy Krishna Handique",
+          "Paban Singh Ghatowar",
+          "Ranee Narah"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Party Affiliation",
+        "values": [
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Autonomous State Demand Committee",
+          "Indian National Congress",
+          "Independent",
+          "United Minorities Front, Assam",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "12th Lok Sabha",
+    "page_url": "https://en.wikipedia.org/wiki/12th_Lok_Sabha",
+    "page_entity_id": "Q3523469"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Karimganj_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606665"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nepal_Chandra_Das",
+          "entity_id": "Q17465874"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Silchar_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606626"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Kabindra_Purkayastha",
+          "entity_id": "Q6344182"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Autonomous_District_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606679"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Dr._Jayanta_Rongpi&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Autonomous_State_Demand_Committee",
+          "entity_id": "Q15105877"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dhubri_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606616"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Abdul_Hamid_(Indian_politician)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kokrajhar_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606670"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Sansuma_Khunggur_Bwiswmuthiary",
+          "entity_id": "Q7419039"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Independent_(politician)",
+          "entity_id": "Q327591"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Barpeta_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606606"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/A._F._Golam_Osmani",
+          "entity_id": "Q4647750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/United_Minorities_Front,_Assam",
+          "entity_id": "Q7888275"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gauhati_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606633"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Bhubaneswar_Kalita",
+          "entity_id": "Q21229148"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mangaldoi_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606654"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Madhab_Rajbangshi",
+          "entity_id": "Q17484205"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tezpur_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606703"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Moni_Kumar_Subba",
+          "entity_id": "Q6899848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nowgong_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606595"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nripen_Goswami",
+          "entity_id": "Q15129605"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kaliabor_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606642"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tarun_Gogoi",
+          "entity_id": "Q3349343"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jorhat_(Lok_Sabha_constituency)",
+          "entity_id": "Q6278852"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bijoy_Krishna_Handique",
+          "entity_id": "Q3595930"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dibrugarh_(Lok_Sabha_constituency)",
+          "entity_id": "Q1606690"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Paban_Singh_Ghatowar",
+          "entity_id": "Q7121518"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lakhimpur_(Lok_Sabha_constituency)",
+          "entity_id": "Q1609659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ranee_Narah",
+          "entity_id": "Q7292542"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Bluebird_Airways",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Country",
+        "values": [
+          " Bulgaria",
+          " Czech Republic",
+          " Greece",
+          " Greece",
+          " Greece",
+          " Greece",
+          " Greece",
+          " Hungary",
+          " Israel",
+          " Italy",
+          " Italy",
+          " Romania",
+          " Spain"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Burgas",
+          "Prague",
+          "Heraklion",
+          "Mykonos",
+          "Kos",
+          "Rhodes",
+          "Thessaloniki",
+          "Budapest",
+          "Tel Aviv",
+          "Rome",
+          "Verona",
+          "Bucharest",
+          "Barcelona"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Airport",
+        "values": [
+          "Burgas Airport",
+          "Václav Havel Airport Prague",
+          "Heraklion International Airport",
+          "Mykonos International Airport",
+          "Kos International Airport",
+          "Rhodes International Airport",
+          "Thessaloniki International Airport",
+          "Budapest Ferenc Liszt International Airport",
+          "Ben Gurion Airport",
+          "Leonardo da Vinci-Fiumicino Airport",
+          "Verona Villafranca Airport",
+          "Henri Coandă International Airport",
+          "Barcelona–El Prat Josep Tarradellas Airport"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Notes",
+        "values": [
+          "Seasonal",
+          "Seasonal",
+          "Hub",
+          "Seasonal",
+          "Seasonal",
+          "Seasonal",
+          "Seasonal",
+          "Seasonal",
+          "Focus city",
+          "Seasonal",
+          "Seasonal",
+          "Seasonal",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Bluebird Airways",
+    "page_url": "https://en.wikipedia.org/wiki/Bluebird_Airways",
+    "page_entity_id": "Q2744114"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bulgaria",
+          "entity_id": "Q219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Burgas",
+          "entity_id": "Q6509"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Burgas_Airport",
+          "entity_id": "Q1324587"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Prague",
+          "entity_id": "Q1085"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/V%C3%A1clav_Havel_Airport_Prague",
+          "entity_id": "Q99172"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Heraklion",
+          "entity_id": "Q160544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Heraklion_International_Airport",
+          "entity_id": "Q1142384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Airline_hub",
+          "entity_id": "Q4811588"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mykonos",
+          "entity_id": "Q190210"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Mykonos_International_Airport",
+          "entity_id": "Q1432110"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Kos",
+          "entity_id": "Q187027"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Kos_International_Airport",
+          "entity_id": "Q1420601"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Rhodes",
+          "entity_id": "Q43048"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Rhodes_International_Airport",
+          "entity_id": "Q833555"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Thessaloniki",
+          "entity_id": "Q17151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Thessaloniki_International_Airport",
+          "entity_id": "Q127958"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Budapest",
+          "entity_id": "Q1781"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Budapest_Ferenc_Liszt_International_Airport",
+          "entity_id": "Q500945"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Israel",
+          "entity_id": "Q801"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tel_Aviv",
+          "entity_id": "Q33935"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Ben_Gurion_Airport",
+          "entity_id": "Q181479"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Rome",
+          "entity_id": "Q220"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Leonardo_da_Vinci-Fiumicino_Airport",
+          "entity_id": "Q19101"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Verona",
+          "entity_id": "Q2028"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Verona_Villafranca_Airport",
+          "entity_id": "Q1433197"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bucharest",
+          "entity_id": "Q19660"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Henri_Coand%C4%83_International_Airport",
+          "entity_id": "Q257631"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Josep_Tarradellas_Airport",
+          "entity_id": null
+        }
+      ],
+      []
+    ]
+  ]
+}

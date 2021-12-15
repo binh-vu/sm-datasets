@@ -1,0 +1,8968 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Old_Boys",
+    "columns": [
+      {
+        "index": 0,
+        "name": "School",
+        "values": [
+          "Abingdon School",
+          "Adams' Grammar School",
+          "Addey and Stanhope School",
+          "Aldenham School",
+          "Ampleforth College",
+          "Archbishop Tenison's Church of England High School, Croydon",
+          "Archbishop Tenison's Church of England School",
+          "Ardingly College",
+          "Arnold School",
+          "Ashville College",
+          "Astley Sports College and Community High School",
+          "Bablake School",
+          "Badminton School",
+          "Bancroft's School",
+          "Batley Grammar School",
+          "Bedales School",
+          "Bedford School",
+          "Bedford Modern School",
+          "Bedlingtonshire Community High School",
+          "St Bede's College, Manchester",
+          "Bemrose School",
+          "Benenden School",
+          "Berkhamsted School",
+          "Birkdale School",
+          "Birkenhead School",
+          "Bishop Gore School",
+          "Bishop's Stortford College",
+          "Bishop Wordsworth's School",
+          "Bloxham School",
+          "Blundell's School",
+          "Bolton School",
+          "Bootham School",
+          "Bradfield College",
+          "Bradford Grammar School",
+          "Brentwood School (Essex)",
+          "Bridgnorth Endowed School",
+          "Brighton College",
+          "Bristol Cathedral Choir School",
+          "Bristol Grammar School",
+          "Bromley High School",
+          "Bromsgrove School",
+          "Bruce Castle School",
+          "Bryanston School",
+          "Bury Grammar School",
+          "Buxton College",
+          "Calday Grange Grammar School",
+          "Campbell College",
+          "Canford School",
+          "Caterham School",
+          "Charterhouse School",
+          "Chatham House Grammar School",
+          "Cheadle Hulme School",
+          "Cheltenham College",
+          "Chigwell School",
+          "Christ College, Brecon",
+          "Christ's Hospital",
+          "Churcher's College",
+          "City of London School",
+          "City of Oxford School",
+          "Clifton College",
+          "Colchester Royal Grammar School",
+          "Colfe's School",
+          "The College of Richard Collyer",
+          "Cothill House",
+          "Cranleigh School",
+          "Culford School",
+          "Dauntsey's School",
+          "Dean Close School",
+          "Denstone College",
+          "Derby School",
+          "Derby Grammar School",
+          "Diss Grammar School",
+          "Dollar Academy",
+          "Douai School",
+          "Dover College",
+          "Dover Grammar School for Boys",
+          "Downe House School",
+          "Down High School",
+          "Downside School",
+          "Dragon School",
+          "Dulwich College",
+          "Durham School",
+          "Eastbourne College",
+          "Edinburgh Academy",
+          "Elizabeth College, Guernsey",
+          "Ellesmere College",
+          "Eltham College",
+          "Emanuel School",
+          "Epsom College",
+          "Ermysted's Grammar School",
+          "Eton College",
+          "Exeter School",
+          "Fairfield Grammar School",
+          "Felsted School",
+          "Fettes College",
+          "Forest School (Walthamstow)",
+          "Foster's School",
+          "Framlingham College",
+          "Frensham Heights School",
+          "Friars School, Bangor",
+          "Furness Academy",
+          "Giggleswick School",
+          "Glenalmond College",
+          "Godolphin and Latymer School",
+          "Gordonstoun",
+          "Gresham's School",
+          "Haberdashers' Aske's Boys' School",
+          "Haileybury and Imperial Service College",
+          "Hampton School",
+          "Hanley Castle High School",
+          "The Harrodian School",
+          "Harrow School",
+          "Harrow High School",
+          "Hawtreys",
+          "Headington School, Oxford",
+          "Hereford Cathedral School",
+          "Highgate School",
+          "Hull Grammar School",
+          "Hulme Grammar School",
+          "Hurstpierpoint College",
+          "Hymers College",
+          "Ibstock Place School",
+          "Ilford County High School",
+          "Ilkeston Grammar School",
+          "Ipswich School",
+          "John Roan School",
+          "The Judd School",
+          "Kelly College",
+          "Kendrick School",
+          "Kimbolton School",
+          "King's College School",
+          "King's College, Taunton",
+          "The King's School, Chester",
+          "The King's School, Canterbury",
+          "The King's School, Peterborough",
+          "King's School, Rochester",
+          "The King's School, Worcester",
+          "King's School, Bruton",
+          "King Edward VI Aston",
+          "King Edward VI School (Bury St Edmunds)",
+          "King Edward VI Grammar School (Chelmsford)",
+          "King Edward VI School, Southampton",
+          "King Edward VII School, Sheffield",
+          "King Edward's School, Birmingham",
+          "King Edward's School, Witley",
+          "King Henry VIII School, Coventry",
+          "King George V College",
+          "Kingswood School",
+          "Kirkham Grammar School",
+          "Lancaster Royal Grammar School",
+          "Lancing College",
+          "Langley School, Loddon",
+          "Latymer Upper School",
+          "Lawrence Sheriff School",
+          "Leicester Grammar School",
+          "Leighton Park School",
+          "Leeds Grammar School",
+          "Liverpool College",
+          "The Leys School",
+          "The London Oratory School",
+          "The Cathedral School, Llandaff",
+          "Llandovery College",
+          "Lord Williams's School , Thame",
+          "Loretto School",
+          "Loughborough Grammar School",
+          "Ludgrove School",
+          "Lewis School, Pengam",
+          "Lycée Français Charles de Gaulle",
+          "Magdalen College School, Oxford",
+          "Maidstone Grammar School",
+          "Malvern School",
+          "Manchester Grammar School",
+          "Marlborough College",
+          "Merchant Taylors' School, Crosby",
+          "Merchant Taylors' School, Northwood",
+          "Merchiston Castle School",
+          "Midhurst Grammar School",
+          "Millfield",
+          "Mill Hill School",
+          "Monkton Combe School",
+          "Monkwearmouth School",
+          "Mount Radford School",
+          "North London Collegiate School",
+          "Northampton School for Boys",
+          "Norwich School",
+          "Nottingham High School",
+          "Oakham School",
+          "Old Swinford Hospital",
+          "The Oratory School",
+          "Oswestry School",
+          "Oundle School",
+          "Pangbourne College",
+          "Pate's Grammar School",
+          "The Perse School",
+          "Peter Symonds College",
+          "Pierrepont School, Frensham",
+          "Pocklington School",
+          "Port Regis School",
+          "Portsmouth Grammar School",
+          "Portora Royal School",
+          "The Prebendal School",
+          "Princethorpe College",
+          "Queen's College, London",
+          "Queen's College, Taunton",
+          "Queen Elizabeth's Grammar School, Blackburn",
+          "Queen Elizabeth Grammar School, Wakefield",
+          "Queen Elizabeth's Hospital",
+          "Queen Margaret's School, York",
+          "Queen Mary's Grammar School",
+          "Queenswood School",
+          "Radley College",
+          "Ratcliffe College",
+          "Ravenscroft School",
+          "Reading School",
+          "Reed's School",
+          "Reigate Grammar School",
+          "Repton School",
+          "Rendcomb College",
+          "Ripon Grammar School",
+          "Roedean School",
+          "Rossall School",
+          "Royal Belfast Academical Institution",
+          "RGS Worcester",
+          "Royal Grammar School, Guildford",
+          "Royal Grammar School, Newcastle",
+          "Royal Grammar School, High Wycombe",
+          "Royal Russell School",
+          "The Royal School, Armagh",
+          "Royal Wolverhampton School",
+          "Rugby School",
+          "Ruthin School",
+          "Rutlish School",
+          "Rydal Penrhos",
+          "Rye St Antony School",
+          "Shrewsbury School",
+          "Seaford College",
+          "Sedbergh School",
+          "Sevenoaks School",
+          "Sherborne School",
+          "Sir George Monoux College",
+          "Sir John Deane's College , Northwich",
+          "Solihull School",
+          "The Skinners' School",
+          "St Andrew's School, Pangbourne",
+          "St Bees School",
+          "St Benedict's School",
+          "St Clement Danes School",
+          "St Columba's College, St Albans",
+          "St Dunstan's College",
+          "St Edward's School, Oxford",
+          "St Faith's School",
+          "St George's College, Weybridge",
+          "St George's School, Harpenden",
+          "St Ignatius' College",
+          "St Ivo School",
+          "St John's College, Portsmouth",
+          "St John's School, Leatherhead",
+          "St Lawrence College, Ramsgate",
+          "St Leonard's School",
+          "St Olave's Grammar School",
+          "St Paul's School, London",
+          "St Paul's Girls' School",
+          "St Peter's School, York",
+          "St Swithun's School, Winchester",
+          "Stamford School",
+          "Stowe School",
+          "Stonyhurst College",
+          "Stockport Grammar School",
+          "Strand School",
+          "Summer Fields School",
+          "Sunningdale School",
+          "Sutton Grammar School for Boys",
+          "Sutton Valence School",
+          "Taunton School",
+          "Tonbridge School",
+          "Trent College",
+          "Trinity School of John Whitgift",
+          "Truro School",
+          "Twyford School",
+          "University College School",
+          "Upton Court Grammar School",
+          "Victoria College, Jersey",
+          "Uppingham School",
+          "Wallington County Grammar School",
+          "Warminster School",
+          "Watford Grammar School for Boys",
+          "Warwick School",
+          "Wells Cathedral School",
+          "Wellingborough School",
+          "Wellington College, Berkshire",
+          "West Buckland School",
+          "West Downs School",
+          "West Hill Park School",
+          "Westcliff High School for Boys",
+          "Westminster School",
+          "Whitgift School",
+          "William Hulme's Grammar School",
+          "Wilson's School",
+          "Wimbledon College",
+          "Wisbech Grammar School",
+          "Worksop College",
+          "Wrekin College",
+          "Wolverhampton Grammar School",
+          "Worth School",
+          "Wycliffe College (Gloucestershire)",
+          "Winchester College",
+          "Woodhouse Grove School",
+          "Wycombe Abbey",
+          "Yarm School"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Type",
+        "values": [
+          "Independent day and boarding school",
+          "Grammar school , Boarding school , Academy",
+          "Voluntary-aided",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Prep",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Ind",
+          "Comp",
+          "Prep",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Independent",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Grammar",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Prep",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Old Boys/Girls",
+        "values": [
+          "Old Abingdonians",
+          "Old Novaportans",
+          "Old Addeyans",
+          "Old Aldenhamians",
+          "Old Amplefordians",
+          "Old Tenisonians",
+          "Old Tenisonians",
+          "Old Ardinians",
+          "Old Arnoldians",
+          "Old Ashvillians",
+          "Old Astleians",
+          "Old Wheatleyans",
+          "Old Badmintonians",
+          "Old Bancroftians",
+          "Old Batelians",
+          "Old Bedalians",
+          "Old Bedfordians",
+          "Old Bedford Modernians",
+          "Old Bedlingtonians",
+          "Old Bedians",
+          "Old Bemrosians",
+          "Benenden Seniors",
+          "Old Berkhamstedians",
+          "Old Birkdalians",
+          "Old Birkonians",
+          "Old Goreans",
+          "Old Stortfordians",
+          "Old Wordsworthians",
+          "Old Bloxhamists",
+          "Old Blundellians",
+          "Old Boltonians",
+          "Bootham Old Scholars",
+          "Old Bradfieldians",
+          "Old Bradfordians",
+          "Old Brentwoods",
+          "Old Bridgnorthians",
+          "Old Brightonians",
+          "Old Cathedralians",
+          "Old Bristolians",
+          "Bromley Old Girls",
+          "Old Bromsgrovians",
+          "Old Brucastrians",
+          "Old Bryanstonians",
+          "Old Clavians",
+          "Old Buxtonians",
+          "Old Caldeians",
+          "Old Campbellians",
+          "Old Canfordians",
+          "Old Caterhamians",
+          "Old Carthusians",
+          "Old Ruymians",
+          "Old Waconians",
+          "Old Cheltonians",
+          "Old Chigwellians",
+          "Old Breconians",
+          "Old Blues",
+          "Old Churcherians",
+          "Old Citizens",
+          "City of Oxford School Old Boys",
+          "Old Cliftonians",
+          "Old Colcestrians",
+          "Old Colfeians",
+          "Old Collyerians",
+          "Old Cothillians",
+          "Old Cranleighans",
+          "Old Culfordians",
+          "Old Dauntseians",
+          "Old Decanians",
+          "Old Denstonians",
+          "Old Derbeians",
+          "Old Derbeians",
+          "Old Dysseans",
+          "Old Academicals",
+          "Old Dowegians",
+          "Old Dovorians",
+          "Old Pharosians",
+          "Downe House Seniors",
+          "Old Dunumians",
+          "Old Gregorians",
+          "Old Dragons",
+          "Old Alleynians",
+          "Old Dunelmians",
+          "Old Eastbournians",
+          "Edinburgh Academicals",
+          "Old Elizabethans",
+          "Old Ellesmerians",
+          "Old Elthamians",
+          "Old Emanuels",
+          "Old Epsomians",
+          "Old Ermystedians",
+          "Old Etonians",
+          "Old Exonians",
+          "Old Fairfieldians",
+          "Old Felstedians",
+          "Old Fettesians",
+          "Old Foresters",
+          "Old Fosterians",
+          "Old Framlinghamians",
+          "Old Frenshamians",
+          "Old Dominicans",
+          "Old Barrovians",
+          "Old Giggleswickians",
+          "Old Glenalmond",
+          "Old Dolphins",
+          "Old Gordonstounians",
+          "Old Greshamians",
+          "Old Haberdashers",
+          "Old Haileyburians",
+          "Old Hamptonians",
+          "Old Hancastrians",
+          "Old Harrodians",
+          "Old Harrovians",
+          "Old Gaytonians",
+          "Old Hawtreysians",
+          "Old Headingtonians",
+          "Old Herefordians",
+          "Old Cholmeleians",
+          "Hull Old Grammarians",
+          "Oldham Hulmeians",
+          "Old Johnians",
+          "Old Hymerians",
+          "Old Ibstonians",
+          "Old Parkonians",
+          "Old Ilkestonians",
+          "Old Ipswichians",
+          "Old Roans",
+          "Old Juddians",
+          "Old Kelleians",
+          "Kendrick Old Girls",
+          "Old Kimboltians",
+          "Old Kings",
+          "Old Aluredians",
+          "Old King's Scholars",
+          "Old King's Scholars",
+          "Old Petriburgians",
+          "Old Roffensians",
+          "Old Vigornians",
+          "Old Brutonians",
+          "Aston Old Edwardians",
+          "Old Burians",
+          "Old Chelmsfordians",
+          "Old Edwardians",
+          "Old Edwardians",
+          "Old Edwardians",
+          "Old Witleians",
+          "Old Coventrians",
+          "Old Georgians",
+          "Old Kingswoodians",
+          "Old Kirkhamians",
+          "Old Lancastrians",
+          "Old Lancing",
+          "Icenians",
+          "Old Latymerians",
+          "Old Laurentians",
+          "Old Leicestrians",
+          "Old Leightonians",
+          "Old Leodiensians",
+          "Old Lerpoolians",
+          "Old Leysians",
+          "Old Oratorians/London Oratorians",
+          "Old Llandavians",
+          "Old Llandoverians",
+          "Old Tamensians",
+          "Old Lorettonians",
+          "Old Loughburians",
+          "Old Ludgrovians",
+          "Old Ludovicans",
+          "",
+          "Old Waynfletes",
+          "Old Maidstonians",
+          "Old Malvernians",
+          "Old Mancunians",
+          "Old Marlburians",
+          "Old Crosbeians",
+          "Old Merchant Taylors",
+          "Merchistonians",
+          "Old Midhurstians",
+          "Old Millfieldians",
+          "Old Millhillians",
+          "Old Monktonians",
+          "Old Monkwearmuthians",
+          "Old Radfordians",
+          "Old North Londoners",
+          "Old Northamptonians",
+          "Old Norvicensians",
+          "Old Nottinghamians",
+          "Old Oakhamians",
+          "Old Foleyans",
+          "Old Oratorians",
+          "Old Oswestrians",
+          "Old Oundelians",
+          "Old Pangbournians",
+          "Old Patesians",
+          "Old Perseans",
+          "Old Symondians",
+          "Old Pierrepontians",
+          "Old Pocklingtonians",
+          "Old Portregians",
+          "Old Portmuthians",
+          "Old Portorans",
+          "Old Prebendalians",
+          "Old Princethorpians",
+          "Old Queens",
+          "Old Queenians",
+          "Old Blackburnians",
+          "Old Savilians",
+          "Old Elizabethans",
+          "Old Margaretians",
+          "Old Marians",
+          "Old Queenswoodians",
+          "Old Radleians",
+          "Old Ratcliffians",
+          "Old Ravens",
+          "Old Redingensians",
+          "Old Reedonians",
+          "Old Reigatians",
+          "Old Reptonians",
+          "Old Rendcombians",
+          "Old Riponians",
+          "Old Roedeanians",
+          "Old Rossallians",
+          "Old Instonians",
+          "Old Elizabethans",
+          "Old Guildfordians",
+          "Old Novocastrians",
+          "Old Wycombiensians",
+          "Old Russellians",
+          "Old Armachians",
+          "Old Royals",
+          "Old Rugbeians",
+          "Old Ruthinians",
+          "Old Rutlishians",
+          "Old Rydalians",
+          "Old Girls of Rye",
+          "Old Salopians",
+          "Old Seafordians",
+          "Old Sedberghians",
+          "Old Sennockians",
+          "Old Shirburnians",
+          "Old Monovians",
+          "Old Wittonians",
+          "Old Silhillians",
+          "Old Skinners",
+          "Old St Andrews",
+          "Old St Beghians",
+          "Old Priorians",
+          "Old Danes",
+          "Old Columbans",
+          "Old Dunstonians",
+          "Old St Edwards",
+          "Old Fidelians",
+          "Old Georgians",
+          "Old Georgians",
+          "Old Ignatians",
+          "Old Ivoans",
+          "Old Johannians",
+          "Old Johnians",
+          "Old Lawrentians",
+          "St Leonards School Seniors",
+          "Old Olavians",
+          "Old Paulines",
+          "Old Paulinas",
+          "Old Peterites",
+          "Old Swithunites",
+          "Old Stamfordians",
+          "Old Stoics",
+          "Old Stonyhursts",
+          "Old Stopfordians",
+          "Old Strandians",
+          "Old Summerfieldians",
+          "Old Sunningdalians",
+          "Old Suttonians",
+          "Old SV",
+          "Old Tauntonians",
+          "Old Tonbridgians",
+          "Old Tridents",
+          "Old Mid-Whitgiftians",
+          "Old Truronians",
+          "Old Twyfordians",
+          "Old Gowers",
+          "Old Paludians",
+          "Old Victorians",
+          "Old Uppinghamians",
+          "Old Walcountians",
+          "Old Verlucians",
+          "Old Fullerians",
+          "Old Warwickians",
+          "Old Wellensians",
+          "Old Wellingburians",
+          "Old Wellingtonians",
+          "Old West Bucklands",
+          "Old West Downs",
+          "Old Westhillians",
+          "Old Westcliffians",
+          "Old Westminsters",
+          "Old Whitgiftians",
+          "Old Hulmeians",
+          "Old Wilsonians",
+          "Old Wimbledonians",
+          "Wisbech Old Grammarians",
+          "Old Worksopians",
+          "Old Wrekinians",
+          "Old Wulfrunians",
+          "Old Worthians",
+          "Old Wycliffians",
+          "Old Wykehamists",
+          "Old Grovians",
+          "Wycombe Abbey Seniors",
+          "Old Yarumians"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Derivation",
+        "values": [
+          "",
+          "From the town in which the school is situated",
+          "From the founder of the Addey School, John Addey",
+          "",
+          "",
+          "",
+          "Same foundation",
+          "\"Ardinian\" refers to Ardingly",
+          "",
+          "",
+          "",
+          "From the school's main benefactor, Thomas Wheatley",
+          "",
+          "",
+          "\"Bately\" is an alternative spelling of Batley",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "\"Seniors\" avoids the term \"old girls\"",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Castra is Latin for castle",
+          "",
+          "From the school motto Sanctas Clavis Hic Fores Aperit ( c. 1570)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "From the Carthusian Order, which founded the Charterhouses",
+          "From an old name for Thanet",
+          "From the former name of Warehousemen and Clerks' Orphan Schools (WaCO)",
+          "Cheltenham changed to Chelton-",
+          "",
+          "",
+          "",
+          "",
+          "\"Citizen\" originally referred to one belonging to a city",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Decanus is Latin for Dean",
+          "",
+          "",
+          "Adopted name of former school's old boys by permission of Old Derbeian Association",
+          "",
+          "",
+          "From Douai's medieval English name Doway (compare Norwegian)",
+          "",
+          "From Latin pharos , lighthouse, referring to the Roman lighthouses for which Dover was once famous.",
+          "Avoids term \"old girls\"",
+          "Taken from the schools Latin Motto, \"Floreat Dunum\"",
+          "Founded by Gregorian Order",
+          "",
+          "After the founder (1619) Edward Alleyn",
+          "Dunelm is the Latin signature of the Bishop of Durham",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Established on a Dominican Friary (1557)",
+          "\"Barrovian\" refers to the Barrow of Barrow-in-Furness",
+          "",
+          "",
+          "Abbreviation of Godolphin",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "After original site in Gayton Road",
+          "",
+          "",
+          "",
+          "After founder Sir Roger Cholmeley",
+          "",
+          "",
+          "Formerly St John's College, Hurstpierpoint",
+          "",
+          "",
+          "From former name Park Higher Grade School",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Name \"King's College\" was given in honour of King Alfred , and \"Aluredian\" refers to him",
+          "",
+          "",
+          "",
+          "\"Roffensis\" is a Latin adjective from Rochester's name in Old English",
+          "Latin Vigorniensis , of Worcester",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Refers to the Iceni who once occupied the locality",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Refers to Thame",
+          "",
+          "",
+          "",
+          "Ludovicus , the Latin version of the name 'Lewis'",
+          "previously Lycée Français de Londres",
+          "After founder, William Waynflete",
+          "",
+          "",
+          "Mancunia , a Latin name for Manchester",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "From Norvic , Latin name of Norwich",
+          "",
+          "",
+          "After founder, Thomas Foley",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "After one of founders Thomas Saville (1591)",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Chartered by Queen Elizabeth I",
+          "",
+          "From Novocastria , Latin name of Newcastle",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "From Salopia , the Latin for Shropshire",
+          "",
+          "",
+          "\"Sennock\", a local pronunciation of \"Sevenoaks\"",
+          "",
+          "",
+          "From Witton, an ancient name for Northwich",
+          "Solihull demonym",
+          "",
+          "",
+          "From Saint Bega",
+          "From school's original name, Ealing Priory School",
+          "",
+          "",
+          "",
+          "",
+          "Fides, fidelis Latin for \"faith\"",
+          "",
+          "",
+          "",
+          "",
+          "Per Laborem Ad Honorem",
+          "",
+          "",
+          "Avoids term old boys",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "A pun on the name of \"Stowe\" and the philosophy of Stoicism",
+          "",
+          "\"Stopfordian\" means 'of Stockport'",
+          "",
+          "",
+          "",
+          "",
+          "Abbreviation",
+          "",
+          "",
+          "From Tridentum , the Latin name of Trent",
+          "The original name of Trinity School was Whitgift Middle School|",
+          "",
+          "",
+          "After Gower Street , where it was located",
+          "From Latin palus , a slough. See also Slough Grammar School",
+          "",
+          "",
+          "",
+          "William Camden 's identification of the Roman town of Verlucio with Warminster",
+          "After founder Elizabeth Fuller",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Wulfrunia , Latin for Wolverhampton",
+          "",
+          "",
+          "After founder William of Wykeham (1382)",
+          "",
+          "",
+          "After the Viking name for Yarm, Yarum"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Location",
+        "values": [
+          "Abingdon-on-Thames",
+          "Newport, Shropshire",
+          "Lewisham , London",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Guernsey",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Chester",
+          "Canterbury",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Southampton",
+          "Sheffield",
+          "Birmingham",
+          "",
+          "",
+          "",
+          "Bath",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Walsall",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "St Albans",
+          "",
+          "",
+          "",
+          "Weybridge",
+          "Harpenden",
+          "",
+          "",
+          "Southsea, Portsmouth",
+          "Leatherhead",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Closed 1989",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "-",
+          "",
+          "",
+          "Closed 1891",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Closed 1989",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Closed 1988",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Old Boys",
+    "page_url": "https://en.wikipedia.org/wiki/Old_Boys",
+    "page_entity_id": "Q7083511"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Abingdon_School",
+          "entity_id": "Q4667847"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Independent_school_(UK)",
+          "entity_id": "Q2418495"
+        },
+        {
+          "start": 20,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Boarding_school",
+          "entity_id": "Q269770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/List_of_Old_Abingdonians",
+          "entity_id": "Q6592785"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Abingdon-on-Thames",
+          "entity_id": "Q321381"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Adams%27_Grammar_School",
+          "entity_id": "Q4680256"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Grammar_school",
+          "entity_id": "Q967098"
+        },
+        {
+          "start": 17,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Boarding_school",
+          "entity_id": "Q269770"
+        },
+        {
+          "start": 35,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Academy_(English_school)",
+          "entity_id": "Q4671329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Adams%27_Grammar_School",
+          "entity_id": "Q15305878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Newport,_Shropshire",
+          "entity_id": "Q1027134"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Addey_and_Stanhope_School",
+          "entity_id": "Q4681059"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Addey_and_Stanhope_School",
+          "entity_id": "Q8723398"
+        }
+      ],
+      [
+        {
+          "start": 38,
+          "end": 48,
+          "url": "http://en.wikipedia.org/wiki/John_Addey_(shipbuilder)",
+          "entity_id": "Q6218254"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lewisham",
+          "entity_id": "Q6537297"
+        },
+        {
+          "start": 11,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Aldenham_School",
+          "entity_id": "Q4713602"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Aldenham_School",
+          "entity_id": "Q8723405"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Ampleforth_College",
+          "entity_id": "Q4748473"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ampleforth_College",
+          "entity_id": "Q13281762"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 59,
+          "url": "http://en.wikipedia.org/wiki/Archbishop_Tenison%27s_Church_of_England_High_School,_Croydon",
+          "entity_id": "Q4785647"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Archbishop_Tenison%27s_Church_of_England_High_School,_Croydon",
+          "entity_id": "Q8723429"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Archbishop_Tenison%27s_Church_of_England_School",
+          "entity_id": "Q4785649"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Archbishop_Tenison%27s_Church_of_England_School,_Lambeth",
+          "entity_id": "Q8723430"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ardingly_College",
+          "entity_id": "Q639400"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ardingly_College",
+          "entity_id": "Q8723431"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arnold_School",
+          "entity_id": "Q4795243"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Arnold_School",
+          "entity_id": "Q13281759"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ashville_College",
+          "entity_id": "Q4806154"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ashville_College",
+          "entity_id": "Q13281765"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 47,
+          "url": "http://en.wikipedia.org/wiki/Astley_Sports_College_and_Community_High_School",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Astley_Sports_College",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bablake_School",
+          "entity_id": "Q4837957"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bablake_School",
+          "entity_id": "Q8723451"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Badminton_School",
+          "entity_id": "Q15195942"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Badminton_School",
+          "entity_id": "Q8723453"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bancroft%27s_School",
+          "entity_id": "Q4854142"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bancroft%27s_School",
+          "entity_id": "Q8723462"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Batley_Grammar_School",
+          "entity_id": "Q4869321"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Batley_Grammar_School",
+          "entity_id": "Q8723471"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bedales_School",
+          "entity_id": "Q2893526"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bedales_School",
+          "entity_id": "Q8723477"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bedford_School",
+          "entity_id": "Q3140484"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bedford_School",
+          "entity_id": "Q8723481"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bedford_Modern_School",
+          "entity_id": "Q4879170"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bedford_Modern_School",
+          "entity_id": "Q13281774"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Bedlingtonshire_Community_High_School",
+          "entity_id": "Q4879301"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bedlingtonshire_Community_High_School",
+          "entity_id": "Q8723484"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/St_Bede%27s_College,_Manchester",
+          "entity_id": "Q7592627"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Bede%27s_College,_Manchester",
+          "entity_id": "Q8724595"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bemrose_School",
+          "entity_id": "Q4885136"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bemrose_School",
+          "entity_id": "Q8723498"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Benenden_School",
+          "entity_id": "Q4887508"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Benenden_School",
+          "entity_id": "Q8723496"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Berkhamsted_School",
+          "entity_id": "Q4892154"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Berkhamsted_School",
+          "entity_id": "Q8723499"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Birkdale_School",
+          "entity_id": "Q4916401"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Birkdale_School",
+          "entity_id": "Q8723508"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Birkenhead_School",
+          "entity_id": "Q4916445"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Birkenhead_School",
+          "entity_id": "Q13281780"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Bishop_Gore_School",
+          "entity_id": "Q4917566"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bishop_Gore_School",
+          "entity_id": "Q13281786"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Bishop%27s_Stortford_College",
+          "entity_id": "Q4917440"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bishop%27s_Stortford_College",
+          "entity_id": "Q8723512"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Bishop_Wordsworth%27s_School",
+          "entity_id": "Q4917750"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bishop_Wordsworth%27s_School",
+          "entity_id": "Q8723519"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bloxham_School",
+          "entity_id": "Q4928636"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bloxham_School",
+          "entity_id": "Q8723535"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Blundell%27s_School",
+          "entity_id": "Q4930752"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Blundell%27s_School",
+          "entity_id": "Q8723537"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bolton_School",
+          "entity_id": "Q4940227"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bolton_School",
+          "entity_id": "Q8723538"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bootham_School",
+          "entity_id": "Q4943906"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bootham_School",
+          "entity_id": "Q8723539"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bradfield_College",
+          "entity_id": "Q4954524"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bradfield_College",
+          "entity_id": "Q8723547"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bradford_Grammar_School",
+          "entity_id": "Q4954686"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bradford_Grammar_School",
+          "entity_id": "Q8723550"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Brentwood_School_(Essex)",
+          "entity_id": "Q4961791"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Brentwood_School,_Essex",
+          "entity_id": "Q8723556"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Bridgnorth_Endowed_School",
+          "entity_id": "Q4966906"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bridgnorth_Endowed_School",
+          "entity_id": "Q8723561"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Brighton_College",
+          "entity_id": "Q539330"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Brighton_College",
+          "entity_id": "Q8723566"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Bristol_Cathedral_Choir_School",
+          "entity_id": "Q4968833"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bristol_Cathedral_Choir_School",
+          "entity_id": "Q8723573"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bristol_Grammar_School",
+          "entity_id": "Q4968912"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bristol_Grammar_School",
+          "entity_id": "Q8723574"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bromley_High_School",
+          "entity_id": "Q4973685"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bromley_High_School",
+          "entity_id": "Q8723578"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bromsgrove_School",
+          "entity_id": "Q4096908"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bromsgrove_School",
+          "entity_id": "Q8723576"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bruce_Castle_School",
+          "entity_id": "Q4977247"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bruce_Castle_School",
+          "entity_id": "Q15286073"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bryanston_School",
+          "entity_id": "Q995138"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bryanston_School",
+          "entity_id": "Q8723581"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bury_Grammar_School",
+          "entity_id": "Q5001092"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Bury_Grammar_School",
+          "entity_id": "Q8723591"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Buxton_College",
+          "entity_id": "Q5003261"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Buxton_College",
+          "entity_id": "Q8723593"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Calday_Grange_Grammar_School",
+          "entity_id": "Q5018974"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Calday_Grange_Grammar_School",
+          "entity_id": "Q13281790"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Campbell_College",
+          "entity_id": "Q5028025"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Campbell_College",
+          "entity_id": "Q8723603"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Canford_School",
+          "entity_id": "Q5032321"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Canford_School",
+          "entity_id": "Q13281792"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Caterham_School",
+          "entity_id": "Q5051908"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Caterham_School",
+          "entity_id": "Q13281796"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Charterhouse_School",
+          "entity_id": "Q1067870"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Charterhouse_School",
+          "entity_id": "Q8723629"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Chatham_House_Grammar_School",
+          "entity_id": "Q5087665"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Chatham_House_Grammar_School",
+          "entity_id": "Q8723630"
+        }
+      ],
+      [
+        {
+          "start": 21,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Thanet_District",
+          "entity_id": "Q1752642"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Cheadle_Hulme_School",
+          "entity_id": "Q5088797"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Cheadle_Hulme_School",
+          "entity_id": "Q13281795"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Cheltenham_College",
+          "entity_id": "Q467269"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Cheltenham_College",
+          "entity_id": "Q8723635"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Chigwell_School",
+          "entity_id": "Q5097250"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Chigwell_School",
+          "entity_id": "Q8723640"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Christ_College,_Brecon",
+          "entity_id": "Q5108840"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Christ_College,_Brecon",
+          "entity_id": "Q8723645"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Christ%27s_Hospital",
+          "entity_id": "Q677579"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Christ%27s_Hospital",
+          "entity_id": "Q8723643"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Churcher%27s_College",
+          "entity_id": "Q5118112"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Churcher%27s_College",
+          "entity_id": "Q8723652"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/City_of_London_School",
+          "entity_id": "Q2654767"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_City_of_London_School",
+          "entity_id": "Q8725032"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/City_of_Oxford_School",
+          "entity_id": "Q5123849"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_City_of_Oxford_High_School_for_Boys",
+          "entity_id": "Q8725035"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Clifton_College",
+          "entity_id": "Q5133190"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Clifton_College",
+          "entity_id": "Q8723665"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Colchester_Royal_Grammar_School",
+          "entity_id": "Q5142105"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Colchester_Royal_Grammar_School",
+          "entity_id": "Q8723678"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Colfe%27s_School",
+          "entity_id": "Q5144760"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Colfe%27s_School",
+          "entity_id": "Q8723680"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/The_College_of_Richard_Collyer",
+          "entity_id": "Q7726775"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_College_of_Richard_Collyer",
+          "entity_id": "Q8724768"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Cothill_House",
+          "entity_id": "Q5175359"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Cothill_House",
+          "entity_id": "Q8723695"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cranleigh_School",
+          "entity_id": "Q5182204"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Cranleigh_School",
+          "entity_id": "Q8723702"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Culford_School",
+          "entity_id": "Q5080245"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Culford_School",
+          "entity_id": "Q8723710"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dauntsey%27s_School",
+          "entity_id": "Q5228062"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dauntsey%27s_School",
+          "entity_id": "Q8723725"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dean_Close_School",
+          "entity_id": "Q5246077"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dean_Close_School",
+          "entity_id": "Q8723729"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Denstone_College",
+          "entity_id": "Q5259353"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Denstone_College",
+          "entity_id": "Q8723732"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Derby_School",
+          "entity_id": "Q5261507"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Derby_School",
+          "entity_id": "Q13281806"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Derby_Grammar_School",
+          "entity_id": "Q5261469"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Derby_School",
+          "entity_id": "Q13281806"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Diss_High_School",
+          "entity_id": "Q5282733"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Diss_Grammar_School",
+          "entity_id": "Q8723739"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Dollar_Academy",
+          "entity_id": "Q5289201"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dollar_Academy",
+          "entity_id": "Q8723741"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Douai_School",
+          "entity_id": "Q5299541"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Douai_School",
+          "entity_id": "Q15286086"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dover_College",
+          "entity_id": "Q5302478"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dover_College",
+          "entity_id": "Q8723745"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Dover_Grammar_School_for_Boys",
+          "entity_id": "Q5302487"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dover_Grammar_School_for_Boys",
+          "entity_id": "Q13281809"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Downe_House_School",
+          "entity_id": "Q5303087"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Downe_House_School",
+          "entity_id": "Q13281811"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Down_High_School",
+          "entity_id": "Q5302824"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Down_High_School",
+          "entity_id": "Q8723747"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Downside_School",
+          "entity_id": "Q5303281"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Downside_School",
+          "entity_id": "Q8723752"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Dragon_School",
+          "entity_id": "Q610999"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Dragon_School",
+          "entity_id": "Q8724770"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dulwich_College",
+          "entity_id": "Q1264867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Dulwich_College",
+          "entity_id": "Q8723758"
+        }
+      ],
+      [
+        {
+          "start": 25,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Edward_Alleyn",
+          "entity_id": "Q560455"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Durham_School",
+          "entity_id": "Q5316554"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Durham_School",
+          "entity_id": "Q8723769"
+        }
+      ],
+      [
+        {
+          "start": 37,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/Bishop_of_Durham",
+          "entity_id": "Q1080277"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Eastbourne_College",
+          "entity_id": "Q5329808"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Eastbourne_College",
+          "entity_id": "Q8723781"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Edinburgh_Academy",
+          "entity_id": "Q3047595"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Edinburgh_Academy",
+          "entity_id": "Q13281823"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Elizabeth_College,_Guernsey",
+          "entity_id": "Q5362612"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Elizabeth_College,_Guernsey",
+          "entity_id": "Q13281820"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ellesmere_College",
+          "entity_id": "Q5365245"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ellesmere_College",
+          "entity_id": "Q8723792"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Eltham_College",
+          "entity_id": "Q5367796"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Eltham_College",
+          "entity_id": "Q8723793"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Emanuel_School",
+          "entity_id": "Q5369138"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Emanuel_School",
+          "entity_id": "Q15286098"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epsom_College",
+          "entity_id": "Q5383987"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Epsom_College",
+          "entity_id": "Q13281824"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Ermysted%27s_Grammar_School",
+          "entity_id": "Q5392537"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ermysted%27s_Grammar_School",
+          "entity_id": "Q8723801"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Eton_College",
+          "entity_id": "Q192088"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Eton_College",
+          "entity_id": "Q6377507"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Exeter_School",
+          "entity_id": "Q5420130"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Exeter_School",
+          "entity_id": "Q13281825"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Fairfield_Grammar_School",
+          "entity_id": "Q5430282"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Fairfield_Grammar_School",
+          "entity_id": "Q8723809"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Felsted_School",
+          "entity_id": "Q5442625"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Felsted_School",
+          "entity_id": "Q8723808"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Fettes_College",
+          "entity_id": "Q5445986"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Fettes_College",
+          "entity_id": "Q8723807"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Forest_School_(Walthamstow)",
+          "entity_id": "Q5469106"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Forest_School,_Walthamstow",
+          "entity_id": "Q8723815"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Foster%27s_School",
+          "entity_id": "Q8564903"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Foster%27s_School",
+          "entity_id": "Q13281827"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Framlingham_College",
+          "entity_id": "Q5478036"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Framlingham_College",
+          "entity_id": "Q15286102"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Frensham_Heights_School",
+          "entity_id": "Q5502791"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Frensham_Heights_School",
+          "entity_id": "Q8723825"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Friars_School,_Bangor",
+          "entity_id": "Q5503369"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Friars_School,_Bangor",
+          "entity_id": "Q8723827"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Furness_Academy",
+          "entity_id": "Q5509644"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Barrow-in-Furness_Grammar_School_for_Boys",
+          "entity_id": "Q24930657"
+        }
+      ],
+      [
+        {
+          "start": 36,
+          "end": 53,
+          "url": "http://en.wikipedia.org/wiki/Barrow-in-Furness",
+          "entity_id": "Q671892"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Giggleswick_School",
+          "entity_id": "Q5560288"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Giggleswick_School",
+          "entity_id": "Q8723842"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Glenalmond_College",
+          "entity_id": "Q5568133"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Glenalmond_College",
+          "entity_id": "Q8723849"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Godolphin_and_Latymer_School",
+          "entity_id": "Q5576782"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Godolphin_and_Latymer_School",
+          "entity_id": "Q8723860"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gordonstoun",
+          "entity_id": "Q1538148"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Gordonstoun",
+          "entity_id": "Q8723863"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Gresham%27s_School",
+          "entity_id": "Q61228"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Gresham%27s_School",
+          "entity_id": "Q8723878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Haberdashers%27_Aske%27s_Boys%27_School",
+          "entity_id": "Q5553434"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Haberdashers%27_Aske%27s_Boys%27_School",
+          "entity_id": "Q8723886"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Haileybury_and_Imperial_Service_College",
+          "entity_id": "Q5639263"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Haileybury_and_Imperial_Service_College",
+          "entity_id": "Q8723892"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hampton_School",
+          "entity_id": "Q5646301"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hampton_School",
+          "entity_id": "Q8723897"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Hanley_Castle_High_School",
+          "entity_id": "Q5648588"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hanley_Castle_High_School",
+          "entity_id": "Q8723901"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Harrodian_School",
+          "entity_id": "Q7738938"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Harrodian_School",
+          "entity_id": "Q8724774"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Harrow_School",
+          "entity_id": "Q1247373"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Harrow_School",
+          "entity_id": "Q6377364"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Harrow_High_School",
+          "entity_id": "Q5666542"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Harrow_High_School",
+          "entity_id": "Q8723908"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hawtreys",
+          "entity_id": "Q5685682"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hawtreys",
+          "entity_id": "Q8723913"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Headington_School,_Oxford",
+          "entity_id": "Q5689654"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Headington_School",
+          "entity_id": "Q8723920"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Hereford_Cathedral_School",
+          "entity_id": "Q5737962"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hereford_Cathedral_School",
+          "entity_id": "Q13281843"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Highgate_School",
+          "entity_id": "Q3560910"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Highgate_School",
+          "entity_id": "Q8723937"
+        }
+      ],
+      [
+        {
+          "start": 14,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Roger_Cholmeley",
+          "entity_id": "Q16200843"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hull_Grammar_School",
+          "entity_id": "Q5935918"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hull_Grammar_School",
+          "entity_id": "Q8723957"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Hulme_Grammar_School",
+          "entity_id": "Q15226719"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hulme_Grammar_School",
+          "entity_id": "Q8723959"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Hurstpierpoint_College",
+          "entity_id": "Q5948658"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hurstpierpoint_College",
+          "entity_id": "Q8723963"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hymers_College",
+          "entity_id": "Q5956693"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Hymers_College",
+          "entity_id": "Q8723968"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Ibstock_Place_School",
+          "entity_id": "Q5984892"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ibstock_Place_School",
+          "entity_id": "Q8723971"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Ilford_County_High_School",
+          "entity_id": "Q15109469"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ilford_County_High_School",
+          "entity_id": "Q13281848"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Ilkeston_Grammar_School",
+          "entity_id": "Q15228306"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ilkeston_Academy",
+          "entity_id": "Q8723975"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ipswich_School",
+          "entity_id": "Q6065634"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ipswich_School",
+          "entity_id": "Q8723982"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/John_Roan_School",
+          "entity_id": "Q4358364"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_John_Roan_School",
+          "entity_id": "Q8725046"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/The_Judd_School",
+          "entity_id": "Q16237778"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Judd_School",
+          "entity_id": "Q8724785"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kelly_College",
+          "entity_id": "Q6385989"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Kelly_College",
+          "entity_id": "Q15286125"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kendrick_School",
+          "entity_id": "Q6389039"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Kendrick_School",
+          "entity_id": "Q8724015"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kimbolton_School",
+          "entity_id": "Q6410016"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Kimbolton_School",
+          "entity_id": "Q15286129"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/King%27s_College_School",
+          "entity_id": "Q6410900"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King%27s_College_School,_London",
+          "entity_id": "Q8724034"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/King%27s_College,_Taunton",
+          "entity_id": "Q1742183"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King%27s_College,_Taunton",
+          "entity_id": "Q8724031"
+        }
+      ],
+      [
+        {
+          "start": 45,
+          "end": 56,
+          "url": "http://en.wikipedia.org/wiki/King_Alfred",
+          "entity_id": "Q83476"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/The_King%27s_School,_Chester",
+          "entity_id": "Q7744469"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_King%27s_School,_Chester",
+          "entity_id": "Q9539465"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/The_King%27s_School,_Canterbury",
+          "entity_id": "Q3360332"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_King%27s_School,_Canterbury",
+          "entity_id": "Q8724789"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/The_King%27s_School,_Peterborough",
+          "entity_id": "Q7744421"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_King%27s_School,_Peterborough",
+          "entity_id": "Q8724799"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/King%27s_School,_Rochester",
+          "entity_id": "Q6411092"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King%27s_School,_Rochester",
+          "entity_id": "Q8724036"
+        }
+      ],
+      [
+        {
+          "start": 38,
+          "end": 54,
+          "url": "http://en.wikipedia.org/wiki/Rochester,_Kent#Toponymy",
+          "entity_id": "Q507517"
+        },
+        {
+          "start": 58,
+          "end": 69,
+          "url": "http://en.wikipedia.org/wiki/Old_English",
+          "entity_id": "Q42365"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/The_King%27s_School,_Worcester",
+          "entity_id": "Q7744481"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King%27s_School,_Worcester",
+          "entity_id": "Q8724037"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/King%27s_School,_Bruton",
+          "entity_id": "Q6411088"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King%27s_School,_Bruton",
+          "entity_id": "Q15305884"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/King_Edward_VI_Aston",
+          "entity_id": "Q6411516"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward_VI_Aston_School",
+          "entity_id": "Q8724047"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/King_Edward_VI_School_(Bury_St_Edmunds)",
+          "entity_id": "Q6411535"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward_VI_School,_Bury_St_Edmunds",
+          "entity_id": "Q15286135"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/King_Edward_VI_Grammar_School_(Chelmsford)",
+          "entity_id": "Q15238516"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward_VI_Grammar_School,_Chelmsford",
+          "entity_id": "Q8724050"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/King_Edward_VI_School,_Southampton",
+          "entity_id": "Q6411531"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward_VI_School,_Southampton",
+          "entity_id": "Q8724058"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/King_Edward_VII_School,_Sheffield",
+          "entity_id": "Q6411505"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward_VII_School,_Sheffield",
+          "entity_id": "Q8724042"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/King_Edward%27s_School,_Birmingham",
+          "entity_id": "Q3197003"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward%27s_School,_Birmingham",
+          "entity_id": "Q13281852"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/King_Edward%27s_School,_Witley",
+          "entity_id": "Q6411462"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward%27s_School,_Witley",
+          "entity_id": "Q8724041"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/King_Henry_VIII_School,_Coventry",
+          "entity_id": "Q6411705"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Henry_VIII_School,_Coventry",
+          "entity_id": "Q8724063"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/King_George_V_College",
+          "entity_id": "Q6411643"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_George_V_College",
+          "entity_id": "Q8724061"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kingswood_School",
+          "entity_id": "Q6413785"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Kingswood_School,_Bath",
+          "entity_id": "Q8724070"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Kirkham_Grammar_School",
+          "entity_id": "Q6415669"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Kirkham_Grammar_School",
+          "entity_id": "Q8724071"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Lancaster_Royal_Grammar_School",
+          "entity_id": "Q3166571"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Lancaster_Royal_Grammar_School",
+          "entity_id": "Q8724085"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lancing_College",
+          "entity_id": "Q1774693"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Lancing_College",
+          "entity_id": "Q8724088"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Langley_School,_Loddon",
+          "entity_id": "Q6486299"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Langley_School,_Loddon",
+          "entity_id": "Q8724089"
+        }
+      ],
+      [
+        {
+          "start": 14,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Iceni",
+          "entity_id": "Q211678"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Latymer_Upper_School",
+          "entity_id": "Q6497526"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Latymer_Upper_School",
+          "entity_id": "Q8724095"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Lawrence_Sheriff_School",
+          "entity_id": "Q6504589"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Lawrence_Sheriff_School",
+          "entity_id": "Q8724097"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Leicester_Grammar_School",
+          "entity_id": "Q6519184"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Leicester_Grammar_School",
+          "entity_id": "Q8724107"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Leighton_Park_School",
+          "entity_id": "Q6519777"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Leighton_Park_School",
+          "entity_id": "Q8724108"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Leeds_Grammar_School",
+          "entity_id": "Q6515975"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Leeds_Grammar_School",
+          "entity_id": "Q13281859"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Liverpool_College",
+          "entity_id": "Q6658359"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Liverpool_College",
+          "entity_id": "Q8724123"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/The_Leys_School",
+          "entity_id": "Q3237444"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Leys_School",
+          "entity_id": "Q8724804"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/The_London_Oratory_School",
+          "entity_id": "Q6670638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_London_Oratory_School",
+          "entity_id": "Q8724139"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/The_Cathedral_School,_Llandaff",
+          "entity_id": "Q7721717"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Cathedral_School,_Llandaff",
+          "entity_id": "Q8724765"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Llandovery_College",
+          "entity_id": "Q6661234"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Llandovery_College",
+          "entity_id": "Q8724128"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Lord_Williams%27s_School",
+          "entity_id": "Q6680034"
+        },
+        {
+          "start": 25,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Thame",
+          "entity_id": "Q2094727"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Lord_Williams%27s_School",
+          "entity_id": "Q8724143"
+        }
+      ],
+      [
+        {
+          "start": 10,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Thame",
+          "entity_id": "Q2094727"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Loretto_School",
+          "entity_id": "Q161795"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Loretto_School,_Musselburgh",
+          "entity_id": "Q13281874"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Loughborough_Grammar_School",
+          "entity_id": "Q3837561"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Loughborough_Grammar_School",
+          "entity_id": "Q8724149"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ludgrove_School",
+          "entity_id": "Q3266049"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ludgrove_School",
+          "entity_id": "Q13281875"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Lewis_School,_Pengam",
+          "entity_id": "Q6537042"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Lewis_School,_Pengam",
+          "entity_id": "Q8724112"
+        }
+      ],
+      [
+        {
+          "start": 16,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Latin",
+          "entity_id": "Q397"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Lyc%C3%A9e_Fran%C3%A7ais_Charles_de_Gaulle",
+          "entity_id": "Q3269062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Independent_school_(United_Kingdom)",
+          "entity_id": "Q2418495"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Magdalen_College_School,_Oxford",
+          "entity_id": "Q6729834"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Magdalen_College_School,_Oxford",
+          "entity_id": "Q8724162"
+        }
+      ],
+      [
+        {
+          "start": 15,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/William_Waynflete",
+          "entity_id": "Q2581024"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Maidstone_Grammar_School",
+          "entity_id": "Q6735519"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Maidstone_Grammar_School",
+          "entity_id": "Q8724164"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Malvern_School",
+          "entity_id": "Q1536562"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Malvern_College",
+          "entity_id": "Q13281878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Manchester_Grammar_School",
+          "entity_id": "Q6747415"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Manchester_Grammar_School",
+          "entity_id": "Q8724172"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Marlborough_College",
+          "entity_id": "Q1902016"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Marlborough_College",
+          "entity_id": "Q8724183"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Merchant_Taylors%27_School,_Crosby",
+          "entity_id": "Q1422599"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Merchant_Taylors%27_School,_Crosby",
+          "entity_id": "Q8724197"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Merchant_Taylors%27_School,_Northwood",
+          "entity_id": "Q1921431"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Merchant_Taylors%27_School,_Northwood",
+          "entity_id": "Q8724198"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Merchiston_Castle_School",
+          "entity_id": "Q6818469"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Merchiston_Castle_School",
+          "entity_id": "Q8724200"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Midhurst_Grammar_School",
+          "entity_id": "Q6842256"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Midhurst_Grammar_School",
+          "entity_id": "Q8724203"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Millfield",
+          "entity_id": "Q15253416"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Millfield",
+          "entity_id": "Q8724208"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mill_Hill_School",
+          "entity_id": "Q6858340"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Mill_Hill_School",
+          "entity_id": "Q8724206"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Monkton_Combe_School",
+          "entity_id": "Q6901005"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Monkton_Combe_School",
+          "entity_id": "Q13281885"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Monkwearmouth_Academy",
+          "entity_id": "Q19655083"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Monkwearmouth_School",
+          "entity_id": "Q30812705"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Mount_Radford,_Exeter#Mount_Radford_School",
+          "entity_id": "Q20712613"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Mount_Radford_School",
+          "entity_id": "Q13281887"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/North_London_Collegiate_School",
+          "entity_id": "Q3249136"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_North_London_Collegiate_School",
+          "entity_id": "Q15286157"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Northampton_School_for_Boys",
+          "entity_id": "Q13654033"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Northampton_School_for_Boys",
+          "entity_id": "Q15286163"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Norwich_School",
+          "entity_id": "Q3381488"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/List_of_Old_Norvicensians",
+          "entity_id": "Q16967575"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Nottingham_High_School",
+          "entity_id": "Q7063652"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Nottingham_High_School",
+          "entity_id": "Q8724271"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oakham_School",
+          "entity_id": "Q7073892"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Oakham_School",
+          "entity_id": "Q8724275"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Old_Swinford_Hospital",
+          "entity_id": "Q7085171"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Old_Swinford_Hospital",
+          "entity_id": "Q15286167"
+        }
+      ],
+      [
+        {
+          "start": 15,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Foley_(1616%E2%80%931677)",
+          "entity_id": "Q7789702"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/The_Oratory_School",
+          "entity_id": "Q7755270"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Oratory_School",
+          "entity_id": "Q13281942"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Oswestry_School",
+          "entity_id": "Q1700995"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Oswestry_School",
+          "entity_id": "Q8724288"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oundle_School",
+          "entity_id": "Q3358331"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Oundle_School",
+          "entity_id": "Q8724290"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pangbourne_College",
+          "entity_id": "Q4046387"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Pangbourne_College",
+          "entity_id": "Q8724310"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Pate%27s_Grammar_School",
+          "entity_id": "Q7144381"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Pate%27s_Grammar_School",
+          "entity_id": "Q8724322"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/The_Perse_School",
+          "entity_id": "Q7756751"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Perse_School",
+          "entity_id": "Q8724813"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Peter_Symonds_College",
+          "entity_id": "Q7177215"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Peter_Symonds_College",
+          "entity_id": "Q13281896"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Pierrepont_School,_Frensham",
+          "entity_id": "Q7192553"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Pierrepont_School,_Frensham",
+          "entity_id": "Q8724336"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pocklington_School",
+          "entity_id": "Q7206472"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Pocklington_School",
+          "entity_id": "Q8724343"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Port_Regis_School",
+          "entity_id": "Q7230874"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Port_Regis_School",
+          "entity_id": "Q8724348"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Portsmouth_Grammar_School",
+          "entity_id": "Q7232466"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Portsmouth_Grammar_School",
+          "entity_id": "Q8724357"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Portora_Royal_School",
+          "entity_id": "Q3909328"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Portora_Royal_School",
+          "entity_id": "Q8724355"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Prebendal_School",
+          "entity_id": "Q7758025"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Prebendal_School",
+          "entity_id": "Q13281944"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Princethorpe_College",
+          "entity_id": "Q7244919"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Princethorpe_College",
+          "entity_id": "Q8724362"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Queen%27s_College,_London",
+          "entity_id": "Q3414026"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen%27s_College,_London",
+          "entity_id": "Q15305896"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Queen%27s_College,_Taunton",
+          "entity_id": "Q7269951"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen%27s_College,_Taunton",
+          "entity_id": "Q8724370"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Queen_Elizabeth%27s_Grammar_School,_Blackburn",
+          "entity_id": "Q7270296"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen_Elizabeth%27s_Grammar_School,_Blackburn",
+          "entity_id": "Q8724377"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Queen_Elizabeth_Grammar_School,_Wakefield",
+          "entity_id": "Q7270328"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen_Elizabeth_Grammar_School,_Wakefield",
+          "entity_id": "Q8724390"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Queen_Elizabeth%27s_Hospital",
+          "entity_id": "Q7270308"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen_Elizabeth%27s_Hospital,_Bristol",
+          "entity_id": "Q8724386"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Queen_Margaret%27s_School,_York",
+          "entity_id": "Q7270432"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen_Margaret%27s_School,_York",
+          "entity_id": "Q8724393"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Queen_Mary%27s_Grammar_School",
+          "entity_id": "Q7270444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Grammar_School",
+          "entity_id": "Q967098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queen_Mary%27s_Grammar_School",
+          "entity_id": "Q8724395"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Walsall",
+          "entity_id": "Q504530"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Queenswood_School",
+          "entity_id": "Q7271130"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Queenswood_School",
+          "entity_id": "Q8724398"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Radley_College",
+          "entity_id": "Q3417076"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Radley_College",
+          "entity_id": "Q8724402"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ratcliffe_College",
+          "entity_id": "Q7295515"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ratcliffe_College",
+          "entity_id": "Q8724408"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Ravenscroft_School_(Somerset)",
+          "entity_id": "Q7296521"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ravenscroft_School,_Somerset",
+          "entity_id": "Q8724410"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Reading_School",
+          "entity_id": "Q7300559"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Reading_School",
+          "entity_id": "Q8724412"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Reed%27s_School",
+          "entity_id": "Q7306601"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Reed%27s_School",
+          "entity_id": "Q8724421"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Reigate_Grammar_School",
+          "entity_id": "Q7310077"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Reigate_Grammar_School",
+          "entity_id": "Q8724424"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Repton_School",
+          "entity_id": "Q3933220"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Repton_School",
+          "entity_id": "Q8724429"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rendcomb_College",
+          "entity_id": "Q7312789"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rendcomb_College",
+          "entity_id": "Q8724426"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Ripon_Grammar_School",
+          "entity_id": "Q7335666"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ripon_Grammar_School",
+          "entity_id": "Q8724427"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Roedean_School",
+          "entity_id": "Q7357563"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Roedean_School,_East_Sussex",
+          "entity_id": "Q13281909"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rossall_School",
+          "entity_id": "Q5493652"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rossall_School",
+          "entity_id": "Q8724438"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Royal_Belfast_Academical_Institution",
+          "entity_id": "Q7373798"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_Royal_Belfast_Academical_Institution",
+          "entity_id": "Q13281971"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/RGS_Worcester",
+          "entity_id": "Q7374233"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_Royal_Grammar_School_Worcester",
+          "entity_id": "Q8725063"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charter",
+          "entity_id": "Q727002"
+        },
+        {
+          "start": 13,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Elizabeth_I_of_England",
+          "entity_id": null
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Royal_Grammar_School,_Guildford",
+          "entity_id": "Q7374230"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Royal_Grammar_School,_Guildford",
+          "entity_id": "Q8724440"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Royal_Grammar_School,_Newcastle",
+          "entity_id": "Q7374234"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_Royal_Grammar_School,_Newcastle_upon_Tyne",
+          "entity_id": "Q8725061"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Royal_Grammar_School,_High_Wycombe",
+          "entity_id": "Q7374229"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_Royal_Grammar_School,_High_Wycombe",
+          "entity_id": "Q8725060"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Royal_Russell_School",
+          "entity_id": "Q7374785"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Royal_Russell_School",
+          "entity_id": "Q8724441"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Royal_School,_Armagh",
+          "entity_id": "Q7761723"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Royal_School,_Armagh",
+          "entity_id": "Q8724821"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Royal_Wolverhampton_School",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Royal_Wolverhampton_School",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rugby_School",
+          "entity_id": "Q1143281"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rugby_School",
+          "entity_id": "Q9746243"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ruthin_School",
+          "entity_id": "Q7383390"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Ruthin_School",
+          "entity_id": "Q8724447"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rutlish_School",
+          "entity_id": "Q7383524"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rutlish_School",
+          "entity_id": "Q8724449"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rydal_Penrhos",
+          "entity_id": "Q7384864"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rydal_Penrhos",
+          "entity_id": "Q8724450"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Rye_St_Antony_School",
+          "entity_id": "Q7384985"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Rye_St_Antony_School",
+          "entity_id": "Q15286189"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Shrewsbury_School",
+          "entity_id": "Q2280221"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Shrewsbury_School",
+          "entity_id": "Q8724497"
+        }
+      ],
+      [
+        {
+          "start": 29,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Shropshire",
+          "entity_id": "Q23103"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Seaford_College",
+          "entity_id": "Q7440373"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_King_Edward%27s_School,_Witley",
+          "entity_id": "Q8724041"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sedbergh_School",
+          "entity_id": "Q7445151"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sedbergh_School",
+          "entity_id": "Q8724476"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sevenoaks_School",
+          "entity_id": "Q2275185"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sevenoaks_School",
+          "entity_id": "Q8724479"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sherborne_School",
+          "entity_id": "Q2278254"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sherborne_School",
+          "entity_id": "Q13281919"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Sir_George_Monoux_College",
+          "entity_id": "Q7526900"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sir_George_Monoux_College",
+          "entity_id": "Q8724507"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Sir_John_Deane%27s_College",
+          "entity_id": "Q7527717"
+        },
+        {
+          "start": 27,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Northwich",
+          "entity_id": "Q2009813"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sir_John_Deane%27s_College",
+          "entity_id": "Q8724509"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Solihull_School",
+          "entity_id": "Q7558100"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Solihull_School",
+          "entity_id": "Q8724522"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Skinners%27_School",
+          "entity_id": "Q7764635"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_The_Skinners%27_School",
+          "entity_id": "Q8724824"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/St_Andrew%27s_School,_Pangbourne",
+          "entity_id": "Q7592397"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Andrew%27s_School,_Pangbourne",
+          "entity_id": "Q15305909"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/St_Bees_School",
+          "entity_id": "Q7587252"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St._Bees_School",
+          "entity_id": "Q8724545"
+        }
+      ],
+      [
+        {
+          "start": 5,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Saint_Bega",
+          "entity_id": "Q519437"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/St_Benedict%27s_School,_Ealing",
+          "entity_id": "Q7592643"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Benedict%27s_School",
+          "entity_id": "Q8724598"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/St_Clement_Danes_School",
+          "entity_id": "Q7587619"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St._Clement_Danes_School",
+          "entity_id": "Q15286208"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/St_Columba%27s_College,_St_Albans",
+          "entity_id": "Q7592867"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Columba%27s_College,_St_Albans",
+          "entity_id": "Q8724611"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/St_Dunstan%27s_College",
+          "entity_id": "Q7592981"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Dunstan%27s_College",
+          "entity_id": "Q15305915"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/St_Edward%27s_School,_Oxford",
+          "entity_id": "Q128260"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Edward%27s_School,_Oxford",
+          "entity_id": "Q8724622"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/St_Faith%27s_School",
+          "entity_id": "Q7593056"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Faith%27s_School",
+          "entity_id": "Q15305918"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/St_George%27s_College,_Weybridge",
+          "entity_id": "Q7593159"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_George%27s_College,_Weybridge",
+          "entity_id": "Q8724624"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/St_George%27s_School,_Harpenden",
+          "entity_id": "Q7593193"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_George%27s_School,_Harpenden",
+          "entity_id": "Q8724626"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/St_Ignatius%27_College",
+          "entity_id": "Q7593393"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Ignatius%27_College,_Enfield",
+          "entity_id": "Q8724630"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/St_Ivo_School",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Ivo_School",
+          "entity_id": "Q8724628"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/St_John%27s_College,_Portsmouth",
+          "entity_id": "Q7593583"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_John%27s_College,_Portsmouth",
+          "entity_id": "Q8724634"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/St_John%27s_School,_Leatherhead",
+          "entity_id": "Q7593614"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_John%27s_School,_Leatherhead",
+          "entity_id": "Q15305922"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/St_Lawrence_College,_Ramsgate",
+          "entity_id": "Q7589481"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St._Lawrence_College,_Ramsgate",
+          "entity_id": "Q8724561"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St_Leonard%27s_School",
+          "entity_id": "Q7594016"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Leonards_School",
+          "entity_id": "Q8724647"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/St_Olave%27s_Grammar_School",
+          "entity_id": "Q3495346"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Olave%27s_Grammar_School",
+          "entity_id": "Q15305932"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/St_Paul%27s_School,_London",
+          "entity_id": "Q1227526"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Paul%27s_School,_London",
+          "entity_id": "Q8724682"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/St_Paul%27s_Girls%27_School",
+          "entity_id": "Q4638918"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Paul%27s_Girls%27_School",
+          "entity_id": "Q60936795"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/St_Peter%27s_School,_York",
+          "entity_id": "Q2504619"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Peter%27s_School,_York",
+          "entity_id": "Q8724687"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/St_Swithun%27s_School,_Winchester",
+          "entity_id": "Q7595505"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_St_Swithun%27s_School,_Winchester",
+          "entity_id": "Q15305939"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Stamford_School",
+          "entity_id": "Q7597409"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Stamford_School",
+          "entity_id": "Q15286243"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Stowe_School",
+          "entity_id": "Q7620697"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Stowe_School",
+          "entity_id": "Q15286245"
+        }
+      ],
+      [
+        {
+          "start": 51,
+          "end": 59,
+          "url": "http://en.wikipedia.org/wiki/Stoicism",
+          "entity_id": "Q48235"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Stonyhurst_College",
+          "entity_id": "Q2274271"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Stonyhurst_College",
+          "entity_id": "Q8724708"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Stockport_Grammar_School",
+          "entity_id": "Q7618157"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Stockport_Grammar_School",
+          "entity_id": "Q13281932"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Strand_School",
+          "entity_id": "Q7621242"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_the_Strand_School",
+          "entity_id": "Q8725083"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Summer_Fields_School",
+          "entity_id": "Q7637318"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Summer_Fields_School",
+          "entity_id": "Q13281936"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Sunningdale_School",
+          "entity_id": "Q7640598"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sunningdale_School",
+          "entity_id": "Q8724728"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Sutton_Grammar_School_for_Boys",
+          "entity_id": "Q7650263"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sutton_Grammar_School",
+          "entity_id": "Q8724731"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Sutton_Valence_School",
+          "entity_id": "Q7650336"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Sutton_Valence_School",
+          "entity_id": "Q13281935"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Taunton_School",
+          "entity_id": "Q7688807"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Taunton_School",
+          "entity_id": "Q8724751"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Tonbridge_School",
+          "entity_id": "Q3531508"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Tonbridge_School",
+          "entity_id": "Q8724836"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Trent_College",
+          "entity_id": "Q7838377"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Trent_College",
+          "entity_id": "Q15286263"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Trinity_School_of_John_Whitgift",
+          "entity_id": "Q7842970"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Trinity_School_of_John_Whitgift",
+          "entity_id": "Q8724857"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Truro_School",
+          "entity_id": "Q676637"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Truro_School",
+          "entity_id": "Q8724859"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Twyford_School",
+          "entity_id": "Q7859531"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Twyford_School",
+          "entity_id": "Q8724866"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/University_College_School",
+          "entity_id": "Q7894634"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/List_of_Old_Gowers",
+          "entity_id": "Q6592827"
+        }
+      ],
+      [
+        {
+          "start": 6,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gower_Street_(London)",
+          "entity_id": "Q893336"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Upton_Court_Grammar_School",
+          "entity_id": "Q16154932"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Upton_Court_Grammar_School",
+          "entity_id": "Q15286265"
+        }
+      ],
+      [
+        {
+          "start": 38,
+          "end": 59,
+          "url": "http://en.wikipedia.org/wiki/Slough_Grammar_School",
+          "entity_id": "Q16154932"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Victoria_College,_Jersey",
+          "entity_id": "Q7926647"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Victoria_College,_Jersey",
+          "entity_id": "Q8724876"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Uppingham_School",
+          "entity_id": "Q3403302"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Uppingham_School",
+          "entity_id": "Q13281956"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Wallington_County_Grammar_School",
+          "entity_id": "Q7963111"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wallington_County_Grammar_School",
+          "entity_id": "Q8724885"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Warminster_School",
+          "entity_id": "Q7969638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Warminster_School",
+          "entity_id": "Q8724893"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_Camden",
+          "entity_id": "Q364239"
+        },
+        {
+          "start": 68,
+          "end": 78,
+          "url": "http://en.wikipedia.org/wiki/Warminster",
+          "entity_id": "Q732745"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Watford_Grammar_School_for_Boys",
+          "entity_id": "Q7974619"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Watford_Grammar_School_for_Boys",
+          "entity_id": "Q8724894"
+        }
+      ],
+      [
+        {
+          "start": 14,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Elizabeth_Fuller",
+          "entity_id": "Q5362808"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Warwick_School",
+          "entity_id": "Q7971186"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Warwick_School",
+          "entity_id": "Q15286268"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Wells_Cathedral_School",
+          "entity_id": "Q7981628"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wells_Cathedral_School",
+          "entity_id": "Q8724906"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Wellingborough_School",
+          "entity_id": "Q7981286"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wellingborough_School",
+          "entity_id": "Q8724898"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Wellington_College,_Berkshire",
+          "entity_id": "Q114306"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wellington_College,_Berkshire",
+          "entity_id": "Q15286271"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/West_Buckland_School",
+          "entity_id": "Q7984608"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_West_Buckland_School",
+          "entity_id": "Q8724913"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/West_Downs_School",
+          "entity_id": "Q7984990"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_West_Downs_School",
+          "entity_id": "Q15286276"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/West_Hill_Park_School",
+          "entity_id": "Q7985386"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Old_Westhillians&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Westcliff_High_School_for_Boys",
+          "entity_id": "Q7987275"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Westcliff_High_School_for_Boys",
+          "entity_id": "Q8724922"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Westminster_School",
+          "entity_id": "Q1341516"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Westminster_School,_London",
+          "entity_id": "Q8724930"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Whitgift_School",
+          "entity_id": "Q2567148"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Whitgift_School",
+          "entity_id": "Q8724939"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/William_Hulme%27s_Grammar_School",
+          "entity_id": "Q8012653"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_William_Hulme%27s_Grammar_School",
+          "entity_id": "Q8724942"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Wilson%27s_School",
+          "entity_id": "Q8022921"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wilson%27s_School,_Wallington",
+          "entity_id": "Q8724946"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wimbledon_College",
+          "entity_id": "Q8023516"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wimbledon_College",
+          "entity_id": "Q8724948"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Wisbech_Grammar_School",
+          "entity_id": "Q8027068"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wisbech_Grammar_School",
+          "entity_id": "Q8724954"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Worksop_College",
+          "entity_id": "Q8035158"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Worksop_College",
+          "entity_id": "Q8724974"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Wrekin_College",
+          "entity_id": "Q8037720"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wrekin_College",
+          "entity_id": "Q15286295"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Wolverhampton_Grammar_School",
+          "entity_id": "Q8030503"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wolverhampton_Grammar_School",
+          "entity_id": "Q8724965"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Worth_School",
+          "entity_id": "Q1589734"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Worth_School",
+          "entity_id": "Q8724976"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Wycliffe_College_(Gloucestershire)",
+          "entity_id": "Q8039606"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wycliffe_College,_Gloucestershire",
+          "entity_id": "Q8724980"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Winchester_College",
+          "entity_id": "Q1059517"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Winchester_College",
+          "entity_id": "Q8724950"
+        }
+      ],
+      [
+        {
+          "start": 14,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/William_of_Wykeham",
+          "entity_id": "Q723451"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodhouse_Grove_School",
+          "entity_id": "Q4128250"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Woodhouse_Grove_School",
+          "entity_id": "Q8724969"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Wycombe_Abbey",
+          "entity_id": "Q8039639"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Wycombe_Abbey",
+          "entity_id": "Q8724981"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yarm_School",
+          "entity_id": "Q8049368"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Category:People_educated_at_Yarm_School",
+          "entity_id": "Q15286297"
+        }
+      ],
+      [
+        {
+          "start": 10,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Viking",
+          "entity_id": "Q12567"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

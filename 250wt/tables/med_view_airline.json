@@ -1,0 +1,717 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Med-View_Airline",
+    "columns": [
+      {
+        "index": 0,
+        "name": "City",
+        "values": [
+          "Abuja",
+          "Abidjan",
+          "Accra",
+          "Conakry",
+          "Dakar",
+          "Dubai",
+          "Enugu",
+          "Freetown",
+          "Ilorin",
+          "Jeddah",
+          "Kaduna",
+          "Kano",
+          "Lagos",
+          "London",
+          "Maiduguri",
+          "Monrovia",
+          "Owerri",
+          "Port Harcourt",
+          "Yola"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Country",
+        "values": [
+          " Nigeria",
+          " Ivory Coast",
+          " Ghana",
+          " Guinea",
+          " Senegal",
+          " UAE",
+          " Nigeria",
+          " Sierra Leone",
+          " Nigeria",
+          " Saudi Arabia",
+          " Nigeria",
+          " Nigeria",
+          " Nigeria",
+          " United Kingdom",
+          " Nigeria",
+          " Liberia",
+          " Nigeria",
+          " Nigeria",
+          " Nigeria"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "IATA",
+        "values": [
+          "ABV",
+          "ABJ",
+          "ACC",
+          "CKY",
+          "DKR",
+          "DXB",
+          "ENU",
+          "FNA",
+          "ILR",
+          "JED",
+          "KAD",
+          "KAN",
+          "LOS",
+          "LGW",
+          "MIU",
+          "ROB",
+          "QOW",
+          "PHC",
+          "YOL"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "ICAO",
+        "values": [
+          "DNAA",
+          "DIAP",
+          "DGAA",
+          "GUCY",
+          "GOOY",
+          "OMDB",
+          "DNEN",
+          "GFLL",
+          "DNIL",
+          "OEJN",
+          "DNKA",
+          "DNKN",
+          "DNMM",
+          "EGKK",
+          "DNMA",
+          "GLRB",
+          "DNIM",
+          "DNPO",
+          "DNYO"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Airport",
+        "values": [
+          "Nnamdi Azikiwe International Airport",
+          "Port Bouet Airport",
+          "Kotoka International Airport",
+          "Conakry International Airport",
+          "Léopold Sédar Senghor International Airport",
+          "Dubai International Airport",
+          "Akanu Ibiam International Airport",
+          "Lungi International",
+          "Ilorin International Airport",
+          "King Abdulaziz International Airport",
+          "Kaduna Airport",
+          "Mallam Aminu Kano International Airport",
+          "Murtala Muhammed International Airport",
+          "London Gatwick Airport",
+          "Maiduguri International",
+          "Roberts International (Roberts Field)",
+          "Sam Mbakwe Airport",
+          "Port Harcourt International Airport",
+          "Yola Airport"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Refs",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Med-View Airline",
+    "page_url": "https://en.wikipedia.org/wiki/Med-View_Airline",
+    "page_entity_id": "Q2343605"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Abuja",
+          "entity_id": "Q3787"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Nnamdi_Azikiwe_International_Airport",
+          "entity_id": "Q525030"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Abidjan",
+          "entity_id": "Q1515"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ivory_Coast",
+          "entity_id": "Q1008"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Port_Bouet_Airport",
+          "entity_id": "Q1165280"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Accra",
+          "entity_id": "Q3761"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ghana",
+          "entity_id": "Q117"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Kotoka_International_Airport",
+          "entity_id": "Q177689"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Conakry",
+          "entity_id": "Q3733"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Guinea",
+          "entity_id": "Q1006"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Conakry_International_Airport",
+          "entity_id": "Q644978"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dakar",
+          "entity_id": "Q3718"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Senegal",
+          "entity_id": "Q1041"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport",
+          "entity_id": "Q513689"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Dubai_International_Airport",
+          "entity_id": "Q193439"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Enugu",
+          "entity_id": "Q465022"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Akanu_Ibiam_International_Airport",
+          "entity_id": "Q3497354"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Freetown",
+          "entity_id": "Q3780"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sierra_Leone",
+          "entity_id": "Q1044"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Lungi_International_Airport",
+          "entity_id": "Q1453722"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ilorin",
+          "entity_id": "Q587085"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Ilorin_International_Airport",
+          "entity_id": "Q3086140"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jeddah",
+          "entity_id": "Q374365"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport",
+          "entity_id": "Q153592"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kaduna",
+          "entity_id": "Q208318"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kaduna_Airport",
+          "entity_id": "Q5672567"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Kano",
+          "entity_id": "Q182984"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Mallam_Aminu_Kano_International_Airport",
+          "entity_id": "Q1431654"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Lagos",
+          "entity_id": "Q8673"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Murtala_Muhammed_International_Airport",
+          "entity_id": "Q1043631"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/London_Gatwick_Airport",
+          "entity_id": "Q8703"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Maiduguri",
+          "entity_id": "Q221436"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Maiduguri_International_Airport",
+          "entity_id": "Q3497345"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Monrovia",
+          "entity_id": "Q3748"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Liberia",
+          "entity_id": "Q1014"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Roberts_International_Airport",
+          "entity_id": "Q721497"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Owerri",
+          "entity_id": "Q583619"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Sam_Mbakwe_Airport",
+          "entity_id": "Q1936787"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Port_Harcourt",
+          "entity_id": "Q217432"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Port_Harcourt_International_Airport",
+          "entity_id": "Q1432453"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Yola,_Nigeria",
+          "entity_id": "Q994114"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yola_Airport",
+          "entity_id": "Q8190895"
+        }
+      ],
+      []
+    ]
+  ]
+}

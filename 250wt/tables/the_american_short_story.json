@@ -1,0 +1,677 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "The_American_Short_Story",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1974",
+          "1974",
+          "1975",
+          "1976",
+          "1976",
+          "1977",
+          "1977",
+          "1977",
+          "1977",
+          "1980",
+          "1980",
+          "1980",
+          "1980",
+          "1980",
+          "1980",
+          "1980",
+          "1980"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Episode Title",
+        "values": [
+          "The Music School",
+          "Parker Adderson, Philosopher",
+          "The Jolly Corner",
+          "Almos' a Man",
+          "Bernice Bobs Her Hair",
+          "I'm a Fool",
+          "The Displaced Person",
+          "The Blue Hotel",
+          "Soldier's Home",
+          "The Golden Honeymoon",
+          "Paul's Case",
+          "The Man That Corrupted Hadleyburg",
+          "Barn Burning",
+          "Rappaccini's Daughter",
+          "The Sky is Gray",
+          "The Jilting of Granny Weatherall",
+          "The Greatest Man in the World"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Author",
+        "values": [
+          "John Updike",
+          "Ambrose Bierce",
+          "Henry James",
+          "Richard Wright",
+          "F. Scott Fitzgerald",
+          "Sherwood Anderson",
+          "Flannery O'Connor",
+          "Stephen Crane",
+          "Ernest Hemingway",
+          "Ring Lardner",
+          "Willa Cather",
+          "Mark Twain",
+          "William Faulkner",
+          "Nathaniel Hawthorne",
+          "Ernest J. Gaines",
+          "Katherine Anne Porter",
+          "James Thurber"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Cast",
+        "values": [
+          "Ron Weyand, Colleen Dewhurst",
+          "Douglass Watson , Harris Yulin , Darren O'Connor",
+          "Salome Jens , Fritz Weaver",
+          "LeVar Burton , Madge Sinclair",
+          "Shelley Duvall , Veronica Cartwright , Henry Fonda",
+          "Ron Howard , Amy Irving , Henry Fonda",
+          "Irene Worth , Samuel L. Jackson , Henry Fonda",
+          "David Warner , James Keach , Henry Fonda",
+          "Richard Backus , Nancy Marchand , Henry Fonda",
+          "James Whitmore , Teresa Wright , Henry Fonda",
+          "Eric Roberts , Lindsay Crouse",
+          "Robert Preston , Tom Aldredge",
+          "Tommy Lee Jones , Diane Kagan, Henry Fonda",
+          "Kristoffer Tabori , Kathleen Beller , Henry Fonda",
+          "Olivia Cole , Cleavon Little",
+          "Geraldine Fitzgerald , Lois Smith",
+          "Brad Davis , Carol Kane"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "The American Short Story",
+    "page_url": "https://en.wikipedia.org/wiki/The_American_Short_Story",
+    "page_entity_id": "Q18645281"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Updike",
+          "entity_id": "Q105756"
+        }
+      ],
+      [
+        {
+          "start": 12,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Colleen_Dewhurst",
+          "entity_id": "Q253916"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Tales_of_Soldiers_and_Civilians",
+          "entity_id": "Q7679354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ambrose_Bierce",
+          "entity_id": "Q191050"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Douglass_Watson",
+          "entity_id": "Q5302194"
+        },
+        {
+          "start": 18,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Harris_Yulin",
+          "entity_id": "Q1346123"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/The_Jolly_Corner",
+          "entity_id": "Q15240001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Henry_James",
+          "entity_id": "Q170509"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Salome_Jens",
+          "entity_id": "Q7405616"
+        },
+        {
+          "start": 14,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Fritz_Weaver",
+          "entity_id": "Q1363890"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/The_Man_Who_Was_Almost_a_Man",
+          "entity_id": "Q7749983"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Richard_Wright_(author)",
+          "entity_id": "Q319820"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/LeVar_Burton",
+          "entity_id": "Q312570"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Madge_Sinclair",
+          "entity_id": "Q259737"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bernice_Bobs_Her_Hair",
+          "entity_id": "Q4894279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
+          "entity_id": "Q93354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shelley_Duvall",
+          "entity_id": "Q235478"
+        },
+        {
+          "start": 17,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Veronica_Cartwright",
+          "entity_id": "Q283872"
+        },
+        {
+          "start": 39,
+          "end": 50,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/I%27m_a_Fool",
+          "entity_id": "Q5966960"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sherwood_Anderson",
+          "entity_id": "Q233898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ron_Howard",
+          "entity_id": "Q103646"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Amy_Irving",
+          "entity_id": "Q235020"
+        },
+        {
+          "start": 26,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Displaced_Person",
+          "entity_id": "Q7730353"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Flannery_O%27Connor",
+          "entity_id": "Q234579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Irene_Worth",
+          "entity_id": "Q188389"
+        },
+        {
+          "start": 14,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Samuel_L._Jackson",
+          "entity_id": "Q172678"
+        },
+        {
+          "start": 34,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Blue_Hotel",
+          "entity_id": "Q7718774"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Stephen_Crane",
+          "entity_id": "Q206534"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/David_Warner_(actor)",
+          "entity_id": "Q363271"
+        },
+        {
+          "start": 15,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/James_Keach",
+          "entity_id": "Q1680660"
+        },
+        {
+          "start": 29,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Soldier%27s_Home",
+          "entity_id": "Q2298575"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ernest_Hemingway",
+          "entity_id": "Q23434"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Richard_Backus",
+          "entity_id": "Q2473282"
+        },
+        {
+          "start": 17,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Nancy_Marchand",
+          "entity_id": "Q257065"
+        },
+        {
+          "start": 34,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ring_Lardner",
+          "entity_id": "Q919515"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/James_Whitmore",
+          "entity_id": "Q313040"
+        },
+        {
+          "start": 17,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Teresa_Wright",
+          "entity_id": "Q230136"
+        },
+        {
+          "start": 33,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paul%27s_Case",
+          "entity_id": "Q7148896"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Willa_Cather",
+          "entity_id": "Q229480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Eric_Roberts",
+          "entity_id": "Q207969"
+        },
+        {
+          "start": 15,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Lindsay_Crouse",
+          "entity_id": "Q238912"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/The_Man_That_Corrupted_Hadleyburg",
+          "entity_id": "Q3819971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mark_Twain",
+          "entity_id": "Q7245"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Robert_Preston_(actor)",
+          "entity_id": "Q451811"
+        },
+        {
+          "start": 17,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Tom_Aldredge",
+          "entity_id": "Q663339"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Barn_Burning",
+          "entity_id": "Q4861291"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/William_Faulkner",
+          "entity_id": "Q38392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tommy_Lee_Jones",
+          "entity_id": "Q170587"
+        },
+        {
+          "start": 31,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Rappaccini%27s_Daughter",
+          "entity_id": "Q3822374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Nathaniel_Hawthorne",
+          "entity_id": "Q69339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kristoffer_Tabori",
+          "entity_id": "Q3199820"
+        },
+        {
+          "start": 20,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Kathleen_Beller",
+          "entity_id": "Q460289"
+        },
+        {
+          "start": 38,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/Henry_Fonda",
+          "entity_id": "Q19155"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ernest_J._Gaines",
+          "entity_id": "Q673217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Olivia_Cole",
+          "entity_id": "Q1798588"
+        },
+        {
+          "start": 14,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Cleavon_Little",
+          "entity_id": "Q1099628"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/The_Jilting_of_Granny_Weatherall",
+          "entity_id": "Q7743263"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Katherine_Anne_Porter",
+          "entity_id": "Q236958"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Geraldine_Fitzgerald",
+          "entity_id": "Q236396"
+        },
+        {
+          "start": 23,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Lois_Smith",
+          "entity_id": "Q258246"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/James_Thurber",
+          "entity_id": "Q124527"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Brad_Davis_(actor)",
+          "entity_id": "Q374175"
+        },
+        {
+          "start": 13,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Carol_Kane",
+          "entity_id": "Q235302"
+        }
+      ]
+    ]
+  ]
+}

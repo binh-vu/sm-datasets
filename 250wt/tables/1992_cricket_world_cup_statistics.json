@@ -1,0 +1,488 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1992_Cricket_World_Cup_statistics",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Player",
+        "values": [
+          "Martin Crowe",
+          "Javed Miandad",
+          "Peter Kirsten",
+          "David Boon",
+          "Rameez Raja",
+          "Brian Lara",
+          "Mohammad Azharuddin",
+          "Aamer Sohail",
+          "Andrew Jones",
+          "Mark Greatbatch"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Team",
+        "values": [
+          " New Zealand",
+          " Pakistan",
+          " South Africa",
+          " Australia",
+          " Pakistan",
+          " West Indies",
+          " India",
+          " Pakistan",
+          " New Zealand",
+          " New Zealand"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Runs",
+        "values": [
+          "456",
+          "437",
+          "410",
+          "368",
+          "349",
+          "333",
+          "332",
+          "326",
+          "322",
+          "313"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Matches",
+        "values": [
+          "9",
+          "8",
+          "8",
+          "8",
+          "8",
+          "8",
+          "8",
+          "10",
+          "9",
+          "7"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Inns",
+        "values": [
+          "9",
+          "8",
+          "8",
+          "8",
+          "8",
+          "8",
+          "7",
+          "10",
+          "9",
+          "7"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Avg",
+        "values": [
+          "64.00",
+          "62.42",
+          "68.33",
+          "52.57",
+          "58.16",
+          "47.57",
+          "47.42",
+          "32.60",
+          "46.00",
+          "44.71"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "S/R",
+        "values": [
+          "90.83",
+          "62.60",
+          "66.55",
+          "68.911",
+          "64.74",
+          "81.61",
+          "78.11",
+          "63.30",
+          "61.56",
+          "87.92"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "HS",
+        "values": [
+          "100*",
+          "89",
+          "90",
+          "100",
+          "119*",
+          "88*",
+          "93",
+          "114",
+          "78",
+          "73"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "100s",
+        "values": [
+          "1",
+          "0",
+          "0",
+          "2",
+          "2",
+          "0",
+          "0",
+          "1",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "index": 9,
+        "name": "50s",
+        "values": [
+          "4",
+          "5",
+          "4",
+          "0",
+          "0",
+          "4",
+          "4",
+          "2",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "index": 10,
+        "name": "4s",
+        "values": [
+          "45",
+          "27",
+          "28",
+          "34",
+          "35",
+          "34+",
+          "29",
+          "32",
+          "41",
+          "32"
+        ]
+      },
+      {
+        "index": 11,
+        "name": "6s",
+        "values": [
+          "6",
+          "0",
+          "2",
+          "2",
+          "0",
+          "1+",
+          "1",
+          "0",
+          "0",
+          "13"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1992 Cricket World Cup statistics",
+    "page_url": "https://en.wikipedia.org/wiki/1992_Cricket_World_Cup_statistics",
+    "page_entity_id": "Q16057122"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Martin_Crowe",
+          "entity_id": "Q3527828"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+          "entity_id": "Q1143797"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Javed_Miandad",
+          "entity_id": "Q679616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Peter_Kirsten",
+          "entity_id": "Q7175222"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
+          "entity_id": "Q1423651"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/David_Boon",
+          "entity_id": "Q3017555"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rameez_Raja",
+          "entity_id": "Q7289346"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Brian_Lara",
+          "entity_id": "Q202877"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Indies_cricket_team",
+          "entity_id": "Q912881"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Mohammad_Azharuddin",
+          "entity_id": "Q3345095"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India_national_cricket_team",
+          "entity_id": "Q1143793"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Aamer_Sohail",
+          "entity_id": "Q3535574"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Jones_(cricketer,_born_1959)",
+          "entity_id": "Q4757536"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+          "entity_id": "Q1143797"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Mark_Greatbatch",
+          "entity_id": "Q6767806"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+          "entity_id": "Q1143797"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

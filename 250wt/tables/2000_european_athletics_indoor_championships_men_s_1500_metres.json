@@ -1,0 +1,528 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2000_European_Athletics_Indoor_Championships_–_Men's_1500_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "1",
+          "1",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "José Antonio Redolat",
+          "Mehdi Baala",
+          "Vyacheslav Shabunin",
+          "James Nolan",
+          "Marko Koers",
+          "Luís Feiteira",
+          "Balázs Tölgyesi",
+          "Peter Philipp",
+          "Juan Carlos Higuero",
+          "Branko Zorko",
+          "Gareth Turnbull",
+          "Lorenzo Lazzari",
+          "Antonio Travassos",
+          "Patrick Grammens",
+          "Piotr Rostkowski",
+          "Pedro Esteso",
+          "Eddie King"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Spain",
+          " France",
+          " Russia",
+          " Ireland",
+          " Netherlands",
+          " Portugal",
+          " Hungary",
+          " Switzerland",
+          " Spain",
+          " Croatia",
+          " Ireland",
+          " Italy",
+          " Portugal",
+          " Belgium",
+          " Poland",
+          " Spain",
+          " Great Britain"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "3:41.53",
+          "3:41.76",
+          "3:41.84",
+          "3:41.90",
+          "3:42.13",
+          "3:42.43",
+          "3:42.66",
+          "3:42.81",
+          "3:42.88",
+          "3:42.92",
+          "3:42.97",
+          "3:43.06",
+          "3:45.45",
+          "3:45.96",
+          "3:46.45",
+          "3:48.94",
+          "3:49.18"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "q, PB",
+          "Q",
+          "Q",
+          "q",
+          "q",
+          "",
+          "PB",
+          "",
+          "",
+          "PB",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2000 European Athletics Indoor Championships – Men's 1500 metres",
+    "page_url": "https://en.wikipedia.org/wiki/2000_European_Athletics_Indoor_Championships_–_Men's_1500_metres",
+    "page_entity_id": "Q4597338"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Antonio_Redolat",
+          "entity_id": "Q532707"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mehdi_Baala",
+          "entity_id": "Q9115"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Vyacheslav_Shabunin",
+          "entity_id": "Q3563895"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/James_Nolan",
+          "entity_id": "Q3161304"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Marko_Koers",
+          "entity_id": "Q2409956"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lu%C3%ADs_Feiteira",
+          "entity_id": "Q6706779"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bal%C3%A1zs_T%C3%B6lgyesi",
+          "entity_id": "Q42611797"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Peter_Philipp_(athlete)",
+          "entity_id": "Q43381133"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Juan_Carlos_Higuero",
+          "entity_id": "Q1341033"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Branko_Zorko",
+          "entity_id": "Q2923845"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Croatia",
+          "entity_id": "Q224"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gareth_Turnbull",
+          "entity_id": "Q16937434"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Lorenzo_Lazzari&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Antonio_Travassos",
+          "entity_id": "Q42612307"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Patrick_Grammens&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Piotr_Rostkowski&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pedro_Esteso",
+          "entity_id": "Q16215768"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Eddie_King_(British_runner)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

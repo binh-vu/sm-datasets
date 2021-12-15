@@ -1,0 +1,953 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_best-selling_albums_in_Spain",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "2",
+          "2",
+          "2",
+          "5",
+          "5",
+          "7",
+          "7",
+          "7",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "16",
+          "16",
+          "18",
+          "18",
+          "18",
+          "18",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22",
+          "22"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Year",
+        "values": [
+          "1997",
+          "1994",
+          "1988",
+          "2000",
+          "2002",
+          "2002",
+          "2000",
+          "1989",
+          "1999",
+          "1999",
+          "1993",
+          "1993",
+          "1997",
+          "2004",
+          "1997",
+          "2001",
+          "1990",
+          "1997",
+          "1997",
+          "1995",
+          "1998",
+          "1989",
+          "1990",
+          "1996",
+          "1998",
+          "2005",
+          "2002",
+          "1982",
+          "2003",
+          "1981",
+          "1993"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Artist",
+        "values": [
+          "Alejandro Sanz",
+          "Laura Pausini",
+          "Mecano",
+          "Alejandro Sanz",
+          "David Bisbal",
+          "Luciano Pavarotti",
+          "La Oreja de Van Gogh",
+          "Julio Iglesias",
+          "Rosana",
+          "Estopa",
+          "Mecano",
+          "Gloria Estefan",
+          "Mónica Naranjo",
+          "David Bisbal",
+          "Spice Girls",
+          "Álex Ubago",
+          "Alejandro Sanz",
+          "Backstreet Boys",
+          "Luis Miguel",
+          "Alejandro Sanz",
+          "La Oreja de Van Gogh",
+          "Phil Collins",
+          "Juan Luis Guerra",
+          "Ella baila sola",
+          "Chayanne",
+          "Amaral",
+          "David Bustamante",
+          "Michael Jackson",
+          "Alejandro Sanz",
+          "Julio Iglesias",
+          "El Último de la Fila"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Album",
+        "values": [
+          "Más",
+          "Laura Pausini",
+          "Descanso Dominical",
+          "El Alma al Aire",
+          "Corazón latino",
+          "Tutto Pavarotti",
+          "El viaje de Copperpot",
+          "Raíces",
+          "Lunas Rotas",
+          "Estopa",
+          "Aidalai",
+          "Mi Tierra",
+          "Palabra de Mujer",
+          "Bulería",
+          "Spice",
+          "¿Qué pides tú?",
+          "Viviendo Deprisa",
+          "Backstreet's Back",
+          "Romances",
+          "3",
+          "Dile Al Sol",
+          "...But Seriously",
+          "Bachata Rosa",
+          "Ella baila Sola",
+          "Atado a Tu Amor",
+          "Estrella de mar",
+          "Bustamante",
+          "Thriller",
+          "No Es lo Mismo",
+          "De niña a mujer",
+          "Astronomía razonable"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Certification",
+        "values": [
+          "22× Platinum",
+          "13× Platinum",
+          "13× Platinum",
+          "13× Platinum",
+          "13× Platinum",
+          "12× Platinum",
+          "11× Platinum",
+          "11× Platinum",
+          "11× Platinum",
+          "11× Platinum",
+          "10× Platinum",
+          "10× Platinum",
+          "10× Platinum",
+          "10× Platinum",
+          "10× Platinum",
+          "9× Platinum",
+          "9× Platinum",
+          "8× Platinum",
+          "8× Platinum",
+          "8× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum",
+          "7× Platinum"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Sales",
+        "values": [
+          "2,200,000",
+          "1,300,000",
+          "1,300,000",
+          "1,300,000",
+          "1,300,000",
+          "1,200,000",
+          "1,200,000",
+          "1,100,000",
+          "1,100,000",
+          "1,100,000",
+          "1,000,000",
+          "1,000,000",
+          "1,000,000",
+          "1,000,000",
+          "1,000,000",
+          "900,000",
+          "900,000",
+          "800,000",
+          "800,000",
+          "800,000",
+          "800,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000",
+          "700,000"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Sources",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of best-selling albums in Spain",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_best-selling_albums_in_Spain",
+    "page_entity_id": "Q6607472"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Sanz",
+          "entity_id": "Q276170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A1s_(album)",
+          "entity_id": "Q2842722"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Laura_Pausini",
+          "entity_id": "Q170697"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Laura_Pausini_(1994_album)",
+          "entity_id": "Q3282745"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mecano",
+          "entity_id": "Q574375"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Descanso_Dominical",
+          "entity_id": "Q5263674"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Sanz",
+          "entity_id": "Q276170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/El_Alma_al_Aire",
+          "entity_id": "Q3282236"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/David_Bisbal",
+          "entity_id": "Q298310"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Coraz%C3%B3n_latino",
+          "entity_id": "Q5169692"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Luciano_Pavarotti",
+          "entity_id": "Q37615"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/La_Oreja_de_Van_Gogh",
+          "entity_id": "Q499971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/El_viaje_de_Copperpot",
+          "entity_id": "Q640281"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Julio_Iglesias",
+          "entity_id": "Q122003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ra%C3%ADces_(Julio_Iglesias_album)",
+          "entity_id": "Q7299710"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Rosana_Arbelo",
+          "entity_id": "Q450901"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lunas_Rotas",
+          "entity_id": "Q5392010"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Estopa",
+          "entity_id": "Q773703"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mecano",
+          "entity_id": "Q574375"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Aidalai",
+          "entity_id": "Q4696661"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gloria_Estefan",
+          "entity_id": "Q184697"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mi_Tierra",
+          "entity_id": "Q4488789"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/M%C3%B3nica_Naranjo",
+          "entity_id": "Q589248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Palabra_de_Mujer_(album)",
+          "entity_id": "Q3889274"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/David_Bisbal",
+          "entity_id": "Q298310"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Buler%C3%ADa",
+          "entity_id": "Q1003594"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Spice_Girls",
+          "entity_id": "Q55641"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Spice_(album)",
+          "entity_id": "Q818781"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/%C3%81lex_Ubago",
+          "entity_id": "Q250607"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/%C2%BFQu%C3%A9_pides_t%C3%BA%3F",
+          "entity_id": "Q975796"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Sanz",
+          "entity_id": "Q276170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Viviendo_Deprisa",
+          "entity_id": "Q2384434"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Backstreet_Boys",
+          "entity_id": "Q17140"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Backstreet%27s_Back",
+          "entity_id": "Q1140469"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Luis_Miguel",
+          "entity_id": "Q1069140"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romances_(Luis_Miguel_album)",
+          "entity_id": "Q3285257"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Sanz",
+          "entity_id": "Q276170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/3_(Alejandro_Sanz_album)",
+          "entity_id": "Q3281075"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/La_Oreja_de_Van_Gogh",
+          "entity_id": "Q499971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dile_Al_Sol",
+          "entity_id": "Q1751744"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Phil_Collins",
+          "entity_id": "Q144622"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/...But_Seriously",
+          "entity_id": "Q426127"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Juan_Luis_Guerra",
+          "entity_id": "Q158753"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bachata_Rosa",
+          "entity_id": "Q4838723"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ella_baila_sola",
+          "entity_id": "Q3322637"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chayanne",
+          "entity_id": "Q449908"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Atado_a_Tu_Amor",
+          "entity_id": "Q4812631"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Amaral_(band)",
+          "entity_id": "Q454830"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estrella_de_mar",
+          "entity_id": "Q1604912"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/David_Bustamante",
+          "entity_id": "Q953172"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Michael_Jackson",
+          "entity_id": "Q2831"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album)",
+          "entity_id": "Q44320"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alejandro_Sanz",
+          "entity_id": "Q276170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/No_Es_lo_Mismo",
+          "entity_id": "Q3282550"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Julio_Iglesias",
+          "entity_id": "Q122003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/De_ni%C3%B1a_a_mujer",
+          "entity_id": "Q5244956"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/El_%C3%9Altimo_de_la_Fila",
+          "entity_id": "Q3312233"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

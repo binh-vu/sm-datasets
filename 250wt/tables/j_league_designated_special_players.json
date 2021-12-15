@@ -1,0 +1,602 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "J.League_designated_special_players",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Player",
+        "values": [
+          "Hideto Takahashi",
+          "Naoya Okane",
+          "Yosuke Kawai",
+          "Kohei Kawata",
+          "Kensuke Nagai",
+          "Yosuke Miyaji",
+          "Jumpei Kusukami",
+          "Dan Howbert",
+          "Hiroki Honjo",
+          "Hiroaki Okuno",
+          "Junya Tanaka",
+          "Kei Nakano",
+          "Tomohiro Yamauchi",
+          "Tomoya Ugajin",
+          "Kazushi Mitsuhira",
+          "Takuya Matsumoto"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "From",
+        "values": [
+          "Tokyo Gakugei University",
+          "Waseda University",
+          "Keio University",
+          "Fukuoka University",
+          "Fukuoka University",
+          "Fukuoka University",
+          "Doshisha University",
+          "Aichi Gakuin University",
+          "Fukuoka University of Education",
+          "Sendai University",
+          "Juntendo University",
+          "Kochi University",
+          "Tokai Gakuen University",
+          "Ryutsu Keizai University FC",
+          "Kanagawa University",
+          "Juntendo University"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "To",
+        "values": [
+          "FC Tokyo",
+          "Shimizu S-Pulse",
+          "Shimizu S-Pulse",
+          "Sagan Tosu",
+          "Avispa Fukuoka",
+          "Avispa Fukuoka",
+          "Kawasaki Frontale",
+          "Kyoto Sanga",
+          "Sagan Tosu",
+          "Vegalta Sendai",
+          "Kashiwa Reysol",
+          "Ehime FC",
+          "FC Gifu",
+          "Urawa Red Diamonds",
+          "Shonan Bellmare",
+          "Shonan Bellmare"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Games played",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "J2 : 5 caps, 0 goals",
+          "",
+          "J1 : 1 cap, 0 goals",
+          "",
+          "",
+          "",
+          "J1 : 9 caps, 0 goals",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Year of affiliation",
+        "values": [
+          "2010 – FC Tokyo",
+          "2011 – Shimizu S-Pulse",
+          "2012 – Shimizu S-Pulse",
+          "2010 – Gamba Osaka",
+          "2011 – Nagoya Grampus",
+          "2010 – Avispa Fukuoka",
+          "2010 – Kawasaki Frontale",
+          "2010 – Kyoto Sanga",
+          "2010 – Nagano Parceiro",
+          "2012 – Vegalta Sendai",
+          "2010 – Kashiwa Reysol",
+          "2010 – Montedio Yamagata",
+          "2010 – FC Gifu",
+          "2010 – Urawa Red Diamonds",
+          "2010 – Shonan Bellmare",
+          "2011 – Shonan Bellmare"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "J.League designated special players",
+    "page_url": "https://en.wikipedia.org/wiki/J.League_designated_special_players",
+    "page_entity_id": "Q21569240"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hideto_Takahashi",
+          "entity_id": "Q1395821"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/FC_Tokyo",
+          "entity_id": "Q856619"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/FC_Tokyo",
+          "entity_id": "Q856619"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Naoya_Okane",
+          "entity_id": "Q10527755"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shimizu_S-Pulse",
+          "entity_id": "Q823384"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shimizu_S-Pulse",
+          "entity_id": "Q823384"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yosuke_Kawai",
+          "entity_id": "Q5929579"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shimizu_S-Pulse",
+          "entity_id": "Q823384"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shimizu_S-Pulse",
+          "entity_id": "Q823384"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kohei_Kawata",
+          "entity_id": "Q1080243"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sagan_Tosu",
+          "entity_id": "Q1051238"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gamba_Osaka",
+          "entity_id": "Q738423"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kensuke_Nagai",
+          "entity_id": "Q558902"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Avispa_Fukuoka",
+          "entity_id": "Q791164"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/2009_J.League_Division_2",
+          "entity_id": "Q14629332"
+        }
+      ],
+      [
+        {
+          "start": 7,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Nagoya_Grampus",
+          "entity_id": "Q249662"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Yosuke_Miyaji",
+          "entity_id": "Q10510917"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Avispa_Fukuoka",
+          "entity_id": "Q791164"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Avispa_Fukuoka",
+          "entity_id": "Q791164"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jumpei_Kusukami",
+          "entity_id": "Q3189956"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kawasaki_Frontale",
+          "entity_id": "Q874016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/2009_J.League_Division_1",
+          "entity_id": "Q1349207"
+        }
+      ],
+      [
+        {
+          "start": 7,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Kawasaki_Frontale",
+          "entity_id": "Q874016"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dan_Howbert",
+          "entity_id": "Q5213710"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Aichi_Gakuin_University",
+          "entity_id": "Q4696570"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kyoto_Sanga",
+          "entity_id": "Q1047535"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kyoto_Sanga",
+          "entity_id": "Q1047535"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sagan_Tosu",
+          "entity_id": "Q1051238"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/AC_Nagano_Parceiro",
+          "entity_id": "Q289451"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hiroaki_Okuno_(footballer)",
+          "entity_id": "Q10538089"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Vegalta_Sendai",
+          "entity_id": "Q1044651"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Vegalta_Sendai",
+          "entity_id": "Q1044651"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Junya_Tanaka_(footballer,_born_1987)",
+          "entity_id": "Q982130"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kashiwa_Reysol",
+          "entity_id": "Q844931"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/2009_J.League_Division_1",
+          "entity_id": "Q1349207"
+        }
+      ],
+      [
+        {
+          "start": 7,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Kashiwa_Reysol",
+          "entity_id": "Q844931"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kei_Nakano",
+          "entity_id": "Q6383542"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ehime_FC",
+          "entity_id": "Q1059329"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Montedio_Yamagata",
+          "entity_id": "Q1045524"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tomohiro_Yamauchi",
+          "entity_id": "Q7820125"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/FC_Gifu",
+          "entity_id": "Q778887"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/FC_Gifu",
+          "entity_id": "Q778887"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tomoya_Ugajin",
+          "entity_id": "Q2093231"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Ryutsu_Keizai_University_FC",
+          "entity_id": "Q7385563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Urawa_Red_Diamonds",
+          "entity_id": "Q218883"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Urawa_Red_Diamonds",
+          "entity_id": "Q218883"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kazushi_Mitsuhira",
+          "entity_id": "Q6381736"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shonan_Bellmare",
+          "entity_id": "Q692856"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shonan_Bellmare",
+          "entity_id": "Q692856"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Takuya_Matsumoto",
+          "entity_id": "Q7678632"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shonan_Bellmare",
+          "entity_id": "Q692856"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Shonan_Bellmare",
+          "entity_id": "Q692856"
+        }
+      ]
+    ]
+  ]
+}

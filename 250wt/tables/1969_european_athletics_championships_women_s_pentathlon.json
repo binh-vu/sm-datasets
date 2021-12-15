@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1969_European_Athletics_Championships_–_Women's_pentathlon",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Liesel Prokop",
+          "Meta Antenen",
+          "Mariya Sizyakova",
+          "Valentina Tikhomirova",
+          "Marjan Ackermans",
+          "Elisabeth Waldburger",
+          "Sue Scott",
+          "Burglinde Pollak",
+          "Nedyalka Angelova",
+          "Annamária Tóth",
+          "Marie-Christine Debourse",
+          "Monika Peikert"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Austria",
+          " Switzerland",
+          " Soviet Union",
+          " Soviet Union",
+          " Netherlands",
+          " Switzerland",
+          " Great Britain",
+          " East Germany",
+          " Bulgaria",
+          " Hungary",
+          " France",
+          " East Germany"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "100m H",
+        "values": [
+          "14.0",
+          "14.3",
+          "14.2",
+          "14.8",
+          "15.6",
+          "14.6",
+          "14.1",
+          "14.6",
+          "15.1",
+          "14.6",
+          "15.3",
+          "15.4"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "SP",
+        "values": [
+          "15.20",
+          "10.05",
+          "14.05",
+          "13.21",
+          "12.92",
+          "13.07",
+          "11.16",
+          "12.80",
+          "12.85",
+          "11.70",
+          "11.24",
+          "11.81"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "HJ",
+        "values": [
+          "1.68",
+          "1.71",
+          "1.65",
+          "1.68",
+          "1.68",
+          "1.53",
+          "1.59",
+          "1.65",
+          "1.62",
+          "1.53",
+          "1.68",
+          "1.62"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "LJ",
+        "values": [
+          "6.14 w",
+          "6.42 w",
+          "5.98",
+          "5.95 w",
+          "6.01 w",
+          "6.01 w",
+          "6.13 w",
+          "5.55 w",
+          "6.12 w",
+          "6.07 w",
+          "5.85 w",
+          "5.76 w"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "200m",
+        "values": [
+          "25.6 w",
+          "25.0",
+          "26.7 w",
+          "26.1 w",
+          "25.9",
+          "25.4 w",
+          "25.8 w",
+          "26.0 w",
+          "25.6",
+          "26.2 w",
+          "27.1 w",
+          "26.8"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Points",
+        "values": [
+          "4419 (5030)",
+          "4210 (4793)",
+          "4176 (4773)",
+          "4126 (4715)",
+          "4116 (4701)",
+          "4056 (4648)",
+          "4055 (4641)",
+          "4013 (4598)",
+          "4009 (4592)",
+          "4002 (4587)",
+          "3852 (4419)",
+          "3818 (4389)"
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Notes",
+        "values": [
+          "CR",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1969 European Athletics Championships – Women's pentathlon",
+    "page_url": "https://en.wikipedia.org/wiki/1969_European_Athletics_Championships_–_Women's_pentathlon",
+    "page_entity_id": "Q18124568"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Liese_Prokop",
+          "entity_id": "Q93764"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Meta_Antenen",
+          "entity_id": "Q167592"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mariya_Sizyakova",
+          "entity_id": "Q47508629"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Valentina_Tikhomirova",
+          "entity_id": "Q275093"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Marjan_Ackermans-Thomas",
+          "entity_id": "Q15379105"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Elisabeth_Waldburger&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sue_Reeve",
+          "entity_id": "Q7634248"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Burglinde_Pollak",
+          "entity_id": "Q272979"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Germany",
+          "entity_id": "Q16957"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nedyalka_Angelova",
+          "entity_id": "Q12288064"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bulgaria",
+          "entity_id": "Q219"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Annam%C3%A1ria_T%C3%B3th",
+          "entity_id": "Q299690"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Marie-Christine_Debourse",
+          "entity_id": "Q3291653"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Monika_Peikert",
+          "entity_id": "Q47508725"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Germany",
+          "entity_id": "Q16957"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

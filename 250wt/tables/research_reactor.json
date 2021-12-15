@@ -1,0 +1,853 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Research_reactor",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Reactor Name",
+        "values": [
+          "ASTRA",
+          "CONSORT",
+          "JASON reactor",
+          "MOATA",
+          "HIFAR",
+          "HTGR (Pin-in-Block Design)",
+          "DIDO",
+          "Nuclear Power Demonstration",
+          "NRX",
+          "PLUTO reactor",
+          "Pool Test Reactor",
+          "WR-1",
+          "ZEEP",
+          "More Hall Annex",
+          "Ewa reactor",
+          "FiR 1",
+          "RV-1"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Country",
+        "values": [
+          "Austria",
+          "United Kingdom",
+          "United Kingdom",
+          "Australia",
+          "Australia",
+          "United Kingdom",
+          "United Kingdom",
+          "Canada",
+          "Canada",
+          "United Kingdom",
+          "Canada",
+          "Canada",
+          "Canada",
+          "United States",
+          "Poland",
+          "Finland",
+          "Venezuela"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "City",
+        "values": [
+          "Seibersdorf",
+          "Ascot, Berkshire",
+          "Greenwich",
+          "Lucas Heights",
+          "Lucas Heights",
+          "Winfrith in Dorset ,",
+          "Harwell, Oxfordshire",
+          "Deep River, Ontario",
+          "Deep River, Ontario",
+          "Harwell, Oxfordshire",
+          "Deep River, Ontario",
+          "Pinawa, Manitoba",
+          "Deep River, Ontario",
+          "Seattle",
+          "Świerk- Otwock",
+          "Espoo",
+          "Caracas"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Institution",
+        "values": [
+          "",
+          "Imperial College",
+          "Royal Naval College",
+          "",
+          "",
+          "International Atomic Energy Agency",
+          "Atomic Energy Research Establishment",
+          "AECL 's Rolphton plant",
+          "AECL 's Chalk River Laboratories",
+          "Atomic Energy Research Establishment",
+          "AECL 's Chalk River Laboratories",
+          "AECL 's Whiteshell Laboratories",
+          "AECL 's Chalk River Laboratories",
+          "University of Washington",
+          "POLATOM Institute of Nuclear Energy",
+          "Helsinki University of Technology , \nlater VTT Technical Research Centre of Finland",
+          "Venezuelan Institute for Scientific Research"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Power Level",
+        "values": [
+          "10 MW",
+          "100 kW",
+          "10 kW",
+          "100 kW",
+          "",
+          "20MWt",
+          "",
+          "20 MW",
+          "",
+          "26 MW",
+          "10 kW",
+          "60 MW",
+          "",
+          "100 kW",
+          "10 MW",
+          "250 kW",
+          "3 MW"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Operation Date",
+        "values": [
+          "1960",
+          "",
+          "1962",
+          "1961",
+          "1958",
+          "1964",
+          "",
+          "1961",
+          "1952",
+          "1957",
+          "1957",
+          "1965",
+          "1945",
+          "1961",
+          "1958",
+          "1962",
+          "1960"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Closure Date",
+        "values": [
+          "1999",
+          "",
+          "1996",
+          "1995",
+          "2007",
+          "1976",
+          "1990",
+          "1987",
+          "1992",
+          "1990",
+          "1990",
+          "1985",
+          "1973",
+          "1988",
+          "1995",
+          "2015",
+          "1994"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Decommissioned",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "July 2005",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Research reactor",
+    "page_url": "https://en.wikipedia.org/wiki/Research_reactor",
+    "page_entity_id": "Q1438105"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/ASTRA_(reactor)",
+          "entity_id": "Q352410"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Seibersdorf",
+          "entity_id": "Q600978"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ascot,_Berkshire",
+          "entity_id": "Q723329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Imperial_College",
+          "entity_id": "Q189022"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/JASON_reactor",
+          "entity_id": "Q6107726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Greenwich",
+          "entity_id": "Q179385"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Old_Royal_Naval_College",
+          "entity_id": "Q1753590"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/MOATA",
+          "entity_id": "Q9026367"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lucas_Heights",
+          "entity_id": "Q5790897"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/HIFAR",
+          "entity_id": "Q5642030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lucas_Heights",
+          "entity_id": "Q5790897"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Winfrith",
+          "entity_id": "Q828534"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Dorset",
+          "entity_id": "Q23159"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/International_Atomic_Energy_Agency",
+          "entity_id": "Q41984"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DIDO_(nuclear_reactor)",
+          "entity_id": "Q1153639"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Harwell,_Oxfordshire",
+          "entity_id": "Q986049"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Atomic_Energy_Research_Establishment",
+          "entity_id": "Q757600"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Nuclear_Power_Demonstration",
+          "entity_id": "Q948689"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Deep_River,_Ontario",
+          "entity_id": "Q3267284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/AECL",
+          "entity_id": "Q757601"
+        },
+        {
+          "start": 8,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Rolphton,_Ontario",
+          "entity_id": "Q3267266"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/NRX",
+          "entity_id": "Q1724378"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Deep_River,_Ontario",
+          "entity_id": "Q3267284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/AECL",
+          "entity_id": "Q757601"
+        },
+        {
+          "start": 8,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Chalk_River_Laboratories",
+          "entity_id": "Q1059760"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/PLUTO_reactor",
+          "entity_id": "Q7119684"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Harwell,_Oxfordshire",
+          "entity_id": "Q986049"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Atomic_Energy_Research_Establishment",
+          "entity_id": "Q757600"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Pool_Test_Reactor",
+          "entity_id": "Q7228576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Deep_River,_Ontario",
+          "entity_id": "Q3267284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/AECL",
+          "entity_id": "Q757601"
+        },
+        {
+          "start": 8,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Chalk_River_Laboratories",
+          "entity_id": "Q1059760"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/WR-1",
+          "entity_id": "Q9066953"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pinawa,_Manitoba",
+          "entity_id": "Q7194846"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/AECL",
+          "entity_id": "Q757601"
+        },
+        {
+          "start": 8,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Whiteshell_Laboratories",
+          "entity_id": "Q6119842"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/ZEEP",
+          "entity_id": "Q970269"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Deep_River,_Ontario",
+          "entity_id": "Q3267284"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/AECL",
+          "entity_id": "Q757601"
+        },
+        {
+          "start": 8,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Chalk_River_Laboratories",
+          "entity_id": "Q1059760"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/More_Hall_Annex",
+          "entity_id": "Q28074807"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Seattle",
+          "entity_id": "Q5083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/University_of_Washington",
+          "entity_id": "Q219563"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ewa_reactor",
+          "entity_id": "Q1438102"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [
+        {
+          "start": 8,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Otwock",
+          "entity_id": "Q745059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/w/index.php?title=POLATOM&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/FiR_1",
+          "entity_id": "Q65083710"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Espoo",
+          "entity_id": "Q47034"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Helsinki_University_of_Technology",
+          "entity_id": "Q1646874"
+        },
+        {
+          "start": 43,
+          "end": 83,
+          "url": "http://en.wikipedia.org/wiki/VTT_Technical_Research_Centre_of_Finland",
+          "entity_id": "Q1791348"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/RV-1_nuclear_reactor",
+          "entity_id": "Q17628272"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Caracas",
+          "entity_id": "Q1533"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Venezuelan_Institute_for_Scientific_Research",
+          "entity_id": "Q3152786"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

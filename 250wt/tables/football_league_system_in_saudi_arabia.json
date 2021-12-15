@@ -1,0 +1,458 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Football_League_system_in_Saudi_Arabia",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Club",
+        "values": [
+          "Al-Ahli",
+          "Al-Faisaly",
+          "Al-Fateh",
+          "Al-Hilal",
+          "Al-Ittihad",
+          "Al-Khaleej",
+          "Al Nassr",
+          "Al-Qadisiyah",
+          "Al-Raed",
+          "Al-Shabab",
+          "Al-Taawoun",
+          "Al-Wehda",
+          "Hajer",
+          "Najran"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Jeddah",
+          "Harmah",
+          "Al-Hasa",
+          "Riyadh",
+          "Jeddah",
+          "Saihat",
+          "Riyadh",
+          "Khobar",
+          "Buraidah",
+          "Riyadh",
+          "Buraidah",
+          "Makkah",
+          "Al-Hasa",
+          "Najran"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "King Abdullah Sports City",
+          "King Salman Sport City Stadium",
+          "Prince Abdullah bin Jalawi Stadium",
+          "King Fahd International Stadium \nPrince Faisal bin Fahd Stadium",
+          "King Abdullah Sports City",
+          "Prince Saud bin Jalawi Stadium",
+          "King Fahd International Stadium \nPrince Faisal bin Fahd Stadium",
+          "Prince Saud bin Jalawi Stadium",
+          "King Abdullah Sport City Stadium",
+          "King Fahd International Stadium \nPrince Faisal bin Fahd Stadium",
+          "King Abdullah Sport City Stadium",
+          "King Abdul Aziz Stadium",
+          "Prince Abdullah bin Jalawi Stadium",
+          "Al Akhdoud Club Stadium"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Football League system in Saudi Arabia",
+    "page_url": "https://en.wikipedia.org/wiki/Football_League_system_in_Saudi_Arabia",
+    "page_entity_id": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Al-Ahli_SC_(Jeddah)",
+          "entity_id": "Q44441"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jeddah",
+          "entity_id": "Q374365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/King_Abdullah_Sports_City",
+          "entity_id": "Q6411211"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Al-Faisaly_FC_(Harmah)",
+          "entity_id": "Q2829334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harmah",
+          "entity_id": "Q3543429"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/King_Salman_Sport_City_Stadium",
+          "entity_id": "Q7244241"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Al-Fateh_SC",
+          "entity_id": "Q2701659"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Al-Hasa",
+          "entity_id": "Q311341"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Prince_Abdullah_bin_Jalawi_Stadium",
+          "entity_id": "Q4116944"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Al-Hilal_FC",
+          "entity_id": "Q73965"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Riyadh",
+          "entity_id": "Q3692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/King_Fahd_International_Stadium",
+          "entity_id": "Q763077"
+        },
+        {
+          "start": 33,
+          "end": 63,
+          "url": "http://en.wikipedia.org/wiki/Prince_Faisal_bin_Fahd_Stadium",
+          "entity_id": "Q3273652"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ittihad_FC",
+          "entity_id": "Q309480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jeddah",
+          "entity_id": "Q374365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/King_Abdullah_Sports_City",
+          "entity_id": "Q6411211"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Al-Khaleej_Club_(Saudi)",
+          "entity_id": "Q2027718"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Saihat",
+          "entity_id": "Q2744182"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Prince_Saud_bin_Jalawi_Stadium",
+          "entity_id": "Q4116127"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Al-Nassr_FC",
+          "entity_id": "Q482764"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Riyadh",
+          "entity_id": "Q3692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/King_Fahd_International_Stadium",
+          "entity_id": "Q763077"
+        },
+        {
+          "start": 33,
+          "end": 63,
+          "url": "http://en.wikipedia.org/wiki/Prince_Faisal_bin_Fahd_Stadium",
+          "entity_id": "Q3273652"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Al-Qadisiyah_FC",
+          "entity_id": "Q286191"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Khobar",
+          "entity_id": "Q311266"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Prince_Saud_bin_Jalawi_Stadium",
+          "entity_id": "Q4116127"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Al-Raed",
+          "entity_id": "Q2986998"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Buraidah",
+          "entity_id": "Q259253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/King_Abdullah_Sport_City_Stadium",
+          "entity_id": "Q4119060"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Al_Shabab_FC_(Riyadh)",
+          "entity_id": "Q2636005"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Riyadh",
+          "entity_id": "Q3692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/King_Fahd_International_Stadium",
+          "entity_id": "Q763077"
+        },
+        {
+          "start": 33,
+          "end": 63,
+          "url": "http://en.wikipedia.org/wiki/Prince_Faisal_bin_Fahd_Stadium",
+          "entity_id": "Q3273652"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Al-Taawoun_FC",
+          "entity_id": "Q2613971"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Buraidah",
+          "entity_id": "Q259253"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/King_Abdullah_Sport_City_Stadium",
+          "entity_id": "Q4119060"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Al-Wehda_Club_(Mecca)",
+          "entity_id": "Q812713"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mecca",
+          "entity_id": "Q5806"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/King_Abdul_Aziz_Stadium",
+          "entity_id": "Q1129161"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Hajer_Club",
+          "entity_id": "Q2359560"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Al-Hasa",
+          "entity_id": "Q311341"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Prince_Abdullah_bin_Jalawi_Stadium",
+          "entity_id": "Q4116944"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Najran_SC",
+          "entity_id": "Q1963926"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Najran",
+          "entity_id": "Q27174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Al_Akhdoud_Club_Stadium",
+          "entity_id": "Q4703465"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Julio_Macat",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1989",
+          "1990",
+          "1991",
+          "1991",
+          "1992",
+          "1993",
+          "1994",
+          "1994",
+          "1995",
+          "1996",
+          "1996",
+          "1997",
+          "1999",
+          "2001",
+          "2001",
+          "2002",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2006",
+          "2007",
+          "2008",
+          "2008",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2014",
+          "2015",
+          "2016",
+          "2016",
+          "2017",
+          "2018",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title",
+        "values": [
+          "Out of the Dark",
+          "Home Alone",
+          "The Borrower",
+          "Only the Lonely",
+          "Home Alone 2: Lost in New York",
+          "So I Married an Axe Murderer",
+          "Ace Ventura: Pet Detective",
+          "Miracle on 34th Street",
+          "Moonlight and Valentino",
+          "The Nutty Professor",
+          "My Fellow Americans",
+          "Home Alone 3",
+          "Crazy in Alabama",
+          "The Wedding Planner",
+          "Cats & Dogs",
+          "A Walk to Remember",
+          "Ballistic: Ecks vs. Sever",
+          "Bringing Down the House",
+          "Catch That Kid",
+          "Wedding Crashers",
+          "Blind Dating",
+          "Because I Said So",
+          "Columbus Day",
+          "Smother",
+          "Thick as Thieves",
+          "Our Family Wedding",
+          "Winnie the Pooh",
+          "Pitch Perfect",
+          "Syrup",
+          "Blended",
+          "Horrible Bosses 2",
+          "Daddy's Home",
+          "The Boss",
+          "Middle School: The Worst Years of My Life",
+          "Daddy's Home 2",
+          "Life of the Party",
+          "After the Wedding"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Director",
+        "values": [
+          "Michael Schroeder",
+          "Chris Columbus",
+          "John McNaughton",
+          "Chris Columbus",
+          "Chris Columbus",
+          "Thomas Schlamme",
+          "Tom Shadyac",
+          "Les Mayfield",
+          "David Anspaugh",
+          "Tom Shadyac",
+          "Peter Segal",
+          "Raja Gosnell",
+          "Antonio Banderas",
+          "Adam Shankman",
+          "Lawrence Guterman",
+          "Adam Shankman",
+          "Wych Kaosayananda",
+          "Adam Shankman",
+          "Bart Freundlich",
+          "David Dobkin",
+          "James Keach",
+          "Michael Lehmann",
+          "Charles Burmeister",
+          "Vince Di Meglio",
+          "Mimi Leder",
+          "Rick Famuyiwa",
+          "Stephen J. Anderson \nDon Hall",
+          "Jason Moore",
+          "Aram Rappaport",
+          "Frank Coraci",
+          "Sean Anders",
+          "Sean Anders",
+          "Ben Falcone",
+          "Steve Carr",
+          "Sean Anders",
+          "Ben Falcone",
+          "Bart Freundlich"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Live-action scenes only",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Julio Macat",
+    "page_url": "https://en.wikipedia.org/wiki/Julio_Macat",
+    "page_entity_id": "Q1712369"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Out_of_the_Dark_(1989_film)",
+          "entity_id": "Q7111734"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Home_Alone",
+          "entity_id": "Q105031"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)",
+          "entity_id": "Q75079"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/The_Borrower",
+          "entity_id": "Q240194"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/John_McNaughton",
+          "entity_id": "Q522382"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Only_the_Lonely_(film)",
+          "entity_id": "Q1548602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)",
+          "entity_id": "Q75079"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York",
+          "entity_id": "Q221202"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chris_Columbus_(filmmaker)",
+          "entity_id": "Q75079"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/So_I_Married_an_Axe_Murderer",
+          "entity_id": "Q1753552"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Schlamme",
+          "entity_id": "Q3099573"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Ace_Ventura:_Pet_Detective",
+          "entity_id": "Q340138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tom_Shadyac",
+          "entity_id": "Q722135"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Miracle_on_34th_Street_(1994_film)",
+          "entity_id": "Q258204"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Les_Mayfield",
+          "entity_id": "Q518696"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Moonlight_and_Valentino",
+          "entity_id": "Q509323"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/David_Anspaugh",
+          "entity_id": "Q3017398"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/The_Nutty_Professor_(1996_film)",
+          "entity_id": "Q936576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tom_Shadyac",
+          "entity_id": "Q722135"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/My_Fellow_Americans",
+          "entity_id": "Q1305069"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Peter_Segal",
+          "entity_id": "Q339551"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Home_Alone_3",
+          "entity_id": "Q382320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Raja_Gosnell",
+          "entity_id": "Q545351"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Crazy_in_Alabama",
+          "entity_id": "Q2521211"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Antonio_Banderas",
+          "entity_id": "Q41548"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/The_Wedding_Planner",
+          "entity_id": "Q591362"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Adam_Shankman",
+          "entity_id": "Q350903"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cats_%26_Dogs",
+          "entity_id": "Q1051315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Lawrence_Guterman",
+          "entity_id": "Q6504110"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/A_Walk_to_Remember",
+          "entity_id": "Q219442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Adam_Shankman",
+          "entity_id": "Q350903"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Ballistic:_Ecks_vs._Sever",
+          "entity_id": "Q789477"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Wych_Kaosayananda",
+          "entity_id": "Q6631232"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bringing_Down_the_House_(film)",
+          "entity_id": "Q202029"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Adam_Shankman",
+          "entity_id": "Q350903"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Catch_That_Kid",
+          "entity_id": "Q1353151"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bart_Freundlich",
+          "entity_id": "Q285856"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Wedding_Crashers",
+          "entity_id": "Q238866"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/David_Dobkin_(director)",
+          "entity_id": "Q607615"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Blind_Dating",
+          "entity_id": "Q1189392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/James_Keach",
+          "entity_id": "Q1680660"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Because_I_Said_So_(film)",
+          "entity_id": "Q498281"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Michael_Lehmann",
+          "entity_id": "Q717498"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Columbus_Day_(film)",
+          "entity_id": "Q5150037"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Smother_(film)",
+          "entity_id": "Q3487063"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Thick_as_Thieves_(2009_film)",
+          "entity_id": "Q702222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mimi_Leder",
+          "entity_id": "Q268881"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Our_Family_Wedding",
+          "entity_id": "Q2625088"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rick_Famuyiwa",
+          "entity_id": "Q7331376"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Winnie_the_Pooh_(2011_film)",
+          "entity_id": "Q922193"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Stephen_J._Anderson",
+          "entity_id": "Q7609556"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Don_Hall_(filmmaker)",
+          "entity_id": "Q18921842"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pitch_Perfect",
+          "entity_id": "Q137584"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jason_Moore_(director)",
+          "entity_id": "Q724795"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Syrup_(film)",
+          "entity_id": "Q7663530"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Blended_(film)",
+          "entity_id": "Q13522800"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Frank_Coraci",
+          "entity_id": "Q547811"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Horrible_Bosses_2",
+          "entity_id": "Q15275703"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Sean_Anders",
+          "entity_id": "Q60341"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Daddy%27s_Home_(film)",
+          "entity_id": "Q18619590"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Sean_Anders",
+          "entity_id": "Q60341"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/The_Boss_(2016_film)",
+          "entity_id": "Q19204752"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ben_Falcone",
+          "entity_id": "Q2082056"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Middle_School:_The_Worst_Years_of_My_Life_(film)",
+          "entity_id": "Q21780586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Steve_Carr",
+          "entity_id": "Q7612160"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daddy%27s_Home_2",
+          "entity_id": "Q28975643"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Sean_Anders",
+          "entity_id": "Q60341"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Life_of_the_Party_(2018_film)",
+          "entity_id": "Q27958320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ben_Falcone",
+          "entity_id": "Q2082056"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/After_the_Wedding_(2019_film)",
+          "entity_id": "Q55603322"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bart_Freundlich",
+          "entity_id": "Q285856"
+        }
+      ],
+      []
+    ]
+  ]
+}

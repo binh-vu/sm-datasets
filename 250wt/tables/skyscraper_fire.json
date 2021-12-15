@@ -1,0 +1,3886 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Skyscraper_fire",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Building",
+        "values": [
+          "Central Tower",
+          "Merchants Exchange Building",
+          "Old Chronicle Building",
+          "Mutual Bank Building",
+          "Asch Building",
+          "The Sherry-Netherland",
+          "Empire State Building",
+          "40 Wall Street",
+          "Winecoff Hotel",
+          "Ronan Point",
+          "1 New York Plaza",
+          "Taeyongak Hotel",
+          "Andraus Building",
+          "Rault Tower",
+          "Joelma Building",
+          "One World Trade Center",
+          "Campbell Shopping Complex",
+          "Bank Bumiputra",
+          "MGM Grand Hotel",
+          "Las Vegas Hilton",
+          "Torre Santa María",
+          "Al Rasheed Hotel",
+          "Northwestern National Bank",
+          "KOMTAR",
+          "Prudential Tower",
+          "Dupont Plaza Hotel",
+          "Schomburg Plaza",
+          "Hotel International",
+          "First Interstate Tower",
+          "Peachtree 25th Building",
+          "One Meridian Plaza",
+          "UNITIC Twin Towers",
+          "Executive Council Building",
+          "Groeneveen and Kruitberg",
+          "One World Trade Center",
+          "Stratosphere Tower",
+          "White House (Moscow)",
+          "Hotel Olympik",
+          "Tower 42",
+          "Garley building",
+          "Ušće Tower",
+          "Immigration Tower",
+          "Ostankino Tower",
+          "1 and 2 World Trade Center",
+          "7 World Trade Center",
+          "90 West Street",
+          "Pirelli Tower",
+          "Cook County Administration Building",
+          "Al Rasheed Hotel",
+          "Parque Central Complex east tower",
+          "LaSalle National Bank Building",
+          "Harrow Court",
+          "Windsor Tower",
+          "Tohid Town Residential",
+          "Transport Tower",
+          "Belaire Apartments",
+          "Fortune Tower",
+          "Shanghai World Financial Center",
+          "Deutsche Bank Building",
+          "The Water Club",
+          "Monte Carlo Resort and Casino",
+          "Abraj Al Bait Towers",
+          "Beijing Television Cultural Center",
+          "Bashundhara City Tower",
+          "Abraj Al Bait Towers",
+          "Lakanal House",
+          "Wooshin Golden Suites",
+          "Unnamed high-rise apartment block",
+          "Dynasty Wanxin building complex Towers A and B (Tower C was unaffected)",
+          "Unnamed Highrise",
+          "Uncompleted high rise block",
+          "Fico Place",
+          "Federation Tower (East Tower)",
+          "Al Tayer Tower",
+          "Polat Tower Residence",
+          "Tamweel Tower",
+          "Oko Tower 1",
+          "Torre Ejecutiva Pemex Tower",
+          "Grozny-City Towers",
+          "Jianye Mansion",
+          "The Strand",
+          "One57",
+          "Lotus Park building",
+          "Lacrosse Apartments",
+          "Wedgwood Apartments",
+          "The Marina Torch",
+          "Wisma Kosgoro",
+          "Unnamed Highrise",
+          "Cosmopolitan of Las Vegas",
+          "Unnamed Residential Tower",
+          "John Hancock Center",
+          "The Address Downtown Dubai",
+          "Plasco Building",
+          "Grenfell Tower",
+          "Pamchal Chitgar Building",
+          "Marco Polo Apartments",
+          "Rotana Hotel Building",
+          "The Marina Torch",
+          "Trump Tower",
+          "Trump International Hotel and Tower (Baku)",
+          "Wilton Paes de Almeida Building",
+          "Paramis Building",
+          "FR Tower",
+          "AXA Equitable Center"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Height (m)",
+        "values": [
+          "91 m",
+          "69 m",
+          "95 m",
+          "",
+          "48 m",
+          "171 m",
+          "381 m",
+          "283 m",
+          "59 m",
+          "64 m",
+          "192 m",
+          "",
+          "115 m",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 2,
+        "name": "City",
+        "values": [
+          "San Francisco",
+          "San Francisco",
+          "San Francisco",
+          "San Francisco",
+          "New York City",
+          "New York City",
+          "New York City",
+          "New York City",
+          "Atlanta",
+          "London",
+          "New York City",
+          "Seoul",
+          "São Paulo",
+          "New Orleans",
+          "São Paulo",
+          "New York City",
+          "Kuala Lumpur",
+          "Kuala Lumpur",
+          "Las Vegas",
+          "Las Vegas",
+          "Santiago",
+          "Baghdad",
+          "Minneapolis",
+          "Penang",
+          "Boston",
+          "Condado, Puerto Rico",
+          "New York City",
+          "Zurich",
+          "Los Angeles",
+          "Atlanta",
+          "Philadelphia",
+          "Sarajevo",
+          "Sarajevo",
+          "Amsterdam",
+          "New York City",
+          "Las Vegas",
+          "Moscow",
+          "Prague",
+          "London",
+          "Hong Kong",
+          "Belgrade",
+          "Hong Kong",
+          "Moscow",
+          "New York City",
+          "New York City",
+          "New York City",
+          "Milan",
+          "Chicago",
+          "Baghdad",
+          "Caracas",
+          "Chicago",
+          "Hertfordshire",
+          "Madrid",
+          "Tehran",
+          "Astana",
+          "New York City",
+          "Dubai",
+          "Shanghai",
+          "New York City",
+          "Atlantic City",
+          "Las Vegas",
+          "Mecca",
+          "Beijing",
+          "Dhaka",
+          "Mecca",
+          "London",
+          "Busan",
+          "Shanghai",
+          "Shenyang",
+          "Hanoi",
+          "Kuala Lumpur",
+          "Bangkok",
+          "Moscow",
+          "Sharjah",
+          "Istanbul",
+          "Dubai",
+          "Moscow",
+          "Mexico City",
+          "Grozny",
+          "Guangzhou",
+          "New York City",
+          "New York City",
+          "Mumbai",
+          "Melbourne",
+          "Castle Hills, Texas",
+          "Dubai",
+          "Jakarta",
+          "Baku",
+          "Las Vegas",
+          "Sharjah",
+          "Chicago",
+          "Dubai",
+          "Tehran",
+          "London",
+          "Tehran",
+          "Honolulu",
+          "Mashhad",
+          "Dubai",
+          "New York City",
+          "Baku",
+          "São Paulo",
+          "Tehran",
+          "Dhaka",
+          "United States"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Country",
+        "values": [
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " United Kingdom",
+          " United States",
+          " South Korea",
+          " Brazil",
+          " United States",
+          " Brazil",
+          " United States",
+          " Malaysia",
+          " Malaysia",
+          " United States",
+          " United States",
+          " Chile",
+          " Iraq",
+          " United States",
+          " Malaysia",
+          " United States",
+          " United States",
+          " United States",
+          " Switzerland",
+          " United States",
+          " United States",
+          " United States",
+          " Bosnia and Herzegovina",
+          " Bosnia and Herzegovina",
+          " Netherlands",
+          " United States",
+          " United States",
+          " Russia",
+          " Czech Republic",
+          " United Kingdom",
+          " Hong Kong",
+          " Serbia and Montenegro",
+          " Hong Kong",
+          " Russia",
+          " United States",
+          " United States",
+          " United States",
+          " Italy",
+          " United States",
+          " Iraq",
+          " Venezuela",
+          " United States",
+          " United Kingdom",
+          " Spain",
+          " Iran",
+          " Kazakhstan",
+          " United States",
+          " United Arab Emirates",
+          " China",
+          " United States",
+          " United States",
+          " United States",
+          " Saudi Arabia",
+          " China",
+          " Bangladesh",
+          " Saudi Arabia",
+          " United Kingdom",
+          " South Korea",
+          " China",
+          " China",
+          " Vietnam",
+          " Malaysia",
+          " Thailand",
+          " Russia",
+          " United Arab Emirates",
+          " Turkey",
+          " United Arab Emirates",
+          " Russia",
+          " Mexico",
+          " Russia",
+          " China",
+          " United States",
+          " United States",
+          " India",
+          " Australia",
+          " United States",
+          " United Arab Emirates",
+          " Indonesia",
+          " Azerbaijan",
+          " United States",
+          " United Arab Emirates",
+          " United States",
+          " United Arab Emirates",
+          " Iran",
+          " United Kingdom",
+          " Iran",
+          " United States",
+          " Iran",
+          " United Arab Emirates",
+          " United States",
+          " Azerbaijan",
+          " Brazil",
+          " Iran",
+          " Bangladesh",
+          " United States"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Date",
+        "values": [
+          "1906-04-18 April 18, 1906",
+          "1906-04-18 April 18, 1906",
+          "1906-04-18 April 18, 1906",
+          "1906-04-18 April 18, 1906",
+          "1911-03-25 March 25, 1911",
+          "1927-04-12 April 12, 1927",
+          "1945-07-28 July 28, 1945",
+          "1946-05-20 May 20, 1946",
+          "1946-12-07 December 7, 1946",
+          "1968-05-16 May 16, 1968",
+          "1970-08-05 August 5, 1970",
+          "1971-12-25 December 25, 1971",
+          "1972-02-24 February 24, 1972",
+          "1972-11-29 November 29, 1972",
+          "1974-02-01 February 1, 1974",
+          "1975-02-13 February 13, 1975",
+          "1976-04-08 April 8, 1976",
+          "1980-11-80 November 4, 1980",
+          "1980-11-21 November 21, 1980",
+          "1981-2-10 February 10, 1981",
+          "1981-3-21 March 21, 1981",
+          "1982-7-21 July 21, 1982",
+          "1980-11-21 November 25–26, 1982",
+          "1983-1-23 January 23, 1983",
+          "1983-1-23 January 2, 1986",
+          "1986-12-31 December 31, 1986",
+          "1987-03-22 March 22, 1987",
+          "1988-02-14 February 14, 1988",
+          "1988-05-04 May 4, 1988",
+          "1989-06-30 June 30, 1989",
+          "1991-02-23 February 23–24, 1991",
+          "1992-05-28 May 28, 1992",
+          "1992-05-28 May 28, 1992",
+          "1992-10-04 October 4, 1992",
+          "1993-02-26 February 26, 1993",
+          "1993-08-30 August 30, 1993",
+          "1993-10-08 October 8, 1993",
+          "1995-05-26 May 25, 1995",
+          "1996-1-17 January 17, 1996",
+          "1996-11-20 November 20, 1996",
+          "1999-04-21 April 21, 1999",
+          "2000-08-02 August 2, 2000",
+          "2000-08-27 August 27, 2000",
+          "2001-09-11 September 11, 2001",
+          "2001-09-11 September 11, 2001",
+          "2001-09-11 September 11, 2001",
+          "2002-04-18 April 18, 2002",
+          "2003-10-17 October 17, 2003",
+          "2003-12-26 December 26, 2003",
+          "2004-10-17 October 17, 2004",
+          "2004-12-07 December 7, 2004",
+          "2005-02-02 February 2, 2005",
+          "2005-02-12 February 12, 2005",
+          "2005-12-06 December 6, 2005",
+          "2006-05-30 May 30, 2006",
+          "2006-10-11 October 11, 2006",
+          "2007-01-18 January 18, 2007",
+          "2007-08-14 August 14, 2007",
+          "2007-08-18 August 18, 2007",
+          "2007-09-23 September 23, 2007",
+          "2008-01-25 January 25, 2008",
+          "2008-10-28 October 28, 2008",
+          "2009-02-09 February 9, 2009",
+          "2009-03-13 March 13, 2009",
+          "2009-05-01 May 1, 2009",
+          "2009-07-03 July 3, 2009",
+          "2010-09-01 September 1, 2010",
+          "2010-11-15 November 15, 2010",
+          "2011-02-03 February 3, 2011",
+          "2011-12-16 December 15, 2011",
+          "2012-01-18 January 18, 2012",
+          "2012-03-03 March 3, 2012",
+          "2012-04-2 April 2, 2012",
+          "2012-04-28 April 28, 2012",
+          "2012-07-17 July 17, 2012",
+          "2012-11-18 November 18, 2012",
+          "2013-01-25 January 25, 2013",
+          "2013-01-31 January 31, 2013",
+          "2013-04-03 April 3, 2013",
+          "2013-04-03 December 15, 2013",
+          "2014-01-05 January 5, 2014",
+          "2015-03-14 March 15, 2014",
+          "2014-07-18 July 18, 2014",
+          "2014-11-25 November 25, 2014",
+          "2014-12-28 December 28, 2014",
+          "2015-02-21 February 21, 2015",
+          "2015-03-10 March 10, 2015",
+          "2015-05-19 May 19, 2015",
+          "2015-07-25 July 25, 2015",
+          "2015-10-01 October 1, 2015",
+          "2015-11-21 November 21, 2015",
+          "2015-12-31 December 31, 2015",
+          "2017-01-19 January 19, 2017",
+          "2017-06-14 June 14, 2017",
+          "2017-06-14 June 14, 2017",
+          "2017-07-14 July 14, 2017",
+          "2017-07-22 July 22, 2017",
+          "2017-08-04 August 4, 2017",
+          "2018-04-30 April 7, 2018",
+          "2018-04-30 April 28, 2018",
+          "2018-04-30 April 30, 2018",
+          "2018-07-22 July 22, 2018",
+          "2019-03-28 March 28, 2019",
+          "2019-06-10 June 10, 2019"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Death(s)",
+        "values": [
+          "?",
+          "?",
+          "?",
+          "?",
+          "146",
+          "0",
+          "14",
+          "5",
+          "119",
+          "4",
+          "2",
+          "163",
+          "16",
+          "6",
+          "179–189",
+          "0",
+          "1",
+          "",
+          "84",
+          "8",
+          "11",
+          "1",
+          "0",
+          "0",
+          "0",
+          "97",
+          "7",
+          "6",
+          "1",
+          "1",
+          "3",
+          "",
+          "",
+          "43",
+          "6",
+          "0",
+          "unknown",
+          "8",
+          "0",
+          "41",
+          "0",
+          "2",
+          "3",
+          "2312",
+          "0",
+          "2",
+          "3",
+          "6",
+          "1",
+          "0",
+          "0",
+          "3",
+          "0",
+          "106",
+          "0",
+          "2",
+          "4",
+          "0",
+          "2",
+          "0",
+          "0",
+          "0",
+          "1",
+          "4",
+          "0",
+          "6",
+          "0",
+          "58",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "0",
+          "33",
+          "0",
+          "0",
+          "1",
+          "0",
+          "1",
+          "0",
+          "5",
+          "0",
+          "0",
+          "16",
+          "0",
+          "0",
+          "0",
+          "1",
+          "21",
+          "72",
+          "0",
+          "3",
+          "0",
+          "0",
+          "1",
+          "0",
+          "1",
+          "0",
+          "25",
+          "1"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Notes",
+        "values": [
+          "Burned in the aftermath of the 1906 San Francisco earthquake",
+          "Burned in the aftermath of the 1906 San Francisco earthquake",
+          "Burned in the aftermath of the 1906 San Francisco earthquake",
+          "Burned in the aftermath of the 1906 San Francisco earthquake",
+          "Triangle Shirtwaist Factory fire",
+          "Occurred during construction",
+          "Plane crash",
+          "Plane crash",
+          "Deadliest hotel fire in U.S. history",
+          "Gas explosion caused partial collapse of the highrise.",
+          "",
+          "Daeyeonggak Hotel fire , deadliest hotel fire in history",
+          "",
+          "",
+          "Joelma fire",
+          "",
+          "Campbell Shopping Complex fire",
+          "",
+          "MGM Grand fire",
+          "Arson",
+          "Occurred when carpet glue ignited during carpet installation.",
+          "Plane crash-Suicide by F-4 Phantom during Iran-Iraq War",
+          "Minneapolis Thanksgiving Day fire",
+          "",
+          "A nine-alarm fire in the building spread because of the lack of a sprinkler system .",
+          "Dupont Plaza Hotel arson",
+          "",
+          "Deadliest high-rise fire in Swiss history",
+          "First Interstate Tower fire",
+          "",
+          "",
+          "Burned after being repeatedly hit by Serbian incendiary tank shells .",
+          "Burned after being repeatedly hit by Serbian incendiary tank shells .",
+          "El Al Flight 1862 plane crash, Partial collapse",
+          "Bombing which also resulted in 1,042 smoke related injuries",
+          "Occurred during construction",
+          "Caught fire from tank shelling during the 1993 Russian constitutional crisis",
+          "",
+          "Occurred during refurbishment",
+          "1996 Garley Building fire",
+          "Struck by NATO air strikes during the Kosovo War setting the upper floors on fire.",
+          "Arson",
+          "Tallest structure in Europe",
+          "Plane crashes in the September 11 attacks , causing full structural collapse .",
+          "Full structural collapse caused by debris from the collapse of Buildings 1 and 2 (North and South towers) of the World Trade Center during the September 11 attacks .",
+          "Caused by debris from the collapse of Two World Trade Center : September 11 attacks",
+          "Plane crash",
+          "Seven other seriously injured, fire thought to have been arson",
+          "Twenty-eight 68 mm and 85 mm Katyusha rockets were fired at and struck the hotel",
+          "Damage to 34th-44th floors",
+          "25 injured",
+          "Harrow Court fire",
+          "Partially collapsed; subsequently demolished",
+          "Plane crash: 2005 Iranian Air Force C-130 crash",
+          "Fire destroyed upper floors of 34-story government building",
+          "Plane crash",
+          "Occurred during construction, 57 injured",
+          "Occurred on 40th floor during construction",
+          "Occurred during dismantling, demolished due to damage from the September 11 attacks",
+          "Occurred during construction.",
+          "Fire affecting top six floors",
+          "Occurred during construction; fire consumed nine floors",
+          "Beijing Television Cultural Center fire",
+          "",
+          "Occurred during construction",
+          "Lakanal House fire",
+          "Wooshin Golden Suites fire",
+          "Occurred during renovation; 2010 Shanghai fire",
+          "Started from fireworks during Chinese New Year Celebrations.",
+          "Fire occurred during construction, 11 workers injured.",
+          "",
+          "Two firemen injured",
+          "Occurred while the building was under construction",
+          "",
+          "",
+          "",
+          "Fire occurred on 24th floor during construction, one worker was injured.",
+          "Gas explosion affecting the main building's 14 story annex Torre Ejecutiva Pemex explosion",
+          "",
+          "",
+          "",
+          "Fire broke out in the loading dock, then spread to the courtyard and a neighboring property.",
+          "",
+          "Fire started on an 8th floor balcony and rapidly spread up the facade cladding.",
+          "",
+          "At least 7 people were injured.",
+          "Fire destroyed floors 16–20.",
+          "See 2015 Baku residence building fire",
+          "Fire occurred on the pool deck fueled by cabanas and artificial trees; two people were treated for smoke inhalation.",
+          "Fire burned building facade, 19 treated for smoke inhalation.",
+          "A two-alarm fire broke out on the 50th floor. Five injured.",
+          "Occurred on New Year's Eve, 14 injured.",
+          "The 17-story building collapsed after a fire started on the ninth floor. Seventy injured.",
+          "The 24-storey tower block fire spread from the second floor to the top of the building. See Grenfell Tower fire",
+          "The residential 20-storey tower - four injured",
+          "Blaze started on the 26th floor of the 36-story apartments. Fire quickly spread to three more floors, making it a 5-alarm fire. This is the deadliest high-rise fire in Hawaii's history.",
+          "Under construction 20-storey hotel",
+          "",
+          "6 firefighters injured",
+          "Involved two separate fires the same day",
+          "Building collapsed shortly after blaze",
+          "21-storey residential building",
+          "FR Tower fire",
+          "2019 New York City helicopter crash"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Skyscraper fire",
+    "page_url": "https://en.wikipedia.org/wiki/Skyscraper_fire",
+    "page_entity_id": "Q7538017"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Central_Tower_(San_Francisco)",
+          "entity_id": "Q5061922"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 31,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+          "entity_id": "Q211386"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Merchants_Exchange_Building_(San_Francisco)",
+          "entity_id": "Q6818435"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 31,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+          "entity_id": "Q211386"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Ritz-Carlton_Club_and_Residences",
+          "entity_id": "Q16899335"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 31,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+          "entity_id": "Q211386"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco",
+          "entity_id": "Q62"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 31,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/1906_San_Francisco_earthquake",
+          "entity_id": "Q211386"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Asch_Building",
+          "entity_id": "Q4976083"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Triangle_Shirtwaist_Factory_fire",
+          "entity_id": "Q867316"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/The_Sherry-Netherland",
+          "entity_id": "Q2414200"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Empire_State_Building",
+          "entity_id": "Q9188"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/B-25_Empire_State_Building_crash",
+          "entity_id": "Q1434082"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/40_Wall_Street",
+          "entity_id": "Q218305"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/40_Wall_Street#Plane_crash",
+          "entity_id": "Q218305"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Winecoff_Hotel",
+          "entity_id": "Q8024952"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Winecoff_Hotel_fire",
+          "entity_id": "Q8024951"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ronan_Point",
+          "entity_id": "Q1808373"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/1_New_York_Plaza",
+          "entity_id": "Q2687492"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/South_Korea",
+          "entity_id": "Q884"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Daeyeonggak_Hotel_fire",
+          "entity_id": "Q14375588"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Andraus_Building",
+          "entity_id": "Q492112"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "entity_id": "Q174"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Joelma_Building",
+          "entity_id": "Q14084282"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Joelma_fire",
+          "entity_id": "Q953414"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "entity_id": "Q11235"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kuala_Lumpur",
+          "entity_id": "Q1865"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Campbell_Shopping_Complex_fire",
+          "entity_id": "Q5028148"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kuala_Lumpur",
+          "entity_id": "Q1865"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bally%27s_Las_Vegas",
+          "entity_id": "Q805467"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_fire",
+          "entity_id": "Q4261519"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Hilton",
+          "entity_id": "Q1340365"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Santiago",
+          "entity_id": "Q2887"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chile",
+          "entity_id": "Q298"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Royal_Tulip_Al_Rasheed_Hotel",
+          "entity_id": "Q1126346"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Baghdad",
+          "entity_id": "Q1530"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iraq",
+          "entity_id": "Q796"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis",
+          "entity_id": "Q36091"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Minneapolis_Thanksgiving_Day_fire",
+          "entity_id": "Q6868033"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/KOMTAR",
+          "entity_id": "Q3305737"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Penang",
+          "entity_id": "Q188096"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Prudential_Tower",
+          "entity_id": "Q606823"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boston",
+          "entity_id": "Q100"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 2,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Multiple-alarm_fire",
+          "entity_id": "Q6934865"
+        },
+        {
+          "start": 66,
+          "end": 82,
+          "url": "http://en.wikipedia.org/wiki/Fire_sprinkler_system",
+          "entity_id": "Q220224"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/San_Juan_Marriott_Resort_%26_Stellaris_Casino",
+          "entity_id": "Q7414594"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Condado_(Puerto_Rico)",
+          "entity_id": "Q5159133"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Dupont_Plaza_Hotel_arson",
+          "entity_id": "Q5316047"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hotel_International_Z%C3%BCrich",
+          "entity_id": "Q2373302"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zurich",
+          "entity_id": "Q72"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Aon_Center_(Los_Angeles)",
+          "entity_id": "Q607743"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles",
+          "entity_id": "Q65"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/First_Interstate_Tower_fire",
+          "entity_id": "Q5453114"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Peachtree_25th_Building",
+          "entity_id": "Q14686791"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/One_Meridian_Plaza",
+          "entity_id": "Q7092892"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia",
+          "entity_id": "Q1345"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/United_Investment_and_Trading_Company#History",
+          "entity_id": "Q4175843"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Sarajevo",
+          "entity_id": "Q11194"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+          "entity_id": "Q225"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 30,
+          "end": 67,
+          "url": "http://en.wikipedia.org/wiki/Siege_of_Sarajevo",
+          "entity_id": "Q175653"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Greece_%E2%80%93_Bosnia_and_Herzegovina_Friendship_Building",
+          "entity_id": "Q3437287"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Sarajevo",
+          "entity_id": "Q11194"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+          "entity_id": "Q225"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 30,
+          "end": 67,
+          "url": "http://en.wikipedia.org/wiki/Siege_of_Sarajevo",
+          "entity_id": "Q175653"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Amsterdam",
+          "entity_id": "Q727"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/El_Al_Flight_1862",
+          "entity_id": "Q1323799"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 4,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "entity_id": "Q11235"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/1993_World_Trade_Center_bombing",
+          "entity_id": "Q11240"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Stratosphere_Las_Vegas",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/White_House_(Moscow)",
+          "entity_id": "Q844124"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 42,
+          "end": 76,
+          "url": "http://en.wikipedia.org/wiki/1993_Russian_constitutional_crisis",
+          "entity_id": "Q862099"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hotel_Olympik",
+          "entity_id": "Q12020405"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Prague",
+          "entity_id": "Q1085"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tower_42",
+          "entity_id": "Q1331574"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/1996_Garley_Building_fire",
+          "entity_id": "Q1051320"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/U%C5%A1%C4%87e_Tower",
+          "entity_id": "Q1262622"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgrade",
+          "entity_id": "Q3711"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Serbia_and_Montenegro",
+          "entity_id": "Q37024"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 38,
+          "end": 48,
+          "url": "http://en.wikipedia.org/wiki/Kosovo_War",
+          "entity_id": "Q190029"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Immigration_Tower",
+          "entity_id": "Q3052104"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hong_Kong",
+          "entity_id": "Q8646"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ostankino_Tower",
+          "entity_id": "Q181324"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 21,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Europe",
+          "entity_id": "Q46"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/1_World_Trade_Center",
+          "entity_id": "Q11245"
+        },
+        {
+          "start": 6,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/2_World_Trade_Center",
+          "entity_id": "Q1127212"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 21,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/September_11_attacks",
+          "entity_id": "Q10806"
+        },
+        {
+          "start": 52,
+          "end": 76,
+          "url": "http://en.wikipedia.org/wiki/Collapse_of_the_World_Trade_Center",
+          "entity_id": "Q62179"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/7_World_Trade_Center",
+          "entity_id": "Q270066"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Collapse_of_the_World_Trade_Center",
+          "entity_id": "Q62179"
+        },
+        {
+          "start": 113,
+          "end": 131,
+          "url": "http://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "entity_id": "Q11235"
+        },
+        {
+          "start": 143,
+          "end": 163,
+          "url": "http://en.wikipedia.org/wiki/September_11_attacks",
+          "entity_id": "Q10806"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/90_West_Street",
+          "entity_id": "Q2564383"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 42,
+          "end": 60,
+          "url": "http://en.wikipedia.org/wiki/World_Trade_Center_(1973%E2%80%932001)",
+          "entity_id": "Q11235"
+        },
+        {
+          "start": 63,
+          "end": 83,
+          "url": "http://en.wikipedia.org/wiki/September_11_attacks",
+          "entity_id": "Q10806"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pirelli_Tower",
+          "entity_id": "Q920809"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Milan",
+          "entity_id": "Q490"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2002_Pirelli_Tower_plane_crash",
+          "entity_id": "Q3797640"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/w/index.php?title=Cook_County_Administration_Building&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Al_Rasheed_Hotel",
+          "entity_id": "Q1126346"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Baghdad",
+          "entity_id": "Q1530"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iraq",
+          "entity_id": "Q796"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Parque_Central_Complex",
+          "entity_id": "Q4388657"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Caracas",
+          "entity_id": "Q1533"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Field_Building_(Chicago)",
+          "entity_id": "Q3756447"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hertfordshire",
+          "entity_id": "Q3410"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Harrow_Court_fire",
+          "entity_id": "Q30645790"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Windsor_Tower",
+          "entity_id": "Q691888"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Madrid",
+          "entity_id": "Q2807"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tehran",
+          "entity_id": "Q3616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 13,
+          "end": 47,
+          "url": "http://en.wikipedia.org/wiki/2005_Iranian_Air_Force_C-130_crash",
+          "entity_id": "Q2822708"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Astana",
+          "entity_id": "Q1520"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kazakhstan",
+          "entity_id": "Q232"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Belaire_Apartments",
+          "entity_id": "Q815239"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2006_New_York_City_plane_crash",
+          "entity_id": "Q2114686"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Shanghai_World_Financial_Center",
+          "entity_id": "Q80852"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shanghai",
+          "entity_id": "Q8686"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Deutsche_Bank_Building",
+          "entity_id": "Q440082"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 63,
+          "end": 83,
+          "url": "http://en.wikipedia.org/wiki/September_11_attacks",
+          "entity_id": "Q10806"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Water_Club",
+          "entity_id": "Q7773691"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_City",
+          "entity_id": "Q139564"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Monte_Carlo_Resort_and_Casino",
+          "entity_id": "Q1854509"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Abraj_Al_Bait_Towers",
+          "entity_id": "Q189476"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Mecca",
+          "entity_id": "Q5806"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Beijing_Television_Cultural_Center",
+          "entity_id": "Q1820001"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Beijing",
+          "entity_id": "Q956"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Beijing_Television_Cultural_Center_fire",
+          "entity_id": "Q3111622"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bashundhara_City",
+          "entity_id": "Q1151366"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dhaka",
+          "entity_id": "Q1354"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bangladesh",
+          "entity_id": "Q902"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Lakanal_House_fire",
+          "entity_id": "Q4614169"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Busan",
+          "entity_id": "Q16520"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/South_Korea",
+          "entity_id": "Q884"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Wooshin_Golden_Suites_fire",
+          "entity_id": "Q12624652"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 28,
+          "end": 46,
+          "url": "http://en.wikipedia.org/wiki/2010_Shanghai_fire",
+          "entity_id": "Q866653"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shenyang",
+          "entity_id": "Q11720"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Hanoi",
+          "entity_id": "Q1858"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Vietnam",
+          "entity_id": "Q881"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kuala_Lumpur",
+          "entity_id": "Q1865"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Malaysia",
+          "entity_id": "Q833"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bangkok",
+          "entity_id": "Q1861"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Thailand",
+          "entity_id": "Q869"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Federation_Tower",
+          "entity_id": "Q94193"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sharjah_(city)",
+          "entity_id": "Q289693"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Istanbul",
+          "entity_id": "Q406"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Turkey",
+          "entity_id": "Q43"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tamweel_Tower",
+          "entity_id": "Q4704788"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Oko_Tower_1",
+          "entity_id": "Q4332610"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Torre_Ejecutiva_Pemex",
+          "entity_id": "Q948178"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mexico_City",
+          "entity_id": "Q1489"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 59,
+          "end": 90,
+          "url": "http://en.wikipedia.org/wiki/Torre_Ejecutiva_Pemex_explosion",
+          "entity_id": "Q4110406"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Grozny-City_Towers",
+          "entity_id": "Q4150098"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Grozny",
+          "entity_id": "Q5196"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guangzhou",
+          "entity_id": "Q16572"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/One57",
+          "entity_id": "Q2023928"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Mumbai",
+          "entity_id": "Q1156"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne",
+          "entity_id": "Q3141"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Castle_Hills,_Texas",
+          "entity_id": "Q665285"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/The_Marina_Torch",
+          "entity_id": "Q1808317"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jakarta",
+          "entity_id": "Q3630"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Baku",
+          "entity_id": "Q9248"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Azerbaijan",
+          "entity_id": "Q227"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 4,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/2015_Baku_residence_building_fire",
+          "entity_id": "Q19944579"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Cosmopolitan_of_Las_Vegas",
+          "entity_id": "Q1436845"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas",
+          "entity_id": "Q23768"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sharjah_(city)",
+          "entity_id": "Q289693"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/John_Hancock_Center",
+          "entity_id": "Q217727"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chicago",
+          "entity_id": "Q1297"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/The_Address_Downtown_Dubai",
+          "entity_id": "Q677823"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Plasco_Building",
+          "entity_id": "Q5711011"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tehran",
+          "entity_id": "Q3616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Grenfell_Tower",
+          "entity_id": "Q30275013"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 92,
+          "end": 111,
+          "url": "http://en.wikipedia.org/wiki/Grenfell_Tower_fire",
+          "entity_id": "Q30274958"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/w/index.php?title=Pamchal_Chitgar_Building&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tehran",
+          "entity_id": "Q3616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Marco_Polo_condo_fire",
+          "entity_id": "Q38251000"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Honolulu",
+          "entity_id": "Q18094"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rotana_Hotel_Building&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mashhad",
+          "entity_id": "Q121157"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/The_Marina_Torch",
+          "entity_id": "Q1808317"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Trump_Tower",
+          "entity_id": "Q868772"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Baku)",
+          "entity_id": "Q16487361"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Baku",
+          "entity_id": "Q9248"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Azerbaijan",
+          "entity_id": "Q227"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Wilton_Paes_de_Almeida_Building",
+          "entity_id": "Q52426295"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "entity_id": "Q174"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Paramis_Building&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tehran",
+          "entity_id": "Q3616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=FR_Tower&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dhaka",
+          "entity_id": "Q1354"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bangladesh",
+          "entity_id": "Q902"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/FR_Tower_fire",
+          "entity_id": "Q62562750"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/AXA_Equitable_Center",
+          "entity_id": "Q300254"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/2019_New_York_City_helicopter_crash",
+          "entity_id": "Q64532497"
+        }
+      ]
+    ]
+  ]
+}

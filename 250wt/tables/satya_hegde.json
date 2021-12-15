@@ -1,0 +1,707 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Satya_Hegde",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2000",
+          "2002",
+          "2002",
+          "2002",
+          "2005",
+          "2005",
+          "2007",
+          "2007",
+          "2008",
+          "2009",
+          "2009",
+          "2009",
+          "2009",
+          "2010",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2013",
+          "2014",
+          "2014",
+          "2015",
+          "2015",
+          "2015",
+          "2016",
+          "2016",
+          "2016",
+          "2017",
+          "2019",
+          "2019",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Film",
+        "values": [
+          "Sparsha",
+          "Parva",
+          "H2O",
+          "Taali Kattuva Shubhavele",
+          "Yashwanth",
+          "Masala",
+          "Duniya",
+          "Ee Preethi Onthara",
+          "Inthi Ninna Preethiya",
+          "Ambari",
+          "Junglee",
+          "Manasaare",
+          "Gokula",
+          "Jackie",
+          "Sanju Weds Geetha",
+          "Hudugaru",
+          "Shiva",
+          "Anna Bond",
+          "Myna",
+          "Gajakesari",
+          "6-5=2",
+          "Rhaatee",
+          "Aatagara",
+          "Kendasampige",
+          "Doddmane Hudga",
+          "Silent Sunila",
+          "U Turn",
+          "Maasthi Gudi",
+          "Paris Paris",
+          "Butterfly",
+          "Amar"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Director",
+        "values": [
+          "Sunil Kumar Desai",
+          "Sunil Kumar Desai",
+          "Rajaram, N. Lokanath",
+          "",
+          "Dayal Padmanabhan",
+          "Dayal Padmanabhan",
+          "Soori",
+          "Subramanya Thememane",
+          "Soori",
+          "A. P. Arjun",
+          "Soori",
+          "Yogaraj Bhat",
+          "Prakash",
+          "Soori",
+          "Nagashekar",
+          "K. Madesh",
+          "Om Prakash Rao",
+          "Soori",
+          "Nagashekar",
+          "Krishna",
+          "Bharat Jain",
+          "A. P. Arjun",
+          "K. M. Chaitanya",
+          "Soori",
+          "Soori",
+          "Soori",
+          "Pawan Kumar",
+          "Nagashekhar",
+          "Ramesh Aravind",
+          "Ramesh Aravind",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Notes",
+        "values": [
+          "Assistant cinematographer",
+          "Assistant cinematographer",
+          "Assistant cinematographer",
+          "",
+          "",
+          "",
+          "Suvarna Film Award for Best Cinematographer \nKasturi Film Award for Best Cinematographer \nCinegandha Award for Best Cinematographer",
+          "",
+          "",
+          "",
+          "",
+          "Zee Kannada Film Award for Best Cinematographer \nInnovative Film Award for Best Cinematographer",
+          "",
+          "Suvarna Film Award for Best Cinematographer",
+          "SIIMA Award for Best Cinematographer",
+          "",
+          "",
+          "Nominated—SIIMA Award for Best Cinematographer",
+          "Nominated—SIIMA Award for Best Cinematographer",
+          "Nominated—SIIMA Award for Best Cinematographer",
+          "",
+          "Karnataka State Film Award for Best Cinematographer",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Nagashekar"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Satya Hegde",
+    "page_url": "https://en.wikipedia.org/wiki/Satya_Hegde",
+    "page_entity_id": "Q19668219"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sparsha_(film)",
+          "entity_id": "Q7573801"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sunil_Kumar_Desai",
+          "entity_id": "Q11218139"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Parva_(2002_film)",
+          "entity_id": "Q13159905"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sunil_Kumar_Desai",
+          "entity_id": "Q11218139"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/H2O_(2002_film)",
+          "entity_id": "Q5628822"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dayal_Padmanabhan",
+          "entity_id": "Q16212569"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/w/index.php?title=Masala_(2005_film)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dayal_Padmanabhan",
+          "entity_id": "Q16212569"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Duniya_(2007_film)",
+          "entity_id": "Q5315313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Inthi_Ninna_Preethiya",
+          "entity_id": "Q6057520"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ambari_(film)",
+          "entity_id": "Q16246599"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/A._P._Arjun",
+          "entity_id": "Q20810432"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junglee_(2009_film)",
+          "entity_id": "Q16249758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Manasaare",
+          "entity_id": "Q6746985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yogaraj_Bhat",
+          "entity_id": "Q7377749"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gokula_(film)",
+          "entity_id": "Q18795301"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Prakash_(film_director)",
+          "entity_id": "Q7238163"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jackie_(2010_film)",
+          "entity_id": "Q6116189"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sanju_Weds_Geetha",
+          "entity_id": "Q7418594"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hudugaru",
+          "entity_id": "Q5929106"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Shiva_(2012_film)",
+          "entity_id": "Q16254157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Om_Prakash_Rao",
+          "entity_id": "Q16201448"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Anna_Bond",
+          "entity_id": "Q4766866"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Myna_(film)",
+          "entity_id": "Q6947801"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gajakesari",
+          "entity_id": "Q17053235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Krishna_(cinematographer)",
+          "entity_id": "Q6437373"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/6-5%3D2_Hindi",
+          "entity_id": "Q18703046"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rhaatee",
+          "entity_id": "Q18703896"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/A._P._Arjun",
+          "entity_id": "Q20810432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 51,
+          "url": "http://en.wikipedia.org/wiki/Karnataka_State_Film_Award_for_Best_Cinematographer",
+          "entity_id": "Q6372889"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Aatagara",
+          "entity_id": "Q20899380"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/K._M._Chaitanya",
+          "entity_id": "Q16214775"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kendasampige",
+          "entity_id": "Q20900129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Doddmane_Hudga",
+          "entity_id": "Q19571475"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Silent_Sunila",
+          "entity_id": "Q19898367"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Duniya_Soori",
+          "entity_id": "Q5315319"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/U_Turn_(2016_film)",
+          "entity_id": "Q25217692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Pawan_Kumar_(director)",
+          "entity_id": "Q7156103"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Maasthi_Gudi",
+          "entity_id": "Q27963040"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paris_Paris",
+          "entity_id": "Q42291481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ramesh_Aravind",
+          "entity_id": "Q7289374"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Butterfly_(2019_film)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ramesh_Aravind",
+          "entity_id": "Q7289374"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Amar_(2019_film)",
+          "entity_id": "Q65118463"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

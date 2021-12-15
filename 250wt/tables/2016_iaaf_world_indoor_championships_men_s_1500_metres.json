@@ -1,0 +1,479 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016_IAAF_World_Indoor_Championships_–_Men's_1500_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "DQ",
+          "11",
+          "12",
+          "13",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "Ayanleh Souleiman",
+          "Chris O'Hare",
+          "Robby Andrews",
+          "Aman Wote",
+          "Vincent Kibet",
+          "Nicholas Willis",
+          "Marc Alcalá",
+          "Matt Centrowitz",
+          "Dawit Wolde",
+          "Jakub Holuša",
+          "Iván López",
+          "Charlie Grice",
+          "Bethwell Birgen",
+          "Erick Rodriguez",
+          "Manuel Olmedo"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Djibouti",
+          " Great Britain",
+          " United States",
+          " Ethiopia",
+          " Kenya",
+          " New Zealand",
+          " Spain",
+          " United States",
+          " Ethiopia",
+          " Czech Republic",
+          " Chile",
+          " Great Britain",
+          " Kenya",
+          " Nicaragua",
+          " Spain"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "3:41.04",
+          "3:41.09",
+          "3:41.21",
+          "3:41.25",
+          "3:41.42",
+          "3:41.53",
+          "3:42.02",
+          "3:47.15",
+          "3:47.24",
+          "3:47.62",
+          "3:48.63",
+          "3:49.03",
+          "3:49.35",
+          "3:58.37",
+          "DNF"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "Q",
+          "Q",
+          "Q",
+          "q",
+          "q",
+          "q",
+          "",
+          "Q",
+          "Q",
+          "Q",
+          "Doping",
+          "",
+          "",
+          "NR",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016 IAAF World Indoor Championships – Men's 1500 metres",
+    "page_url": "https://en.wikipedia.org/wiki/2016_IAAF_World_Indoor_Championships_–_Men's_1500_metres",
+    "page_entity_id": "Q23294505"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ayanleh_Souleiman",
+          "entity_id": "Q792772"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Djibouti",
+          "entity_id": "Q977"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_O%27Hare",
+          "entity_id": "Q15051264"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Robby_Andrews",
+          "entity_id": "Q7341088"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Aman_Wote",
+          "entity_id": "Q453540"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Vincent_Kibet",
+          "entity_id": "Q63044623"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nicholas_Willis",
+          "entity_id": "Q9112"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand",
+          "entity_id": "Q664"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Marc_Alcal%C3%A1",
+          "entity_id": "Q20724299"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Matthew_Centrowitz,_Jr.",
+          "entity_id": "Q1190951"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dawit_Wolde",
+          "entity_id": "Q5242370"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jakub_Holu%C5%A1a",
+          "entity_id": "Q2048710"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Iv%C3%A1n_L%C3%B3pez_(runner)",
+          "entity_id": "Q16233350"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chile",
+          "entity_id": "Q298"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Charlie_Grice",
+          "entity_id": "Q16535884"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bethwell_Birgen",
+          "entity_id": "Q15870576"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Eric_Rodriguez_(athlete)",
+          "entity_id": "Q20925711"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Nicaragua",
+          "entity_id": "Q811"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/List_of_Nicaraguan_records_in_athletics",
+          "entity_id": "Q7024504"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Manuel_Olmedo",
+          "entity_id": "Q966095"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

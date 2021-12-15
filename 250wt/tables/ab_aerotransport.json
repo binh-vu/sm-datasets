@@ -1,0 +1,410 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "AB_Aerotransport",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Manufacturer",
+        "values": [
+          "Junkers",
+          "Junkers",
+          "Junkers",
+          "Junkers",
+          "Fokker",
+          "Northrop",
+          "Northrop",
+          "Fokker",
+          "Fokker",
+          "Junkers",
+          "Douglas",
+          "Junkers",
+          "Boeing",
+          "Douglas"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Model",
+        "values": [
+          "F.13",
+          "G.24",
+          "W 33",
+          "Ju 52",
+          "F.XII",
+          "Delta",
+          "Gamma",
+          "F.VII",
+          "F.XXII",
+          "W 34",
+          "DC-3",
+          "Ju 86",
+          "B-17",
+          "DC-4"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Quantity",
+        "values": [
+          "10",
+          "5",
+          "2",
+          "8",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "10",
+          "1",
+          "9",
+          "3"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Introduced",
+        "values": [
+          "1924",
+          "1925",
+          "1929",
+          "1932",
+          "1932",
+          "1934",
+          "1934",
+          "1934",
+          "1935",
+          "1935",
+          "1937",
+          "1938",
+          "1944",
+          "1946"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Retired",
+        "values": [
+          "1938",
+          "1932",
+          "1931",
+          "1948",
+          "1946",
+          "1937",
+          "1936",
+          "1942",
+          "1936",
+          "1940",
+          "1948",
+          "1940",
+          "1948",
+          "1948"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "AB Aerotransport",
+    "page_url": "https://en.wikipedia.org/wiki/AB_Aerotransport",
+    "page_entity_id": "Q287719"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Junkers_F.13",
+          "entity_id": "Q26172"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Junkers_G.24",
+          "entity_id": "Q367809"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Junkers_W_33",
+          "entity_id": "Q559278"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Junkers_Ju_52",
+          "entity_id": "Q26066"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fokker",
+          "entity_id": "Q155896"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Fokker_F.XII",
+          "entity_id": "Q1435252"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Northrop_Corporation",
+          "entity_id": "Q912979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Northrop_Delta",
+          "entity_id": "Q7059670"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Northrop_Corporation",
+          "entity_id": "Q912979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Northrop_Gamma",
+          "entity_id": "Q3941040"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fokker",
+          "entity_id": "Q155896"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Fokker_F.VII",
+          "entity_id": "Q964770"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fokker",
+          "entity_id": "Q155896"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fokker_F.XXII",
+          "entity_id": "Q582684"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Junkers_W_34",
+          "entity_id": "Q694521"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Douglas_Aircraft_Company",
+          "entity_id": "Q651778"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Douglas_DC-3",
+          "entity_id": "Q190211"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Junkers",
+          "entity_id": "Q161168"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Junkers_Ju_86",
+          "entity_id": "Q686252"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Boeing",
+          "entity_id": "Q66"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress",
+          "entity_id": "Q185000"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Douglas_Aircraft_Company",
+          "entity_id": "Q651778"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Douglas_DC-4",
+          "entity_id": "Q622673"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

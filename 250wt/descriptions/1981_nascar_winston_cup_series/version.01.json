@@ -1,0 +1,130 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q18608583",
+        "rel_uri": "wd:Q18608583",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Event"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q2338524",
+        "rel_uri": "wd:Q2338524",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Track"
+      },
+      {
+        "id": "c-0",
+        "col_index": 0,
+        "label": "Round"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Date"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Winner"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Broadcaster"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q15265344",
+        "rel_uri": "wd:Q15265344",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-2",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-2",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P1346",
+        "rel_uri": "p:P1346",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-2",
+        "target": "d-1",
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "rel_uri": "p:P585",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-1",
+        "target": "d-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-5",
+        "target": "d-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

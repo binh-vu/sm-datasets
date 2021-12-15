@@ -1,0 +1,273 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Alex_Chu",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2007",
+          "2010",
+          "2010",
+          "2011",
+          "2012",
+          "2013",
+          "2014",
+          "2014",
+          "2014",
+          "2018"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title",
+        "values": [
+          "Finding Love",
+          "Smile, Dong-hae",
+          "Pasta",
+          "A Thousand Days' Promise",
+          "Salamander Guru and The Shadows",
+          "Medical Top Team",
+          "I Need Romance 3",
+          "Hotel King",
+          "My Lovely Girl",
+          "I Am the Mother Too"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Role",
+        "values": [
+          "Park Ji-won",
+          "Lee Tae-hoon",
+          "Kim San",
+          "Son Suk-ho",
+          "Ji-hoon",
+          "Bae Sang-kyu",
+          "Lee Jung-ho",
+          "Yoo Joon-seong",
+          "Bae Sung-jin",
+          "Shin Sang-hyuk"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Network",
+        "values": [
+          "MBC Every 1",
+          "KBS1",
+          "MBC",
+          "SBS",
+          "SBS",
+          "MBC",
+          "tvN",
+          "MBC",
+          "SBS",
+          "SBS"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Alex Chu",
+    "page_url": "https://en.wikipedia.org/wiki/Alex_Chu",
+    "page_entity_id": "Q624785"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/MBC_Every_1",
+          "entity_id": "Q6714697"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Smile_Again_(2010_TV_series)",
+          "entity_id": "Q493347"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KBS1",
+          "entity_id": "Q777278"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Pasta_(TV_series)",
+          "entity_id": "Q496290"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Munhwa_Broadcasting_Corporation",
+          "entity_id": "Q482607"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/A_Thousand_Days%27_Promise",
+          "entity_id": "Q487051"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "entity_id": "Q928831"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Salamander_Guru_and_The_Shadows",
+          "entity_id": "Q493541"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "entity_id": "Q928831"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Medical_Top_Team",
+          "entity_id": "Q13432194"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Munhwa_Broadcasting_Corporation",
+          "entity_id": "Q482607"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/I_Need_Romance_3",
+          "entity_id": "Q15623744"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/TVN_(South_Korea)",
+          "entity_id": "Q333424"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hotel_King",
+          "entity_id": "Q15739355"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Munhwa_Broadcasting_Corporation",
+          "entity_id": "Q482607"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/My_Lovely_Girl",
+          "entity_id": "Q17481109"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "entity_id": "Q928831"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/I_Am_the_Mother_Too",
+          "entity_id": "Q52146005"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Seoul_Broadcasting_System",
+          "entity_id": "Q928831"
+        }
+      ]
+    ]
+  ]
+}

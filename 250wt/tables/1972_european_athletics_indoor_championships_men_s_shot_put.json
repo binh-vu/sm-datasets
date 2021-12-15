@@ -1,0 +1,469 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1972_European_Athletics_Indoor_Championships_–_Men's_shot_put",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Hartmut Briesenick",
+          "Władysław Komar",
+          "Jaroslav Brabec",
+          "Heinz-Joachim Rothenburg",
+          "Yves Brouzet",
+          "Miroslav Janoušek",
+          "Seppo Simola",
+          "Geoff Capes",
+          "Ivan Ivančić",
+          "Arnjolt Beer"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " East Germany",
+          " Poland",
+          " Czechoslovakia",
+          " East Germany",
+          " France",
+          " Czechoslovakia",
+          " Finland",
+          " Great Britain",
+          " Yugoslavia",
+          " France"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "#1",
+        "values": [
+          "20.50",
+          "19.83",
+          "17.87",
+          "19.66",
+          "x",
+          "18.67",
+          "18.05",
+          "x",
+          "17.61",
+          "17.89"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "#2",
+        "values": [
+          "x",
+          "x",
+          "18.82",
+          "x",
+          "19.16",
+          "19.34",
+          "18.52",
+          "18.54",
+          "x",
+          "17.74"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "#3",
+        "values": [
+          "20.41",
+          "20.32",
+          "19.71",
+          "19.28",
+          "19.78",
+          "19.08",
+          "18.37",
+          "x",
+          "18.08",
+          "17.89"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "#4",
+        "values": [
+          "x",
+          "19.62",
+          "x",
+          "19.29",
+          "19.80",
+          "x",
+          "18.76",
+          "18.63",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "#5",
+        "values": [
+          "20.59",
+          "19.91",
+          "19.94",
+          "19.70",
+          "x",
+          "x",
+          "18.97",
+          "18.67",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 8,
+        "name": "#6",
+        "values": [
+          "20.67",
+          "19.89",
+          "19.78",
+          "19.90",
+          "19.26",
+          "x",
+          "18.78",
+          "x",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Result",
+        "values": [
+          "20.67",
+          "20.32",
+          "19.94",
+          "19.90",
+          "19.80",
+          "19.34",
+          "18.97",
+          "18.67",
+          "18.08",
+          "17.89"
+        ]
+      },
+      {
+        "index": 10,
+        "name": "Notes",
+        "values": [
+          "AR",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1972 European Athletics Indoor Championships – Men's shot put",
+    "page_url": "https://en.wikipedia.org/wiki/1972_European_Athletics_Indoor_Championships_–_Men's_shot_put",
+    "page_entity_id": "Q12751460"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hartmut_Briesenick",
+          "entity_id": "Q558679"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Germany",
+          "entity_id": "Q16957"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/List_of_European_records_in_athletics",
+          "entity_id": "Q1445200"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Komar",
+          "entity_id": "Q453066"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jaroslav_Brabec",
+          "entity_id": "Q1336474"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czechoslovakia",
+          "entity_id": "Q33946"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Heinz-Joachim_Rothenburg",
+          "entity_id": "Q204401"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Germany",
+          "entity_id": "Q16957"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Yves_Brouzet",
+          "entity_id": "Q3573523"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Miroslav_Janou%C5%A1ek&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czechoslovakia",
+          "entity_id": "Q33946"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Seppo_Simola",
+          "entity_id": "Q7452003"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Geoff_Capes",
+          "entity_id": "Q1354784"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ivan_Ivan%C4%8Di%C4%87",
+          "entity_id": "Q551172"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "entity_id": "Q83286"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Arnjolt_Beer",
+          "entity_id": "Q4677028"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

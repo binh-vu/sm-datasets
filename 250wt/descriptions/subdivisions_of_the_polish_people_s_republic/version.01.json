@@ -1,0 +1,103 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q150093",
+        "rel_uri": "wd:Q150093",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Voivodeship"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q515",
+        "rel_uri": "wd:Q515",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Capital"
+      },
+      {
+        "id": "c-3",
+        "col_index": 3,
+        "label": "Area \nkm\u00b2 (1998)"
+      },
+      {
+        "id": "c-6",
+        "col_index": 6,
+        "label": "No. of communes"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Abbreviation"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Population \n(1980)"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "No. of cities"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-1",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P36",
+        "rel_uri": "p:P36",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P2046",
+        "rel_uri": "p:P2046",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-1",
+        "target": "d-4",
+        "abs_uri": "http://www.wikidata.org/prop/P1082",
+        "rel_uri": "p:P1082",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q2385804",
+        "rel_uri": "wd:Q2385804",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "School"
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Old Boys/Girls"
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Derivation"
+      },
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Location"
+      },
+      {
+        "id": "c-1",
+        "col_index": 1,
+        "label": "Type"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Notes"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d:c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P3876",
+        "rel_uri": "p:P3876",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      }
+    ]
+  }
+]

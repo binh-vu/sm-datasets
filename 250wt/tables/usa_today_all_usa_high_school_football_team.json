@@ -1,0 +1,526 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "USA_Today_All-USA_high_school_football_team",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Player",
+        "values": [
+          "Jabrill Peppers",
+          "Marlon Humphrey",
+          "Adoree' Jackson",
+          "Steven Parker",
+          "Dante Booker, Jr.",
+          "Raekwon McMillan",
+          "Nyles Morgan",
+          "Tre Williams",
+          "Andrew Brown",
+          "Lorenzo Carter",
+          "Da'Shawn Hand",
+          "Gerald Willis III"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Position",
+        "values": [
+          "Defensive back",
+          "Defensive back",
+          "Defensive back",
+          "Defensive back",
+          "Linebacker",
+          "Linebacker",
+          "Linebacker",
+          "Linebacker",
+          "Defensive line",
+          "Defensive line",
+          "Defensive line",
+          "Defensive line"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "School",
+        "values": [
+          "Paramus Catholic High School",
+          "Hoover High School",
+          "Serra High School",
+          "Jenks High School",
+          "St. Vincent-St. Mary High School",
+          "Liberty County High School",
+          "Crete-Monee High School",
+          "St. Paul's Episcopal School",
+          "Oscar Smith High School",
+          "Norcross High School",
+          "Woodbridge High School",
+          "Karr High School"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Hometown",
+        "values": [
+          "Paramus, New Jersey",
+          "Hoover, Alabama",
+          "Gardena, California",
+          "Jenks, Oklahoma",
+          "Akron, Ohio",
+          "Hinesville, Georgia",
+          "Crete, Illinois",
+          "Mobile, Alabama",
+          "Chesapeake, Virginia",
+          "Norcross, Georgia",
+          "Woodbridge, Virginia",
+          "New Orleans, Louisiana"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "College",
+        "values": [
+          "Michigan",
+          "Alabama",
+          "Southern California",
+          "Oklahoma",
+          "Ohio State",
+          "Ohio State",
+          "Notre Dame",
+          "Auburn",
+          "Virginia",
+          "Georgia",
+          "Alabama",
+          "Florida"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "USA Today All-USA high school football team",
+    "page_url": "https://en.wikipedia.org/wiki/USA_Today_All-USA_high_school_football_team",
+    "page_entity_id": "Q7865853"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jabrill_Peppers",
+          "entity_id": "Q6110299"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Paramus_Catholic_High_School",
+          "entity_id": "Q14705835"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Paramus,_New_Jersey",
+          "entity_id": "Q1021714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Michigan_Wolverines_football",
+          "entity_id": "Q6837794"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Marlon_Humphrey",
+          "entity_id": "Q14951938"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hoover_High_School_(Alabama)",
+          "entity_id": "Q5898806"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Hoover,_Alabama",
+          "entity_id": "Q79950"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football",
+          "entity_id": "Q4705216"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Adoree%27_Jackson",
+          "entity_id": "Q18705308"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jun%C3%ADpero_Serra_High_School_(Gardena,_California)",
+          "entity_id": "Q6314463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Gardena,_California",
+          "entity_id": "Q846409"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/USC_Trojans_football",
+          "entity_id": "Q7866357"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Steven_Parker_(defensive_back)",
+          "entity_id": "Q85803484"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jenks_High_School",
+          "entity_id": "Q6177662"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jenks,_Oklahoma",
+          "entity_id": "Q2237107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_Sooners_football",
+          "entity_id": "Q10608114"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Dante_Booker,_Jr.&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/St._Vincent-St._Mary_High_School",
+          "entity_id": "Q7592124"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Akron,_Ohio",
+          "entity_id": "Q163132"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ohio_State_Buckeyes_football",
+          "entity_id": "Q7080909"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Raekwon_McMillan",
+          "entity_id": "Q16732380"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Liberty_County_High_School_(Fleming,_Georgia)",
+          "entity_id": "Q6541694"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hinesville,_Georgia",
+          "entity_id": "Q1994691"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ohio_State_Buckeyes_football",
+          "entity_id": "Q7080909"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nyles_Morgan&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Crete-Monee_High_School",
+          "entity_id": "Q5184724"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Crete,_Illinois",
+          "entity_id": "Q2575698"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Notre_Dame_Fighting_Irish_football",
+          "entity_id": "Q16147495"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tre_Williams_(American_football)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/St._Paul%27s_Episcopal_School",
+          "entity_id": "Q7591139"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Mobile,_Alabama",
+          "entity_id": "Q79875"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Auburn_Tigers_football",
+          "entity_id": "Q4819311"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Brown_(American_football)",
+          "entity_id": "Q16229826"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Oscar_Smith_High_School",
+          "entity_id": "Q7105965"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Chesapeake,_Virginia",
+          "entity_id": "Q49222"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Cavaliers_football",
+          "entity_id": "Q16155633"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lorenzo_Carter_(American_football)",
+          "entity_id": "Q55474229"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Norcross_High_School",
+          "entity_id": "Q14686752"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Norcross,_Georgia",
+          "entity_id": "Q2581974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_Bulldogs_football",
+          "entity_id": "Q5547370"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Da%27Shawn_Hand",
+          "entity_id": "Q16236766"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Woodbridge_High_School_(Virginia)",
+          "entity_id": "Q8032417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Woodbridge,_Virginia",
+          "entity_id": "Q1375929"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football",
+          "entity_id": "Q4705216"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Gerald_Willis_III",
+          "entity_id": "Q63350769"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Edna_Karr_High_School",
+          "entity_id": "Q5340059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/New_Orleans",
+          "entity_id": "Q34404"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Florida_Gators_football",
+          "entity_id": "Q5461394"
+        }
+      ]
+    ]
+  ]
+}

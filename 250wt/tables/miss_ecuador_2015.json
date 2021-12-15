@@ -1,0 +1,577 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Miss_Ecuador_2015",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Province",
+        "values": [
+          " Azuay",
+          " Azuay",
+          " Carchi",
+          " Chimborazo",
+          " Cotopaxi",
+          " El Oro",
+          " Esmeraldas",
+          " Esmeraldas",
+          " Guayas",
+          " Guayas",
+          " Guayas",
+          " Imbabura",
+          " Loja",
+          " Pichincha",
+          " Pichincha",
+          " Pichincha",
+          " Santo Domingo",
+          " Tungurahua"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Contestant",
+        "values": [
+          "Daniela Armijos Cordero",
+          "María Elisa Padilla Cardoso",
+          "Marlice Belén Grijalva Moya",
+          "Ariana Salomé Freire Cevallos",
+          "María de los Ángeles Espín Díaz",
+          "Mirka Paola Cabrera Mazzini",
+          "Andrea Cristina Lara Jijón",
+          "Nathaly Judith Quiñónez Ortiz",
+          "María Emilia Cevallos Cuesta",
+          "Francesca Keyko Cipriani Burgos",
+          "Andrea Paola Garzón Parrales",
+          "Angela Maritza Bonilla Zapata",
+          "Karla Jhulieth Reynel Ríos",
+          "María Guadalupe Arias Mendoza",
+          "Mariagloria Dávalos Guevara",
+          "Andrea Estefanía Barragán Larco",
+          "Jexandra Mishelle Mecías Torres",
+          "María Paz Mayorga Medina"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Age",
+        "values": [
+          "19",
+          "21",
+          "19",
+          "20",
+          "22",
+          "19",
+          "22",
+          "19",
+          "22",
+          "22",
+          "25",
+          "22",
+          "19",
+          "21",
+          "19",
+          "21",
+          "20",
+          "20"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Height \n(cm)",
+        "values": [
+          "180",
+          "169",
+          "180",
+          "169",
+          "169",
+          "175",
+          "177",
+          "177",
+          "170",
+          "173",
+          "174",
+          "173",
+          "176",
+          "174",
+          "180",
+          "170",
+          "170",
+          "169"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Height \n(ft in)",
+        "values": [
+          "5 ft 11 in",
+          "5 ft 7 in",
+          "5 ft 11 in",
+          "5 ft 7 in",
+          "5 ft 7 in",
+          "5 ft 9 in",
+          "5 ft 10 in",
+          "5 ft 10 in",
+          "5 ft 7 in",
+          "5 ft 8 in",
+          "5 ft 9 in",
+          "5 ft 8 in",
+          "5 ft 9 in",
+          "5 ft 9 in",
+          "5 ft 11 in",
+          "5 ft 7 in",
+          "5 ft 7 in",
+          "5 ft 7 in"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Hometown",
+        "values": [
+          "Cuenca",
+          "Cuenca",
+          "Tulcan",
+          "Riobamba",
+          "Latacunga",
+          "Machala",
+          "Esmeraldas",
+          "Quinindé",
+          "Guayaquil",
+          "Guayaquil",
+          "Guayaquil",
+          "San Miguel de Urcuquí",
+          "Loja",
+          "Quito",
+          "Quito",
+          "Quito",
+          "Santo Domingo",
+          "Ambato"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Miss Ecuador 2015",
+    "page_url": "https://en.wikipedia.org/wiki/Miss_Ecuador_2015",
+    "page_entity_id": "Q18702386"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Azuay_Province",
+          "entity_id": "Q220451"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cuenca,_Ecuador",
+          "entity_id": "Q54886"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Azuay_Province",
+          "entity_id": "Q220451"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cuenca,_Ecuador",
+          "entity_id": "Q54886"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Carchi_Province,_Ecuador",
+          "entity_id": "Q321729"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tulcan",
+          "entity_id": "Q752113"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Chimborazo_Province",
+          "entity_id": "Q238492"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Riobamba",
+          "entity_id": "Q478675"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cotopaxi_Province",
+          "entity_id": "Q241140"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Latacunga",
+          "entity_id": "Q379338"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/El_Oro_Province",
+          "entity_id": "Q466019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Mirka_Cabrera",
+          "entity_id": "Q30001798"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Machala",
+          "entity_id": "Q215080"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Esmeraldas_Province",
+          "entity_id": "Q335526"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Esmeraldas_Canton",
+          "entity_id": "Q2448307"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Esmeraldas_Province",
+          "entity_id": "Q335526"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Quinind%C3%A9_Canton",
+          "entity_id": "Q971410"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Guayas_Province",
+          "entity_id": "Q335464"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guayaquil",
+          "entity_id": "Q43509"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Guayas_Province",
+          "entity_id": "Q335464"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Francesca_Cipriani",
+          "entity_id": "Q19667130"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guayaquil",
+          "entity_id": "Q43509"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Guayas_Province",
+          "entity_id": "Q335464"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Guayaquil",
+          "entity_id": "Q43509"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Imbabura_Province",
+          "entity_id": "Q321863"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/%C3%81ngela_Bonilla",
+          "entity_id": "Q26209315"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/San_Miguel_de_Urcuqu%C3%AD_Canton",
+          "entity_id": "Q1990515"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Loja_Province",
+          "entity_id": "Q504238"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Loja,_Ecuador",
+          "entity_id": "Q944697"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pichincha_Province,_Ecuador",
+          "entity_id": "Q272586"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Quito,_Ecuador",
+          "entity_id": "Q2900"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pichincha_Province",
+          "entity_id": "Q272586"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Quito",
+          "entity_id": "Q2900"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Pichincha_Province,_Ecuador",
+          "entity_id": "Q272586"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Quito,_Ecuador",
+          "entity_id": "Q2900"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Santo_Domingo_de_los_Ts%C3%A1chilas_Province",
+          "entity_id": "Q1123208"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Santo_Domingo_de_Los_Colorados",
+          "entity_id": "Q1015654"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tungurahua_Province",
+          "entity_id": "Q504252"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ambato_Canton",
+          "entity_id": "Q1990525"
+        }
+      ]
+    ]
+  ]
+}

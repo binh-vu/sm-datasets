@@ -1,0 +1,779 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2000–01_Primera_División_A_season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Club",
+        "values": [
+          "Aguascalientes",
+          "Ángeles / Real San Sebastián",
+          "Atlético Mexiquense",
+          "Bachilleres",
+          "Cruz Azul Hidalgo",
+          "Correcaminos UAT",
+          "Durango",
+          "Halcones de Querétaro",
+          "La Piedad",
+          "Lobos UAP",
+          "Nacional Tijuana",
+          "Potros Marte",
+          "Real San Luis",
+          "RS Zacatecas",
+          "Saltillo",
+          "Tigres de Ciudad Juárez",
+          "Toros Neza",
+          "Veracruz",
+          "Yucatán",
+          "Zacatepec"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Stadium",
+        "values": [
+          "Municipal de Aguascalientes",
+          "Cuauhtémoc",
+          "Nemesio Díez",
+          "Jalisco",
+          "10 de Diciembre",
+          "Marte R. Gómez",
+          "Francisco Zarco",
+          "Corregidora",
+          "Juan N. López",
+          "Ignacio Zaragoza",
+          "Cerro Colorado",
+          "Centenario",
+          "Plan de San Luis",
+          "Francisco Villa",
+          "Francisco I. Madero",
+          "Olímpico Benito Juárez",
+          "Neza 86",
+          "Luis \"Pirata\" Fuente",
+          "Carlos Iturralde",
+          "Agustín Coruco Díaz"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Capacity",
+        "values": [
+          "12,500",
+          "42,648",
+          "35,000",
+          "60,000",
+          "17,000",
+          "20,000",
+          "15,000",
+          "35,000",
+          "15,000",
+          "22,000",
+          "12,000",
+          "14,500",
+          "18,000",
+          "18,000",
+          "10,000",
+          "22,000",
+          "20,000",
+          "33,000",
+          "24,000",
+          "18,000"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "City",
+        "values": [
+          "Aguascalientes , Aguascalientes",
+          "Puebla , Puebla",
+          "Toluca , State of Mexico",
+          "Guadalajara , Jalisco",
+          "Cruz Azul , Hidalgo",
+          "Ciudad Victoria , Tamaulipas",
+          "Durango , Durango",
+          "Querétaro , Querétaro",
+          "La Piedad , Michoacán",
+          "Puebla , Puebla",
+          "Tijuana , Baja California",
+          "Cuernavaca , Morelos",
+          "San Luis Potosí , S.L.P.",
+          "Zacatecas , Zacatecas",
+          "Saltillo , Coahuila",
+          "Ciudad Juárez , Chihuahua",
+          "Ciudad Nezahualcóyotl , State of Mexico",
+          "Veracruz , Veracruz",
+          "Mérida , Yucatán",
+          "Zacatepec , Morelos"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2000–01 Primera División A season",
+    "page_url": "https://en.wikipedia.org/wiki/2000–01_Primera_División_A_season",
+    "page_entity_id": "Q60525968"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gallos_de_Aguascalientes",
+          "entity_id": "Q1492543"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Aguascalientes_City",
+          "entity_id": "Q200805"
+        },
+        {
+          "start": 17,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Aguascalientes",
+          "entity_id": "Q79952"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/%C3%81ngeles_de_Puebla",
+          "entity_id": "Q252103"
+        },
+        {
+          "start": 10,
+          "end": 28,
+          "url": "http://en.wikipedia.org/w/index.php?title=Real_San_Sebasti%C3%A1n&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc",
+          "entity_id": "Q124769"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Puebla_City",
+          "entity_id": "Q125293"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Puebla",
+          "entity_id": "Q79923"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Atl%C3%A9tico_Mexiquense",
+          "entity_id": "Q757454"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez",
+          "entity_id": "Q604859"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Toluca",
+          "entity_id": "Q209034"
+        },
+        {
+          "start": 9,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/State_of_Mexico",
+          "entity_id": "Q82112"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Leones_Negros_UdeG",
+          "entity_id": "Q1819189"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Jalisco",
+          "entity_id": "Q1346716"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Guadalajara",
+          "entity_id": "Q9022"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Jalisco",
+          "entity_id": "Q13160"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Cruz_Azul_Hidalgo",
+          "entity_id": "Q1142131"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estadio_10_de_Diciembre",
+          "entity_id": "Q1369023"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ciudad_Cooperativa_Cruz_Azul&action=edit&redlink=1",
+          "entity_id": null
+        },
+        {
+          "start": 12,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hidalgo_(state)",
+          "entity_id": "Q80903"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Correcaminos_UAT",
+          "entity_id": "Q1500900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Marte_R._G%C3%B3mez",
+          "entity_id": "Q3066794"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ciudad_Victoria",
+          "entity_id": "Q331661"
+        },
+        {
+          "start": 18,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Tamaulipas",
+          "entity_id": "Q80007"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Alacranes_de_Durango",
+          "entity_id": "Q1570541"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Francisco_Zarco",
+          "entity_id": "Q3058799"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Durango_City",
+          "entity_id": "Q112813"
+        },
+        {
+          "start": 10,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Durango",
+          "entity_id": "Q79918"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Halcones_de_Quer%C3%A9taro",
+          "entity_id": "Q2918194"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Corregidora",
+          "entity_id": "Q713216"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Quer%C3%A9taro_City",
+          "entity_id": "Q173121"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Quer%C3%A9taro",
+          "entity_id": "Q79754"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Reboceros_de_La_Piedad",
+          "entity_id": "Q678169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Juan_N._L%C3%B3pez",
+          "entity_id": "Q3058804"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/La_Piedad",
+          "entity_id": "Q18617030"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Michoac%C3%A1n",
+          "entity_id": "Q79861"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lobos_BUAP",
+          "entity_id": "Q1570132"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Ignacio_Zaragoza",
+          "entity_id": "Q3058800"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Puebla_City",
+          "entity_id": "Q125293"
+        },
+        {
+          "start": 9,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Puebla",
+          "entity_id": "Q79923"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Nacional_Tijuana",
+          "entity_id": "Q1528288"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Gasmart",
+          "entity_id": "Q8842916"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tijuana",
+          "entity_id": "Q124739"
+        },
+        {
+          "start": 10,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Baja_California",
+          "entity_id": "Q58731"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/C.D._Marte",
+          "entity_id": "Q1103050"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Centenario_(Cuernavaca)",
+          "entity_id": "Q428726"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cuernavaca",
+          "entity_id": "Q204245"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Morelos",
+          "entity_id": "Q66117"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/San_Luis_F.C.",
+          "entity_id": "Q1103153"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Plan_de_San_Luis",
+          "entity_id": "Q3070455"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD_City",
+          "entity_id": "Q204271"
+        },
+        {
+          "start": 18,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/San_Luis_Potos%C3%AD",
+          "entity_id": "Q78980"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Real_Sociedad_de_Zacatecas",
+          "entity_id": "Q2134708"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Carlos_Vega_Villalba",
+          "entity_id": "Q2700987"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zacatecas_City",
+          "entity_id": "Q139242"
+        },
+        {
+          "start": 12,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Zacatecas",
+          "entity_id": "Q80269"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Saltillo_Soccer_F.C.",
+          "entity_id": "Q602326"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Francisco_I._Madero",
+          "entity_id": "Q29352088"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Saltillo",
+          "entity_id": "Q53077"
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Coahuila",
+          "entity_id": "Q53079"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Tigres_B",
+          "entity_id": "Q7801717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Benito_Ju%C3%A1rez",
+          "entity_id": "Q1369529"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez",
+          "entity_id": "Q26590"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Chihuahua_(state)",
+          "entity_id": "Q655"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Toros_Neza",
+          "entity_id": "Q2005514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Neza_86",
+          "entity_id": "Q713665"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Ciudad_Nezahualc%C3%B3yotl",
+          "entity_id": "Q210307"
+        },
+        {
+          "start": 24,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/State_of_Mexico",
+          "entity_id": "Q82112"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tiburones_Rojos_de_Veracruz",
+          "entity_id": "Q1023235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Luis_%22Pirata%22_Fuente",
+          "entity_id": "Q1369353"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Veracruz_City",
+          "entity_id": "Q173270"
+        },
+        {
+          "start": 11,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Veracruz",
+          "entity_id": "Q60130"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Venados_F.C.",
+          "entity_id": "Q1570578"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Carlos_Iturralde",
+          "entity_id": "Q3058793"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n",
+          "entity_id": "Q165204"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Yucat%C3%A1n",
+          "entity_id": "Q60176"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Club_Atl%C3%A9tico_Zacatepec",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Estadio_Agust%C3%ADn_Coruco_D%C3%ADaz",
+          "entity_id": "Q3058794"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zacatepec_de_Hidalgo",
+          "entity_id": null
+        },
+        {
+          "start": 12,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Morelos",
+          "entity_id": "Q66117"
+        }
+      ]
+    ]
+  ]
+}

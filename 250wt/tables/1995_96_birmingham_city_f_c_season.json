@@ -1,0 +1,566 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1995–96_Birmingham_City_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "July 1995",
+          "July 1995",
+          "July 1995",
+          "July 1995",
+          "July 1995",
+          "July 1995",
+          "August 1995",
+          "September 1995",
+          "September 1995",
+          "October 1995",
+          "December 1995",
+          "January 1996",
+          "February 1996",
+          "February 1996",
+          "February 1996",
+          "March 1996",
+          "March 1996",
+          "May 1996",
+          "June 1996",
+          "June 1996"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Ken Charlery",
+          "Richard Forsyth",
+          "Andy Edwards",
+          "Jae Martin",
+          "Jason Bowen",
+          "Steve Castle",
+          "Ian Richardson",
+          "Michael Johnson",
+          "Steve Barnes",
+          "Bart Griemink",
+          "Gary Bull",
+          "Fred Barber",
+          "Gary Breen",
+          "Paul Devlin",
+          "Andy Legg",
+          "Paul Barnes",
+          "Martin Grainger",
+          "Steve Bruce",
+          "Barry Horne",
+          "Gary Ablett"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Club",
+        "values": [
+          "Peterborough United",
+          "Kidderminster Harriers",
+          "Southend United",
+          "Southend United",
+          "Swansea City",
+          "Plymouth Argyle",
+          "Dagenham & Redbridge",
+          "Notts County",
+          "Welling United",
+          "WK Emmen",
+          "Nottingham Forest",
+          "Luton Town",
+          "Peterborough United",
+          "Notts County",
+          "Notts County",
+          "York City",
+          "Brentford",
+          "Manchester United",
+          "Everton",
+          "Everton"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Fee",
+        "values": [
+          "£400,000",
+          "£50,000",
+          "£450,000",
+          "Free",
+          "£275,000",
+          "£225,000",
+          "£60,000",
+          "£225,000",
+          "£30,000",
+          "Free",
+          "Free",
+          "Free",
+          "£250,000",
+          "£250,000",
+          "£250,000",
+          "£350,000",
+          "£400,000",
+          "Free",
+          "£250,000",
+          "£390,000"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Ref",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1995–96 Birmingham City F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/1995–96_Birmingham_City_F.C._season",
+    "page_entity_id": "Q4590919"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ken_Charlery",
+          "entity_id": "Q6387428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Peterborough_United_F.C.",
+          "entity_id": "Q19495"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Richard_Forsyth",
+          "entity_id": "Q7325730"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Kidderminster_Harriers_F.C.",
+          "entity_id": "Q18518"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Andy_Edwards_(footballer,_born_1971)",
+          "entity_id": "Q4760641"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend_United_F.C.",
+          "entity_id": "Q48951"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jae_Martin",
+          "entity_id": "Q6121685"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend_United_F.C.",
+          "entity_id": "Q48951"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jason_Bowen_(footballer)",
+          "entity_id": "Q3162903"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Swansea_City_A.F.C.",
+          "entity_id": "Q18659"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Steve_Castle",
+          "entity_id": "Q7612180"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Plymouth_Argyle_F.C.",
+          "entity_id": "Q48947"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ian_Richardson_(footballer,_born_1970)",
+          "entity_id": "Q5982705"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Dagenham_%26_Redbridge_F.C.",
+          "entity_id": "Q48938"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Michael_Johnson_(footballer_born_1973)",
+          "entity_id": "Q898451"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Notts_County_F.C.",
+          "entity_id": "Q19598"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Steve_Barnes_(footballer)",
+          "entity_id": "Q7611870"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Welling_United_F.C.",
+          "entity_id": "Q955872"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bart_Griemink",
+          "entity_id": "Q391467"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/WKE",
+          "entity_id": "Q1770237"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Gary_Bull",
+          "entity_id": "Q5524782"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nottingham_Forest_F.C.",
+          "entity_id": "Q19490"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Fred_Barber",
+          "entity_id": "Q5494529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Luton_Town_F.C.",
+          "entity_id": "Q18520"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gary_Breen",
+          "entity_id": "Q717685"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Peterborough_United_F.C.",
+          "entity_id": "Q19495"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paul_Devlin_(footballer)",
+          "entity_id": "Q10377412"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Notts_County_F.C.",
+          "entity_id": "Q19598"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Andy_Legg",
+          "entity_id": "Q2849138"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Notts_County_F.C.",
+          "entity_id": "Q19598"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paul_Barnes_(footballer)",
+          "entity_id": "Q7149235"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/York_City_F.C.",
+          "entity_id": "Q48954"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Martin_Grainger",
+          "entity_id": "Q8980613"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Brentford_F.C.",
+          "entity_id": "Q19571"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Steve_Bruce",
+          "entity_id": "Q331904"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Manchester_United_F.C.",
+          "entity_id": "Q18656"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Barry_Horne_(footballer)",
+          "entity_id": "Q2885748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Everton_F.C.",
+          "entity_id": "Q5794"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gary_Ablett_(English_footballer)",
+          "entity_id": "Q520532"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Everton_F.C.",
+          "entity_id": "Q5794"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

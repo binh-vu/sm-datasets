@@ -1,0 +1,1398 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1992_Major_League_Baseball_draft",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Pick",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Phil Nevin",
+          "Paul Shuey",
+          "B. J. Wallace",
+          "Jeffrey Hammonds",
+          "Chad Mottola",
+          "Derek Jeter",
+          "Calvin Murray",
+          "Pete Janicki",
+          "Preston Wilson",
+          "Michael Tucker",
+          "Derek Wallace",
+          "Kenny Felder",
+          "Chad McConnell",
+          "Ron Villone",
+          "Sean Lowe",
+          "Rick Greene",
+          "Jim Pittsley",
+          "Chris Roberts",
+          "Shannon Stewart",
+          "Benji Grigsby",
+          "Jamie Arnold",
+          "Rick Helling",
+          "Jason Kendall",
+          "Eddie Pearson",
+          "Todd Steverson",
+          "Dan Serafini",
+          "John Burke",
+          "Charles Johnson",
+          "Jeff Schmidt",
+          "Jon Ward",
+          "Sherard Clinkscales",
+          "John Conner",
+          "Shon Walker",
+          "Brandon Cromer",
+          "Johnny Damon",
+          "Michael Moore",
+          "Kendall Rhine",
+          "Gabby Martinez"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Team",
+        "values": [
+          "Houston Astros",
+          "Cleveland Indians",
+          "Montreal Expos",
+          "Baltimore Orioles",
+          "Cincinnati Reds",
+          "New York Yankees",
+          "San Francisco Giants",
+          "California Angels",
+          "New York Mets",
+          "Kansas City Royals",
+          "Chicago Cubs",
+          "Milwaukee Brewers",
+          "Philadelphia Phillies",
+          "Seattle Mariners",
+          "St. Louis Cardinals",
+          "Detroit Tigers",
+          "Kansas City Royals",
+          "New York Mets",
+          "Toronto Blue Jays",
+          "Oakland Athletics",
+          "Atlanta Braves",
+          "Texas Rangers",
+          "Pittsburgh Pirates",
+          "Chicago White Sox",
+          "Toronto Blue Jays",
+          "Minnesota Twins",
+          "Colorado Rockies",
+          "Florida Marlins",
+          "California Angels",
+          "New York Mets",
+          "Kansas City Royals",
+          "Cincinnati Reds",
+          "Pittsburgh Pirates",
+          "Toronto Blue Jays",
+          "Kansas City Royals",
+          "Los Angeles Dodgers",
+          "Houston Astros",
+          "Milwaukee Brewers"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Position",
+        "values": [
+          "Third baseman",
+          "Pitcher",
+          "Pitcher",
+          "Outfielder",
+          "Outfielder",
+          "Shortstop",
+          "Outfielder",
+          "Pitcher",
+          "Shortstop",
+          "Shortstop",
+          "Pitcher",
+          "Outfielder",
+          "Outfielder",
+          "Pitcher",
+          "Pitcher",
+          "Pitcher",
+          "Pitcher",
+          "Pitcher",
+          "Outfielder",
+          "Pitcher",
+          "Pitcher",
+          "Pitcher",
+          "Catcher",
+          "First baseman",
+          "Outfielder",
+          "Pitcher",
+          "Pitcher",
+          "Catcher",
+          "Pitcher",
+          "Pitcher",
+          "Pitcher",
+          "Catcher",
+          "Outfielder",
+          "Shortstop",
+          "Outfielder",
+          "Outfielder",
+          "Pitcher",
+          "Shortstop"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "School",
+        "values": [
+          "Cal State Fullerton",
+          "University of North Carolina",
+          "Mississippi State University",
+          "Stanford University",
+          "University of Central Florida",
+          "Kalamazoo Central High School",
+          "University of Texas",
+          "UCLA",
+          "Bamberg Erhardt High School",
+          "Longwood University",
+          "Pepperdine University",
+          "Florida State University",
+          "Creighton University",
+          "University of Massachusetts",
+          "Arizona State University",
+          "Louisiana State University",
+          "Dubois Area High School",
+          "Florida State University",
+          "Miami Southridge Senior High School",
+          "San Diego State University",
+          "Osceola High School",
+          "Stanford University",
+          "Torrance High School",
+          "Bishop State Junior College",
+          "Arizona State University",
+          "Serra High School",
+          "University of Florida",
+          "University of Miami",
+          "University of Minnesota",
+          "Huntington Beach High School",
+          "Purdue University",
+          "Arlington Martin High School",
+          "Harrison County High School",
+          "Lexington High School",
+          "Dr. Phillips High School",
+          "UCLA",
+          "University of Georgia",
+          "Luchetti High School"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1992 Major League Baseball draft",
+    "page_url": "https://en.wikipedia.org/wiki/1992_Major_League_Baseball_draft",
+    "page_entity_id": "Q4587755"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Phil_Nevin",
+          "entity_id": "Q7182220"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston_Astros",
+          "entity_id": "Q848117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Third_baseman",
+          "entity_id": "Q1368170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Cal_State_Fullerton_Titans_baseball",
+          "entity_id": "Q5018220"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Paul_Shuey",
+          "entity_id": "Q7153590"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Cleveland_Indians",
+          "entity_id": "Q642553"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/North_Carolina_Tar_Heels_baseball",
+          "entity_id": "Q7054627"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/B._J._Wallace",
+          "entity_id": "Q4834056"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Montreal_Expos",
+          "entity_id": "Q1148233"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Mississippi_State_Bulldogs_baseball",
+          "entity_id": "Q6879315"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jeffrey_Hammonds",
+          "entity_id": "Q6176032"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Baltimore_Orioles",
+          "entity_id": "Q650816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Stanford_Cardinal_baseball",
+          "entity_id": "Q7598724"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chad_Mottola",
+          "entity_id": "Q5066314"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati_Reds",
+          "entity_id": "Q826751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/UCF_Knights_baseball",
+          "entity_id": "Q7863942"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Derek_Jeter",
+          "entity_id": "Q353511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/New_York_Yankees",
+          "entity_id": "Q213417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shortstop",
+          "entity_id": "Q1143358"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Calvin_Murray",
+          "entity_id": "Q5024464"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/San_Francisco_Giants",
+          "entity_id": "Q308966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Texas_Longhorns_baseball",
+          "entity_id": "Q7707818"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/California_Angels",
+          "entity_id": "Q743309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/UCLA_Bruins_baseball",
+          "entity_id": "Q7864002"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Preston_Wilson",
+          "entity_id": "Q7242019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_Mets",
+          "entity_id": "Q692417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shortstop",
+          "entity_id": "Q1143358"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Michael_Tucker_(baseball)",
+          "entity_id": "Q176100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Royals",
+          "entity_id": "Q744530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shortstop",
+          "entity_id": "Q1143358"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Longwood_University",
+          "entity_id": "Q3551429"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Derek_Wallace",
+          "entity_id": "Q5262430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chicago_Cubs",
+          "entity_id": "Q246782"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Pepperdine_Waves",
+          "entity_id": "Q7166401"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee_Brewers",
+          "entity_id": "Q848103"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Florida_State_Seminoles_baseball",
+          "entity_id": "Q5461627"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chad_McConnell",
+          "entity_id": "Q5066300"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Philadelphia_Phillies",
+          "entity_id": "Q650840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Creighton_Bluejays",
+          "entity_id": "Q5184000"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ron_Villone",
+          "entity_id": "Q7364506"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Seattle_Mariners",
+          "entity_id": "Q466586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/UMass_Minutemen",
+          "entity_id": "Q2590997"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sean_Lowe_(baseball)",
+          "entity_id": "Q17523875"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/St._Louis_Cardinals",
+          "entity_id": "Q504309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_baseball",
+          "entity_id": "Q4791427"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rick_Greene",
+          "entity_id": "Q7331430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Detroit_Tigers",
+          "entity_id": "Q650855"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/LSU_Tigers_baseball",
+          "entity_id": "Q16197506"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jim_Pittsley",
+          "entity_id": "Q6197523"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Royals",
+          "entity_id": "Q744530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chris_Roberts_(baseball)",
+          "entity_id": "Q5107889"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_Mets",
+          "entity_id": "Q692417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Florida_State_Seminoles_baseball",
+          "entity_id": "Q5461627"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shannon_Stewart_(baseball)",
+          "entity_id": "Q7488963"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Blue_Jays",
+          "entity_id": "Q650829"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Oakland_Athletics",
+          "entity_id": "Q504339"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/San_Diego_State_Aztecs_baseball",
+          "entity_id": "Q16969667"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jamie_Arnold_(baseball)",
+          "entity_id": "Q6146567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Atlanta_Braves",
+          "entity_id": "Q461595"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rick_Helling",
+          "entity_id": "Q5971858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Texas_Rangers_(baseball)",
+          "entity_id": "Q329816"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Stanford_Cardinal_baseball",
+          "entity_id": "Q7598724"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jason_Kendall",
+          "entity_id": "Q3162958"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh_Pirates",
+          "entity_id": "Q653772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Catcher",
+          "entity_id": "Q1050571"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chicago_White_Sox",
+          "entity_id": "Q335169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/First_baseman",
+          "entity_id": "Q1326154"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Bishop_State_Community_College",
+          "entity_id": "Q4917715"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Todd_Steverson",
+          "entity_id": "Q7812657"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Blue_Jays",
+          "entity_id": "Q650829"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Arizona_State_Sun_Devils_baseball",
+          "entity_id": "Q4791427"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dan_Serafini",
+          "entity_id": "Q5214366"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Twins",
+          "entity_id": "Q604879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/John_Burke_(1990s_pitcher)",
+          "entity_id": "Q6223917"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Colorado_Rockies",
+          "entity_id": "Q388858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Florida_Gators_baseball",
+          "entity_id": "Q5461389"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Charles_Johnson_(catcher)",
+          "entity_id": "Q5079558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Florida_Marlins",
+          "entity_id": "Q652879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Catcher",
+          "entity_id": "Q1050571"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Miami_Hurricanes_baseball",
+          "entity_id": "Q6827330"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jeff_Schmidt_(baseball)",
+          "entity_id": "Q6174911"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/California_Angels",
+          "entity_id": "Q743309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_Golden_Gophers_baseball",
+          "entity_id": "Q6868252"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_Mets",
+          "entity_id": "Q692417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Royals",
+          "entity_id": "Q744530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Purdue_Boilermakers",
+          "entity_id": "Q1752323"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati_Reds",
+          "entity_id": "Q826751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Catcher",
+          "entity_id": "Q1050571"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh_Pirates",
+          "entity_id": "Q653772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toronto_Blue_Jays",
+          "entity_id": "Q650829"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shortstop",
+          "entity_id": "Q1143358"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Johnny_Damon",
+          "entity_id": "Q25720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kansas_City_Royals",
+          "entity_id": "Q744530"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mike_Moore_(outfielder)",
+          "entity_id": "Q4587746"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Los_Angeles_Dodgers",
+          "entity_id": "Q334634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Outfielder",
+          "entity_id": "Q1142885"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/UCLA_Bruins_baseball",
+          "entity_id": "Q7864002"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Houston_Astros",
+          "entity_id": "Q848117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pitcher",
+          "entity_id": "Q1048902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Georgia_Bulldogs_baseball",
+          "entity_id": "Q5547366"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee_Brewers",
+          "entity_id": "Q848103"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shortstop",
+          "entity_id": "Q1143358"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q83373:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q83373",
+        "rel_uri": "wd:Q83373",
+        "approximation": false,
+        "readable_label": "quasar (Q83373)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q83373:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q83373:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P1090",
+        "rel_uri": "p:P1090",
+        "approximation": false,
+        "readable_label": "redshift (P1090)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q83373:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P2216",
+        "rel_uri": "p:P2216",
+        "approximation": false,
+        "readable_label": "radial velocity (P2216)",
+        "id": 3
+      }
+    ]
+  }
+]

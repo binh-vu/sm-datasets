@@ -1,0 +1,646 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "ICC_Player_Rankings",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "2019",
+          "2018",
+          "2017",
+          "2016",
+          "2015",
+          "2014",
+          "2013",
+          "2012",
+          "2011",
+          "2010",
+          "2009",
+          "2008",
+          "2007",
+          "2006",
+          "2005"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Top Batsman",
+        "values": [
+          "Babar Azam",
+          "Babar Azam",
+          "Aaron Finch",
+          "Virat Kohli",
+          "Aaron Finch",
+          "Virat Kohli",
+          "Alex Hales",
+          "Shane Watson",
+          "Eoin Morgan",
+          "Kevin Pietersen",
+          "Graeme Smith",
+          "Misbah-ul-Haq",
+          "Andrew Symonds",
+          "Graeme Smith",
+          "Ricky Ponting"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " Pakistan",
+          " Pakistan",
+          " Australia",
+          " India",
+          " Australia",
+          " India",
+          " England",
+          " Australia",
+          " England",
+          " England",
+          " South Africa",
+          " Pakistan",
+          " Australia",
+          " South Africa",
+          " Australia"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Top Bowler",
+        "values": [
+          "Rashid Khan",
+          "Rashid Khan",
+          "Imad Wasim",
+          "Imran Tahir",
+          "Sunil Narine",
+          "Samuel Badree",
+          "Sunil Narine",
+          "Saeed Ajmal",
+          "Ajantha Mendis",
+          "Graeme Swann",
+          "Shahid Afridi",
+          "Umar Gul",
+          "Umar Gul",
+          "Andre Adams",
+          "Brett Lee"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Country",
+        "values": [
+          " Afghanistan",
+          " Afghanistan",
+          " Pakistan",
+          " South Africa",
+          " West Indies",
+          " West Indies",
+          " West Indies",
+          " Pakistan",
+          " Sri Lanka",
+          " England",
+          " Pakistan",
+          " Pakistan",
+          " Pakistan",
+          " New Zealand",
+          " Australia"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "ICC Player Rankings",
+    "page_url": "https://en.wikipedia.org/wiki/ICC_Player_Rankings",
+    "page_entity_id": "Q6491083"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Babar_Azam",
+          "entity_id": "Q4837515"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+          "entity_id": "Q21621685"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Afghanistan_national_cricket_team",
+          "entity_id": "Q86477"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Babar_Azam",
+          "entity_id": "Q4837515"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rashid_Khan_(cricketer)",
+          "entity_id": "Q21621685"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Afghanistan_national_cricket_team",
+          "entity_id": "Q86477"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aaron_Finch",
+          "entity_id": "Q4662015"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Imad_Wasim",
+          "entity_id": "Q6001994"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Virat_Kohli",
+          "entity_id": "Q213854"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India_national_cricket_team",
+          "entity_id": "Q1143793"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Imran_Tahir",
+          "entity_id": "Q3530644"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
+          "entity_id": "Q1423651"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aaron_Finch",
+          "entity_id": "Q4662015"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sunil_Narine",
+          "entity_id": "Q7640331"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Indies_cricket_team",
+          "entity_id": "Q912881"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Virat_Kohli",
+          "entity_id": "Q213854"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India_national_cricket_team",
+          "entity_id": "Q1143793"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Samuel_Badree",
+          "entity_id": "Q7410848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Indies_cricket_team",
+          "entity_id": "Q912881"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Alex_Hales",
+          "entity_id": "Q4717118"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England_cricket_team",
+          "entity_id": "Q1321565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sunil_Narine",
+          "entity_id": "Q7640331"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Indies_cricket_team",
+          "entity_id": "Q912881"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Shane_Watson",
+          "entity_id": "Q2732224"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Saeed_Ajmal",
+          "entity_id": "Q3535377"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Eoin_Morgan",
+          "entity_id": "Q3522251"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England_cricket_team",
+          "entity_id": "Q1321565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ajantha_Mendis",
+          "entity_id": "Q2480608"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sri_Lanka_national_cricket_team",
+          "entity_id": "Q203092"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Pietersen",
+          "entity_id": "Q1398682"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England_cricket_team",
+          "entity_id": "Q1321565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Graeme_Swann",
+          "entity_id": "Q3047220"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England_cricket_team",
+          "entity_id": "Q1321565"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Graeme_Smith",
+          "entity_id": "Q1427233"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
+          "entity_id": "Q1423651"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Shahid_Afridi",
+          "entity_id": "Q380445"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Misbah-ul-Haq",
+          "entity_id": "Q2564848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Umar_Gul",
+          "entity_id": "Q3535492"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Andrew_Symonds",
+          "entity_id": "Q2723418"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Umar_Gul",
+          "entity_id": "Q3535492"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan_national_cricket_team",
+          "entity_id": "Q182538"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Graeme_Smith",
+          "entity_id": "Q1427233"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa_national_cricket_team",
+          "entity_id": "Q1423651"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Andre_Adams",
+          "entity_id": "Q4754721"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team",
+          "entity_id": "Q1143797"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ricky_Ponting",
+          "entity_id": "Q472649"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Brett_Lee",
+          "entity_id": "Q422980"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia_national_cricket_team",
+          "entity_id": "Q142555"
+        }
+      ]
+    ]
+  ]
+}

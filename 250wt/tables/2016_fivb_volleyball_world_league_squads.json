@@ -1,0 +1,736 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016_FIVB_Volleyball_World_League_squads",
+    "columns": [
+      {
+        "index": 0,
+        "name": "N°",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "21",
+          "22"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "  Jonas Aguenier",
+          "  Jenia Grebennikov",
+          "  Médéric Henry",
+          "  Antonin Rouzier",
+          "  Trevor Clevenot",
+          "  Benjamin Toniutti  (C)",
+          "  Kevin Tillie",
+          "  Antoine Brizard",
+          "  Earvin Ngapeth",
+          "  Kevin Le Roux",
+          "  Julien Lyneel",
+          "  Stephen Boyer",
+          "  Pierre Pujol",
+          "  Nicolas Le Goff",
+          "  Horacio d'Almeida",
+          "  Nicolas Marechal",
+          "  Franck Lafitte",
+          "  Thibault Rossard",
+          "  Toafa Takaniko",
+          "  Mory Sidibe",
+          "  Hubert Henno"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Date of Birth",
+        "values": [
+          "( 1992-04-28 ) 28 April 1992",
+          "( 1990-08-13 ) 13 August 1990",
+          "( 1995-06-20 ) 20 June 1995",
+          "( 1986-08-18 ) 18 August 1986",
+          "( 1994-06-28 ) 28 June 1994",
+          "( 1989-10-30 ) 30 October 1989",
+          "( 1990-11-02 ) 2 November 1990",
+          "( 1994-05-22 ) 22 May 1994",
+          "( 1991-02-12 ) 12 February 1991",
+          "( 1989-05-11 ) 11 May 1989",
+          "( 1990-04-15 ) 15 April 1990",
+          "( 1996-04-10 ) 10 April 1996",
+          "( 1984-07-13 ) 13 July 1984",
+          "( 1992-02-15 ) 15 February 1992",
+          "( 1988-06-11 ) 11 June 1988",
+          "( 1987-03-04 ) 4 March 1987",
+          "( 1989-03-08 ) 8 March 1989",
+          "( 1993-08-28 ) 28 August 1993",
+          "( 1985-05-29 ) 29 May 1985",
+          "( 1987-06-17 ) 17 June 1987",
+          "( 1976-10-06 ) 6 October 1976"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Height",
+        "values": [
+          "202",
+          "188",
+          "212",
+          "200",
+          "199",
+          "183",
+          "200",
+          "194",
+          "194",
+          "209",
+          "191",
+          "196",
+          "186",
+          "206",
+          "202",
+          "198",
+          "203",
+          "193",
+          "194",
+          "194",
+          "188"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Weight",
+        "values": [
+          "92",
+          "85",
+          "106",
+          "102",
+          "89",
+          "73",
+          "85",
+          "96",
+          "101",
+          "98",
+          "87",
+          "85",
+          "90",
+          "115",
+          "109",
+          "93",
+          "94",
+          "85",
+          "92",
+          "92",
+          "92"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Spike",
+        "values": [
+          "340",
+          "345",
+          "345",
+          "350",
+          "335",
+          "320",
+          "345",
+          "340",
+          "358",
+          "365",
+          "345",
+          "335",
+          "335",
+          "365",
+          "355",
+          "338",
+          "350",
+          "350",
+          "340",
+          "367",
+          "330"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Block",
+        "values": [
+          "310",
+          "330",
+          "327",
+          "330",
+          "316",
+          "300",
+          "325",
+          "310",
+          "327",
+          "345",
+          "325",
+          "314",
+          "315",
+          "328",
+          "330",
+          "327",
+          "330",
+          "320",
+          "330",
+          "330",
+          "310"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "2016 Club",
+        "values": [
+          "AS Cannes",
+          "Volley Lube",
+          "Arago de Sète",
+          "Arkas Spor",
+          "Toulouse",
+          "Zaksa Kedzierzyn",
+          "Zaksa Kedzierzyn",
+          "Toulouse",
+          "Modena Volley",
+          "Halkbank Ankara",
+          "Asseco Resovia Rzeszów",
+          "Chaumont VB 52",
+          "AS Cannes",
+          "SCC Berlin",
+          "Chaumont VB 52",
+          "PGE Skra Bełchatów",
+          "Arago de Sète",
+          "Arago de Sète",
+          "GFC Ajaccio",
+          "Palembang Bank Sumsel Babel",
+          "Tours VB"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016 FIVB Volleyball World League squads",
+    "page_url": "https://en.wikipedia.org/wiki/2016_FIVB_Volleyball_World_League_squads",
+    "page_entity_id": "Q24662769"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jonas_Aguenier",
+          "entity_id": "Q15966986"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/AS_Cannes",
+          "entity_id": "Q298267"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Jenia_Grebennikov",
+          "entity_id": "Q3176989"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Volley_Lube",
+          "entity_id": "Q1872851"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A9d%C3%A9ric_Henry",
+          "entity_id": "Q22278177"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arago_de_S%C3%A8te",
+          "entity_id": "Q625052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Antonin_Rouzier",
+          "entity_id": "Q2857142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Arkas_Spor",
+          "entity_id": "Q2699208"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Trevor_Clevenot",
+          "entity_id": "Q16681339"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Spacer%27s_Toulouse_VB&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Benjamin_Toniutti",
+          "entity_id": "Q2896253"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/ZAKSA_K%C4%99dzierzyn-Ko%C5%BAle",
+          "entity_id": "Q144808"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Tillie",
+          "entity_id": "Q3201170"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/ZAKSA_K%C4%99dzierzyn-Ko%C5%BAle",
+          "entity_id": "Q144808"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Antoine_Brizard",
+          "entity_id": "Q29246384"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Spacer%27s_Toulouse_VB&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Earvin_Ngapeth",
+          "entity_id": "Q3046479"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Modena_Volley",
+          "entity_id": "Q2048041"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Le_Roux",
+          "entity_id": "Q3201162"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Halkbank_Ankara",
+          "entity_id": "Q16562645"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Julien_Lyneel",
+          "entity_id": "Q3189583"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Asseco_Resovia_Rzesz%C3%B3w",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Stephen_Boyer_(volleyball)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Chaumont_VB_52&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Pierre_Pujol",
+          "entity_id": "Q1410818"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/AS_Cannes",
+          "entity_id": "Q298267"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nicolas_Le_Goff",
+          "entity_id": "Q3340505"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/SCC_Berlin",
+          "entity_id": "Q322879"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Horacio_d%27Almeida",
+          "entity_id": "Q3140493"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Chaumont_VB_52&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nicolas_Marechal",
+          "entity_id": "Q3340582"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/PGE_Skra_Be%C5%82chat%C3%B3w",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Franck_Lafitte",
+          "entity_id": "Q3082174"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arago_de_S%C3%A8te",
+          "entity_id": "Q625052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thibault_Rossard",
+          "entity_id": "Q16679899"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arago_de_S%C3%A8te",
+          "entity_id": "Q625052"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Toafa_Takaniko",
+          "entity_id": "Q3530117"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/GFC_Ajaccio",
+          "entity_id": "Q627334"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mory_Sidibe",
+          "entity_id": "Q3324654"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Palembang_Bank_Sumsel_Babel",
+          "entity_id": "Q16934684"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 2,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hubert_Henno",
+          "entity_id": "Q2529650"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tours_VB",
+          "entity_id": "Q1411023"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Toronto_Film_Critics_Association_Award_for_Best_Actress",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2010",
+          "2010",
+          "2010",
+          "2011",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2012",
+          "2013",
+          "2013",
+          "2013",
+          "2014",
+          "2014",
+          "2014",
+          "2015",
+          "2015",
+          "2015",
+          "2016",
+          "2016",
+          "2016",
+          "2016",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2019",
+          "2019",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Winner",
+        "values": [
+          "Jennifer Lawrence",
+          "Natalie Portman",
+          "Michelle Williams",
+          "Michelle Williams",
+          "Elizabeth Olsen",
+          "Meryl Streep",
+          "Rachel Weisz",
+          "Jessica Chastain",
+          "Emmanuelle Riva",
+          "Cate Blanchett",
+          "Julie Delpy",
+          "Greta Gerwig",
+          "Marion Cotillard",
+          "Julianne Moore",
+          "Reese Witherspoon",
+          "Nina Hoss",
+          "Cate Blanchett",
+          "Brie Larson",
+          "Sandra Hüller",
+          "Rebecca Hall",
+          "Isabelle Huppert",
+          "Natalie Portman",
+          "Frances McDormand",
+          "Sally Hawkins",
+          "Saoirse Ronan",
+          "Olivia Colman",
+          "Regina Hall",
+          "Melissa McCarthy",
+          "Lupita Nyong'o",
+          "Scarlett Johansson",
+          "Renée Zellweger"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Film",
+        "values": [
+          "Winter's Bone",
+          "Black Swan",
+          "Blue Valentine",
+          "My Week with Marilyn",
+          "Martha Marcy May Marlene",
+          "The Iron Lady",
+          "The Deep Blue Sea",
+          "Zero Dark Thirty",
+          "Amour",
+          "Blue Jasmine",
+          "Before Midnight",
+          "Frances Ha",
+          "The Immigrant",
+          "Still Alice",
+          "Wild",
+          "Phoenix",
+          "Carol",
+          "Room",
+          "Toni Erdmann",
+          "Christine",
+          "Elle",
+          "Jackie",
+          "Three Billboards Outside Ebbing, Missouri",
+          "The Shape of Water",
+          "Lady Bird",
+          "The Favourite",
+          "Support the Girls",
+          "Can You Ever Forgive Me?",
+          "Us",
+          "Marriage Story",
+          "Judy"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Role",
+        "values": [
+          "Ree Dolly",
+          "Nina Sayers",
+          "Cindy Heller",
+          "Marilyn Monroe",
+          "Martha",
+          "Margaret Thatcher",
+          "Hester Collyer",
+          "Maya",
+          "Anne Laurent",
+          "Jeanette \"Jasmine\" Francis",
+          "Céline Wallace",
+          "Frances Halliday",
+          "Ewa Cybulska",
+          "Alice Howland",
+          "Cheryl Strayed",
+          "Nelly Lenz",
+          "Carol Aird",
+          "Joy \"Ma\" Newsome",
+          "Ines Conradi",
+          "Christine Chubbuck",
+          "Michèle Leblanc",
+          "Jackie Kennedy",
+          "Mildred Hayes",
+          "Elisa Esposito",
+          "Christine \"Lady Bird\" McPherson",
+          "Anne, Queen of Great Britain",
+          "Lisa Conroy",
+          "Lee Israel",
+          "Adelaide Wilson / Red",
+          "Nicole Barber",
+          "Judy Garland"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Toronto Film Critics Association Award for Best Actress",
+    "page_url": "https://en.wikipedia.org/wiki/Toronto_Film_Critics_Association_Award_for_Best_Actress",
+    "page_entity_id": "Q7826358"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jennifer_Lawrence",
+          "entity_id": "Q189490"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Winter%27s_Bone",
+          "entity_id": "Q301049"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Natalie_Portman",
+          "entity_id": "Q37876"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Black_Swan_(film)",
+          "entity_id": "Q180214"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Michelle_Williams_(actress)",
+          "entity_id": "Q156796"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Blue_Valentine_(film)",
+          "entity_id": "Q676047"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Michelle_Williams_(actress)",
+          "entity_id": "Q156796"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/My_Week_with_Marilyn",
+          "entity_id": "Q581859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marilyn_Monroe",
+          "entity_id": "Q4616"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Elizabeth_Olsen",
+          "entity_id": "Q234644"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Martha_Marcy_May_Marlene",
+          "entity_id": "Q515277"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Meryl_Streep",
+          "entity_id": "Q873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Iron_Lady_(film)",
+          "entity_id": "Q269810"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Margaret_Thatcher",
+          "entity_id": "Q7416"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rachel_Weisz",
+          "entity_id": "Q134077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/The_Deep_Blue_Sea_(2011_film)",
+          "entity_id": "Q1635863"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jessica_Chastain",
+          "entity_id": "Q229313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Zero_Dark_Thirty",
+          "entity_id": "Q152531"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Emmanuelle_Riva",
+          "entity_id": "Q436996"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Amour_(2012_film)",
+          "entity_id": "Q637820"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cate_Blanchett",
+          "entity_id": "Q80966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Blue_Jasmine",
+          "entity_id": "Q2907178"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Julie_Delpy",
+          "entity_id": "Q110462"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Before_Midnight_(2013_film)",
+          "entity_id": "Q2909183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Greta_Gerwig",
+          "entity_id": "Q271967"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Frances_Ha",
+          "entity_id": "Q5478692"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Marion_Cotillard",
+          "entity_id": "Q8927"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Immigrant_(2013_film)",
+          "entity_id": "Q3341412"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Julianne_Moore",
+          "entity_id": "Q80405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Still_Alice",
+          "entity_id": "Q16354843"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Reese_Witherspoon",
+          "entity_id": "Q44063"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Wild_(2014_film)",
+          "entity_id": "Q17065888"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nina_Hoss",
+          "entity_id": "Q61238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phoenix_(2014_film)",
+          "entity_id": "Q18202704"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cate_Blanchett",
+          "entity_id": "Q80966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Carol_(film)",
+          "entity_id": "Q15963780"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Brie_Larson",
+          "entity_id": "Q29328"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Room_(2015_film)",
+          "entity_id": "Q18703032"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sandra_H%C3%BCller",
+          "entity_id": "Q70003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Toni_Erdmann",
+          "entity_id": "Q23838395"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rebecca_Hall",
+          "entity_id": "Q230534"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Christine_(2016_film)",
+          "entity_id": "Q22244926"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Christine_Chubbuck",
+          "entity_id": "Q449014"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Isabelle_Huppert",
+          "entity_id": "Q106365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Elle_(film)",
+          "entity_id": "Q19544495"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Natalie_Portman",
+          "entity_id": "Q37876"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jackie_(2016_film)",
+          "entity_id": "Q22350767"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jackie_Kennedy",
+          "entity_id": "Q165421"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Frances_McDormand",
+          "entity_id": "Q204299"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Three_Billboards_Outside_Ebbing,_Missouri",
+          "entity_id": "Q24053277"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sally_Hawkins",
+          "entity_id": "Q233563"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/The_Shape_of_Water_(film)",
+          "entity_id": "Q26698156"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Saoirse_Ronan",
+          "entity_id": "Q228603"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lady_Bird_(film)",
+          "entity_id": "Q27480769"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Olivia_Colman",
+          "entity_id": "Q7088045"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Favourite_(film)",
+          "entity_id": "Q22001133"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
+          "entity_id": "Q119702"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Regina_Hall",
+          "entity_id": "Q235141"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Support_the_Girls",
+          "entity_id": "Q38463153"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Melissa_McCarthy",
+          "entity_id": "Q229048"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Can_You_Ever_Forgive_Me%3F_(film)",
+          "entity_id": "Q28860129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lee_Israel",
+          "entity_id": "Q18763732"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lupita_Nyong%27o",
+          "entity_id": "Q3840847"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Us_(2019_film)",
+          "entity_id": "Q56000996"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Scarlett_Johansson",
+          "entity_id": "Q34436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Marriage_Story_(2019_film)",
+          "entity_id": "Q48671199"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger",
+          "entity_id": "Q122614"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Judy_(film)",
+          "entity_id": "Q55615419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Judy_Garland",
+          "entity_id": "Q11637"
+        }
+      ]
+    ]
+  ]
+}

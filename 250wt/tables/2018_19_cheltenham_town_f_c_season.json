@@ -1,0 +1,802 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2018–19_Cheltenham_Town_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date from",
+        "values": [
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "1 July 2018",
+          "10 July 2018",
+          "26 July 2018",
+          "28 July 2018",
+          "3 August 2018",
+          "27 August 2018",
+          "7 September 2018",
+          "28 September 2018",
+          "7 January 2019",
+          "31 January 2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Position",
+        "values": [
+          "RW",
+          "RM",
+          "LB",
+          "RB",
+          "CB",
+          "CM",
+          "DM",
+          "DM",
+          "LB",
+          "ST",
+          "CF",
+          "CM",
+          "CM",
+          "RB",
+          "LW",
+          "CF",
+          "CF"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Alex Addai",
+          "Ryan Broom",
+          "Chris Hussey",
+          "Sean Long",
+          "Johnny Mullins",
+          "Tom Smith",
+          "Conor Thomas",
+          "Ben Tozer",
+          "Josh Debayo",
+          "Immanuelson Duku",
+          "Liam McAlinden",
+          "Kalvin Lumbombo Kalala",
+          "Chris Clements",
+          "Craig Alcock",
+          "Luke Varney",
+          "Tyrone Barnett",
+          "Rakish Bingham"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "From",
+        "values": [
+          "Merstham",
+          "Bristol Rovers",
+          "Sheffield United",
+          "Lincoln City",
+          "Luton Town",
+          "Swindon Town",
+          " ATK",
+          " Newport County",
+          "Leicester City",
+          "Hayes & Yeading United",
+          "Exeter City",
+          " Savona",
+          "Grimsby Town",
+          "Doncaster Rovers",
+          "Burton Albion",
+          "Port Vale",
+          " Hamilton Academical"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Fee",
+        "values": [
+          "Undisclosed",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Undisclosed",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer",
+          "Free transfer"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Ref.",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2018–19 Cheltenham Town F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/2018–19_Cheltenham_Town_F.C._season",
+    "page_entity_id": "Q54818026"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_winger_(football)",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Merstham_F.C.",
+          "entity_id": "Q6417067"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ryan_Broom",
+          "entity_id": "Q20878085"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bristol_Rovers_F.C.",
+          "entity_id": "Q48925"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_Hussey",
+          "entity_id": "Q2964746"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sheffield_United_F.C.",
+          "entity_id": "Q19607"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sean_Long_(footballer)",
+          "entity_id": "Q17984900"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lincoln_City_F.C.",
+          "entity_id": "Q18519"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_back",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Johnny_Mullins",
+          "entity_id": "Q10379821"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Luton_Town_F.C.",
+          "entity_id": "Q18520"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tom_Smith_(footballer,_born_1998)",
+          "entity_id": "Q19972580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Swindon_Town_F.C.",
+          "entity_id": "Q19634"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Conor_Thomas",
+          "entity_id": "Q5162303"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        },
+        {
+          "start": 1,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/ATK_(football_club)",
+          "entity_id": "Q16836329"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Defensive_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ben_Tozer",
+          "entity_id": "Q4886579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        },
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Newport_County_A.F.C.",
+          "entity_id": "Q18523"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Leicester_City_F.C.",
+          "entity_id": "Q19481"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Striker_(association_football)",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Hayes_%26_Yeading_United_F.C.",
+          "entity_id": "Q1591915"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Liam_McAlinden",
+          "entity_id": "Q16235625"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Exeter_City_F.C.",
+          "entity_id": "Q48939"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Savona_F.B.C.",
+          "entity_id": "Q1681805"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_midfielder",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chris_Clements_(footballer)",
+          "entity_id": "Q5106191"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Grimsby_Town_F.C.",
+          "entity_id": "Q18515"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Right_back_(association_football)",
+          "entity_id": "Q336286"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Craig_Alcock",
+          "entity_id": "Q3696433"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Doncaster_Rovers_F.C.",
+          "entity_id": "Q19589"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Left_winger_(football)",
+          "entity_id": "Q193592"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Luke_Varney",
+          "entity_id": "Q2637561"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Burton_Albion_F.C.",
+          "entity_id": "Q48929"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tyrone_Barnett",
+          "entity_id": "Q7861577"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Port_Vale_F.C.",
+          "entity_id": "Q48948"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/Centre_forward",
+          "entity_id": "Q280658"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rakish_Bingham",
+          "entity_id": "Q16727520"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        },
+        {
+          "start": 1,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_Academical_F.C.",
+          "entity_id": "Q498473"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

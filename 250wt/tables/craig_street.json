@@ -1,0 +1,1247 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Craig_Street",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "1993",
+          "1995",
+          "1995",
+          "1995",
+          "1996",
+          "1996",
+          "1997",
+          "1997",
+          "1997",
+          "1997",
+          "1997",
+          "1998",
+          "1998",
+          "1999",
+          "1999",
+          "1999",
+          "2000",
+          "2000",
+          "2000",
+          "2000",
+          "2001",
+          "2001",
+          "2001",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2002",
+          "2003",
+          "2004",
+          "2004",
+          "2005",
+          "2005",
+          "2006",
+          "2006",
+          "2008",
+          "2009",
+          "2009",
+          "2010",
+          "2011",
+          "2012",
+          "2012"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Artist",
+        "values": [
+          "Cassandra Wilson",
+          "Holly Cole",
+          "Cassandra Wilson",
+          "Javon Jackson",
+          "Jimmy Scott",
+          "Javon Jackson",
+          "k.d. lang",
+          "Jeb Loy Nichols",
+          "Jeremy Toback",
+          "Chocolate Genius",
+          "Chris Whitley",
+          "Geri Allen , Mark and Scott Batson as Triad",
+          "Dougie Bowne",
+          "Javon Jackson",
+          "Shelby Starner",
+          "Me'Shell NdegéOcello",
+          "Susana Baca",
+          "The Manhattan Transfer",
+          "Chris Whitley Feat. Billy Martin and Chris Wood",
+          "Supergenerous ( Cyro Baptista and Kevin Breit )",
+          "David Linx",
+          "Jubilant Sykes",
+          "Joe Henry",
+          "Dirty Dozen Brass Band",
+          "The Derek Trucks Band",
+          "Norah Jones",
+          "Susana Baca",
+          "Molly Johnson",
+          "Boyd Tinsley",
+          "Gipsy Kings",
+          "Dirty Dozen Brass Band",
+          "Chocolate Genius, Inc.",
+          "Lizz Wright",
+          "Susana Baca",
+          "John Legend",
+          "Lizz Wright",
+          "Brandi Shearer",
+          "Rebekka Bakken",
+          "Madeleine Peyroux",
+          "Alyssa Graham",
+          "Bettye LaVette",
+          "Amy Cook"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Album title",
+        "values": [
+          "Blue Light 'til Dawn",
+          "Temptation",
+          "New Moon Daughter",
+          "For One Who Knows",
+          "Heaven",
+          "A Look Within",
+          "Drag",
+          "Lovers Knot",
+          "Perfect Flux Thing",
+          "Black Music",
+          "Dirt Floor",
+          "Three Pianos for Jimi",
+          "One Way Elevator",
+          "Pleasant Valley",
+          "From in the Shadows",
+          "Bitter",
+          "Eco de Sombras",
+          "The Spirit of St. Louis",
+          "Perfect Day",
+          "Supergenerous",
+          "L'instant d'aprés",
+          "Wait for Me",
+          "Scar",
+          "Medicated Magic",
+          "Joyful Noise",
+          "Come Away with Me",
+          "Espíritu vivo",
+          "Another Day",
+          "True Reflections",
+          "Roots",
+          "Funeral for a Friend",
+          "Black Yankee Rock",
+          "Dreaming Wide Awake",
+          "Travesías",
+          "Once Again",
+          "The Orchard",
+          "Love Don't Make You Juliet",
+          "Morning Hours",
+          "Standing on the Rooftop",
+          "The Lock, Stock, and Soul",
+          "Thankful n' Thoughtful",
+          "Summer Skin"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Label",
+        "values": [
+          "Blue Note",
+          "Alert",
+          "Blue Note",
+          "Blue Note",
+          "Warner",
+          "Blue Note",
+          "Warner",
+          "Capitol",
+          "RCA",
+          "V2",
+          "Messenger",
+          "Douglas",
+          "DIW",
+          "Blue Note",
+          "Warner",
+          "Maverick",
+          "Luaka Bop",
+          "Atlantic",
+          "Valley Entertainment",
+          "Blue Note",
+          "Polygram",
+          "Sony Classical",
+          "Mammoth",
+          "Ropeadope",
+          "Columbia",
+          "Blue Note",
+          "Luaka Bop",
+          "Marquis",
+          "RCA",
+          "Nonesuch",
+          "Ropeadope",
+          "Commotion",
+          "Verve Forecast",
+          "Luaka Bop",
+          "G.O.O.D. Music",
+          "Verve Forecast",
+          "Vinyl Tiger",
+          "EmArcy",
+          "Decca",
+          "Sunnyside",
+          "Anti-",
+          "Thirty Tigers"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Co-prod. by Alan Douglas",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Craig Street",
+    "page_url": "https://en.wikipedia.org/wiki/Craig_Street",
+    "page_entity_id": "Q5181505"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cassandra_Wilson",
+          "entity_id": "Q239860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Blue_Light_%27til_Dawn",
+          "entity_id": "Q3641163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Holly_Cole",
+          "entity_id": "Q275041"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Temptation_(Holly_Cole_album)",
+          "entity_id": "Q17022844"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Alert_Records",
+          "entity_id": "Q4716223"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cassandra_Wilson",
+          "entity_id": "Q239860"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/New_Moon_Daughter",
+          "entity_id": "Q2424227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Javon_Jackson",
+          "entity_id": "Q1349774"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jimmy_Scott",
+          "entity_id": "Q724621"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Warner_Bros._Records",
+          "entity_id": "Q67030918"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Javon_Jackson",
+          "entity_id": "Q1349774"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/K.d._lang",
+          "entity_id": "Q230454"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Drag_(k.d._lang_album)",
+          "entity_id": "Q5304797"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Warner_Bros._Records",
+          "entity_id": "Q67030918"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jeb_Loy_Nichols",
+          "entity_id": "Q1686082"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lovers_Knot_(album)",
+          "entity_id": "Q6692430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Capitol_Records",
+          "entity_id": "Q193023"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Jeremy_Toback",
+          "entity_id": "Q2370554"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/RCA_Records",
+          "entity_id": "Q202585"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Chocolate_Genius",
+          "entity_id": "Q2964285"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Black_Music_(album)",
+          "entity_id": "Q4921369"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 2,
+          "url": "http://en.wikipedia.org/wiki/V2_Records",
+          "entity_id": "Q1191537"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Chris_Whitley",
+          "entity_id": "Q708975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Dirt_Floor_(album)",
+          "entity_id": "Q3029714"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Messenger_Records",
+          "entity_id": "Q6821888"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Geri_Allen",
+          "entity_id": "Q448163"
+        },
+        {
+          "start": 13,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mark_Batson",
+          "entity_id": "Q3293994"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Alan_Douglas_(record_producer)",
+          "entity_id": "Q555719"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/DIW_Records",
+          "entity_id": "Q1153901"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Javon_Jackson",
+          "entity_id": "Q1349774"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shelby_Starner",
+          "entity_id": "Q7493416"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Warner_Bros._Records",
+          "entity_id": "Q67030918"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Me%27Shell_Ndeg%C3%A9Ocello",
+          "entity_id": "Q72720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bitter_(Meshell_Ndegeocello_album)",
+          "entity_id": "Q4918977"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Maverick_Records",
+          "entity_id": "Q2016567"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Susana_Baca",
+          "entity_id": "Q152266"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Luaka_Bop",
+          "entity_id": "Q6694973"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/The_Manhattan_Transfer",
+          "entity_id": "Q1431787"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_Records",
+          "entity_id": "Q202440"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 20,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Billy_Martin_(percussionist)",
+          "entity_id": "Q863178"
+        },
+        {
+          "start": 37,
+          "end": 47,
+          "url": "http://en.wikipedia.org/wiki/Chris_Wood_(jazz_musician)",
+          "entity_id": "Q738825"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Perfect_Day_(Chris_Whitley_album)",
+          "entity_id": "Q7167966"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Valley_Entertainment",
+          "entity_id": "Q7912030"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 16,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Cyro_Baptista",
+          "entity_id": "Q1148871"
+        },
+        {
+          "start": 34,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Kevin_Breit",
+          "entity_id": "Q6395893"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/David_Linx",
+          "entity_id": "Q918909"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/PolyGram_Records",
+          "entity_id": "Q700359"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Jubilant_Sykes",
+          "entity_id": "Q15437082"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sony_Classical",
+          "entity_id": "Q7562453"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Joe_Henry",
+          "entity_id": "Q1810016"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Scar_(Joe_Henry_album)",
+          "entity_id": "Q7430213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mammoth_Records",
+          "entity_id": "Q3285033"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band",
+          "entity_id": "Q488728"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ropeadope_Records",
+          "entity_id": "Q7366722"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/The_Derek_Trucks_Band",
+          "entity_id": "Q7729772"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Joyful_Noise_(album)",
+          "entity_id": "Q6297715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbia_Records",
+          "entity_id": "Q183387"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Norah_Jones",
+          "entity_id": "Q549981"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Come_Away_with_Me",
+          "entity_id": "Q868452"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blue_Note_Records",
+          "entity_id": "Q885833"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Susana_Baca",
+          "entity_id": "Q152266"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Luaka_Bop",
+          "entity_id": "Q6694973"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Molly_Johnson",
+          "entity_id": "Q3319623"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Boyd_Tinsley",
+          "entity_id": "Q572727"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/True_Reflections",
+          "entity_id": "Q7847509"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/RCA_Records",
+          "entity_id": "Q202585"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Gipsy_Kings",
+          "entity_id": "Q40586"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Roots_(Gipsy_Kings_album)",
+          "entity_id": "Q4048426"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nonesuch_Records",
+          "entity_id": "Q1849138"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band",
+          "entity_id": "Q488728"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ropeadope_Records",
+          "entity_id": "Q7366722"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Black_Yankee_Rock",
+          "entity_id": "Q4922187"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lizz_Wright",
+          "entity_id": "Q263117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Dreaming_Wide_Awake",
+          "entity_id": "Q2070858"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Verve_Forecast",
+          "entity_id": "Q7923012"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Susana_Baca",
+          "entity_id": "Q152266"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Luaka_Bop",
+          "entity_id": "Q6694973"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Legend",
+          "entity_id": "Q44857"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Once_Again_(John_Legend_album)",
+          "entity_id": "Q2318500"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/G.O.O.D._Music",
+          "entity_id": "Q1142456"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lizz_Wright",
+          "entity_id": "Q263117"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/The_Orchard_(Lizz_Wright_album)",
+          "entity_id": "Q3522103"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Verve_Forecast",
+          "entity_id": "Q7923012"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brandi_Shearer",
+          "entity_id": "Q4956695"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rebekka_Bakken",
+          "entity_id": "Q274149"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/EmArcy_Records",
+          "entity_id": "Q2749562"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Madeleine_Peyroux",
+          "entity_id": "Q285444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Standing_on_the_Rooftop",
+          "entity_id": "Q7598621"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Decca_Records",
+          "entity_id": "Q557632"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Alyssa_Graham",
+          "entity_id": "Q4738761"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sunnyside_Records",
+          "entity_id": "Q1842004"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bettye_LaVette",
+          "entity_id": "Q453456"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Anti-_Records",
+          "entity_id": "Q295794"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Amy_Cook",
+          "entity_id": "Q4749145"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

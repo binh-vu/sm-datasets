@@ -1,0 +1,1103 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Miss_Heritage_2014",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Country",
+        "values": [
+          " Algeria",
+          " Argentina",
+          " Australia",
+          " Bangladesh",
+          " Belize",
+          " Belgium",
+          " Botswana",
+          " Belarus",
+          " Cameroon",
+          " Canary Islands",
+          " Crimea",
+          " Ecuador",
+          " Ethiopia",
+          " Ghana",
+          " Guadeloupe",
+          " Iceland",
+          " India",
+          " Indonesia",
+          " Italy",
+          " Ivory Coast",
+          " Kyrgyzstan",
+          " Lebanon",
+          " Mauritius",
+          " Mexico",
+          " Morocco",
+          " Namibia",
+          " New Zealand",
+          " Netherlands",
+          " Nigeria",
+          " Poland",
+          " Portugal",
+          " Philippines",
+          " Romania",
+          " Russia",
+          " Rwanda",
+          " Spain",
+          " Saint Vincent and the Grenadines",
+          " South Africa",
+          " Swaziland",
+          " United States",
+          " Uganda",
+          " Vietnam",
+          " Zambia",
+          " Zimbabwe"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Contestant",
+        "values": [
+          "Nassima Marwa Aid",
+          "Sofia Pomo",
+          "Jennifer Hunt",
+          "Fatimatu Zohra Etisha",
+          "Jessel Lauriano",
+          "Jennifer Den Haese",
+          "Katlego Gaotsenelelwe",
+          "Iana Fedoseeva",
+          "Florence Épée Ngasse",
+          "Mishela Batista",
+          "Skrylkova Ekaterina",
+          "Maria Jose Otavalo Quizhpe",
+          "Genet Tsegay",
+          "Zina Asiedu",
+          "Anaïs Modeste",
+          "Unnur Zodiak",
+          "Avneet Kaur Arora",
+          "Rakhmi Wijiharti",
+          "Olga Matsyana",
+          "Reine Victoire Aka",
+          "Rannat Aitalieva",
+          "Mirna Olleik",
+          "Dona Charun",
+          "Andrea Celeste",
+          "Saloua Bouchaib",
+          "Magdelena Weef Geaorge",
+          "Paige Thiyagarajah",
+          "Joyce Jansen",
+          "Kehinde Mojisola",
+          "Natalia Janoszek",
+          "Raquel Fonte",
+          "Odessa Mae Tadaya",
+          "Burca Monica",
+          "Kristina Kuzovnikova",
+          "Marlene Mutoniwase",
+          "Laura Illanas",
+          "Anna La Borde",
+          "Kgomotso Caroline Angel Pilane",
+          "Phumzile Thwala",
+          "Michelle Cooper",
+          "Aiysha Nagudi",
+          "Pearlynn Dang",
+          "Tina Shinga",
+          "Tendai Rukwava"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Age",
+        "values": [
+          "23",
+          "21",
+          "25",
+          "20",
+          "26",
+          "",
+          "20",
+          "20",
+          "21",
+          "27",
+          "20",
+          "18",
+          "23",
+          "26",
+          "18",
+          "18",
+          "21",
+          "21",
+          "24",
+          "21",
+          "25",
+          "28",
+          "21",
+          "",
+          "28",
+          "20",
+          "21",
+          "",
+          "22",
+          "24",
+          "22",
+          "18",
+          "27",
+          "20",
+          "22",
+          "21",
+          "25",
+          "",
+          "23",
+          "20",
+          "26",
+          "18",
+          "22",
+          "25"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Hometown",
+        "values": [
+          "Algeria",
+          "Argentina",
+          "New South Wales",
+          "Dhaka",
+          "Belize",
+          "Belgium",
+          "Gaborone",
+          "Tula",
+          "Yaounde",
+          "Canarias Espana",
+          "Tula",
+          "Cuenca",
+          "Addis Ababa",
+          "Accra",
+          "Trois-Rivières",
+          "Iceland City",
+          "New Delhi",
+          "Semarang",
+          "Rome",
+          "Abidjan",
+          "Kyrgyzstan",
+          "Beirut",
+          "Port Louis",
+          "Chiapas",
+          "Marrakesh",
+          "Windhoek",
+          "Auckland",
+          "Netherlands",
+          "Lagos",
+          "Bielsko-Biała",
+          "Lisbon",
+          "Guimba",
+          "Bucharest",
+          "Tula",
+          "Kigali",
+          "Spain",
+          "Kingstown",
+          "",
+          "Mbabane",
+          "San Diego",
+          "Kampala",
+          "California",
+          "Lusaka",
+          "Harare"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Miss Heritage 2014",
+    "page_url": "https://en.wikipedia.org/wiki/Miss_Heritage_2014",
+    "page_entity_id": "Q17108553"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Algeria",
+          "entity_id": "Q262"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Algeria",
+          "entity_id": "Q262"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/New_South_Wales",
+          "entity_id": "Q3224"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bangladesh",
+          "entity_id": "Q902"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dhaka",
+          "entity_id": "Q1354"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Belize",
+          "entity_id": "Q242"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Belize",
+          "entity_id": "Q242"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Botswana",
+          "entity_id": "Q963"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Gaborone",
+          "entity_id": "Q3919"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Tula,_Russia",
+          "entity_id": "Q2770"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cameroon",
+          "entity_id": "Q1009"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Yaounde",
+          "entity_id": "Q3808"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Canary_Islands",
+          "entity_id": "Q5813"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Canarias_Espana&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Autonomous_Republic_of_Crimea",
+          "entity_id": "Q756294"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Tula,_Russia",
+          "entity_id": "Q2770"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ecuador",
+          "entity_id": "Q736"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Cuenca,_Ecuador",
+          "entity_id": "Q54886"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Genet_Tsegay",
+          "entity_id": "Q5532856"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Addis_Ababa",
+          "entity_id": "Q3624"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ghana",
+          "entity_id": "Q117"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Accra",
+          "entity_id": "Q3761"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Guadeloupe",
+          "entity_id": "Q17012"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Trois-Rivi%C3%A8res",
+          "entity_id": "Q44012"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Iceland",
+          "entity_id": "Q189"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Iceland_City&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/India",
+          "entity_id": "Q668"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/New_Delhi",
+          "entity_id": "Q987"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indonesia",
+          "entity_id": "Q252"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Semarang",
+          "entity_id": "Q11025"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Rome",
+          "entity_id": "Q220"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ivory_Coast",
+          "entity_id": "Q1008"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Abidjan",
+          "entity_id": "Q1515"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kyrgyzstan",
+          "entity_id": "Q813"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kyrgyzstan",
+          "entity_id": "Q813"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lebanon",
+          "entity_id": "Q822"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Beirut",
+          "entity_id": "Q3820"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Mauritius",
+          "entity_id": "Q1027"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Port_Louis",
+          "entity_id": "Q3929"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chiapas",
+          "entity_id": "Q60123"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Morocco",
+          "entity_id": "Q1028"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Marrakesh",
+          "entity_id": "Q101625"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Namibia",
+          "entity_id": "Q1030"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Windhoek",
+          "entity_id": "Q3935"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand",
+          "entity_id": "Q664"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Auckland",
+          "entity_id": "Q37100"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Lagos",
+          "entity_id": "Q8673"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a",
+          "entity_id": "Q106583"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lisbon",
+          "entity_id": "Q597"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Philippines",
+          "entity_id": "Q928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Odessa_Mae_Tadaya&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Guimba",
+          "entity_id": "Q55552"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bucharest",
+          "entity_id": "Q19660"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Tula,_Russia",
+          "entity_id": "Q2770"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rwanda",
+          "entity_id": "Q1037"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kigali",
+          "entity_id": "Q3859"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
+          "entity_id": "Q757"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kingstown",
+          "entity_id": "Q41474"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Eswatini",
+          "entity_id": "Q1050"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mbabane",
+          "entity_id": "Q3904"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/San_Diego",
+          "entity_id": "Q16552"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Uganda",
+          "entity_id": "Q1036"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kampala",
+          "entity_id": "Q3894"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Vietnam",
+          "entity_id": "Q881"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/California",
+          "entity_id": "Q99"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Zambia",
+          "entity_id": "Q953"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lusaka",
+          "entity_id": "Q3881"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zimbabwe",
+          "entity_id": "Q954"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harare",
+          "entity_id": "Q3921"
+        }
+      ]
+    ]
+  ]
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q836976:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q836976",
+        "rel_uri": "wd:Q836976",
+        "approximation": false,
+        "readable_label": "Delta Scuti variable (Q836976)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q17444909:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q17444909",
+        "rel_uri": "wd:Q17444909",
+        "approximation": false,
+        "readable_label": "astronomical object type (Q17444909)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q836976:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q836976:0",
+        "target": "http://www.wikidata.org/entity/Q17444909:0",
+        "abs_uri": "http://www.wikidata.org/prop/P881",
+        "rel_uri": "p:P881",
+        "approximation": false,
+        "readable_label": "type of variable star (P881)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q836976:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P6257",
+        "rel_uri": "p:P6257",
+        "approximation": false,
+        "readable_label": "right ascension (P6257)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q836976:0",
+        "target": "col-3",
+        "abs_uri": "http://www.wikidata.org/prop/P1215",
+        "rel_uri": "p:P1215",
+        "approximation": false,
+        "readable_label": "apparent magnitude (P1215)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q17444909:0",
+        "target": "col-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

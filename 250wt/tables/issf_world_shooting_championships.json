@@ -1,0 +1,587 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "ISSF_World_Shooting_Championships",
+    "columns": [
+      {
+        "index": 0,
+        "name": "!#",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Konrad Staeheli",
+          "Karl Zimmermann",
+          "Lones Wigger",
+          "Kullervo Leskinen",
+          "Josias Hartmann",
+          "Wilhelm Schnyder",
+          "John Robert Foster",
+          "Paul Van Asbroeck",
+          "Emil Kellenberger",
+          "Gennadi Lushikov",
+          "Lubos Racansky",
+          "Louis Richardet",
+          "Moysey Itkis",
+          "Walter Lienhard",
+          "Otto Horber"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nation",
+        "values": [
+          " Switzerland",
+          " Switzerland",
+          " United States",
+          " Finland",
+          " Switzerland",
+          " Switzerland",
+          " United States",
+          " Belgium",
+          " Switzerland",
+          " Soviet Union",
+          " Czech Republic",
+          " Switzerland",
+          " Soviet Union",
+          " Switzerland",
+          " Switzerland"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Years",
+        "values": [
+          "1898-1914",
+          "1921-1947",
+          "1966-1986",
+          "1930-1952",
+          "1921-1939",
+          "1922-1933",
+          "1961-1974",
+          "1900-1930",
+          "1899-1922",
+          "1974-1990",
+          "1986-2008",
+          "1897-1909",
+          "1954-1962",
+          "1922-1939",
+          "1935-1952"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "",
+        "values": [
+          "41",
+          "30",
+          "22",
+          "15",
+          "15",
+          "14",
+          "13",
+          "13",
+          "13",
+          "13",
+          "13",
+          "13",
+          "13",
+          "12",
+          "12"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "",
+        "values": [
+          "17",
+          "17",
+          "22",
+          "19",
+          "12",
+          "2",
+          "15",
+          "9",
+          "7",
+          "6",
+          "5",
+          "4",
+          "1",
+          "11",
+          "9"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "",
+        "values": [
+          "11",
+          "20",
+          "7",
+          "11",
+          "11",
+          "3",
+          "2",
+          "13",
+          "0",
+          "2",
+          "1",
+          "5",
+          "5",
+          "3",
+          "12"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Total",
+        "values": [
+          "69",
+          "67",
+          "51",
+          "45",
+          "38",
+          "19",
+          "30",
+          "35",
+          "20",
+          "21",
+          "19",
+          "22",
+          "19",
+          "26",
+          "33"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Discipline",
+        "values": [
+          "Pistol/Rifle",
+          "Rifle",
+          "Rifle",
+          "Rifle",
+          "Rifle",
+          "Pistol/Rifle",
+          "Rifle/ Running Deer",
+          "Pistol/Rifle",
+          "Rifle",
+          "Rifle",
+          "Running Target",
+          "Pistol/Rifle",
+          "Rifle",
+          "Rifle",
+          "Rifle"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "ISSF World Shooting Championships",
+    "page_url": "https://en.wikipedia.org/wiki/ISSF_World_Shooting_Championships",
+    "page_entity_id": "Q1201822"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Konrad_Staeheli",
+          "entity_id": "Q662142"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Karl_Zimmerman_(shooter)",
+          "entity_id": "Q20031187"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lones_Wigger",
+          "entity_id": "Q942784"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kullervo_Leskinen",
+          "entity_id": "Q11873270"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Finland",
+          "entity_id": "Q33"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Josias_Hartmann",
+          "entity_id": "Q11979365"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Wilhelm_Schnyder&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=John_Robert_Foster&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 7,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/100_metre_running_deer",
+          "entity_id": "Q4546203"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Paul_Van_Asbroeck",
+          "entity_id": "Q2307007"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Emil_Kellenberger",
+          "entity_id": "Q676915"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gennadi_Lushikov&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Lubos_Racansky",
+          "entity_id": "Q11876345"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Louis_Richardet",
+          "entity_id": "Q675629"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Moysey_Itkis&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Walter_Lienhard",
+          "entity_id": "Q18715794"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Otto_Horber",
+          "entity_id": "Q19560761"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

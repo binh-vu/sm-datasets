@@ -1,0 +1,565 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Never_Say_Die!_Tour_2010",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "October 29, 2010",
+          "October 30, 2010",
+          "October 31, 2010",
+          "November 1, 2010",
+          "November 2, 2010",
+          "November 3, 2010",
+          "November 4, 2010",
+          "November 5, 2010",
+          "November 6, 2010",
+          "November 7, 2010",
+          "November 8, 2010",
+          "November 9, 2010",
+          "November 11, 2010",
+          "November 12, 2010",
+          "November 13, 2010",
+          "November 14, 2010",
+          "November 16, 2010",
+          "November 17, 2010",
+          "November 18, 2010",
+          "November 19, 2010",
+          "November 20, 2010"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Oberhausen",
+          "Paris",
+          "Birmingham",
+          "Newcastle",
+          "Glasgow",
+          "London",
+          "Portsmouth",
+          "Manchester",
+          "Aarschot",
+          "Tilburg",
+          "Hamburg",
+          "Stockholm",
+          "Berlin",
+          "Karlsruhe",
+          "Prague",
+          "Kraków",
+          "Bologna",
+          "Pratteln",
+          "Munich",
+          "Leipzig",
+          "Würzburg"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "Germany",
+          "France",
+          "England",
+          "England",
+          "Scotland",
+          "England",
+          "England",
+          "England",
+          "Belgium",
+          "Netherlands",
+          "Germany",
+          "Sweden",
+          "Germany",
+          "Germany",
+          "Czech Republic",
+          "Poland",
+          "Italy",
+          "Switzerland",
+          "Germany",
+          "Germany",
+          "Germany"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Turbinenhalle",
+          "Elysee Montmatre",
+          "O2 Academy Birmingham",
+          "O2 Academy Newcastle",
+          "ABC",
+          "Forum",
+          "Pyramids",
+          "O2 Academy Manchester",
+          "Stadsfeestzaal",
+          "013",
+          "Grosse Freiheit",
+          "Fryshuset/Klubben",
+          "Huxleys",
+          "Substage",
+          "Abaton",
+          "Rotunda",
+          "Estragon",
+          "Z7",
+          "Backstage Werk",
+          "Werk 2",
+          "Posthalle"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Never Say Die! Tour 2010",
+    "page_url": "https://en.wikipedia.org/wiki/Never_Say_Die!_Tour_2010",
+    "page_entity_id": "Q7004204"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Oberhausen",
+          "entity_id": "Q2838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/O2_Academy_Birmingham",
+          "entity_id": "Q7072251"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+          "entity_id": "Q1425428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/O2_Academy_Newcastle",
+          "entity_id": "Q7072257"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Glasgow",
+          "entity_id": "Q4093"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Portsmouth",
+          "entity_id": "Q72259"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Manchester",
+          "entity_id": "Q18125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=O2_Academy_Manchester&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Aarschot",
+          "entity_id": "Q273442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tilburg",
+          "entity_id": "Q26430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hamburg",
+          "entity_id": "Q1055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stockholm",
+          "entity_id": "Q1754"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Karlsruhe",
+          "entity_id": "Q1040"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Prague",
+          "entity_id": "Q1085"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Krak%C3%B3w",
+          "entity_id": "Q31487"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bologna",
+          "entity_id": "Q1891"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pratteln",
+          "entity_id": "Q64679"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Munich",
+          "entity_id": "Q1726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Leipzig",
+          "entity_id": "Q2079"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/W%C3%BCrzburg",
+          "entity_id": "Q2999"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      []
+    ]
+  ]
+}

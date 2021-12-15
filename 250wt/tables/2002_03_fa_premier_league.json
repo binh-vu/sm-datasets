@@ -1,0 +1,720 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2002–03_FA_Premier_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Arsenal",
+          "Aston Villa",
+          "Birmingham City",
+          "Blackburn Rovers",
+          "Bolton Wanderers",
+          "Charlton Athletic",
+          "Chelsea",
+          "Everton",
+          "Fulham",
+          "Leeds United",
+          "Liverpool",
+          "Manchester City",
+          "Manchester United",
+          "Middlesbrough",
+          "Newcastle United",
+          "Southampton",
+          "Sunderland",
+          "Tottenham Hotspur",
+          "West Bromwich Albion",
+          "West Ham United"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "London  ( Highbury )",
+          "Birmingham  ( Aston )",
+          "Birmingham  ( Bordesley )",
+          "Blackburn",
+          "Bolton",
+          "London  ( Charlton )",
+          "London  ( Fulham )",
+          "Liverpool  ( Walton )",
+          "London  ( Fulham )",
+          "Leeds",
+          "Liverpool  ( Anfield )",
+          "Manchester",
+          "Old Trafford",
+          "Middlesbrough",
+          "Newcastle upon Tyne",
+          "Southampton",
+          "Sunderland",
+          "London  ( Tottenham )",
+          "West Bromwich",
+          "London  ( Upton Park )"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "Arsenal Stadium",
+          "Villa Park",
+          "St Andrew's",
+          "Ewood Park",
+          "Reebok Stadium",
+          "The Valley",
+          "Stamford Bridge",
+          "Goodison Park",
+          "Loftus Road",
+          "Elland Road",
+          "Anfield",
+          "Maine Road",
+          "Old Trafford",
+          "Riverside Stadium",
+          "St James' Park",
+          "St Mary's Stadium",
+          "Stadium of Light",
+          "White Hart Lane",
+          "The Hawthorns",
+          "Boleyn Ground"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "38,419",
+          "42,573",
+          "30,009",
+          "31,367",
+          "28,723",
+          "27,111",
+          "42,055",
+          "40,569",
+          "19,148",
+          "40,242",
+          "45,522",
+          "35,150",
+          "68,174",
+          "35,049",
+          "52,387",
+          "32,689",
+          "49,000",
+          "36,240",
+          "28,003",
+          "35,647"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2002–03 FA Premier League",
+    "page_url": "https://en.wikipedia.org/wiki/2002–03_FA_Premier_League",
+    "page_entity_id": "Q817255"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Arsenal_F.C.",
+          "entity_id": "Q9617"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Highbury",
+          "entity_id": "Q124394"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Arsenal_Stadium",
+          "entity_id": "Q205309"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Aston_Villa_F.C.",
+          "entity_id": "Q18711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        },
+        {
+          "start": 14,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Aston",
+          "entity_id": "Q649838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Villa_Park",
+          "entity_id": "Q175339"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Birmingham_City_F.C.",
+          "entity_id": "Q19444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        },
+        {
+          "start": 14,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Bordesley,_West_Midlands",
+          "entity_id": "Q4944726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/St_Andrew%27s_Stadium",
+          "entity_id": "Q819179"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Blackburn_Rovers_F.C.",
+          "entity_id": "Q19446"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Blackburn",
+          "entity_id": "Q188313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ewood_Park",
+          "entity_id": "Q245085"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bolton_Wanderers_F.C.",
+          "entity_id": "Q19451"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bolton",
+          "entity_id": "Q184579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Reebok_Stadium",
+          "entity_id": "Q242772"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Charlton_Athletic_F.C.",
+          "entity_id": "Q19462"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Charlton,_London",
+          "entity_id": "Q1067477"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/The_Valley_(London)",
+          "entity_id": "Q958319"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chelsea_F.C.",
+          "entity_id": "Q9616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Fulham",
+          "entity_id": "Q3367868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Stamford_Bridge_(stadium)",
+          "entity_id": "Q171458"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Everton_F.C.",
+          "entity_id": "Q5794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Liverpool",
+          "entity_id": "Q24826"
+        },
+        {
+          "start": 13,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Walton,_Liverpool",
+          "entity_id": "Q3063689"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Goodison_Park",
+          "entity_id": "Q968420"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Fulham_F.C.",
+          "entity_id": "Q18708"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Fulham",
+          "entity_id": "Q3367868"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Loftus_Road",
+          "entity_id": "Q31670"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Leeds_United_F.C.",
+          "entity_id": "Q1128631"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Leeds",
+          "entity_id": "Q39121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Elland_Road",
+          "entity_id": "Q619505"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Liverpool_F.C.",
+          "entity_id": "Q1130849"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Liverpool",
+          "entity_id": "Q24826"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Anfield_(suburb)",
+          "entity_id": "Q769186"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Anfield",
+          "entity_id": "Q45671"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Manchester_City_F.C.",
+          "entity_id": "Q50602"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Manchester",
+          "entity_id": "Q18125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Maine_Road",
+          "entity_id": "Q865093"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Manchester_United_F.C.",
+          "entity_id": "Q18656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Old_Trafford_(district)",
+          "entity_id": "Q1455478"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Old_Trafford",
+          "entity_id": "Q83457"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Middlesbrough_F.C.",
+          "entity_id": "Q18661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Middlesbrough",
+          "entity_id": "Q171866"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Riverside_Stadium",
+          "entity_id": "Q822886"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Newcastle_United_F.C.",
+          "entity_id": "Q18716"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Newcastle_upon_Tyne",
+          "entity_id": "Q1425428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/St_James%27_Park",
+          "entity_id": "Q191774"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Southampton_F.C.",
+          "entity_id": "Q18732"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Southampton",
+          "entity_id": "Q79848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/St_Mary%27s_Stadium",
+          "entity_id": "Q567339"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sunderland_A.F.C.",
+          "entity_id": "Q18739"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sunderland",
+          "entity_id": "Q188304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Stadium_of_Light",
+          "entity_id": "Q31969"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.",
+          "entity_id": "Q18741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Tottenham",
+          "entity_id": "Q503375"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/White_Hart_Lane",
+          "entity_id": "Q186425"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C.",
+          "entity_id": "Q18744"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/West_Bromwich",
+          "entity_id": "Q212826"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Hawthorns",
+          "entity_id": "Q31678"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/West_Ham_United_F.C.",
+          "entity_id": "Q18747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 10,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Upton_Park,_London",
+          "entity_id": "Q7899393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Boleyn_Ground",
+          "entity_id": "Q330731"
+        }
+      ],
+      []
+    ]
+  ]
+}

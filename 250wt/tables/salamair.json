@@ -1,0 +1,1076 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "SalamAir",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Country",
+        "values": [
+          "Azerbaijan",
+          "Bahrain",
+          "Bangladesh",
+          "Bangladesh",
+          "Egypt",
+          "Georgia",
+          "Iraq",
+          "Iran",
+          "Iran",
+          "Iran",
+          "Kuwait",
+          "Nepal",
+          "Oman",
+          "Oman",
+          "Oman",
+          "Oman",
+          "Pakistan",
+          "Pakistan",
+          "Pakistan",
+          "Qatar",
+          "Saudi Arabia",
+          "Saudi Arabia",
+          "Saudi Arabia",
+          "Saudi Arabia",
+          "Sri Lanka",
+          "Sudan",
+          "Thailand",
+          "Turkey",
+          "Turkey",
+          "United Arab Emirates",
+          "United Arab Emirates"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Baku",
+          "Manama",
+          "Dhaka",
+          "Chittagong",
+          "Alexandria",
+          "Tbilisi",
+          "Najaf",
+          "Mashhad",
+          "Shiraz",
+          "Tehran",
+          "Kuwait City",
+          "Kathmandu",
+          "Mukhaizna",
+          "Muscat",
+          "Salalah",
+          "Sohar",
+          "Karachi",
+          "Multan",
+          "Sialkot",
+          "Doha",
+          "Dammam",
+          "Jeddah",
+          "Medina",
+          "Riyadh",
+          "Colombo",
+          "Khartoum",
+          "Phuket",
+          "Istanbul",
+          "Trabzon",
+          "Abu Dhabi",
+          "Dubai"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Airport",
+        "values": [
+          "Heydar Aliyev International Airport",
+          "Bahrain International Airport",
+          "Shahjalal International Airport",
+          "Shah Amanat International Airport",
+          "Borg El Arab Airport",
+          "Tbilisi International Airport",
+          "Al Najaf International Airport",
+          "Mashhad International Airport",
+          "Shiraz International Airport",
+          "Imam Khomeini International Airport",
+          "Kuwait International Airport",
+          "Tribhuvan International Airport",
+          "Mukhaizna Airport",
+          "Muscat International Airport",
+          "Salalah International Airport",
+          "Sohar Airport",
+          "Jinnah International Airport",
+          "Multan International Airport",
+          "Sialkot International Airport",
+          "Hamad International Airport",
+          "King Fahd International Airport",
+          "King Abdulaziz International Airport",
+          "Prince Mohammad Bin Abdulaziz Airport",
+          "King Khalid International Airport",
+          "Bandaranaike International Airport",
+          "Khartoum International Airport",
+          "Phuket International",
+          "Sabiha Gokcen International Airport",
+          "Trabzon Airport",
+          "Abu Dhabi International Airport",
+          "Dubai International Airport"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Notes",
+        "values": [
+          "Seasonal",
+          "",
+          "",
+          "",
+          "",
+          "Seasonal",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Charter",
+          "Hub",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Seasonal",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Refs",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "SalamAir",
+    "page_url": "https://en.wikipedia.org/wiki/SalamAir",
+    "page_entity_id": "Q27926620"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Azerbaijan",
+          "entity_id": "Q227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Baku",
+          "entity_id": "Q9248"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport",
+          "entity_id": "Q386864"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bahrain",
+          "entity_id": "Q398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Manama",
+          "entity_id": "Q3882"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Bahrain_International_Airport",
+          "entity_id": "Q637639"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bangladesh",
+          "entity_id": "Q902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dhaka",
+          "entity_id": "Q1354"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Shahjalal_International_Airport",
+          "entity_id": "Q30603"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Bangladesh",
+          "entity_id": "Q902"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chittagong",
+          "entity_id": "Q376749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Shah_Amanat_International_Airport",
+          "entity_id": "Q525609"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Egypt",
+          "entity_id": "Q79"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Alexandria",
+          "entity_id": "Q87"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Borg_El_Arab_Airport",
+          "entity_id": "Q1194015"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Georgia_(country)",
+          "entity_id": "Q230"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tbilisi",
+          "entity_id": "Q994"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Tbilisi_International_Airport",
+          "entity_id": "Q778213"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Iraq",
+          "entity_id": "Q796"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Najaf",
+          "entity_id": "Q168193"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Al_Najaf_International_Airport",
+          "entity_id": "Q3499545"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mashhad",
+          "entity_id": "Q121157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Mashhad_International_Airport",
+          "entity_id": "Q1152024"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Shiraz,_Iran",
+          "entity_id": "Q6397066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Shiraz_International_Airport",
+          "entity_id": "Q1151896"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Iran",
+          "entity_id": "Q794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tehran",
+          "entity_id": "Q3616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Imam_Khomeini_International_Airport",
+          "entity_id": "Q734729"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kuwait",
+          "entity_id": "Q817"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kuwait_City",
+          "entity_id": "Q35178"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Kuwait_International_Airport",
+          "entity_id": "Q527157"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Nepal",
+          "entity_id": "Q837"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kathmandu",
+          "entity_id": "Q3037"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Tribhuvan_International_Airport",
+          "entity_id": "Q61066"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oman",
+          "entity_id": "Q842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mukhaizna_Oil_Field",
+          "entity_id": "Q28219840"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mukhaizna_Airport",
+          "entity_id": "Q18210730"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oman",
+          "entity_id": "Q842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Muscat,_Oman",
+          "entity_id": "Q3826"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Muscat_International_Airport",
+          "entity_id": "Q1133357"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Airline_hub",
+          "entity_id": "Q4811588"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oman",
+          "entity_id": "Q842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Salalah",
+          "entity_id": "Q1294439"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Salalah_International_Airport",
+          "entity_id": "Q1432681"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oman",
+          "entity_id": "Q842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sohar",
+          "entity_id": "Q943270"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sohar_Airport",
+          "entity_id": "Q1432882"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pakistan",
+          "entity_id": "Q843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Karachi",
+          "entity_id": "Q8660"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Jinnah_International_Airport",
+          "entity_id": "Q61052"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pakistan",
+          "entity_id": "Q843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Multan",
+          "entity_id": "Q185453"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Multan_International_Airport",
+          "entity_id": "Q31569"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pakistan",
+          "entity_id": "Q843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sialkot",
+          "entity_id": "Q643883"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Sialkot_International_Airport",
+          "entity_id": "Q28461"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Qatar",
+          "entity_id": "Q846"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Doha",
+          "entity_id": "Q3861"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Hamad_International_Airport",
+          "entity_id": "Q1198791"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dammam",
+          "entity_id": "Q160320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/King_Fahd_International_Airport",
+          "entity_id": "Q911155"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Jeddah",
+          "entity_id": "Q374365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport",
+          "entity_id": "Q153592"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Medina",
+          "entity_id": "Q35484"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Prince_Mohammad_Bin_Abdulaziz_Airport",
+          "entity_id": "Q1205940"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Saudi_Arabia",
+          "entity_id": "Q851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Riyadh",
+          "entity_id": "Q3692"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/King_Khalid_International_Airport",
+          "entity_id": "Q47157"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Sri_Lanka",
+          "entity_id": "Q854"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Colombo",
+          "entity_id": "Q35381"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Bandaranaike_International_Airport",
+          "entity_id": "Q60900"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Sudan",
+          "entity_id": "Q1049"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Khartoum",
+          "entity_id": "Q1963"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Khartoum_International_Airport",
+          "entity_id": "Q1050244"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thailand",
+          "entity_id": "Q869"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Phuket",
+          "entity_id": "Q182565"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Phuket_International",
+          "entity_id": "Q240694"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Turkey",
+          "entity_id": "Q43"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Istanbul",
+          "entity_id": "Q406"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Sabiha_Gokcen_International_Airport",
+          "entity_id": "Q723622"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Turkey",
+          "entity_id": "Q43"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Trabzon",
+          "entity_id": "Q45301"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Trabzon_Airport",
+          "entity_id": "Q1169859"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Abu_Dhabi",
+          "entity_id": "Q1519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport",
+          "entity_id": "Q643562"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/United_Arab_Emirates",
+          "entity_id": "Q878"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Dubai",
+          "entity_id": "Q612"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Dubai_International_Airport",
+          "entity_id": "Q193439"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

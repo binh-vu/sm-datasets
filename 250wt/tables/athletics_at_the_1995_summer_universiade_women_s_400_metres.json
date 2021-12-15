@@ -1,0 +1,276 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Athletics_at_the_1995_Summer_Universiade_–_Women's_400_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Lane",
+        "values": [
+          "6",
+          "1",
+          "7",
+          "4",
+          "5",
+          "2",
+          "8",
+          "3"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Athlete",
+        "values": [
+          "Olabisi Afolabi",
+          "Tatyana Chebykina",
+          "Olena Rurak",
+          "Yelena Andreyeva",
+          "Camara Jones",
+          "Naděžda Koštovalová",
+          "Nicole Green",
+          "Du Xiujie"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Nigeria",
+          " Russia",
+          " Ukraine",
+          " Russia",
+          " United States",
+          " Czech Republic",
+          " United States",
+          " China"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "50.50",
+          "51.01",
+          "51.76",
+          "51.85",
+          "52.07",
+          "52.08",
+          "53.21",
+          "DQ"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Athletics at the 1995 Summer Universiade – Women's 400 metres",
+    "page_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1995_Summer_Universiade_–_Women's_400_metres",
+    "page_entity_id": "Q20806550"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Olabisi_Afolabi",
+          "entity_id": "Q457614"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nigeria",
+          "entity_id": "Q1033"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tatyana_Chebykina",
+          "entity_id": "Q457246"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Olena_Rurak",
+          "entity_id": "Q35320507"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Yelena_Andreyeva",
+          "entity_id": "Q377833"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Camara_Jones",
+          "entity_id": "Q433438"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Nad%C4%9B%C5%BEda_Ko%C5%A1tovalov%C3%A1",
+          "entity_id": "Q11788987"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nicole_Green",
+          "entity_id": "Q3876463"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Du_Xiujie",
+          "entity_id": "Q33130882"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

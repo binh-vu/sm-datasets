@@ -1,0 +1,3809 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "List_of_museums_in_Essex",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "Art Exchange",
+          "Ashdon Museum",
+          "Audley End House",
+          "Aythorpe Roding Windmill",
+          "Barleylands Farm Museum",
+          "Beecroft Art Gallery",
+          "Bocking Windmill",
+          "Bourne Mill, Essex",
+          "Boxted Airfield Museum",
+          "Bragg's Mill",
+          "Braintree Museum",
+          "Brentwood Museum",
+          "Brightlingsea Museum",
+          "Burnham-on-Crouch & District Museum",
+          "Canvey Island Heritage Centre",
+          "Canvey Island Transport Museum",
+          "Cater Museum",
+          "Chelmsford Museum",
+          "Coalhouse Fort",
+          "Coggeshall Grange Barn",
+          "Coggeshall Museum",
+          "Colchester Castle Museum",
+          "Colne Valley Postal History Museum",
+          "Colne Valley Railway",
+          "Combined Military Services Museum",
+          "Copped Hall",
+          "Cressing Temple",
+          "Duck End Mill",
+          "Dutch Cottage Museum",
+          "Earls Colne Heritage Museum",
+          "East Anglian Railway Museum",
+          "East Essex Aviation Society and Museum",
+          "Epping Forest District Museum",
+          "Essex Fire Museum",
+          "Essex Police Museum",
+          "Essex Regiment Museum",
+          "Feering and Kelvedon Local History Museum",
+          "Finchingfield Guildhall",
+          "Firstsite",
+          "Frinton's Crossing Cottage, Garden and Railway Museum",
+          "Fry Art Gallery",
+          "Gibberd Gallery",
+          "Great Bardfield Cottage Museum",
+          "Great Dunmow Museum",
+          "Halstead Heritage Museum",
+          "Harlow Museum",
+          "Harwich Lifeboat Museum",
+          "Harwich Maritime Museum",
+          "Harwich Redoubt",
+          "Hedingham Castle",
+          "Hill Hall",
+          "Hollytrees Museum",
+          "Hylands House",
+          "Ingatestone Hall",
+          "John Webb's Mill",
+          "Kelvedon Hatch Secret Nuclear Bunker",
+          "Langdon Visitor Centre & Haven Plotlands Museum",
+          "Layer Marney Tower",
+          "Little Baddow History Centre",
+          "Maeldune Centre",
+          "Maldon District Agricultural & Domestic Museum",
+          "Maldon Museum",
+          "Mangapps Railway Museum",
+          "Manningtree Museum",
+          "Mersea Island Museum",
+          "Minories Art Gallery",
+          "Mountnessing Windmill",
+          "Munnings Art Museum",
+          "Museum of Power",
+          "Natural History Museum, Colchester",
+          "Naze Tower",
+          "Nazeing Glass Museum of 20th Century British Domestic Glass",
+          "North Weald Airfield Museum",
+          "Nottage Maritime Institute",
+          "Paycocke's",
+          "Peter Edwards Museum & Library",
+          "Prittlewell Priory",
+          "Purfleet Heritage & Military Centre",
+          "Rayleigh Town Museum",
+          "Rayleigh Windmill",
+          "Ridgewell Airfield Commemorative Museum",
+          "Royal Gunpowder Mills",
+          "Saffron Walden Museum",
+          "Sandford Mill",
+          "Southchurch Hall",
+          "Southend Central Museum",
+          "Southend Pier Museum",
+          "Stansted Mountfitchet Windmill",
+          "Stock Windmill",
+          "Thaxted Guildhall",
+          "The Time Machine",
+          "Thurrock Museum",
+          "Tilbury Fort",
+          "Walton Maritime Museum",
+          "Warner Textile Archive",
+          "Wilkin & Sons Visitor Centre"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Image",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Town/City",
+        "values": [
+          "Colchester",
+          "Ashdon",
+          "Saffron Walden",
+          "Aythorpe Roding",
+          "Billericay",
+          "Southend-on-Sea",
+          "Bocking",
+          "Colchester",
+          "Langham",
+          "Ashdon",
+          "Braintree",
+          "Brentwood",
+          "Brightlingsea",
+          "Burnham-on-Crouch",
+          "Canvey Island",
+          "Canvey Island",
+          "Billericay",
+          "Chelmsford",
+          "East Tilbury",
+          "Coggeshall",
+          "Coggeshall",
+          "Colchester",
+          "Halstead",
+          "Sible Hedingham",
+          "Maldon",
+          "Waltham Abbey",
+          "Cressing",
+          "Finchingfield",
+          "Canvey Island",
+          "Earls Colne",
+          "Chappel",
+          "St Osyth",
+          "Waltham Abbey",
+          "Grays",
+          "Chelmsford",
+          "Chelmsford",
+          "Kelvedon",
+          "Finchingfield",
+          "Colchester",
+          "Frinton-on-Sea",
+          "Saffron Walden",
+          "Harlow",
+          "Great Bardfield",
+          "Great Dunmow",
+          "Halstead",
+          "Harlow",
+          "Harwich",
+          "Harwich",
+          "Harwich",
+          "Castle Hedingham",
+          "Epping",
+          "Colchester",
+          "Chelmsford",
+          "Ingatestone",
+          "Thaxted",
+          "Kelvedon Hatch",
+          "Basildon",
+          "Colchester",
+          "Little Baddow",
+          "Maldon",
+          "Maldon",
+          "Maldon",
+          "Burnham-on-Crouch",
+          "Manningtree",
+          "Mersea Island",
+          "Colchester",
+          "Mountnessing",
+          "Dedham",
+          "Langford",
+          "Colchester",
+          "Walton-on-the-Naze",
+          "Nazeing",
+          "North Weald Bassett",
+          "Wivenhoe",
+          "Coggeshall",
+          "Chelmsford",
+          "Southend-on-Sea",
+          "Purfleet",
+          "Rayleigh",
+          "Rayleigh",
+          "Ridgewell",
+          "Waltham Abbey",
+          "Saffron Walden",
+          "Chelmsford",
+          "Southend-on-Sea",
+          "Southend-on-Sea",
+          "Southend-on-Sea",
+          "Stansted Mountfitchet",
+          "Stock",
+          "Thaxted",
+          "Harlow",
+          "Grays",
+          "Tilbury",
+          "Walton-on-the-Naze",
+          "Braintree",
+          "Tiptree"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Region",
+        "values": [
+          "Colchester",
+          "Uttlesford",
+          "Uttlesford",
+          "Uttlesford",
+          "Basildon",
+          "Southend-on-Sea",
+          "Braintree",
+          "Colchester",
+          "Colchester",
+          "Uttlesford",
+          "Braintree",
+          "Brentwood",
+          "Tendring",
+          "Maldon",
+          "Castle Point",
+          "Castle Point",
+          "Basildon",
+          "Chelmsford",
+          "Thurrock",
+          "Colchester",
+          "Colchester",
+          "Colchester",
+          "Braintree",
+          "Braintree",
+          "Maldon",
+          "Epping Forest",
+          "Braintree",
+          "Braintree",
+          "Castle Point",
+          "Braintree",
+          "Colchester",
+          "Tendring",
+          "Epping Forest",
+          "Thurrock",
+          "Chelmsford",
+          "Chelmsford",
+          "Braintree",
+          "Braintree",
+          "Colchester",
+          "Tendring",
+          "Uttlesford",
+          "Harlow",
+          "Braintree",
+          "Uttlesford",
+          "Braintree",
+          "Harlow",
+          "Tendring",
+          "Tendring",
+          "Tendring",
+          "Braintree",
+          "Epping Forest",
+          "Colchester",
+          "Chelmsford",
+          "Brentwood",
+          "Uttlesford",
+          "Brentwood",
+          "Basildon",
+          "Colchester",
+          "Chelmsford",
+          "Maldon",
+          "Maldon",
+          "Maldon",
+          "Maldon",
+          "Tendring",
+          "Colchester",
+          "Colchester",
+          "Brentwood",
+          "Colchester",
+          "Maldon",
+          "Colchester",
+          "Tendring",
+          "Epping Forest",
+          "Epping Forest",
+          "Colchester",
+          "Colchester",
+          "Chelmsford",
+          "Southend-on-Sea",
+          "Thurrock",
+          "Rochford",
+          "Rochford",
+          "Braintree",
+          "Epping Forest",
+          "Uttlesford",
+          "Chelmsford",
+          "Southend-on-Sea",
+          "Southend-on-Sea",
+          "Southend-on-Sea",
+          "Uttlesford",
+          "Chelmsford",
+          "Uttlesford",
+          "Harlow",
+          "Thurrock",
+          "Thurrock",
+          "Tendring",
+          "Braintree",
+          "Colchester"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Type",
+        "values": [
+          "Art",
+          "Local",
+          "Historic house",
+          "Mill",
+          "Agriculture",
+          "Art",
+          "Mill",
+          "Mill",
+          "Military",
+          "Mill",
+          "Multiple",
+          "Local",
+          "Local",
+          "Local",
+          "Local",
+          "Transportation",
+          "Local",
+          "Multiple",
+          "Military",
+          "Agriculture",
+          "Local",
+          "History",
+          "Philatelic",
+          "Railway",
+          "Military",
+          "Historic house",
+          "History",
+          "Mill",
+          "Historic house",
+          "Local",
+          "Railway",
+          "Military",
+          "Local",
+          "Firefighting",
+          "Law enforcement",
+          "Military",
+          "Local",
+          "Local",
+          "Art",
+          "Local",
+          "Art",
+          "Art",
+          "Local",
+          "Local",
+          "Local",
+          "Local",
+          "Maritime",
+          "Maritime",
+          "Military",
+          "Historic house",
+          "Historic house",
+          "Local",
+          "Historic house",
+          "Historic house",
+          "Mill",
+          "Military",
+          "Multiple",
+          "Historic house",
+          "Local",
+          "Local",
+          "History",
+          "Local",
+          "Railway",
+          "Local",
+          "Local",
+          "Art",
+          "Mill",
+          "Art",
+          "Technology",
+          "Natural history",
+          "Natural history",
+          "Art",
+          "Military",
+          "Maritime",
+          "Historic house",
+          "Sports",
+          "Religious",
+          "Military",
+          "Local",
+          "Mill",
+          "Military",
+          "Multiple",
+          "Multiple",
+          "Science",
+          "Historic house",
+          "Multiple",
+          "Amusement",
+          "Mill",
+          "Mill",
+          "Historic house",
+          "Science",
+          "Local",
+          "Military",
+          "Maritime",
+          "Textile",
+          "Food"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Summary",
+        "values": [
+          "website , part of the University of Essex , international, contemporary art by established and emerging artists, historic figures who continue to inspire, and group shows",
+          "website , local history, trades, agriculture, social history",
+          "Operated by English Heritage , early 17th-century country house, finely furnished rooms, masterpieces by Hans Holbein and Canaletto , 1880s period servant's wing, gardens",
+          "Late 18th century windmill",
+          "Early farm machinery and tractors, tools, household implements, farm and animals",
+          "Collection ranges from 17th-century Dutch paintings to contemporary work",
+          "Early 18th century windmill",
+          "website , operated by the National Trust , Elizabethan water mill",
+          "website , history of RAF Boxted in WWII",
+          "Mid 18th century windmill",
+          "website , local history, industry, textiles, ceramics and art, and \" The Essex Model House \" by St Osyth Mahala Wood",
+          "website",
+          "website , local history, Roman life, shipbuilding, oyster industry",
+          "Local history, maritime, agricultural, industrial and social history",
+          "website",
+          "website , automobiles, buses, commercial, military and emergency vehicles, public road transport artifacts, model train layout; located in a former bus depot",
+          "website , local history, period rooms",
+          "Local history, art, archaeology, natural history, industry",
+          "19th century Victorian coastal defence fort open on specified days, includes military museums and vehicles",
+          "website , operated by the National Trust , 14th century barn built for Coggeshall Abbey , collection of farm tools and equipment",
+          "website , local history, industry, agriculture, culture, lace",
+          "Norman castle with exhibits of local history, archaeology and Roman history",
+          "website , British Post Office  letter boxes , stamp  vending machines , documents, postal uniforms and associated artefacts, open by appointment",
+          "Heritage railway, 7¼\" miniature railway, exhibit centre with history and artefacts, rare breed farm, located at Castle Hedingham Station",
+          "Combat equipment and weaponry used by the British armed forces from medieval times to the present, lifestyles of the troops, uniforms, Secret Service , artifacts, vehicles",
+          "Georgian mansion under restoration, gardens",
+          "Medieval barns and well used by temple of the Knights Templar , Tudor walled garden, early 17th-century house, granary and court hall",
+          "Mid 18th century windmill",
+          "website , operated by the Benfleet and District Historical Society",
+          "website , local history",
+          "Heritage railway and museum, includes equipment, station buildings, signal boxes, goods shed and restoration shed",
+          "website , located in a Martello tower, military artifacts, items recovered from local aircraft crash sites",
+          "website , local history, archaeology, history of the abbey, medieval and Tudor artifacts, Victorian life",
+          "website",
+          "website , history of Essex Police from 1840 to present day, Victorian jail cell",
+          "Regimental history and memorabilia, located at the Chelmsford Museum",
+          "website , local history, archaeology, agriculture, trades",
+          "website , 15th century guildhall under restoration, houses the Finchingfield Heritage Center and Finchingfield Library",
+          "Contemporary visual arts centre and gallery",
+          "website , operated by the Frinton & Walton Heritage Trust, local and area railroad history",
+          "Emphasis on local artists, includes paintings, prints, illustrations, wallpapers and decorative designs by artists of the 20th century and the present",
+          "website , changing exhibits and Frederick Gibberd collection of British watercolours and drawings, operated by The Harlow Art Trust",
+          "information , local history",
+          "website , local history, industry, culture",
+          "website , local history, culture, transport, operated by the Halstead & District Local History Society",
+          "website , walled gardens, local history, Roman era & artifacts, Tudor life, Victorian household items, toys",
+          "website , operated by the Harwich Society, information , located in a former lifeboat station with exhibits about sea rescues",
+          "website , operated by the Harwich Society, located in a decommissioned lighthouse , nautical artifacts, information",
+          "Napoleonic fort, operated by the Harwich Society",
+          "Medieval Norman keep and grounds",
+          "Operated by English Heritage , Elizabethan mansion, tours by appointment",
+          "Local history, toys, costumes",
+          "Restored 18th century Queen Anne style house, park and gardens",
+          "16th century Tudor house and grounds",
+          "Early 19th century windmill",
+          "Underground bunker used during the Cold War as a regional government headquarters",
+          "Natural history of the nature reserve, also Haven Plotlands Museum, a 1930s period bungalow country getaway",
+          "16th century Tudor palace and gardens",
+          "website",
+          "Local history, art, modern large embroidery about the Battle of Maldon",
+          "information , vintage farm machinery and equipment, agriculture tools, household items",
+          "website , also known as Museum in the Park, located in a park keeper's lodge",
+          "Heritage railway and museum, includes rolling equipment, memorabilia, buildings",
+          "website , local history",
+          "website , fishing, oystering, wild fowling, boat building, local history, natural history, geology",
+          "Part of the Colchester Institute",
+          "Early 19th century windmill",
+          "Home and works of Sir Alfred Munnings , located in Castle House",
+          "Located in a water pumping station, features working examples of steam engines, machinery, equipment and tools, miniature railway",
+          "website , natural heritage of north-east Essex",
+          "Tower with viewing platform, museum about the ecology and environment of the Naze headland, art gallery",
+          "website , works and history of Nazeing Glass Works and other British glass manufacturers in the 20th century",
+          "History of the former military airfield",
+          "website , maritime paintings, photographs, models and artifacts",
+          "website , operated by the National Trust , early 16th-century house with elaborate paneling and woodcarving, garden",
+          "website , history and memorabilia of the Essex County Cricket Club , located at County Cricket Ground",
+          "Medieval priory",
+          "website , located in a former Royal magazine for gunpowder , artifacts and memorabilia from all the armed forces",
+          "website , Rayleigh, its people, places and heritage, oldest secular Building in town",
+          "Early 19th century windmill",
+          "website , uniforms, artifacts, medals, memorabilia of the World War II airfield, the 381st Bomb Group and the No. 90 Squadron RAF",
+          "Complex includes science of gunpowder exhibits, history of the site, exhibits of weapons and military artifacts, transportation, rockets, 1940s street scene, history of the Gunpowder Plot , narrow gauge railway, woodlands",
+          "website , local history, natural history, Ancient Egypt, archaeology, decorative arts, costumes, ethnographic artifacts",
+          "website , area industrial history and the science involved, part of Chelmsford Museums",
+          "Early 14th century half-timbered medieval manor house with period rooms depicting life in different centuries",
+          "Local history, natural history, planetarium",
+          "History of the Southend Pier, working penny slot machines",
+          "Late 18th century windmill",
+          "Early 19th century windmill",
+          "website , 14th century guild hall",
+          "website , hands-on science and technology exhibits",
+          "website , local history, culture, archaeology, industry, culture, social history",
+          "Operated by English Heritage , 17th century artillery fort",
+          "website , former lifeboat station with maritime artifacts, local history, natural history, restore James Stevens 14 lifeboat , operated by the Frinton & Walton Heritage Trust",
+          "Archive of some 100,000 items relating to the textile industry in Braintree, in particular the legacy of Warner and Sons",
+          "Tearoom, shop and museum of Wilkin & Sons jams and jam-making"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "List of museums in Essex",
+    "page_url": "https://en.wikipedia.org/wiki/List_of_museums_in_Essex",
+    "page_entity_id": "Q6629774"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Art_Exchange&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.artexchange.org.uk/",
+          "entity_id": null
+        },
+        {
+          "start": 22,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/University_of_Essex",
+          "entity_id": "Q1075104"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Ashdon_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ashdon",
+          "entity_id": "Q1832065"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.ashdonvillagemuseum.co.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Audley_End_House",
+          "entity_id": "Q758949"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Saffron_Walden",
+          "entity_id": "Q183329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/English_Heritage",
+          "entity_id": "Q936287"
+        },
+        {
+          "start": 105,
+          "end": 117,
+          "url": "http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger",
+          "entity_id": "Q48319"
+        },
+        {
+          "start": 122,
+          "end": 131,
+          "url": "http://en.wikipedia.org/wiki/Canaletto",
+          "entity_id": "Q182664"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Aythorpe_Roding_Windmill",
+          "entity_id": "Q4831740"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Aythorpe_Roding",
+          "entity_id": "Q2396140"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Barleylands_Farm_Museum",
+          "entity_id": "Q4861174"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Billericay",
+          "entity_id": "Q862832"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Basildon_(district)",
+          "entity_id": "Q810056"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Beecroft_Art_Gallery",
+          "entity_id": "Q4879717"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend-on-Sea",
+          "entity_id": "Q203995"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bocking_Windmill",
+          "entity_id": "Q4936285"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bocking,_Essex",
+          "entity_id": "Q1947480"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Bourne_Mill,_Essex&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.nationaltrust.org.uk/bourne-mill/",
+          "entity_id": null
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty",
+          "entity_id": "Q333515"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Boxted_Airfield_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Langham,_Essex",
+          "entity_id": "Q1887656"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.boxted-airfield.com/boxted-airfield-museum",
+          "entity_id": null
+        },
+        {
+          "start": 21,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/RAF_Boxted",
+          "entity_id": "Q7275194"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bragg%27s_Mill,_Ashdon",
+          "entity_id": "Q4955394"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ashdon",
+          "entity_id": "Q1832065"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Braintree_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.braintreemuseum.co.uk/",
+          "entity_id": null
+        },
+        {
+          "start": 69,
+          "end": 90,
+          "url": "http://en.wikipedia.org/wiki/The_Essex_Model_House",
+          "entity_id": "Q16991867"
+        },
+        {
+          "start": 96,
+          "end": 116,
+          "url": "http://en.wikipedia.org/wiki/St_Osyth_Mahala_Wood",
+          "entity_id": "Q7595027"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Brentwood,_Essex",
+          "entity_id": "Q909993"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Borough_of_Brentwood",
+          "entity_id": "Q427849"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.brentwoodmuseum.org.uk",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Brightlingsea",
+          "entity_id": "Q915751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.brightlingsea-town.co.uk/history/museum.htm",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Burnham-on-Crouch_%26_District_Museum",
+          "entity_id": "Q19571144"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Burnham-on-Crouch",
+          "entity_id": "Q2454022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Canvey_Island",
+          "entity_id": "Q1033978"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Castle_Point",
+          "entity_id": "Q1049506"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://canveyislandheritagecentre.wordpress.com/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Canvey_Island",
+          "entity_id": "Q1033978"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Castle_Point",
+          "entity_id": "Q1049506"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.castlepointtransportmuseum.co.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Cater_Museum",
+          "entity_id": "Q58212431"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Billericay",
+          "entity_id": "Q862832"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Basildon_(district)",
+          "entity_id": "Q810056"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.catermuseum.co.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_Museum",
+          "entity_id": "Q5089964"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Coalhouse_Fort",
+          "entity_id": "Q205014"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/East_Tilbury",
+          "entity_id": "Q2135238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thurrock",
+          "entity_id": "Q1549155"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Coggeshall_Grange_Barn",
+          "entity_id": "Q17535876"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coggeshall",
+          "entity_id": "Q1013398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.nationaltrust.org.uk/coggeshall-grange-barn/",
+          "entity_id": null
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty",
+          "entity_id": "Q333515"
+        },
+        {
+          "start": 71,
+          "end": 87,
+          "url": "http://en.wikipedia.org/wiki/Coggeshall_Abbey",
+          "entity_id": "Q1106952"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coggeshall",
+          "entity_id": "Q1013398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.coggeshallmuseum.org.uk/intro1.htm",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Colchester_Castle",
+          "entity_id": "Q198287"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Halstead",
+          "entity_id": "Q2282928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.cvphm.org.uk/",
+          "entity_id": null
+        },
+        {
+          "start": 10,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/British_Post_Office",
+          "entity_id": "Q1783168"
+        },
+        {
+          "start": 31,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Letter_box",
+          "entity_id": "Q1587360"
+        },
+        {
+          "start": 46,
+          "end": 51,
+          "url": "http://en.wikipedia.org/wiki/Postage_stamp",
+          "entity_id": "Q37930"
+        },
+        {
+          "start": 53,
+          "end": 69,
+          "url": "http://en.wikipedia.org/wiki/Vending_machine",
+          "entity_id": "Q211584"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Colne_Valley_Railway",
+          "entity_id": "Q868803"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Sible_Hedingham",
+          "entity_id": "Q2052146"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 112,
+          "end": 136,
+          "url": "http://en.wikipedia.org/wiki/Castle_Hedingham_Station",
+          "entity_id": "Q7507118"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Combined_Military_Services_Museum",
+          "entity_id": "Q5150875"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon,_Essex",
+          "entity_id": "Q1011062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 135,
+          "end": 149,
+          "url": "http://en.wikipedia.org/wiki/Secret_Intelligence_Service",
+          "entity_id": "Q184560"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Copped_Hall",
+          "entity_id": "Q5168664"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Waltham_Abbey_(town)",
+          "entity_id": "Q2462706"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cressing_Temple",
+          "entity_id": "Q2985848"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cressing",
+          "entity_id": "Q1915121"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 46,
+          "end": 61,
+          "url": "http://en.wikipedia.org/wiki/Knights_Templar",
+          "entity_id": "Q41300"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Duck_End_Mill,_Finchingfield",
+          "entity_id": "Q5311446"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Finchingfield",
+          "entity_id": "Q2160817"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Canvey_Island",
+          "entity_id": "Q1033978"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Castle_Point",
+          "entity_id": "Q1049506"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.benfleethistorical.org/aboutus.php",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Earls_Colne",
+          "entity_id": "Q643686"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.echm.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/East_Anglian_Railway_Museum",
+          "entity_id": "Q12056851"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chappel",
+          "entity_id": "Q4811296"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/St_Osyth",
+          "entity_id": "Q2796929"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20101110170042/http://eastessexaviationsociety.org/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/w/index.php?title=Epping_Forest_District_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Waltham_Abbey_(town)",
+          "entity_id": "Q2462706"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.eppingforestdc.gov.uk/index.php/out-and-about/museums/museum-home",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Grays",
+          "entity_id": "Q1544055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thurrock",
+          "entity_id": "Q1549155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.essex-fire.gov.uk/Fire_Museum/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.essex.police.uk/museum/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Essex_Regiment#Essex_Regiment_Museum",
+          "entity_id": "Q12057290"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 51,
+          "end": 68,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_Museum",
+          "entity_id": "Q5089964"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kelvedon",
+          "entity_id": "Q3045836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20100226181841/http://www.kelvedon.org.uk/localhistory/museum.htm",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Finchingfield_Guildhall&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Finchingfield",
+          "entity_id": "Q2160817"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.finchingfieldguildhall.org.uk/",
+          "entity_id": null
+        },
+        {
+          "start": 23,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Guildhall",
+          "entity_id": "Q1961493"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Firstsite",
+          "entity_id": "Q5454287"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Frinton-on-Sea",
+          "entity_id": "Q1464942"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.fwheritage.co.uk/frinton.aspx",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Fry_Art_Gallery",
+          "entity_id": "Q5506554"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Saffron_Walden",
+          "entity_id": "Q183329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Gibberd_Gallery&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.gibberdgallery.co.uk/",
+          "entity_id": null
+        },
+        {
+          "start": 32,
+          "end": 49,
+          "url": "http://en.wikipedia.org/wiki/Frederick_Gibberd",
+          "entity_id": "Q5497851"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Great_Bardfield",
+          "entity_id": "Q2236374"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.visiteastofengland.com/Braintree-Summer-opening-of-Great-Bardfield-Cottage-Museum/details/?dms=13&venue=0248941&feature=2",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Great_Dunmow_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Great_Dunmow",
+          "entity_id": "Q2560256"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.greatdunmowmuseum.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Halstead",
+          "entity_id": "Q2282928"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.halsteadhistory.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Harlow_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.science-alive.co.uk",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Harwich_Lifeboat_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Harwich",
+          "entity_id": "Q990616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20020601055834/http://www.harwich.net/society.htm",
+          "entity_id": null
+        },
+        {
+          "start": 43,
+          "end": 54,
+          "url": "http://rnli.harwich.org.uk/LifeboatMuseum/LifeboatMuseum1.htm",
+          "entity_id": null
+        },
+        {
+          "start": 77,
+          "end": 85,
+          "url": "http://en.wikipedia.org/wiki/Lifeboat_(rescue)",
+          "entity_id": "Q1361551"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/w/index.php?title=Harwich_Maritime_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Harwich",
+          "entity_id": "Q990616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20020601055834/http://www.harwich.net/society.htm",
+          "entity_id": null
+        },
+        {
+          "start": 71,
+          "end": 81,
+          "url": "http://en.wikipedia.org/wiki/Lighthouse",
+          "entity_id": "Q39715"
+        },
+        {
+          "start": 104,
+          "end": 115,
+          "url": "http://www.visitessex.com/harwich/thedms.aspx?dms=13&venue=0231980",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Harwich_Redoubt",
+          "entity_id": "Q5677857"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Harwich",
+          "entity_id": "Q990616"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hedingham_Castle",
+          "entity_id": "Q1146583"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Castle_Hedingham",
+          "entity_id": "Q1007856"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hill_Hall_(Essex)",
+          "entity_id": "Q15224041"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Epping,_Essex",
+          "entity_id": "Q990775"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/English_Heritage",
+          "entity_id": "Q936287"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Hollytrees_Museum",
+          "entity_id": "Q5882457"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hylands_House",
+          "entity_id": "Q370015"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ingatestone_Hall",
+          "entity_id": "Q17536308"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ingatestone",
+          "entity_id": "Q1021898"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Borough_of_Brentwood",
+          "entity_id": "Q427849"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/John_Webb%27s_Mill,_Thaxted",
+          "entity_id": "Q6263306"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Thaxted",
+          "entity_id": "Q2283481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Kelvedon_Hatch_Secret_Nuclear_Bunker",
+          "entity_id": "Q6386622"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kelvedon_Hatch",
+          "entity_id": "Q2260481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Borough_of_Brentwood",
+          "entity_id": "Q427849"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 35,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Cold_War",
+          "entity_id": "Q8683"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 47,
+          "url": "http://en.wikipedia.org/wiki/Dunton_Plotlands",
+          "entity_id": "Q5315764"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Basildon",
+          "entity_id": "Q216649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Basildon_(district)",
+          "entity_id": "Q810056"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Layer_Marney_Tower",
+          "entity_id": "Q1809395"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Little_Baddow",
+          "entity_id": "Q2670099"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://thehistorycentre.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Maeldune_Centre",
+          "entity_id": "Q6729181"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon,_Essex",
+          "entity_id": "Q1011062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 54,
+          "end": 70,
+          "url": "http://en.wikipedia.org/wiki/Battle_of_Maldon",
+          "entity_id": "Q1442050"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon,_Essex",
+          "entity_id": "Q1011062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.essexmums.org/placesmaldonagmuseum.html",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon,_Essex",
+          "entity_id": "Q1011062"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.maldonmuseum.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Mangapps_Railway_Museum",
+          "entity_id": "Q6748826"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Burnham-on-Crouch",
+          "entity_id": "Q2454022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Manningtree",
+          "entity_id": "Q2195304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.manningtree-museum.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mersea_Island",
+          "entity_id": "Q1922080"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.merseamuseum.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/The_Minories,_Colchester",
+          "entity_id": "Q15979563"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Colchester_Institute",
+          "entity_id": "Q5142094"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Mountnessing_Windmill",
+          "entity_id": "Q6925820"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mountnessing",
+          "entity_id": "Q2288762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Borough_of_Brentwood",
+          "entity_id": "Q427849"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Castle_House,_Dedham",
+          "entity_id": "Q5050153"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dedham,_Essex",
+          "entity_id": "Q2037687"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 22,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Alfred_Munnings",
+          "entity_id": "Q940445"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Museum_of_Power",
+          "entity_id": "Q6940997"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Langford,_Essex",
+          "entity_id": "Q2798618"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Maldon_(district)",
+          "entity_id": "Q613878"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/w/index.php?title=Natural_History_Museum,_Colchester&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester",
+          "entity_id": "Q184163"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://colchester.cimuseums.org.uk/visit/natural-history-museum/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Naze_Tower",
+          "entity_id": "Q17532846"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Walton-on-the-Naze",
+          "entity_id": "Q1818988"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 59,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nazeing_Glass_Museum_of_20th_Century_British_Domestic_Glass&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Nazeing",
+          "entity_id": "Q2273384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.nazeing-glass.com/museum/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/North_Weald_Airfield",
+          "entity_id": "Q2875884"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/North_Weald_Bassett",
+          "entity_id": "Q3242727"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nottage_Maritime_Institute&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Wivenhoe",
+          "entity_id": "Q1757774"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://www.nottage.org.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Paycocke%27s",
+          "entity_id": "Q17536153"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coggeshall",
+          "entity_id": "Q1013398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20100328023305/http://www.nationaltrust.org.uk/main/w-paycockes",
+          "entity_id": null
+        },
+        {
+          "start": 26,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty",
+          "entity_id": "Q333515"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.essexcricket.org.uk/team/history/",
+          "entity_id": null
+        },
+        {
+          "start": 41,
+          "end": 66,
+          "url": "http://en.wikipedia.org/wiki/Essex_County_Cricket_Club",
+          "entity_id": "Q3058749"
+        },
+        {
+          "start": 80,
+          "end": 101,
+          "url": "http://en.wikipedia.org/wiki/County_Cricket_Ground,_Chelmsford",
+          "entity_id": "Q5177655"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Prittlewell_Priory",
+          "entity_id": "Q7245990"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend-on-Sea",
+          "entity_id": "Q203995"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 9,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Priory",
+          "entity_id": "Q2750108"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/w/index.php?title=Purfleet_Heritage_%26_Military_Centre&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Purfleet",
+          "entity_id": "Q1972020"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thurrock",
+          "entity_id": "Q1549155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.purfleet-heritage.com/",
+          "entity_id": null
+        },
+        {
+          "start": 36,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Magazine_(artillery)",
+          "entity_id": "Q3184407"
+        },
+        {
+          "start": 49,
+          "end": 58,
+          "url": "http://en.wikipedia.org/wiki/Gunpowder",
+          "entity_id": "Q12861"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Rayleigh_Town_Museum",
+          "entity_id": "Q51721827"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rayleigh,_Essex",
+          "entity_id": "Q2117331"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rochford_(district)",
+          "entity_id": "Q2160315"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.rayleightownmuseum.co.uk/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Rayleigh_Windmill",
+          "entity_id": "Q7298483"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rayleigh,_Essex",
+          "entity_id": "Q2117331"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rochford_(district)",
+          "entity_id": "Q2160315"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ridgewell",
+          "entity_id": "Q2740852"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.381st.com/",
+          "entity_id": null
+        },
+        {
+          "start": 58,
+          "end": 70,
+          "url": "http://en.wikipedia.org/wiki/World_War_II",
+          "entity_id": "Q362"
+        },
+        {
+          "start": 85,
+          "end": 101,
+          "url": "http://en.wikipedia.org/wiki/381st_Bomb_Group",
+          "entity_id": "Q4635937"
+        },
+        {
+          "start": 110,
+          "end": 129,
+          "url": "http://en.wikipedia.org/wiki/No._90_Squadron_RAF",
+          "entity_id": "Q3494420"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Waltham_Abbey_Royal_Gunpowder_Mills",
+          "entity_id": "Q7966594"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Waltham_Abbey_(town)",
+          "entity_id": "Q2462706"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Epping_Forest_(district)",
+          "entity_id": "Q1347659"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 173,
+          "end": 187,
+          "url": "http://en.wikipedia.org/wiki/Gunpowder_Plot",
+          "entity_id": "Q45810"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Saffron_Walden_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Saffron_Walden",
+          "entity_id": "Q183329"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://saffronwaldenmuseum.org/",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sandford_Mill&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford",
+          "entity_id": "Q210985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.chelmsford.gov.uk/sandfordmill",
+          "entity_id": null
+        },
+        {
+          "start": 68,
+          "end": 86,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_Museum",
+          "entity_id": "Q5089964"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Southchurch_Hall",
+          "entity_id": "Q7569243"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend-on-Sea",
+          "entity_id": "Q203995"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Southend_Central_Museum",
+          "entity_id": "Q7569537"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend-on-Sea",
+          "entity_id": "Q203995"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Southend_Pier#21st_century",
+          "entity_id": "Q6273174"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Southend-on-Sea",
+          "entity_id": "Q203995"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Stansted_Mountfitchet_Windmill",
+          "entity_id": "Q7600194"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Stansted_Mountfitchet",
+          "entity_id": "Q126579"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Stock_Windmill",
+          "entity_id": "Q7617873"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Stock,_Essex",
+          "entity_id": "Q5173626"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Chelmsford_(borough)",
+          "entity_id": "Q894080"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Thaxted_Guildhall",
+          "entity_id": "Q17539143"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Thaxted",
+          "entity_id": "Q2283481"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uttlesford",
+          "entity_id": "Q1496198"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://web.archive.org/web/20100409081110/http://www.thaxted.co.uk/content/guildhall",
+          "entity_id": null
+        },
+        {
+          "start": 23,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Guild",
+          "entity_id": "Q939871"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Harlow",
+          "entity_id": "Q852729"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.science-alive.co.uk",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Thurrock_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Grays",
+          "entity_id": "Q1544055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thurrock",
+          "entity_id": "Q1549155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "https://www.thurrock.gov.uk/thurrock-museum/about-museum",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tilbury_Fort",
+          "entity_id": "Q7802074"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tilbury",
+          "entity_id": "Q648432"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thurrock",
+          "entity_id": "Q1549155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 12,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/English_Heritage",
+          "entity_id": "Q936287"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/w/index.php?title=Walton_Maritime_Museum&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Walton-on-the-Naze",
+          "entity_id": "Q1818988"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tendring_District",
+          "entity_id": "Q1752638"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://www.fwheritage.co.uk/waltoninfo.aspx",
+          "entity_id": null
+        },
+        {
+          "start": 99,
+          "end": 124,
+          "url": "http://en.wikipedia.org/wiki/James_Stevens_lifeboats",
+          "entity_id": "Q19874620"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Warner_Textile_Archive",
+          "entity_id": "Q7969761"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Braintree_(district)",
+          "entity_id": "Q897454"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Wilkin_%26_Sons",
+          "entity_id": "Q2576427"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tiptree",
+          "entity_id": "Q2342731"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Colchester_(borough)",
+          "entity_id": "Q589620"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

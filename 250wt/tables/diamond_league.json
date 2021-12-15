@@ -1,0 +1,1054 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Diamond_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "#",
+        "values": [
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "10",
+          "6",
+          "5",
+          "1"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Meeting",
+        "values": [
+          "Bislett Games",
+          "Doha Diamond League",
+          "Shanghai Golden Grand Prix",
+          "Golden Gala",
+          "Bislett Games",
+          "Prefontaine Classic",
+          "Athletissima",
+          "Herculis",
+          "London Grand Prix",
+          "British Grand Prix",
+          "Meeting de Paris",
+          "Weltklasse Zürich",
+          "Memorial Van Damme",
+          "BAUHAUS-galan",
+          "Adidas Grand Prix",
+          "Meeting de Rabat",
+          "TBD"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Arena",
+        "values": [
+          "Bislett Stadium",
+          "Qatar Sports Club",
+          "Shanghai Stadium",
+          "Stadio Olimpico",
+          "Bislett Stadium",
+          "Hayward Field",
+          "Stade Olympique de la Pontaise",
+          "Stade Louis II",
+          "London Stadium",
+          "Alexander Stadium",
+          "Stade Sébastien Charléty",
+          "Letzigrund",
+          "King Baudouin Stadium",
+          "Stockholm Olympic Stadium",
+          "Icahn Stadium",
+          "Prince Moulay Abdellah Stadium",
+          "TBD"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "City",
+        "values": [
+          "Oslo",
+          "Doha",
+          "Shanghai",
+          "Rome",
+          "Oslo",
+          "Eugene",
+          "Lausanne",
+          "Fontvieille",
+          "London",
+          "Birmingham",
+          "Paris",
+          "Zürich",
+          "Brussels",
+          "Stockholm",
+          "New York City",
+          "Rabat",
+          "TBD"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Country",
+        "values": [
+          "Norway",
+          "Qatar",
+          "China",
+          "Italy",
+          "Norway",
+          "United States",
+          "Switzerland",
+          "Monaco",
+          "United Kingdom",
+          "United Kingdom",
+          "France",
+          "Switzerland",
+          "Belgium",
+          "Sweden",
+          "United States",
+          "Morocco",
+          "China"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "2010",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 6,
+        "name": "2011",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "2012",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 8,
+        "name": "2013",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 9,
+        "name": "2014",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 10,
+        "name": "2015",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 11,
+        "name": "2016",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          "•",
+          ""
+        ]
+      },
+      {
+        "index": 12,
+        "name": "2017",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          "•",
+          ""
+        ]
+      },
+      {
+        "index": 13,
+        "name": "2018",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          "•",
+          ""
+        ]
+      },
+      {
+        "index": 14,
+        "name": "2019",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          "•",
+          ""
+        ]
+      },
+      {
+        "index": 15,
+        "name": "2020",
+        "values": [
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "•",
+          "",
+          "•",
+          "•"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Diamond League",
+    "page_url": "https://en.wikipedia.org/wiki/Diamond_League",
+    "page_entity_id": "Q301839"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bislett_Games",
+          "entity_id": "Q866398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bislett_Stadium",
+          "entity_id": "Q866409"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oslo",
+          "entity_id": "Q585"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Doha_Diamond_League",
+          "entity_id": "Q1118647"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Qatar_Sports_Club",
+          "entity_id": "Q1051203"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Doha",
+          "entity_id": "Q3861"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/2019_Doha_Diamond_League",
+          "entity_id": "Q63441610"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Shanghai_Golden_Grand_Prix",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Shanghai_Stadium",
+          "entity_id": "Q739528"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shanghai",
+          "entity_id": "Q8686"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Golden_Gala",
+          "entity_id": "Q225463"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Stadio_Olimpico",
+          "entity_id": "Q159884"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Rome",
+          "entity_id": "Q220"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bislett_Games",
+          "entity_id": "Q866398"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bislett_Stadium",
+          "entity_id": "Q866409"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Oslo",
+          "entity_id": "Q585"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Prefontaine_Classic",
+          "entity_id": "Q679614"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hayward_Field",
+          "entity_id": "Q1568417"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Eugene,_Oregon",
+          "entity_id": "Q171224"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/2019_Prefontaine_Classic",
+          "entity_id": "Q65015197"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Athletissima",
+          "entity_id": "Q665517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Stade_Olympique_de_la_Pontaise",
+          "entity_id": "Q668606"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lausanne",
+          "entity_id": "Q807"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Herculis",
+          "entity_id": "Q1250640"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Stade_Louis_II",
+          "entity_id": "Q318851"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Fontvieille,_Monaco",
+          "entity_id": "Q55098"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/London_Grand_Prix",
+          "entity_id": "Q791183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/London_Stadium",
+          "entity_id": "Q172190"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/British_Grand_Prix_(athletics)",
+          "entity_id": "Q746741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Alexander_Stadium",
+          "entity_id": "Q2833210"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Meeting_de_Paris",
+          "entity_id": "Q983696"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Stade_S%C3%A9bastien_Charl%C3%A9ty",
+          "entity_id": "Q541391"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/2018_Meeting_de_Paris",
+          "entity_id": "Q55215225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 1,
+          "url": "http://en.wikipedia.org/wiki/2019_Meeting_de_Paris",
+          "entity_id": "Q65128426"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Weltklasse_Z%C3%BCrich",
+          "entity_id": "Q661729"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Letzigrund",
+          "entity_id": "Q207623"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Z%C3%BCrich",
+          "entity_id": "Q72"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Memorial_Van_Damme",
+          "entity_id": "Q1426540"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/King_Baudouin_Stadium",
+          "entity_id": "Q622671"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Brussels",
+          "entity_id": "Q240"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/BAUHAUS-galan",
+          "entity_id": "Q1154703"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Stockholm_Olympic_Stadium",
+          "entity_id": "Q727078"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stockholm",
+          "entity_id": "Q1754"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Adidas_Grand_Prix",
+          "entity_id": "Q240958"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Icahn_Stadium",
+          "entity_id": "Q2420704"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/New_York_City",
+          "entity_id": "Q60"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Meeting_International_Mohammed_VI_d%27Athl%C3%A9tisme_de_Rabat",
+          "entity_id": "Q246143"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Prince_Moulay_Abdellah_Stadium",
+          "entity_id": "Q1858169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Rabat",
+          "entity_id": "Q3551"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

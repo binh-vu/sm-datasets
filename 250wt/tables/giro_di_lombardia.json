@@ -1,0 +1,692 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Giro_di_Lombardia",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Wins",
+        "values": [
+          "5",
+          "4",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "3",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Rider",
+        "values": [
+          "Fausto Coppi",
+          "Alfredo Binda",
+          "Henri Pélissier",
+          "Costante Girardengo",
+          "Gaetano Belloni",
+          "Gino Bartali",
+          "Seán Kelly",
+          "Damiano Cunego",
+          "Giovanni Brunero",
+          "Aldo Bini",
+          "Mario Ricci",
+          "Jo de Roo",
+          "Franco Bitossi",
+          "Eddy Merckx",
+          "Felice Gimondi",
+          "Roger De Vlaeminck",
+          "Francesco Moser",
+          "Bernard Hinault",
+          "Gianbattista Baronchelli",
+          "Tony Rominger",
+          "Michele Bartoli",
+          "Paolo Bettini",
+          "Philippe Gilbert",
+          "Joaquim Rodríguez",
+          "Vincenzo Nibali"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Italy",
+          " Italy",
+          " France",
+          " Italy",
+          " Italy",
+          " Italy",
+          " Ireland",
+          " Italy",
+          " Italy",
+          " Italy",
+          " Italy",
+          " Netherlands",
+          " Italy",
+          " Belgium",
+          " Italy",
+          " Belgium",
+          " Italy",
+          " France",
+          " Italy",
+          " Switzerland",
+          " Italy",
+          " Italy",
+          " Belgium",
+          " Spain",
+          " Italy"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Editions",
+        "values": [
+          "1946, 1947, 1948, 1949, 1954",
+          "1925, 1926, 1927, 1931",
+          "1911, 1913, 1920",
+          "1919, 1921, 1922",
+          "1915, 1918, 1928",
+          "1936, 1939, 1940",
+          "1983, 1985, 1991",
+          "2004, 2007 , 2008",
+          "1923, 1924",
+          "1937, 1942",
+          "1941, 1945",
+          "1962, 1963",
+          "1967, 1970",
+          "1971, 1972",
+          "1966, 1973",
+          "1974, 1976",
+          "1975, 1978",
+          "1979, 1984",
+          "1977, 1986",
+          "1989, 1992",
+          "2002, 2003",
+          "2005, 2006",
+          "2009 , 2010",
+          "2012 , 2013",
+          "2015 , 2017"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Giro di Lombardia",
+    "page_url": "https://en.wikipedia.org/wiki/Giro_di_Lombardia",
+    "page_entity_id": "Q34032"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fausto_Coppi",
+          "entity_id": "Q219912"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Alfredo_Binda",
+          "entity_id": "Q318051"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Henri_P%C3%A9lissier",
+          "entity_id": "Q378848"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Costante_Girardengo",
+          "entity_id": "Q470583"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gaetano_Belloni",
+          "entity_id": "Q723634"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Gino_Bartali",
+          "entity_id": "Q155010"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sean_Kelly_(cyclist)",
+          "entity_id": "Q156707"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Damiano_Cunego",
+          "entity_id": "Q316910"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 6,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/2007_Giro_di_Lombardia",
+          "entity_id": "Q779969"
+        },
+        {
+          "start": 13,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/2008_Giro_di_Lombardia",
+          "entity_id": "Q2067893"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Giovanni_Brunero",
+          "entity_id": "Q704621"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Aldo_Bini",
+          "entity_id": "Q284080"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mario_Ricci",
+          "entity_id": "Q1889965"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jo_de_Roo",
+          "entity_id": "Q150537"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Franco_Bitossi",
+          "entity_id": "Q494653"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Eddy_Merckx",
+          "entity_id": "Q103756"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Felice_Gimondi",
+          "entity_id": "Q313526"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Roger_De_Vlaeminck",
+          "entity_id": "Q378334"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Francesco_Moser",
+          "entity_id": "Q366657"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bernard_Hinault",
+          "entity_id": "Q109255"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Gianbattista_Baronchelli",
+          "entity_id": "Q491825"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Tony_Rominger",
+          "entity_id": "Q337118"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Michele_Bartoli",
+          "entity_id": "Q550884"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Paolo_Bettini",
+          "entity_id": "Q298886"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Philippe_Gilbert",
+          "entity_id": "Q259412"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2009_Giro_di_Lombardia",
+          "entity_id": "Q675390"
+        },
+        {
+          "start": 7,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2010_Giro_di_Lombardia",
+          "entity_id": "Q2033741"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Joaquim_Rodr%C3%ADguez",
+          "entity_id": "Q313826"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2012_Giro_di_Lombardia",
+          "entity_id": "Q2071277"
+        },
+        {
+          "start": 7,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2013_Giro_di_Lombardia",
+          "entity_id": "Q10949258"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Vincenzo_Nibali",
+          "entity_id": "Q312322"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2015_Il_Lombardia",
+          "entity_id": "Q19598850"
+        },
+        {
+          "start": 7,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2017_Il_Lombardia",
+          "entity_id": "Q27865357"
+        }
+      ]
+    ]
+  ]
+}

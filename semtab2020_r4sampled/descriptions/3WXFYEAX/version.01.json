@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q85482556:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q85482556",
+        "rel_uri": "wd:Q85482556",
+        "approximation": false,
+        "readable_label": "rural district of Bavaria (Q85482556)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q85482556:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q85482556:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P1538",
+        "rel_uri": "p:P1538",
+        "approximation": false,
+        "readable_label": "number of households (P1538)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q85482556:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P4080",
+        "rel_uri": "p:P4080",
+        "approximation": false,
+        "readable_label": "number of houses (P4080)",
+        "id": 3
+      }
+    ]
+  }
+]

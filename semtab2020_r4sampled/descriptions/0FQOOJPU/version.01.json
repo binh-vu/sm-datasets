@@ -1,0 +1,88 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q1153392:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1153392",
+        "rel_uri": "wd:Q1153392",
+        "approximation": false,
+        "readable_label": "S-type star (Q1153392)"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q8928:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q8928",
+        "rel_uri": "wd:Q8928",
+        "approximation": false,
+        "readable_label": "constellation (Q8928)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q1153392:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1153392:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P881",
+        "rel_uri": "p:P881",
+        "approximation": false,
+        "readable_label": "type of variable star (P881)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1153392:0",
+        "target": "http://www.wikidata.org/entity/Q8928:0",
+        "abs_uri": "http://www.wikidata.org/prop/P59",
+        "rel_uri": "p:P59",
+        "approximation": false,
+        "readable_label": "constellation (P59)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q1153392:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P6257",
+        "rel_uri": "p:P6257",
+        "approximation": false,
+        "readable_label": "right ascension (P6257)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q8928:0",
+        "target": "col-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      }
+    ]
+  }
+]

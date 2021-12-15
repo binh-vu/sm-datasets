@@ -1,0 +1,389 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Heartland_Collegiate_Conference",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Institution",
+        "values": [
+          "Ashland",
+          "Butler",
+          "Evansville",
+          "Franklin",
+          "Georgetown (KY)",
+          "Indiana Central",
+          "Saint Joseph's (IN)",
+          "Valparaiso"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Ashland, Ohio",
+          "Indianapolis, Indiana",
+          "Evansville, Indiana",
+          "Franklin, Indiana",
+          "Georgetown, Kentucky",
+          "Indianapolis, Indiana",
+          "Rensselaer, Indiana",
+          "Valparaiso, Indiana"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nickname",
+        "values": [
+          "Eagles",
+          "Bulldogs",
+          "Purple Aces",
+          "Grizzlies",
+          "Tigers",
+          "Greyhounds",
+          "Pumas",
+          "Crusaders"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Founded",
+        "values": [
+          "1878",
+          "1855",
+          "1854",
+          "1834",
+          "1829",
+          "1902",
+          "1889",
+          "1859"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Joined",
+        "values": [
+          "1978",
+          "1978",
+          "1978",
+          "1978",
+          "1978",
+          "1978",
+          "1978",
+          "1978"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Left",
+        "values": [
+          "1990",
+          "1990",
+          "",
+          "1987",
+          "1983",
+          "1990",
+          "1990",
+          "1990"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Conference \njoined",
+        "values": [
+          "MIFC",
+          "MIFC",
+          "",
+          "",
+          "",
+          "MIFC",
+          "MIFC",
+          "MIFC"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Heartland Collegiate Conference",
+    "page_url": "https://en.wikipedia.org/wiki/Heartland_Collegiate_Conference",
+    "page_entity_id": "Q28227926"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ashland_University",
+          "entity_id": "Q986122"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ashland,_Ohio",
+          "entity_id": "Q725573"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ashland_Eagles_football",
+          "entity_id": "Q22095287"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Midwest_Intercollegiate_Football_Conference",
+          "entity_id": "Q6843393"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Butler_University",
+          "entity_id": "Q1017974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Butler_Bulldogs_football",
+          "entity_id": "Q5002581"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Midwest_Intercollegiate_Football_Conference",
+          "entity_id": "Q6843393"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/University_of_Evansville",
+          "entity_id": "Q4026988"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Evansville,_Indiana",
+          "entity_id": "Q486459"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Evansville_Purple_Aces_football",
+          "entity_id": "Q5416041"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Franklin_College_(Indiana)",
+          "entity_id": "Q5491372"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Franklin,_Indiana",
+          "entity_id": "Q983769"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Franklin_Grizzlies_football",
+          "entity_id": "Q5491372"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Georgetown_College",
+          "entity_id": "Q5546985"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Georgetown,_Kentucky",
+          "entity_id": "Q877247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Georgetown_Tigers_football",
+          "entity_id": "Q5547046"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/University_of_Indianapolis",
+          "entity_id": "Q7895554"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis",
+          "entity_id": "Q6346"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indianapolis_Greyhounds_football",
+          "entity_id": "Q22097432"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Midwest_Intercollegiate_Football_Conference",
+          "entity_id": "Q6843393"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Saint_Joseph%27s_College_(Indiana)",
+          "entity_id": "Q7401511"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Rensselaer,_Indiana",
+          "entity_id": "Q3240333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Saint_Joseph%27s_Pumas_football",
+          "entity_id": "Q7401511"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Midwest_Intercollegiate_Football_Conference",
+          "entity_id": "Q6843393"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Valparaiso_University",
+          "entity_id": "Q186047"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Valparaiso,_Indiana",
+          "entity_id": "Q868888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Valparaiso_Crusaders_football",
+          "entity_id": "Q7912569"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Midwest_Intercollegiate_Football_Conference",
+          "entity_id": "Q6843393"
+        }
+      ]
+    ]
+  ]
+}

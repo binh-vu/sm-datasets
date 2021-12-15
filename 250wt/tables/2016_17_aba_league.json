@@ -1,0 +1,460 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016–17_ABA_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Budućnost VOLI",
+          "Cedevita",
+          "Cibona",
+          "Crvena zvezda mts",
+          "FMP",
+          "Igokea",
+          "Karpoš Sokoli",
+          "Krka",
+          "Mega Leks",
+          "Mornar",
+          "MZT Skopje Aerodrom",
+          "Partizan NIS",
+          "Union Olimpija",
+          "Zadar"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home city",
+        "values": [
+          "Podgorica",
+          "Zagreb",
+          "Zagreb",
+          "Belgrade",
+          "Železnik",
+          "Aleksandrovac",
+          "Skopje",
+          "Novo Mesto",
+          "Sremska Mitrovica",
+          "Bar",
+          "Skopje",
+          "Belgrade",
+          "Ljubljana",
+          "Zadar"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Arena",
+        "values": [
+          "Morača Sports Center",
+          "Dom Sportova",
+          "Dražen Petrović Basketball Hall",
+          "Hall Aleksandar Nikolić",
+          "Železnik Hall",
+          "Laktaši Sports Hall",
+          "Boris Trajkovski Sports Center",
+          "Leon Štukelj Hall",
+          "Sports Hall Pinki",
+          "Topolica Sport Hall",
+          "Jane Sandanski Arena",
+          "Hall Aleksandar Nikolić",
+          "Arena Stožice",
+          "Krešimir Ćosić Hall"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "4,300",
+          "3,100",
+          "5,400",
+          "5,878",
+          "3,000",
+          "3,050",
+          "8,000",
+          "2,000",
+          "2,500",
+          "2,625",
+          "7,500",
+          "6,500",
+          "12,480",
+          "9,000"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016–17 ABA League",
+    "page_url": "https://en.wikipedia.org/wiki/2016–17_ABA_League",
+    "page_entity_id": "Q24910080"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/KK_Budu%C4%87nost",
+          "entity_id": "Q32801"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Podgorica",
+          "entity_id": "Q23564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center",
+          "entity_id": "Q581727"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/KK_Cedevita",
+          "entity_id": "Q185173"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zagreb",
+          "entity_id": "Q1435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Dom_Sportova",
+          "entity_id": "Q115391"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/KK_Cibona",
+          "entity_id": "Q916967"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zagreb",
+          "entity_id": "Q1435"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Dra%C5%BEen_Petrovi%C4%87_Basketball_Hall",
+          "entity_id": "Q549238"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/KK_Crvena_zvezda",
+          "entity_id": "Q1132627"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgrade",
+          "entity_id": "Q3711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Hall_Aleksandar_Nikoli%C4%87",
+          "entity_id": "Q367802"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/KK_FMP",
+          "entity_id": "Q3446443"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/%C5%BDeleznik",
+          "entity_id": "Q1259238"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/%C5%BDeleznik_Hall",
+          "entity_id": "Q2602989"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/KK_Igokea",
+          "entity_id": "Q2627170"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lakta%C5%A1i",
+          "entity_id": "Q635944"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Lakta%C5%A1i_Sports_Hall",
+          "entity_id": "Q5217117"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/KK_Karpo%C5%A1_Sokoli",
+          "entity_id": "Q19577197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Skopje",
+          "entity_id": "Q384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Boris_Trajkovski_Sports_Center",
+          "entity_id": "Q2946074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/KK_Krka",
+          "entity_id": "Q955141"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Novo_Mesto",
+          "entity_id": "Q5266"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/KK_Mega_Basket",
+          "entity_id": "Q2350795"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sremska_Mitrovica",
+          "entity_id": "Q242733"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/KK_Mornar_Bar",
+          "entity_id": "Q2443717"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Bar,_Montenegro",
+          "entity_id": "Q115276"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Topolica_Sport_Hall",
+          "entity_id": "Q16632707"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/KK_MZT_Skopje",
+          "entity_id": "Q2918273"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Skopje",
+          "entity_id": "Q384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Jane_Sandanski_Arena",
+          "entity_id": "Q6152715"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/KK_Partizan",
+          "entity_id": "Q912247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgrade",
+          "entity_id": "Q3711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Hall_Aleksandar_Nikoli%C4%87",
+          "entity_id": "Q367802"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/KK_Olimpija",
+          "entity_id": "Q1137737"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ljubljana",
+          "entity_id": "Q437"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arena_Sto%C5%BEice",
+          "entity_id": "Q385205"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/KK_Zadar",
+          "entity_id": "Q1141306"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Zadar",
+          "entity_id": "Q3370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Kre%C5%A1imir_%C4%86osi%C4%87_Hall",
+          "entity_id": "Q967234"
+        }
+      ],
+      []
+    ]
+  ]
+}

@@ -1,0 +1,1600 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2016_in_UFC",
+    "columns": [
+      {
+        "index": 0,
+        "name": "#",
+        "values": [
+          "385",
+          "384",
+          "383",
+          "382",
+          "381",
+          "380",
+          "379",
+          "378",
+          "377",
+          "376",
+          "–",
+          "375",
+          "374",
+          "373",
+          "372",
+          "371",
+          "370",
+          "369",
+          "368",
+          "367",
+          "366",
+          "365",
+          "364",
+          "363",
+          "362",
+          "361",
+          "360",
+          "359",
+          "358",
+          "357",
+          "356",
+          "355",
+          "354",
+          "353",
+          "352",
+          "351",
+          "350",
+          "349",
+          "348",
+          "347",
+          "346",
+          "345"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Event",
+        "values": [
+          "UFC 207: Nunes vs. Rousey",
+          "UFC on Fox: VanZant vs. Waterson",
+          "UFC 206: Holloway vs. Pettis",
+          "UFC Fight Night: Lewis vs. Abdurakhimov",
+          "The Ultimate Fighter: Tournament of Champions Finale",
+          "UFC Fight Night: Whittaker vs. Brunson",
+          "UFC Fight Night: Bader vs. Nogueira 2",
+          "UFC Fight Night: Mousasi vs. Hall 2",
+          "UFC 205: Alvarez vs. McGregor",
+          "The Ultimate Fighter Latin America 3 Finale: dos Anjos vs. Ferguson",
+          "UFC Fight Night: Lamas vs. Penn",
+          "UFC 204: Bisping vs. Henderson 2",
+          "UFC Fight Night: Lineker vs. Dodson",
+          "UFC Fight Night: Cyborg vs. Lansberg",
+          "UFC Fight Night: Poirier vs. Johnson",
+          "UFC 203: Miocic vs. Overeem",
+          "UFC Fight Night: Arlovski vs. Barnett",
+          "UFC on Fox: Maia vs. Condit",
+          "UFC 202: Diaz vs. McGregor 2",
+          "UFC Fight Night: Rodríguez vs. Caceres",
+          "UFC 201: Lawler vs. Woodley",
+          "UFC on Fox: Holm vs. Shevchenko",
+          "UFC Fight Night: McDonald vs. Lineker",
+          "UFC 200: Tate vs. Nunes",
+          "The Ultimate Fighter: Team Joanna vs. Team Cláudia Finale",
+          "UFC Fight Night: dos Anjos vs. Alvarez",
+          "UFC Fight Night: MacDonald vs. Thompson",
+          "UFC 199: Rockhold vs Bisping 2",
+          "UFC Fight Night: Almeida vs. Garbrandt",
+          "UFC 198: Werdum vs. Miocic",
+          "UFC Fight Night: Overeem vs. Arlovski",
+          "UFC 197: Jones vs. Saint Preux",
+          "UFC on Fox: Teixeira vs. Evans",
+          "UFC Fight Night: Rothwell vs. dos Santos",
+          "UFC Fight Night: Hunt vs. Mir",
+          "UFC 196: McGregor vs. Diaz",
+          "UFC Fight Night: Silva vs. Bisping",
+          "UFC Fight Night: Cowboy vs. Cowboy",
+          "UFC Fight Night: Hendricks vs. Thompson",
+          "UFC on Fox: Johnson vs. Bader",
+          "UFC Fight Night: Dillashaw vs. Cruz",
+          "UFC 195: Lawler vs. Condit"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Date",
+        "values": [
+          "December 30, 2016",
+          "December 17, 2016",
+          "December 10, 2016",
+          "December 9, 2016",
+          "December 3, 2016",
+          "November 27, 2016",
+          "November 19, 2016",
+          "November 19, 2016",
+          "November 12, 2016",
+          "November 5, 2016",
+          "October 15, 2016",
+          "October 8, 2016",
+          "October 1, 2016",
+          "September 24, 2016",
+          "September 17, 2016",
+          "September 10, 2016",
+          "September 3, 2016",
+          "August 27, 2016",
+          "August 20, 2016",
+          "August 6, 2016",
+          "July 30, 2016",
+          "July 23, 2016",
+          "July 13, 2016",
+          "Jul 9, 2016",
+          "Jul 8, 2016",
+          "Jul 7, 2016",
+          "June 18, 2016",
+          "June 4, 2016",
+          "May 29, 2016",
+          "May 14, 2016",
+          "May 8, 2016",
+          "April 23, 2016",
+          "April 16, 2016",
+          "April 10, 2016",
+          "March 20, 2016",
+          "March 5, 2016",
+          "Feb 27, 2016",
+          "Feb 21, 2016",
+          "Feb 6, 2016",
+          "Jan 30, 2016",
+          "Jan 17, 2016",
+          "Jan 2, 2016"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "T-Mobile Arena",
+          "Golden 1 Center",
+          "Air Canada Centre",
+          "Times Union Center",
+          "Palms Casino Resort",
+          "Rod Laver Arena",
+          "Ginásio do Ibirapuera",
+          "SSE Arena",
+          "Madison Square Garden",
+          "Arena Ciudad de México",
+          "Mall of Asia Arena",
+          "Manchester Arena",
+          "Moda Center",
+          "Ginásio Nilson Nelson",
+          "State Farm Arena",
+          "Quicken Loans Arena",
+          "Barclaycard Arena",
+          "Rogers Arena",
+          "T-Mobile Arena",
+          "Vivint Smart Home Arena",
+          "Philips Arena",
+          "United Center",
+          "Denny Sanford Premier Center",
+          "T-Mobile Arena",
+          "MGM Grand Garden Arena",
+          "MGM Grand Garden Arena",
+          "TD Place Arena",
+          "The Forum",
+          "Mandalay Bay Events Center",
+          "Arena da Baixada",
+          "Rotterdam Ahoy",
+          "MGM Grand Garden Arena",
+          "Amalie Arena",
+          "Arena Zagreb",
+          "Brisbane Entertainment Centre",
+          "MGM Grand Garden Arena",
+          "The O 2 Arena",
+          "Consol Energy Center",
+          "MGM Grand Garden Arena",
+          "Prudential Center",
+          "TD Garden",
+          "MGM Grand Garden Arena"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Location",
+        "values": [
+          "Las Vegas , Nevada , U.S.",
+          "Sacramento, California , U.S.",
+          "Toronto, Ontario , Canada",
+          "Albany, New York , U.S",
+          "Las Vegas , Nevada , U.S.",
+          "Melbourne , Australia",
+          "São Paulo , Brazil",
+          "Belfast, Northern Ireland , U.K.",
+          "New York, New York , U.S.",
+          "Mexico City , Mexico",
+          "Pasay , Philippines",
+          "Manchester , England , U.K.",
+          "Portland, Oregon , U.S.",
+          "Brasília , Brazil",
+          "Hidalgo, Texas , U.S.",
+          "Cleveland, Ohio , U.S.",
+          "Hamburg , Germany",
+          "Vancouver, British Columbia , Canada",
+          "Las Vegas, Nevada , U.S.",
+          "Salt Lake City, Utah , U.S.",
+          "Atlanta, Georgia , U.S.",
+          "Chicago, Illinois , U.S.",
+          "Sioux Falls, South Dakota , U.S.",
+          "Las Vegas , Nevada , U.S.",
+          "Las Vegas , Nevada , U.S.",
+          "Las Vegas , Nevada , U.S.",
+          "Ottawa , Ontario , Canada",
+          "Inglewood, California , U.S",
+          "Las Vegas , Nevada , U.S.",
+          "Curitiba , Brazil",
+          "Rotterdam , Netherlands",
+          "Las Vegas , Nevada , U.S",
+          "Tampa, Florida , U.S.",
+          "Zagreb , Croatia",
+          "Brisbane , Australia",
+          "Las Vegas , Nevada , U.S.",
+          "London , England , U.K.",
+          "Pittsburgh, Pennsylvania , U.S.",
+          "Las Vegas , Nevada , U.S.",
+          "Newark, New Jersey , U.S.",
+          "Boston, Massachusetts , U.S.",
+          "Las Vegas , Nevada , U.S."
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Attendance",
+        "values": [
+          "18,533",
+          "13,136",
+          "18,057",
+          "6,216",
+          "2,044",
+          "13,721",
+          "9,028",
+          "7,222",
+          "20,427",
+          "11,460",
+          "Cancelled",
+          "16,000",
+          "6,240",
+          "8,410",
+          "5,624",
+          "18,875",
+          "11,763",
+          "10,533",
+          "15,539",
+          "6,689",
+          "10,240",
+          "10,287",
+          "5,671",
+          "18,202",
+          "8,115",
+          "7,760",
+          "10,490",
+          "15,587",
+          "5,193",
+          "45,207",
+          "10,421",
+          "11,352",
+          "11,273",
+          "13,177",
+          "9,552",
+          "14,898",
+          "16,734",
+          "7,330",
+          "7,422",
+          "10,555",
+          "12,022",
+          "10,300"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2016 in UFC",
+    "page_url": "https://en.wikipedia.org/wiki/2016_in_UFC",
+    "page_entity_id": "Q23021985"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/UFC_207",
+          "entity_id": "Q27928756"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/T-Mobile_Arena",
+          "entity_id": "Q3338973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/UFC_on_Fox:_VanZant_vs._Waterson",
+          "entity_id": "Q27928742"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Golden_1_Center",
+          "entity_id": "Q7011384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Sacramento,_California",
+          "entity_id": "Q18013"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/UFC_206",
+          "entity_id": "Q27894132"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Air_Canada_Centre",
+          "entity_id": "Q406972"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Toronto,_Ontario",
+          "entity_id": "Q172"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Lewis_vs._Abdurakhimov",
+          "entity_id": "Q27910272"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Times_Union_Center",
+          "entity_id": "Q1143334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Albany,_New_York",
+          "entity_id": "Q24861"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 52,
+          "url": "http://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Tournament_of_Champions#The_Ultimate_Fighter_24_Finale",
+          "entity_id": "Q24211102"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Palms_Casino_Resort",
+          "entity_id": "Q2048307"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Whittaker_vs._Brunson",
+          "entity_id": "Q27058596"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Rod_Laver_Arena",
+          "entity_id": "Q222878"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne",
+          "entity_id": "Q3141"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Bader_vs._Nogueira_2",
+          "entity_id": "Q27048582"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Gin%C3%A1sio_do_Ibirapuera",
+          "entity_id": "Q3106847"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/S%C3%A3o_Paulo",
+          "entity_id": "Q174"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Mousasi_vs._Hall_2",
+          "entity_id": "Q27797250"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/SSE_Arena,_Belfast",
+          "entity_id": "Q1567378"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Belfast,_Northern_Ireland",
+          "entity_id": "Q10686"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/UFC_205",
+          "entity_id": "Q27044117"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Madison_Square_Garden",
+          "entity_id": "Q186125"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/New_York,_New_York",
+          "entity_id": "Q60"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 67,
+          "url": "http://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Latin_America_3#The_Ultimate_Fighter_Latin_America_3_Finale:_dos_Anjos_vs._Ferguson",
+          "entity_id": "Q24910479"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Mexico_City_Arena",
+          "entity_id": "Q6826206"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mexico_City",
+          "entity_id": "Q1489"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Lamas_vs._Penn",
+          "entity_id": "Q26945155"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mall_of_Asia_Arena",
+          "entity_id": "Q6743990"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Pasay",
+          "entity_id": "Q17189"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/UFC_204",
+          "entity_id": "Q26776727"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Manchester_Arena",
+          "entity_id": "Q1461465"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Manchester",
+          "entity_id": "Q18125"
+        },
+        {
+          "start": 13,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Lineker_vs._Dodson",
+          "entity_id": "Q26912645"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Moda_Center",
+          "entity_id": "Q1347442"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Portland,_Oregon",
+          "entity_id": "Q6106"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Cyborg_vs._Lansberg",
+          "entity_id": "Q26254151"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Nilson_Nelson_Gymnasium",
+          "entity_id": "Q7037466"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bras%C3%ADlia",
+          "entity_id": "Q2844"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Poirier_vs._Johnson",
+          "entity_id": "Q25340057"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/State_Farm_Arena_(Hidalgo,_Texas)",
+          "entity_id": "Q1968734"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hidalgo,_Texas",
+          "entity_id": "Q981445"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/UFC_203",
+          "entity_id": "Q24909205"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Quicken_Loans_Arena",
+          "entity_id": "Q387157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Cleveland,_Ohio",
+          "entity_id": "Q37320"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Arlovski_vs._Barnett",
+          "entity_id": "Q24910329"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Barclaycard_Arena_(Hamburg)",
+          "entity_id": "Q265107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hamburg",
+          "entity_id": "Q1055"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/UFC_on_Fox:_Maia_vs._Condit",
+          "entity_id": "Q24890020"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rogers_Arena",
+          "entity_id": "Q517318"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Vancouver,_British_Columbia",
+          "entity_id": "Q24639"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/UFC_202",
+          "entity_id": "Q24775010"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/T-Mobile_Arena",
+          "entity_id": "Q3338973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas,_Nevada",
+          "entity_id": "Q23768"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Rodr%C3%ADguez_vs._Caceres",
+          "entity_id": "Q24736639"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Vivint_Smart_Home_Arena",
+          "entity_id": "Q82294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City,_Utah",
+          "entity_id": "Q23337"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/UFC_201",
+          "entity_id": "Q24197377"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Philips_Arena",
+          "entity_id": "Q1123297"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Atlanta,_Georgia",
+          "entity_id": "Q23556"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/UFC_on_Fox:_Holm_vs._Shevchenko",
+          "entity_id": "Q23860943"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/United_Center",
+          "entity_id": "Q639975"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chicago,_Illinois",
+          "entity_id": "Q1297"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_McDonald_vs._Lineker",
+          "entity_id": "Q24087424"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Denny_Sanford_Premier_Center",
+          "entity_id": "Q5259227"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota",
+          "entity_id": "Q131335"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/UFC_200",
+          "entity_id": "Q23756805"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/T-Mobile_Arena_(Las_Vegas)",
+          "entity_id": "Q3338973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 57,
+          "url": "http://en.wikipedia.org/wiki/The_Ultimate_Fighter:_Team_Joanna_vs._Team_Cl%C3%A1udia#The_Ultimate_Fighter_23_Finale",
+          "entity_id": "Q23067950"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_dos_Anjos_vs._Alvarez",
+          "entity_id": "Q23826244"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_MacDonald_vs._Thompson",
+          "entity_id": "Q23022831"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/TD_Place_Arena",
+          "entity_id": "Q1143666"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Ottawa",
+          "entity_id": "Q1930"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ontario",
+          "entity_id": "Q1904"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/UFC_199",
+          "entity_id": "Q23022829"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/The_Forum_(Inglewood,_California)",
+          "entity_id": "Q639129"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Inglewood,_California",
+          "entity_id": "Q621549"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Almeida_vs._Garbrandt",
+          "entity_id": "Q23305503"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Mandalay_Bay_Events_Center",
+          "entity_id": "Q1888848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/UFC_198",
+          "entity_id": "Q22813254"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Arena_da_Baixada",
+          "entity_id": "Q606803"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Curitiba",
+          "entity_id": "Q4361"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Overeem_vs._Arlovski",
+          "entity_id": "Q23022833"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rotterdam_Ahoy",
+          "entity_id": "Q179426"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Rotterdam",
+          "entity_id": "Q34370"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/UFC_197",
+          "entity_id": "Q22035067"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/UFC_on_Fox_19",
+          "entity_id": "Q22894037"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Amalie_Arena",
+          "entity_id": "Q940199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tampa,_Florida",
+          "entity_id": "Q49255"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Rothwell_vs._dos_Santos",
+          "entity_id": "Q22981327"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Arena_Zagreb",
+          "entity_id": "Q641519"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zagreb",
+          "entity_id": "Q1435"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Hunt_vs._Mir",
+          "entity_id": "Q23012003"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Brisbane_Entertainment_Centre",
+          "entity_id": "Q4968564"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Brisbane",
+          "entity_id": "Q34932"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/UFC_196",
+          "entity_id": "Q22336745"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Silva_vs._Bisping",
+          "entity_id": "Q22098390"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_O2_Arena",
+          "entity_id": "Q5364202"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/London",
+          "entity_id": "Q84"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Cowboy_vs._Cowboy",
+          "entity_id": "Q21811979"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Consol_Energy_Center",
+          "entity_id": "Q595460"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Pittsburgh,_Pennsylvania",
+          "entity_id": "Q1342"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Hendricks_vs._Thompson",
+          "entity_id": "Q21798417"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/UFC_on_Fox:_Johnson_vs._Bader",
+          "entity_id": "Q21994759"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Prudential_Center",
+          "entity_id": "Q849027"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Newark,_New_Jersey",
+          "entity_id": "Q25395"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/UFC_Fight_Night:_Dillashaw_vs._Cruz",
+          "entity_id": "Q20972136"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/TD_Garden",
+          "entity_id": "Q432105"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Boston,_Massachusetts",
+          "entity_id": "Q100"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/UFC_195",
+          "entity_id": "Q20857028"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/MGM_Grand_Garden_Arena",
+          "entity_id": "Q717472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas_Valley",
+          "entity_id": "Q2624848"
+        },
+        {
+          "start": 12,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nevada",
+          "entity_id": "Q1227"
+        }
+      ],
+      []
+    ]
+  ]
+}

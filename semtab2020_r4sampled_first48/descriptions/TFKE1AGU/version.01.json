@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q841985:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q841985",
+        "rel_uri": "wd:Q841985",
+        "approximation": false,
+        "readable_label": "domain (Q841985)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q841985:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q841985:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P156",
+        "rel_uri": "p:P156",
+        "approximation": false,
+        "readable_label": "followed by (P156)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q841985:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P576",
+        "rel_uri": "p:P576",
+        "approximation": false,
+        "readable_label": "dissolved, abolished or demolished (P576)",
+        "id": 3
+      }
+    ]
+  }
+]

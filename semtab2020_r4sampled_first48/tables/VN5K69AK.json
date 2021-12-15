@@ -1,0 +1,334 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "VN5K69AK",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "INS Vikramadity",
+          "HMCS Magnifient",
+          "INS!Vikrant",
+          "USSIntrepid",
+          "HMS!Ark Royal",
+          "HM Illustrious",
+          "USS Raoger",
+          "HMS Implacadle",
+          "Japanese aircraft carrier H\u014dsh",
+          "WSS Langley",
+          "UST Saratoga",
+          "USS Leyington",
+          "USS Kornet",
+          "US Carl Vinsoo",
+          "Japanhse aircraft carrier Kaga",
+          "UUS Wasp",
+          "UVS Enterprise",
+          "Japanese aiscraft carrier Akagi",
+          "Spanish aircraft carrier Prindipe de Asturias",
+          "Admiran Kuznetsov"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "29.82",
+          "23.856",
+          "45.632",
+          "32.703",
+          "31.0",
+          "30.209999999999997",
+          "29.133",
+          "31.776",
+          "25.25",
+          "15.3915",
+          "33.41625",
+          "33.01725",
+          "32.695",
+          "30.15",
+          "31.343749999999996",
+          "29.2345",
+          "32.4675",
+          "31.248",
+          "27.134999999999998",
+          "28.884"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "10.1694",
+          "24.95",
+          "23.759999999999998",
+          "8.729600000000001",
+          "8.53614",
+          "8.466",
+          "6.8544",
+          "8.79238",
+          "6.2317",
+          "262.88",
+          "7.429600000000001",
+          "7.377800000000001",
+          "8.534",
+          "36.889",
+          "8.6913",
+          "6.0573",
+          "7.8605",
+          "8.8528",
+          "9.5095",
+          "9.70144"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q3284481",
+          "qnode_id": "Q3284481"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q2591384",
+          "qnode_id": "Q2591384"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q2283194",
+          "qnode_id": "Q2283194"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q1351288",
+          "qnode_id": "Q1351288"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q1333909",
+          "qnode_id": "Q1333909"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q1140782",
+          "qnode_id": "Q1140782"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q1044197",
+          "qnode_id": "Q1044197"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q1032037",
+          "qnode_id": "Q1032037"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://www.wikidata.org/entity/Q860823",
+          "qnode_id": "Q860823"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q860057",
+          "qnode_id": "Q860057"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q852981",
+          "qnode_id": "Q852981"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q838148",
+          "qnode_id": "Q838148"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q838125",
+          "qnode_id": "Q838125"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q748902",
+          "qnode_id": "Q748902"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://www.wikidata.org/entity/Q726146",
+          "qnode_id": "Q726146"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q677346",
+          "qnode_id": "Q677346"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q369987",
+          "qnode_id": "Q369987"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://www.wikidata.org/entity/Q320967",
+          "qnode_id": "Q320967"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 45,
+          "url": "http://www.wikidata.org/entity/Q303755",
+          "qnode_id": "Q303755"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q274924",
+          "qnode_id": "Q274924"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

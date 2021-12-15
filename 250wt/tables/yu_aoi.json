@@ -1,0 +1,1438 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Yū_Aoi",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2001",
+          "2002",
+          "2002",
+          "2002",
+          "2003",
+          "2003",
+          "2004",
+          "2004",
+          "2004",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2005",
+          "2006",
+          "2006",
+          "2006",
+          "2006",
+          "2007",
+          "2007",
+          "2008",
+          "2008",
+          "2008",
+          "2008",
+          "2009",
+          "2009",
+          "2010",
+          "2010",
+          "2010",
+          "2010",
+          "2011",
+          "2011",
+          "2011",
+          "2012",
+          "2012",
+          "2013",
+          "2013",
+          "2014",
+          "2014",
+          "2014",
+          "2015",
+          "2015",
+          "2016",
+          "2016",
+          "2016",
+          "2017",
+          "2017",
+          "2017",
+          "2017",
+          "2018",
+          "2018",
+          "2018",
+          "2019",
+          "2019",
+          "2019",
+          "2019",
+          "2020",
+          "2020",
+          "2020"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Title",
+        "values": [
+          "All About Lily Chou-Chou",
+          "Kinema Tōri no Hitobito",
+          "Harmful Insect",
+          "Hashire! Kettamashin: Wedding Kyosō Kyoku",
+          "Worst by Chance",
+          "1980",
+          "Hana and Alice",
+          "Mask de 41",
+          "Sea Cat",
+          "Tetsujin 28: The Movie",
+          "Turtles Swim Faster Than Expected",
+          "Letters from Nirai Kanai",
+          "Shining Boy & Little Randy",
+          "Henshin",
+          "Jukai",
+          "Yamato",
+          "Honey and Clover",
+          "Hula Girls",
+          "Tekkon Kinkreet",
+          "Rainbow Song",
+          "Mushishi",
+          "Welcome to the Quiet Room",
+          "Don't Laugh at My Romance",
+          "Best Wishes for Tomorrow",
+          "One Million Yen Girl",
+          "Tokyo!",
+          "Honokaa Boy",
+          "Good Bye, My Secret Friend",
+          "Ototo",
+          "Flowers",
+          "The Lightning Tree",
+          "Redline",
+          "Patisserie Coin de rue",
+          "Vampire",
+          "By Chance",
+          "Fukushima Hula Girls",
+          "Rurouni Kenshin",
+          "Tokyo Family",
+          "Space Pirate Captain Harlock",
+          "Rurouni Kenshin: Kyoto Inferno",
+          "Rurouni Kenshin: The Legend Ends",
+          "Climbing to Spring",
+          "The Case of Hana & Alice",
+          "Journey to the Shore",
+          "Over the Fence",
+          "Japanese Girls Never Die",
+          "What a Wonderful Family!",
+          "What a Wonderful Family! 2",
+          "Tokyo Ghoul",
+          "Mixed Doubles",
+          "Birds Without Names",
+          "What a Wonderful Family! 3: My Wife, My Life",
+          "Penguin Highway",
+          "Killing",
+          "Miyamoto",
+          "A Long Goodbye",
+          "Children of the Sea",
+          "They Say Nothing Stays the Same",
+          "Romance Doll",
+          "Rurouni Kenshin: The Final",
+          "I'll Live By Myself"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Role",
+        "values": [
+          "Shiori Tsuda",
+          "Hikari",
+          "Natsuko",
+          "Lead",
+          "Harada's girlfriend",
+          "Rika Hashiba",
+          "Tetsuko (Alice) Arisugawa",
+          "Haruka Kuramochi",
+          "Miya Noda",
+          "Mami Tachibana",
+          "Kujaku Ogitani",
+          "Fuki Asato",
+          "Emi Murakami",
+          "Kei Hamura",
+          "Harumi",
+          "Taeko",
+          "Hagumi Hanamoto",
+          "Kimiko Tanikawa",
+          "White (voice)",
+          "Kana Sato",
+          "Tanyu",
+          "Miki",
+          "En-Chan",
+          "Kazuko Moribe",
+          "Suzuko Sato",
+          "Pizza delivery girl",
+          "Kaoru",
+          "Ikechan (voice)",
+          "Koharu Takano",
+          "Rin",
+          "Yū",
+          "Sonoshee (voice)",
+          "Natsume Usuba",
+          "Mina",
+          "Traveler",
+          "Narration",
+          "Megumi Takani",
+          "Noriko Mamiya",
+          "Miime (voice)",
+          "Megumi Takani",
+          "Megumi Takani",
+          "Ai Takazawa",
+          "Tetsuko \"Alice\" Arisugawa (voice)",
+          "Tomoko",
+          "Satoshi Tamura",
+          "Haruko Azumi",
+          "Noriko Mamiya",
+          "Noriko Hirata",
+          "Rize Kamishiro",
+          "Yo",
+          "Towako",
+          "Noriko Hirata",
+          "Lady (voice)",
+          "Yū",
+          "Yasuko Nakano",
+          "Fumi Higashi",
+          "Ruka's mother (voice)",
+          "A geisha",
+          "Sonoko",
+          "Megumi Takani",
+          "Young Momoko"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Director",
+        "values": [
+          "Shunji Iwai",
+          "Mariko Yamauchi",
+          "Akihiko Shiota",
+          "Katsuhiko Ishizuka",
+          "Gu Su-yeon",
+          "Keralino Sandorovich",
+          "Shunji Iwai",
+          "Taishi Muramoto",
+          "Yoshimitsu Morita",
+          "Shin Togashi",
+          "Satoshi Miki",
+          "Naoto Kumazawa",
+          "Shunsaku Kawake",
+          "Tomoki Sano",
+          "Futoshi Jinno",
+          "Junya Sato",
+          "Masahiro Takata",
+          "Lee Sang-il",
+          "Michael Arias",
+          "Naoto Kumazawa",
+          "Katsuhiro Otomo",
+          "Suzuki Matsuo",
+          "Nami Iguchi",
+          "Takashi Koizumi",
+          "Yuki Tanada",
+          "Bong Joon-ho",
+          "Atsushi Sanada",
+          "Toshihiko Ōoka",
+          "Yoji Yamada",
+          "Norihiro Koizumi",
+          "Ryūichi Hiroki",
+          "Takeshi Koike",
+          "Yoshihiro Fukagawa",
+          "Shunji Iwai",
+          "Mayumi Komatsu",
+          "Masaki Kobayashi",
+          "Keishi Ōtomo",
+          "Yoji Yamada",
+          "Shinji Aramaki",
+          "Keishi Ōtomo",
+          "Keishi Ōtomo",
+          "Daisaku Kimura",
+          "Shunji Iwai",
+          "Kiyoshi Kurosawa",
+          "Nobuhiro Yamashita",
+          "Daigo Matsui",
+          "Yoji Yamada",
+          "Yoji Yamada",
+          "Kentarō Hagiwara",
+          "Junichi Ishikawa",
+          "Kazuya Shiraishi",
+          "Yoji Yamada",
+          "Yasuhiro Ishida",
+          "Shinya Tsukamoto",
+          "Tetsuya Mariko",
+          "Ryota Nakano",
+          "Ayumu Watanabe",
+          "Joe Odagiri",
+          "Yuki Tanada",
+          "Keishi Ōtomo",
+          "Shūichi Okita"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "Musical",
+          "",
+          "",
+          "Lead",
+          "",
+          "",
+          "",
+          "",
+          "Lead",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Lead",
+          "Segment Shaking Tokyo",
+          "",
+          "",
+          "",
+          "Lead",
+          "Lead",
+          "",
+          "Lead",
+          "",
+          "Lead",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "Lead, prequel of Hana and Alice .",
+          "",
+          "",
+          "Lead",
+          "",
+          "",
+          "",
+          "",
+          "Lead",
+          "",
+          "",
+          "",
+          "",
+          "Lead",
+          "",
+          "",
+          "Lead",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Ref(s)",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Yū Aoi",
+    "page_url": "https://en.wikipedia.org/wiki/Yū_Aoi",
+    "page_entity_id": "Q262878"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/All_About_Lily_Chou-Chou",
+          "entity_id": "Q1329381"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Shunji_Iwai",
+          "entity_id": "Q1323347"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Harmful_Insect",
+          "entity_id": "Q3127507"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Akihiko_Shiota",
+          "entity_id": "Q2829028"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hana_and_Alice",
+          "entity_id": "Q1192488"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Shunji_Iwai",
+          "entity_id": "Q1323347"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Yoshimitsu_Morita",
+          "entity_id": "Q1138125"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Tetsujin_28:_The_Movie",
+          "entity_id": "Q7706876"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Shin_Togashi",
+          "entity_id": "Q7497228"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Turtles_Swim_Faster_Than_Expected",
+          "entity_id": "Q1015942"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Yamato_(film)",
+          "entity_id": "Q698309"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Junya_Sato",
+          "entity_id": "Q6314417"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Honey_and_Clover",
+          "entity_id": "Q546916"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hula_Girls",
+          "entity_id": "Q907207"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lee_Sang-il_(film_director)",
+          "entity_id": "Q614697"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tekkon_Kinkreet",
+          "entity_id": "Q1200944"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Michael_Arias",
+          "entity_id": "Q2721204"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rainbow_Song",
+          "entity_id": "Q373205"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Mushishi_(film)",
+          "entity_id": "Q4387957"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Katsuhiro_Otomo",
+          "entity_id": "Q378710"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Welcome_to_the_Quiet_Room",
+          "entity_id": "Q2362509"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Suzuki_Matsuo",
+          "entity_id": "Q11529557"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Nami_Iguchi",
+          "entity_id": "Q11373422"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Best_Wishes_for_Tomorrow",
+          "entity_id": "Q4896840"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Takashi_Koizumi",
+          "entity_id": "Q3179875"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/One_Million_Yen_Girl",
+          "entity_id": "Q11580665"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yuki_Tanada",
+          "entity_id": "Q11316214"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_!_(film)",
+          "entity_id": "Q485759"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Bong_Joon-ho",
+          "entity_id": "Q495980"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Ot%C5%8Dto_(2010_film)",
+          "entity_id": "Q4702844"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yoji_Yamada",
+          "entity_id": "Q1261335"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ry%C5%ABichi_Hiroki",
+          "entity_id": "Q901470"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Redline_(2009_film)",
+          "entity_id": "Q1207954"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Takeshi_Koike",
+          "entity_id": "Q3514320"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Patisserie_Coin_de_rue",
+          "entity_id": "Q7145052"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Yoshihiro_Fukagawa",
+          "entity_id": "Q4209036"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vampire_(2011_film)",
+          "entity_id": "Q4902517"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Shunji_Iwai",
+          "entity_id": "Q1323347"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tamatama",
+          "entity_id": "Q7680948"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Rurouni_Kenshin_(2012_film)",
+          "entity_id": "Q2750748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Megumi_Takani",
+          "entity_id": "Q7574735"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Family",
+          "entity_id": "Q11524787"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yoji_Yamada",
+          "entity_id": "Q1261335"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Space_Pirate_Captain_Harlock_(film)",
+          "entity_id": null
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Shinji_Aramaki",
+          "entity_id": "Q3482244"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Rurouni_Kenshin:_Kyoto_Inferno",
+          "entity_id": "Q15284383"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Megumi_Takani",
+          "entity_id": "Q7574735"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Rurouni_Kenshin:_The_Legend_Ends",
+          "entity_id": "Q15284388"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Megumi_Takani",
+          "entity_id": "Q7574735"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Climbing_to_Spring",
+          "entity_id": "Q18111309"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Daisaku_Kimura",
+          "entity_id": "Q5209600"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/The_Case_of_Hana_%26_Alice",
+          "entity_id": "Q18389392"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Shunji_Iwai",
+          "entity_id": "Q1323347"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Journey_to_the_Shore",
+          "entity_id": "Q19824732"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kiyoshi_Kurosawa",
+          "entity_id": "Q53834"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Over_the_Fence_(2016_film)",
+          "entity_id": "Q22126320"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Nobuhiro_Yamashita",
+          "entity_id": "Q908962"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Japanese_Girls_Never_Die",
+          "entity_id": "Q28685484"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Daigo_Matsui",
+          "entity_id": "Q11529724"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/What_a_Wonderful_Family!",
+          "entity_id": "Q23309021"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yoji_Yamada",
+          "entity_id": "Q1261335"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/What_a_Wonderful_Family!",
+          "entity_id": "Q23309021"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yoji_Yamada",
+          "entity_id": "Q1261335"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tokyo_Ghoul_(film)",
+          "entity_id": "Q28315563"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mixed_Doubles_(2017_film)",
+          "entity_id": "Q42400207"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Birds_Without_Names",
+          "entity_id": "Q48747707"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kazuya_Shiraishi",
+          "entity_id": "Q11580151"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/What_a_Wonderful_Family!",
+          "entity_id": "Q23309021"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yoji_Yamada",
+          "entity_id": "Q1261335"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Penguin_Highway",
+          "entity_id": "Q55284249"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Killing_(film)",
+          "entity_id": "Q55540912"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Shinya_Tsukamoto",
+          "entity_id": "Q738544"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Children_of_the_Sea_(manga)",
+          "entity_id": "Q3545956"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Joe_Odagiri",
+          "entity_id": "Q288114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Yuki_Tanada",
+          "entity_id": "Q11316214"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Megumi_Takani",
+          "entity_id": "Q7574735"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

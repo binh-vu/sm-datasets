@@ -1,0 +1,332 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1998_Open_Championship",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Place",
+        "values": [
+          "1",
+          "T2",
+          "T2",
+          "T2",
+          "5",
+          "T6",
+          "T6",
+          "T6",
+          "T6",
+          "T6",
+          "T6"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Player",
+        "values": [
+          "Brian Watts",
+          "Nick Price",
+          "Justin Rose (a)",
+          "Tiger Woods",
+          "Thomas Bjørn",
+          "Stephen Ames",
+          "Fred Couples",
+          "Jim Furyk",
+          "Davis Love III",
+          "Mark O'Meara",
+          "Jesper Parnevik"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          " United States",
+          " Zimbabwe",
+          " England",
+          " United States",
+          " Denmark",
+          " Trinidad and Tobago",
+          " United States",
+          " United States",
+          " United States",
+          " United States",
+          " Sweden"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Score",
+        "values": [
+          "68-69=137",
+          "66-72=138",
+          "72-66=138",
+          "65-73=138",
+          "68-71=139",
+          "68-72=140",
+          "66-74=140",
+          "70-70=140",
+          "67-73=140",
+          "72-68=140",
+          "68-72=140"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "To par",
+        "values": [
+          "–3",
+          "–2",
+          "–2",
+          "–2",
+          "–1",
+          "E",
+          "E",
+          "E",
+          "E",
+          "E",
+          "E"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1998 Open Championship",
+    "page_url": "https://en.wikipedia.org/wiki/1998_Open_Championship",
+    "page_entity_id": "Q4593879"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Brian_Watts",
+          "entity_id": "Q4542964"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Nick_Price",
+          "entity_id": "Q612279"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zimbabwe",
+          "entity_id": "Q954"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Justin_Rose",
+          "entity_id": "Q722750"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tiger_Woods",
+          "entity_id": "Q10993"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Thomas_Bj%C3%B8rn",
+          "entity_id": "Q540233"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Denmark",
+          "entity_id": "Q35"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Stephen_Ames",
+          "entity_id": "Q1973704"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+          "entity_id": "Q754"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fred_Couples",
+          "entity_id": "Q708633"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Jim_Furyk",
+          "entity_id": "Q690638"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Davis_Love_III",
+          "entity_id": "Q1178161"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mark_O%27Meara",
+          "entity_id": "Q723911"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jesper_Parnevik",
+          "entity_id": "Q1688112"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

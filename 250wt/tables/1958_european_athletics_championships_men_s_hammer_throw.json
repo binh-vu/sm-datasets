@@ -1,0 +1,514 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "1958_European_Athletics_Championships_–_Men's_hammer_throw",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Tadeusz Rut",
+          "Mikhail Krivonosov",
+          "Gyula Zsivótzky",
+          "Olgierd Ciepły",
+          "Zvonko Bezjak",
+          "Birger Asplund",
+          "John Lawlor",
+          "József Csermák",
+          "Michael Ellis",
+          "Krešimir Račić",
+          "Nicolae Rascanescu",
+          "Guy Husson",
+          "Heinrich Thun",
+          "Horst Niebisch",
+          "Vasil Krumov",
+          "Anatoliy Samotsvetov",
+          "Oddvar Krogh",
+          "Peter Allday"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Poland",
+          " Soviet Union",
+          " Hungary",
+          " Poland",
+          " Yugoslavia",
+          " Sweden",
+          " Ireland",
+          " Hungary",
+          " Great Britain",
+          " Yugoslavia",
+          " Romania",
+          " France",
+          " Austria",
+          " East Germany",
+          " Bulgaria",
+          " Soviet Union",
+          " Norway",
+          " Great Britain"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Result",
+        "values": [
+          "64.78",
+          "63.78",
+          "63.68",
+          "63.37",
+          "62.39",
+          "62.18",
+          "61.49",
+          "61.00",
+          "59.71",
+          "59.28",
+          "58.53",
+          "58.52",
+          "58.17",
+          "57.83",
+          "57.82",
+          "57.00",
+          "55.65",
+          "55.05"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "CR NR",
+          "",
+          "NR",
+          "",
+          "",
+          "NR",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "1958 European Athletics Championships – Men's hammer throw",
+    "page_url": "https://en.wikipedia.org/wiki/1958_European_Athletics_Championships_–_Men's_hammer_throw",
+    "page_entity_id": "Q18125979"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tadeusz_Rut",
+          "entity_id": "Q1343937"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mikhail_Krivonosov",
+          "entity_id": "Q1366932"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Gyula_Zsiv%C3%B3tzky",
+          "entity_id": "Q353616"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Olgierd_Ciep%C5%82y",
+          "entity_id": "Q11797917"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Zvonko_Bezjak",
+          "entity_id": "Q8075582"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "entity_id": "Q83286"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Birger_Asplund",
+          "entity_id": "Q5561439"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/John_Lawlor_(athlete)",
+          "entity_id": "Q6244169"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Republic_of_Ireland",
+          "entity_id": "Q27"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/J%C3%B3zsef_Cserm%C3%A1k",
+          "entity_id": "Q284887"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hungary",
+          "entity_id": "Q28"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mike_Ellis_(athlete)",
+          "entity_id": "Q6846692"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kre%C5%A1imir_Ra%C4%8Di%C4%87",
+          "entity_id": "Q6436942"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "entity_id": "Q83286"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Nicolae_Rascanescu&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Romania",
+          "entity_id": "Q218"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Guy_Husson",
+          "entity_id": "Q3121841"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Heinrich_Thun",
+          "entity_id": "Q1599050"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Austria",
+          "entity_id": "Q40"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Horst_Niebisch&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Germany",
+          "entity_id": "Q16957"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Vasil_Krumov&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bulgaria",
+          "entity_id": "Q219"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Anatoliy_Samotsvetov",
+          "entity_id": "Q488069"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Oddvar_Krogh&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Norway",
+          "entity_id": "Q20"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Peter_Allday",
+          "entity_id": "Q19263480"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

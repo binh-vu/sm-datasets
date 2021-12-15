@@ -1,0 +1,352 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Tanks_of_Iraq",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Name",
+        "values": [
+          "T-54/55",
+          "T-62",
+          "WZ-121/Type 69",
+          "T-72",
+          "Lion of Babylon (tank)",
+          "M-84 /M-84A",
+          "Chieftain Mk-5P",
+          "Vickers MBT Mk1",
+          "M47M Patton",
+          "M48A5 Patton",
+          "PT-76",
+          "T-90S",
+          "M1 Abrams"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Country of origin",
+        "values": [
+          " Soviet Union",
+          " Soviet Union",
+          " China",
+          " Soviet Union",
+          " Iraq",
+          " Yugoslavia",
+          " United Kingdom",
+          " United Kingdom",
+          " United States",
+          " United States",
+          " Soviet Union",
+          " Russia",
+          " United States"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Quantity",
+        "values": [
+          "72",
+          "100",
+          "100",
+          "100",
+          "100",
+          "9",
+          "75",
+          "75",
+          "30",
+          "20",
+          "245",
+          "36",
+          "146"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Notes",
+        "values": [
+          "T-55Ms active",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "37 on order",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Tanks of Iraq",
+    "page_url": "https://en.wikipedia.org/wiki/Tanks_of_Iraq",
+    "page_entity_id": "Q85805164"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/T-54/55",
+          "entity_id": "Q328272"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/T-62",
+          "entity_id": "Q207618"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Type_69",
+          "entity_id": "Q73238"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/China",
+          "entity_id": "Q148"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/T-72",
+          "entity_id": "Q155658"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Lion_of_Babylon_(tank)",
+          "entity_id": "Q2625571"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iraq",
+          "entity_id": "Q796"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/M-84",
+          "entity_id": "Q746774"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+          "entity_id": "Q83286"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Chieftain_(tank)",
+          "entity_id": "Q741609"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Vickers_MBT",
+          "entity_id": "Q2522128"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/M47_Patton",
+          "entity_id": "Q160366"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/M48_Patton",
+          "entity_id": "Q160327"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/PT-76",
+          "entity_id": "Q641764"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Soviet_Union",
+          "entity_id": "Q15180"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/T-90",
+          "entity_id": "Q192757"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/M1_Abrams",
+          "entity_id": "Q173684"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

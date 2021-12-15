@@ -1,0 +1,798 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2009–10_Juventus_F.C._season",
+    "columns": [
+      {
+        "index": 0,
+        "name": "#",
+        "values": [
+          "5",
+          "28",
+          "",
+          "24",
+          "",
+          "",
+          "31",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "4",
+          "2",
+          "6",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Pos",
+        "values": [
+          "DF",
+          "MF",
+          "FW",
+          "MF",
+          "MF",
+          "FW",
+          "GK",
+          "FW",
+          "MF",
+          "DF",
+          "MF",
+          "MF",
+          "GK",
+          "MF",
+          "DF",
+          "DF",
+          "FW",
+          "MF",
+          "FW",
+          "MF"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Player",
+        "values": [
+          "Fabio Cannavaro",
+          "Diego",
+          "Michele Paolucci",
+          "Sergio Almirón",
+          "Raffaele Bianco",
+          "Oussama Essabr",
+          "Mario Kirev",
+          "Riccardo Maniero",
+          "Rubén Olivera",
+          "Andrea Pisani",
+          "Samon Reider Rodríguez",
+          "Dario Venitucci",
+          "Alessandro Vono",
+          "Felipe Melo",
+          "Martín Cáceres",
+          "Fabio Grosso",
+          "Manuel Fischnaller",
+          "Iago Falque",
+          "Michele Paolucci",
+          "Antonio Candreva"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "From",
+        "values": [
+          "Real Madrid",
+          "Werder Bremen",
+          "Siena",
+          "Fiorentina",
+          "Bari",
+          "Vicenza",
+          "Grasshopper",
+          "Lumezzane",
+          "Genoa",
+          "Pro Patria",
+          "Poggibonsi",
+          "Avellino",
+          "Livorno",
+          "Fiorentina",
+          "Barcelona",
+          "Lyon",
+          "Südtirol",
+          "Bari",
+          "Siena",
+          "Udinese"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Fee",
+        "values": [
+          "Free",
+          "€24.5 million + €2.5 million (bonus)",
+          "Undisclosed (co-ownership resolution)",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "Loan return",
+          "€25 million",
+          "Loan (with €11 million permanent option)",
+          "€2 million + €1 million (bonus)",
+          "Loan (with €800,000 permanent option)",
+          "loan return",
+          "joint ownership re-call",
+          "Loan (with €7.5 million joint ownership option)"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Date",
+        "values": [
+          "19-05-2009",
+          "26-05-2009",
+          "26-06-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "01-07-2009",
+          "15-07-2009",
+          "06-08-2009",
+          "31-08-2009",
+          "23-12-2009",
+          "14-1-2010",
+          "16-1-2010",
+          "16-1-2010"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2009–10 Juventus F.C. season",
+    "page_url": "https://en.wikipedia.org/wiki/2009–10_Juventus_F.C._season",
+    "page_entity_id": "Q3811689"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Fabio_Cannavaro",
+          "entity_id": "Q102027"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Real_Madrid_C.F.",
+          "entity_id": "Q8682"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Diego_(footballer,_born_1985)",
+          "entity_id": "Q109428"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/SV_Werder_Bremen",
+          "entity_id": "Q51976"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Michele_Paolucci",
+          "entity_id": "Q511055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/S.S._Robur_Siena",
+          "entity_id": "Q2756"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sergio_Bernardo_Almir%C3%B3n",
+          "entity_id": "Q387003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/ACF_Fiorentina",
+          "entity_id": "Q2052"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Raffaele_Bianco",
+          "entity_id": "Q346917"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/A.S._Bari",
+          "entity_id": "Q6641"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Morocco",
+          "entity_id": "Q1028"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Oussama_Essabr",
+          "entity_id": "Q3358532"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vicenza_Calcio",
+          "entity_id": "Q8643"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Bulgaria",
+          "entity_id": "Q219"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mario_Kirev",
+          "entity_id": "Q1399099"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Grasshopper_Club_Z%C3%BCrich",
+          "entity_id": "Q201360"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Riccardo_Maniero",
+          "entity_id": "Q2063225"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/A.C._Lumezzane",
+          "entity_id": "Q63994855"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Rub%C3%A9n_Olivera",
+          "entity_id": "Q219879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Genoa_C.F.C.",
+          "entity_id": "Q2074"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Andrea_Pisani_(footballer)",
+          "entity_id": "Q2846400"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Aurora_Pro_Patria_1919",
+          "entity_id": "Q777337"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Cuba",
+          "entity_id": "Q241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Samon_Reider_Rodr%C3%ADguez",
+          "entity_id": "Q7410019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/U.S._Poggibonsi",
+          "entity_id": "Q1854811"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dario_Venitucci",
+          "entity_id": "Q1165970"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/U.S._Avellino_1912",
+          "entity_id": "Q298217"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Alessandro_Vono&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/A.S._Livorno_Calcio",
+          "entity_id": "Q6767"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Felipe_Melo",
+          "entity_id": "Q204450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/ACF_Fiorentina",
+          "entity_id": "Q2052"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Uruguay",
+          "entity_id": "Q77"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mart%C3%ADn_C%C3%A1ceres",
+          "entity_id": "Q194107"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/FC_Barcelona",
+          "entity_id": "Q7156"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fabio_Grosso",
+          "entity_id": "Q230529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Olympique_Lyonnais",
+          "entity_id": "Q704"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Manuel_Fischnaller",
+          "entity_id": "Q1756098"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/F.C._S%C3%BCdtirol",
+          "entity_id": "Q1387710"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Iago_Falque",
+          "entity_id": "Q439282"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/A.S._Bari",
+          "entity_id": "Q6641"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Michele_Paolucci",
+          "entity_id": "Q511055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/S.S._Robur_Siena",
+          "entity_id": "Q2756"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Antonio_Candreva",
+          "entity_id": "Q32556"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Udinese_Calcio",
+          "entity_id": "Q2798"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

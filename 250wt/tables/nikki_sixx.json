@@ -1,0 +1,492 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Nikki_Sixx",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1988",
+          "1989",
+          "1990",
+          "2002",
+          "2003",
+          "2004",
+          "2005",
+          "2005",
+          "2006",
+          "2007",
+          "2007",
+          "2008",
+          "2009",
+          "2010"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Album title",
+        "values": [
+          "Lita",
+          "Fire and Gasoline",
+          "Hey Stoopid",
+          "Back into Your System",
+          "Couldn't Have Said It Better",
+          "ForThemAsses",
+          "Here I Am",
+          "Runaway Brides",
+          "Bat Out of Hell III: The Monster Is Loose",
+          "Set Me Free",
+          "Full Circle",
+          "Sunset Man",
+          "Whatever Gets You Off",
+          "Tattoos & Tequila"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Band",
+        "values": [
+          "Lita Ford",
+          "Steve Jones",
+          "Alice Cooper",
+          "Saliva",
+          "Meat Loaf",
+          "OPM",
+          "Marion Raven",
+          "Brides of Destruction",
+          "Meat Loaf",
+          "Marion Raven",
+          "Drowning Pool",
+          "James Otto",
+          "The Last Vegas",
+          "Vince Neil"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Record label",
+        "values": [
+          "RCA",
+          "MCA",
+          "Epic",
+          "Island",
+          "Polydor /Sanctuary",
+          "Suburban Noize",
+          "Atlantic",
+          "Shrapnel",
+          "Virgin / Mercury",
+          "Eleven Seven / Warner Bros.",
+          "Eleven Seven",
+          "Warner Bros.",
+          "Eleven Seven",
+          "Eleven Seven"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Credits",
+        "values": [
+          "Co-writer \"Falling in and Out of Love\"",
+          "Co-writer \"We're No Saints....\"",
+          "Co-writer \"Die for You\"",
+          "Co-writer \"Rest in Pieces\"",
+          "Co-writer \" Couldn't Have Said It Better \", \"Love You Out Loud\" and \"Man of Steel\"",
+          "Co-writer \"Horny\"",
+          "Co-writer \"Heads Will Roll\" and \"Surfing the Sun\"",
+          "Co-writer \"Criminal\", \"This Time Around\" and \"Blown Away\"",
+          "Co-writer \"The Monster Is Loose\"",
+          "Co-writer \"Set Me Free\" and \"Heads Will Roll\"",
+          "Co-writer and producer on \"Reason I'm Alive\"",
+          "Co-writer \"Ain't Gonna Stop\"",
+          "Co-writer and producer on \"I'm Bad\", \"Apologize\" and \"Cherry Red\"",
+          "Co-writer \"Another Bad Day\""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Nikki Sixx",
+    "page_url": "https://en.wikipedia.org/wiki/Nikki_Sixx",
+    "page_entity_id": "Q362516"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Lita_(album)",
+          "entity_id": "Q1757180"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Lita_Ford",
+          "entity_id": "Q163211"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/RCA_Records",
+          "entity_id": "Q202585"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Fire_and_Gasoline",
+          "entity_id": "Q3072810"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Steve_Jones_(musician)",
+          "entity_id": "Q347986"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/MCA_Records",
+          "entity_id": "Q2338889"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Hey_Stoopid",
+          "entity_id": "Q430340"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Alice_Cooper",
+          "entity_id": "Q332032"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Epic_Records",
+          "entity_id": "Q216364"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Back_into_Your_System",
+          "entity_id": "Q1934352"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Saliva_(band)",
+          "entity_id": "Q1753914"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Island_Records",
+          "entity_id": "Q190585"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Couldn%27t_Have_Said_It_Better",
+          "entity_id": "Q1136946"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Meat_Loaf",
+          "entity_id": "Q152929"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Polydor_Records",
+          "entity_id": "Q155152"
+        }
+      ],
+      [
+        {
+          "start": 12,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/Couldn%27t_Have_Said_It_Better_(song)",
+          "entity_id": "Q5176125"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/ForThemAsses",
+          "entity_id": "Q5466635"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/OPM_(band)",
+          "entity_id": "Q670315"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Suburban_Noize_Records",
+          "entity_id": "Q2598277"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Here_I_Am_(Marion_Raven_album)",
+          "entity_id": "Q1765397"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marion_Raven",
+          "entity_id": "Q233393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Atlantic_Records",
+          "entity_id": "Q202440"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Runaway_Brides",
+          "entity_id": "Q3942693"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Shrapnel_Records",
+          "entity_id": "Q1406986"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/wiki/Bat_Out_of_Hell_III:_The_Monster_Is_Loose",
+          "entity_id": "Q810690"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Meat_Loaf",
+          "entity_id": "Q152929"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Virgin_Records",
+          "entity_id": "Q203059"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mercury_Records",
+          "entity_id": "Q165745"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Set_Me_Free_(Marion_Raven_album)",
+          "entity_id": "Q7456242"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Marion_Raven",
+          "entity_id": "Q233393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Eleven_Seven_Music",
+          "entity_id": "Q4038001"
+        },
+        {
+          "start": 15,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Warner_Bros._Records",
+          "entity_id": "Q67030918"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Full_Circle_(Drowning_Pool_album)",
+          "entity_id": "Q2446623"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Drowning_Pool",
+          "entity_id": "Q623921"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sunset_Man",
+          "entity_id": "Q7641307"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/James_Otto",
+          "entity_id": "Q1680920"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Whatever_Gets_You_Off",
+          "entity_id": "Q7991715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Last_Vegas",
+          "entity_id": "Q3030276"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tattoos_%26_Tequila",
+          "entity_id": "Q1185331"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Vince_Neil",
+          "entity_id": "Q362422"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

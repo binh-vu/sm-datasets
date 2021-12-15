@@ -1,0 +1,65 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q5398426",
+        "rel_uri": "wd:Q5398426",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Drama"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Winner"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "Year"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-2",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P161",
+        "rel_uri": "p:P161",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      }
+    ]
+  }
+]

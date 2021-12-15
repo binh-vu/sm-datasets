@@ -1,0 +1,1294 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Downstage_Thrust_Tour",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "27 June 2007",
+          "29 June 2007",
+          "30 June 2007",
+          "3 July 2007",
+          "4 July 2007",
+          "6 July 2007",
+          "7 July 2007",
+          "8 July 2007",
+          "11 July 2007",
+          "13 July 2007",
+          "14 July 2007",
+          "16 July 2007",
+          "17 July 2007",
+          "19 July 2007",
+          "21 July 2007",
+          "22 July 2007",
+          "24 July 2007",
+          "26 July 2007",
+          "28 July 2007",
+          "11 August 2007",
+          "12 August 2007",
+          "14 August 2007",
+          "15 August 2007",
+          "17 August 2007",
+          "18 August 2007",
+          "21 August 2007",
+          "22 August 2007",
+          "24 August 2007",
+          "25 August 2007",
+          "26 August 2007",
+          "27 August 2007",
+          "29 August 2007",
+          "30 August 2007",
+          "31 August 2007",
+          "1 September 2007",
+          "3 September 2007",
+          "5 September 2007",
+          "7 September 2007",
+          "8 September 2007",
+          "9 September 2007",
+          "12 September 2007",
+          "14 September 2007",
+          "15 September 2007",
+          "16 September 2007",
+          "18 September 2007",
+          "20 September 2007",
+          "22 September 2007",
+          "23 September 2007",
+          "26 September 2007",
+          "27 September 2007",
+          "28 September 2007",
+          "30 September 2007",
+          "1 October 2007",
+          "2 October 2007"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Cincinnati",
+          "Milwaukee",
+          "Tinley Park",
+          "Bonner Springs",
+          "Maryland Heights",
+          "Noblesville",
+          "Burgettstown",
+          "Columbus",
+          "Walker",
+          "Cuyahoga Falls",
+          "Camden",
+          "Toronto",
+          "Montreal",
+          "Uncasville",
+          "Sarnia",
+          "Farwell",
+          "Clarkston",
+          "Minot",
+          "Cheyenne",
+          "Mansfield",
+          "Hershey",
+          "Wantagh",
+          "Holmdel",
+          "Bristow",
+          "Virginia Beach",
+          "Raleigh",
+          "Charlotte",
+          "Tampa",
+          "Atlanta",
+          "Louisville",
+          "Raleigh",
+          "Selma",
+          "Selma",
+          "The Woodlands",
+          "Dallas",
+          "Saint Paul",
+          "Oklahoma City",
+          "West Valley City",
+          "Grand Junction",
+          "Englewood",
+          "Ridgefield",
+          "Wheatland",
+          "Kelseyville",
+          "Reno",
+          "Concord",
+          "Phoenix",
+          "Las Vegas",
+          "Irvine",
+          "Auburn",
+          "Vancouver",
+          "Victoria",
+          "Calgary",
+          "Edmonton",
+          "Saskatoon"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "Canada",
+          "United States",
+          "Canada",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "United States",
+          "Canada",
+          "Canada",
+          "Canada",
+          "Canada",
+          "Canada"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Riverbend Music Center",
+          "Summerfest",
+          "First Midwest Bank Amphitheatre",
+          "Verizon Wireless Amphitheater",
+          "Verizon Wireless Amphitheater",
+          "Verizon Wireless Music Center",
+          "Post-Gazette Pavilion",
+          "Germain Amphitheater",
+          "Moondance Jam",
+          "Blossom Music Center",
+          "Tweeter Center",
+          "Molson Canadian Amphitheatre",
+          "Bell Centre",
+          "Mohegan Sun Arena",
+          "Sarnia Bayfest",
+          "Mountain Rock Fest 2007",
+          "DTE Energy Music Theatre",
+          "North Dakota State Fair",
+          "Cheyenne Frontier Days",
+          "Tweeter Center",
+          "Hersheypark Stadium",
+          "Nikon at Jones Beach Theater",
+          "PNC Bank Arts Center",
+          "Nissan Pavilion",
+          "Verizon Wireless Amphitheatre Virginia Beach",
+          "(Re-scheduled) Walnut Creek Amphitheatre",
+          "Verizon Wireless Amphitheatre",
+          "Ford Amphitheatre",
+          "HiFi Buys Amphitheatre",
+          "Freedom Hall",
+          "Walnut Creek Amphitheatre",
+          "(Re-scheduled)  Verizon Wireless Amphitheater",
+          "Verizon Wireless Amphitheater",
+          "Cynthia Woods Mitchell Pavilion",
+          "Smirnoff Music Centre",
+          "Minnesota State Fair",
+          "Zoo Amphitheatre",
+          "USANA Amphitheatre",
+          "Rock Jam",
+          "Coors Amphitheatre",
+          "Clark County Amphitheater",
+          "Sleep Train Amphitheatre",
+          "Konocti Harbor Resort & Spa",
+          "Reno Events Center",
+          "Sleep Train Pavilion",
+          "Cricket Wireless Pavilion",
+          "Mandalay Bay Events Center",
+          "Verizon Wireless Amphitheater",
+          "White River Amphitheatre",
+          "General Motors Place",
+          "Save-On-Foods Memorial Centre",
+          "Pengrowth Saddledome",
+          "Rexall Place",
+          "Credit Union Centre"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Downstage Thrust Tour",
+    "page_url": "https://en.wikipedia.org/wiki/Downstage_Thrust_Tour",
+    "page_entity_id": "Q5303290"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Cincinnati",
+          "entity_id": "Q43196"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Riverbend_Music_Center",
+          "entity_id": "Q10363114"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Milwaukee",
+          "entity_id": "Q37836"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Summerfest",
+          "entity_id": "Q7637556"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Tinley_Park,_Illinois",
+          "entity_id": "Q1761214"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/First_Midwest_Bank_Amphitheatre",
+          "entity_id": "Q5453333"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bonner_Springs,_Kansas",
+          "entity_id": "Q892775"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheater_Kansas_City",
+          "entity_id": "Q7416948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Maryland_Heights,_Missouri",
+          "entity_id": "Q606594"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheater_(Maryland_Heights,_Missouri)",
+          "entity_id": "Q7921444"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Noblesville,_Indiana",
+          "entity_id": "Q1645069"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Music_Center_(Indiana)",
+          "entity_id": "Q6421127"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Burgettstown,_Pennsylvania",
+          "entity_id": "Q1132117"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Post-Gazette_Pavilion",
+          "entity_id": "Q5453451"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Columbus,_Ohio",
+          "entity_id": "Q16567"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Germain_Amphitheater",
+          "entity_id": "Q5550971"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Walker,_Minnesota",
+          "entity_id": "Q1911158"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Moondance_Jam",
+          "entity_id": "Q6907695"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cuyahoga_Falls,_Ohio",
+          "entity_id": "Q531958"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Blossom_Music_Center",
+          "entity_id": "Q4928440"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Camden,_New_Jersey",
+          "entity_id": "Q138367"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_at_the_Waterfront",
+          "entity_id": "Q7649297"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Toronto",
+          "entity_id": "Q172"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Molson_Canadian_Amphitheatre",
+          "entity_id": "Q6896841"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Bell_Centre",
+          "entity_id": "Q522282"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Uncasville,_Connecticut",
+          "entity_id": "Q7882479"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mohegan_Sun_Arena",
+          "entity_id": "Q2056942"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sarnia,_Ontario",
+          "entity_id": "Q34106"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sarnia_Bayfest",
+          "entity_id": "Q7424337"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Farwell,_Michigan",
+          "entity_id": "Q2094276"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Clarkston,_Michigan",
+          "entity_id": "Q1095872"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/DTE_Energy_Music_Theatre",
+          "entity_id": "Q5206234"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Minot,_North_Dakota",
+          "entity_id": "Q487201"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/North_Dakota_State_Fair",
+          "entity_id": "Q7055059"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cheyenne,_Wyoming",
+          "entity_id": "Q39042"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Cheyenne_Frontier_Days",
+          "entity_id": "Q2963149"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mansfield,_Massachusetts",
+          "entity_id": "Q1193955"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tweeter_Center_Boston",
+          "entity_id": "Q5018650"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hershey,_Pennsylvania",
+          "entity_id": "Q868666"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Hersheypark_Stadium",
+          "entity_id": "Q9283783"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wantagh,_New_York",
+          "entity_id": "Q3451844"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Nikon_at_Jones_Beach_Theater",
+          "entity_id": "Q7036549"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Holmdel,_New_Jersey",
+          "entity_id": "Q1474335"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/PNC_Bank_Arts_Center",
+          "entity_id": "Q7119814"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bristow,_Virginia",
+          "entity_id": "Q4969135"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Nissan_Pavilion",
+          "entity_id": "Q6192246"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Virginia_Beach,_Virginia",
+          "entity_id": "Q49259"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_Virginia_Beach",
+          "entity_id": "Q5435470"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Raleigh,_North_Carolina",
+          "entity_id": "Q41087"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 15,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/Walnut_Creek_Amphitheatre",
+          "entity_id": "Q7805199"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Charlotte,_North_Carolina",
+          "entity_id": "Q16565"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_Charlotte",
+          "entity_id": "Q3023993"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tampa,_Florida",
+          "entity_id": "Q49255"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ford_Amphitheatre_(Tampa)",
+          "entity_id": "Q4266698"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/HiFi_Buys_Amphitheatre",
+          "entity_id": "Q4661762"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Louisville,_Kentucky",
+          "entity_id": "Q43668"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Freedom_Hall",
+          "entity_id": "Q842991"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Selma,_Texas",
+          "entity_id": "Q981911"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 16,
+          "end": 45,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_Selma",
+          "entity_id": "Q3023977"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/The_Woodlands,_Texas",
+          "entity_id": "Q982421"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Cynthia_Woods_Mitchell_Pavilion",
+          "entity_id": "Q5200176"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dallas",
+          "entity_id": "Q16557"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Smirnoff_Music_Centre",
+          "entity_id": "Q5554959"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Saint_Paul,_Minnesota",
+          "entity_id": "Q28848"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Minnesota_State_Fair",
+          "entity_id": "Q1937367"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Oklahoma_City",
+          "entity_id": "Q34863"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Zoo_Amphitheatre",
+          "entity_id": "Q7082160"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/West_Valley_City,_Utah",
+          "entity_id": "Q52465"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/USANA_Amphitheatre",
+          "entity_id": "Q7865749"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Grand_Junction,_Colorado",
+          "entity_id": "Q989903"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Englewood,_Colorado",
+          "entity_id": "Q991177"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Coors_Amphitheatre_(Greenwood_Village,_Colorado)",
+          "entity_id": "Q5151675"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ridgefield,_Washington",
+          "entity_id": "Q1505990"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Clark_County_Amphitheater",
+          "entity_id": "Q7539680"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wheatland,_California",
+          "entity_id": "Q2370501"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Sleep_Train_Amphitheatre_(Wheatland,_California)",
+          "entity_id": "Q7539730"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Kelseyville,_California",
+          "entity_id": "Q1839339"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Konocti_Harbor",
+          "entity_id": "Q6429595"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Reno,_Nevada",
+          "entity_id": "Q49225"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Reno_Events_Center",
+          "entity_id": "Q7313390"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Concord,_California",
+          "entity_id": "Q490441"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Sleep_Train_Pavilion",
+          "entity_id": "Q7539731"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Phoenix,_Arizona",
+          "entity_id": "Q16556"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Cricket_Wireless_Pavilion",
+          "entity_id": "Q5264017"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Las_Vegas",
+          "entity_id": "Q23768"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Mandalay_Bay_Events_Center",
+          "entity_id": "Q1888848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Irvine,_California",
+          "entity_id": "Q49219"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Verizon_Wireless_Amphitheatre_(Irvine,_California)",
+          "entity_id": "Q7921446"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Auburn,_Washington",
+          "entity_id": "Q661595"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/White_River_Amphitheatre",
+          "entity_id": "Q7995279"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vancouver",
+          "entity_id": "Q24639"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/General_Motors_Place",
+          "entity_id": "Q517318"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Victoria,_British_Columbia",
+          "entity_id": "Q2132"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Save-On-Foods_Memorial_Centre",
+          "entity_id": "Q3474502"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Calgary",
+          "entity_id": "Q36312"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Pengrowth_Saddledome",
+          "entity_id": "Q1140083"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Edmonton",
+          "entity_id": "Q2096"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rexall_Place",
+          "entity_id": "Q1139489"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Saskatoon",
+          "entity_id": "Q10566"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Credit_Union_Centre",
+          "entity_id": "Q1139421"
+        }
+      ]
+    ]
+  ]
+}

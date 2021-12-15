@@ -1,0 +1,706 @@
+{
+  "version": "1",
+  "table": {
+    "version": "2",
+    "table_id": "VTGRAO24",
+    "columns": [
+      {
+        "index": 0,
+        "name": "col0",
+        "values": [
+          "DuBois Business College",
+          "Florida Coastal School of Law",
+          "Ex'pression College for Digital Arts",
+          "Daymar College",
+          "Five Branches University",
+          "Emperor's College",
+          "Douglas Education Center",
+          "Eastwick College and the HoHoKus Schools",
+          "Global Health College",
+          "Fremont College",
+          "Duluth Business University",
+          "Globe University/Minnesota School of Business",
+          "ECPI University",
+          "Five Towns College",
+          "Digital Media Arts College",
+          "Full Sail University",
+          "Davis College",
+          "Coyne College",
+          "Columbia College",
+          "Charleston School of Law"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "col1",
+        "values": [
+          "Main Campus, One Beaver Drive, Du Bois, PA, 15801",
+          "8787 Baypine Road, Jacksonville, FL, 32256",
+          "6601 Shellmond St, Emeryville, CA, 94608",
+          "560 Royal Parkway, Nashville, TN",
+          "200 7th Avenue, Santa Cruz, CA, 95062",
+          "1807 Wilshire Blvd, Ste #200, Santa Monica, CA, 90403",
+          "130 7th St, Monessen, PA, 15062",
+          "10 South Franklin Turnpike, Ramsey, NJ, 07446-2551",
+          "6101 Stevenson Avenue, Alexandria, VA, 22304",
+          "18000 Studebaker Road Suite 900A, Cerritos, CA, 90703",
+          "4724 Mike Colalillo Drive, Duluth, MN, 55807",
+          "3680 Pheasant Ridge Dr NE, Blaine, MN, 55449",
+          "5555 Greenwich Rd Ste 300, Virginia Beach, VA, 23462",
+          "305 North Service Road, Dix Hills, NY, 11746-5871",
+          "5400 Broken Sound Blvd NW #100, Boca Raton, FL, 33487",
+          "3300 University Blvd, Winter Park, FL 32792-7429",
+          "4747 Monroe St, Toledo, OH, 43623",
+          "330 North Green Street, Chicago, IL, 60607-1300",
+          "8300 Merrifield Ave 3F, Fairfax, VA, 22031",
+          "81 Mary Street, Charleston, SC, 29403"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "col2",
+        "values": [
+          "Pennsylvania",
+          "Jacksonville",
+          "California",
+          "Owensboro",
+          "California",
+          "California",
+          "Pennsylvania",
+          "New Jersey",
+          "Virginia",
+          "Cerritos",
+          "Duluth",
+          "Woodbury",
+          "Virginia Beach",
+          "Dix Hills",
+          "Boca Raton",
+          "Winter Park",
+          "Toledo",
+          "Illinois",
+          "Virginia",
+          "Charleston"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "col3",
+        "values": [
+          "1885-01-01",
+          "1996-01-01",
+          "1998-01-01",
+          "1879-01-01",
+          "1984-01-01",
+          "1983-01-01",
+          "1904-01-01",
+          "1985-01-01",
+          "2004-01-01",
+          "1986-01-01",
+          "1891-01-01",
+          "1877-01-01",
+          "1966-01-01",
+          "1972-01-01",
+          "2001-01-01",
+          "1972-01-01",
+          "1858-01-01",
+          "1898-01-01",
+          "1999-01-01",
+          "2003-01-01"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "col4",
+        "values": [
+          "associate's colleges: high career & technical-mixed traditional/nontraditional",
+          "special focus four-year: law schools",
+          "special focus four-year: arts, music and design schools",
+          "special focus four-year: other health professions schools",
+          "special focus four-year: other health professions schools",
+          "special focus four-year: other health professions schools",
+          "special focus two-year colleges: arts and design",
+          "special focus two-year colleges: health professions",
+          "special focus two-year colleges: health professions",
+          "baccalaureate/associate's colleges: associate's dominant four year colleges",
+          "baccalaureate/associate's colleges: associate's dominant four year colleges",
+          "baccalaureate/associate's colleges: mixed baccalaureate/associate's",
+          "baccalaureate/associate's colleges: mixed baccalaureate/associate's",
+          "baccalaureate colleges: diverse fields",
+          "baccalaureate colleges: diverse fields",
+          "master's colleges and universities: larger programs",
+          "associate's colleges: high career & technical-high nontraditional",
+          "associate's colleges: high career & technical-high nontraditional",
+          "associate's colleges: high transfer-high traditional",
+          "special focus four-year: law schools"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": null,
+    "page_url": null,
+    "page_qnode": null
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://www.wikidata.org/entity/Q5309980",
+          "qnode_id": "Q5309980"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q1400",
+          "qnode_id": "Q1400"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 78,
+          "url": "http://www.wikidata.org/entity/Q23542881",
+          "qnode_id": "Q23542881"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://www.wikidata.org/entity/Q5461282",
+          "qnode_id": "Q5461282"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q16568",
+          "qnode_id": "Q16568"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://www.wikidata.org/entity/Q23542868",
+          "qnode_id": "Q23542868"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://www.wikidata.org/entity/Q5419099",
+          "qnode_id": "Q5419099"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q99",
+          "qnode_id": "Q99"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 55,
+          "url": "http://www.wikidata.org/entity/Q23542867",
+          "qnode_id": "Q23542867"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q5243247",
+          "qnode_id": "Q5243247"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q494295",
+          "qnode_id": "Q494295"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 57,
+          "url": "http://www.wikidata.org/entity/Q23542858",
+          "qnode_id": "Q23542858"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://www.wikidata.org/entity/Q5455840",
+          "qnode_id": "Q5455840"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q99",
+          "qnode_id": "Q99"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 57,
+          "url": "http://www.wikidata.org/entity/Q23542858",
+          "qnode_id": "Q23542858"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://www.wikidata.org/entity/Q5373859",
+          "qnode_id": "Q5373859"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q99",
+          "qnode_id": "Q99"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 57,
+          "url": "http://www.wikidata.org/entity/Q23542858",
+          "qnode_id": "Q23542858"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://www.wikidata.org/entity/Q5301436",
+          "qnode_id": "Q5301436"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://www.wikidata.org/entity/Q1400",
+          "qnode_id": "Q1400"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 48,
+          "url": "http://www.wikidata.org/entity/Q23542854",
+          "qnode_id": "Q23542854"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://www.wikidata.org/entity/Q5330990",
+          "qnode_id": "Q5330990"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q1408",
+          "qnode_id": "Q1408"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 51,
+          "url": "http://www.wikidata.org/entity/Q23542852",
+          "qnode_id": "Q23542852"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://www.wikidata.org/entity/Q5570362",
+          "qnode_id": "Q5570362"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q1370",
+          "qnode_id": "Q1370"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 51,
+          "url": "http://www.wikidata.org/entity/Q23542852",
+          "qnode_id": "Q23542852"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q5501566",
+          "qnode_id": "Q5501566"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q575316",
+          "qnode_id": "Q575316"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 75,
+          "url": "http://www.wikidata.org/entity/Q23336706",
+          "qnode_id": "Q23336706"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://www.wikidata.org/entity/Q5313502",
+          "qnode_id": "Q5313502"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q485708",
+          "qnode_id": "Q485708"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 75,
+          "url": "http://www.wikidata.org/entity/Q23336706",
+          "qnode_id": "Q23336706"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 45,
+          "url": "http://www.wikidata.org/entity/Q5571018",
+          "qnode_id": "Q5571018"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q862672",
+          "qnode_id": "Q862672"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 67,
+          "url": "http://www.wikidata.org/entity/Q23336577",
+          "qnode_id": "Q23336577"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://www.wikidata.org/entity/Q5322728",
+          "qnode_id": "Q5322728"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://www.wikidata.org/entity/Q49259",
+          "qnode_id": "Q49259"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 67,
+          "url": "http://www.wikidata.org/entity/Q23336577",
+          "qnode_id": "Q23336577"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://www.wikidata.org/entity/Q5456170",
+          "qnode_id": "Q5456170"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://www.wikidata.org/entity/Q3459205",
+          "qnode_id": "Q3459205"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://www.wikidata.org/entity/Q23336120",
+          "qnode_id": "Q23336120"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://www.wikidata.org/entity/Q5275919",
+          "qnode_id": "Q5275919"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q29422",
+          "qnode_id": "Q29422"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://www.wikidata.org/entity/Q23336120",
+          "qnode_id": "Q23336120"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://www.wikidata.org/entity/Q5508130",
+          "qnode_id": "Q5508130"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://www.wikidata.org/entity/Q986641",
+          "qnode_id": "Q986641"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 51,
+          "url": "http://www.wikidata.org/entity/Q23335394",
+          "qnode_id": "Q23335394"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q5241858",
+          "qnode_id": "Q5241858"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://www.wikidata.org/entity/Q49239",
+          "qnode_id": "Q49239"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 65,
+          "url": "http://www.wikidata.org/entity/Q23542882",
+          "qnode_id": "Q23542882"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://www.wikidata.org/entity/Q5180022",
+          "qnode_id": "Q5180022"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q1204",
+          "qnode_id": "Q1204"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 65,
+          "url": "http://www.wikidata.org/entity/Q23542882",
+          "qnode_id": "Q23542882"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://www.wikidata.org/entity/Q5149654",
+          "qnode_id": "Q5149654"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://www.wikidata.org/entity/Q1370",
+          "qnode_id": "Q1370"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 52,
+          "url": "http://www.wikidata.org/entity/Q23542874",
+          "qnode_id": "Q23542874"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://www.wikidata.org/entity/Q5084173",
+          "qnode_id": "Q5084173"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://www.wikidata.org/entity/Q47716",
+          "qnode_id": "Q47716"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 36,
+          "url": "http://www.wikidata.org/entity/Q23542868",
+          "qnode_id": "Q23542868"
+        }
+      ]
+    ]
+  ]
+}

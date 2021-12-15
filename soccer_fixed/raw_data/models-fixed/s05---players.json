@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "schema:Player:1",
+      "abs_uri": "http://schema.org/Player",
+      "rel_uri": "schema:Player"
+    },
+    {
+      "id": "dnode:lastName",
+      "col_index": 3,
+      "label": "lastName"
+    },
+    {
+      "id": "dnode:fullName",
+      "col_index": 5,
+      "label": "fullName"
+    },
+    {
+      "id": "dnode:firstName",
+      "col_index": 2,
+      "label": "firstName"
+    },
+    {
+      "id": "dnode:displayName",
+      "col_index": 0,
+      "label": "displayName"
+    },
+    {
+      "id": "dnode:shortName",
+      "col_index": 8,
+      "label": "shortName"
+    },
+    {
+      "id": "schema:League:1",
+      "abs_uri": "http://schema.org/League",
+      "rel_uri": "schema:League"
+    },
+    {
+      "id": "dnode:leagueShortname",
+      "col_index": 4,
+      "label": "leagueShortname"
+    },
+    {
+      "id": "dnode:leagueName",
+      "col_index": 6,
+      "label": "leagueName"
+    },
+    {
+      "id": "schema:SportsClub:1",
+      "abs_uri": "http://schema.org/SportsClub",
+      "rel_uri": "schema:SportsClub"
+    }
+  ],
+  "edges": [
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:lastName",
+      "abs_uri": "http://schema.org/familyName",
+      "rel_uri": "schema:familyName"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:fullName",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:firstName",
+      "abs_uri": "http://schema.org/givenName",
+      "rel_uri": "schema:givenName"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:displayName",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:shortName",
+      "abs_uri": "http://schema.org/alternateName",
+      "rel_uri": "schema:alternateName"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "schema:SportsClub:1",
+      "abs_uri": "http://schema.org/inClub",
+      "rel_uri": "schema:inClub"
+    },
+    {
+      "source": "schema:League:1",
+      "target": "dnode:leagueShortname",
+      "abs_uri": "http://schema.org/alternateName",
+      "rel_uri": "schema:alternateName"
+    },
+    {
+      "source": "schema:League:1",
+      "target": "dnode:leagueName",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    },
+    {
+      "source": "schema:SportsClub:1",
+      "target": "schema:League:1",
+      "abs_uri": "http://schema.org/inLeague",
+      "rel_uri": "schema:inLeague"
+    }
+  ]
+}

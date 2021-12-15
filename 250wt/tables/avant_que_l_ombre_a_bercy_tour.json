@@ -1,0 +1,443 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Avant_que_l'ombre..._à_Bercy_(tour)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "January 13, 2006",
+          "January 14, 2006",
+          "January 15, 2006",
+          "January 17, 2006",
+          "January 18, 2006",
+          "January 20, 2006",
+          "January 21, 2006",
+          "January 22, 2006",
+          "January 24, 2006",
+          "January 25, 2006",
+          "January 27, 2006",
+          "January 28, 2006",
+          "January 29, 2006"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "City",
+        "values": [
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris",
+          "Paris"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Country",
+        "values": [
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France",
+          "France"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Venue",
+        "values": [
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy",
+          "Palais omnisports de Paris-Bercy"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Avant que l'ombre... à Bercy (tour)",
+    "page_url": "https://en.wikipedia.org/wiki/Avant_que_l'ombre..._à_Bercy_(tour)",
+    "page_entity_id": "Q2873343"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Paris",
+          "entity_id": "Q90"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Palais_omnisports_de_Paris-Bercy",
+          "entity_id": "Q537720"
+        }
+      ]
+    ]
+  ]
+}

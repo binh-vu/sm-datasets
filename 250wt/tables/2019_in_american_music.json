@@ -1,0 +1,1101 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2019_in_American_music",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Date",
+        "values": [
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "4",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "11",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "18",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25",
+          "25",
+          "30",
+          "31"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Album",
+        "values": [
+          "El Negreeto",
+          "Closer Than Together",
+          "Interrobang",
+          "Deceiver",
+          "Hello Exile",
+          "Up And Rolling",
+          "All Mirrors",
+          "Old LP",
+          "Ode to Joy",
+          "Sun Songs",
+          "Two Hands",
+          "The Act",
+          "Plunge and Surface",
+          "Almost Daylight",
+          "Somebody's Knocking",
+          "Walk The Sky",
+          "There Existed an Addiction To Blood",
+          "The Help Machine",
+          "Angels with Tattos",
+          "Surviving",
+          "Panic Attack",
+          "Pang",
+          "The Decalogue",
+          "Screamer",
+          "You Deserve Love",
+          "Bigger Than Life",
+          "Cry",
+          "Sweating the Plague",
+          "Cheap Queen",
+          "All Hail",
+          "Old Dominion",
+          "Daylight",
+          "Supermoon (EP)",
+          "Ghetto Cowboy"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Artist",
+        "values": [
+          "Akon",
+          "The Avett Brothers",
+          "Bayside",
+          "DIIV",
+          "The Menzingers",
+          "North Mississippi Allstars",
+          "Angel Olsen",
+          "that dog.",
+          "Wilco",
+          "Art Alexakis",
+          "Big Thief",
+          "The Devil Wears Prada",
+          "Goldroom",
+          "Chris Knight",
+          "Mark Lanegan",
+          "Alter Bridge",
+          "Clipping",
+          "Fastball",
+          "Skylar Grey",
+          "Jimmy Eat World",
+          "Lionize",
+          "Caroline Polachek",
+          "Sufjan Stevens",
+          "Third Eye Blind",
+          "White Reaper",
+          "Black Marble",
+          "Cigarettes After Sex",
+          "Guided By Voices",
+          "King Princess",
+          "Norma Jean",
+          "Old Dominion",
+          "Grace Potter",
+          "Charly Bliss",
+          "Yelawolf"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Genre (s)",
+        "values": [
+          "   Reggaeton  bachata  merengue",
+          "Folk rock",
+          "Pop punk",
+          "Indie rock",
+          "Punk rock",
+          "   Southern rock  blues",
+          "   Indie folk  indie rock",
+          "   Alternative rock  punk rock",
+          "   Indie rock  alternative rock",
+          "Rock",
+          "Indie rock",
+          "   Heavy metal  hard rock",
+          "   Electronic  electropop",
+          "   Rock  indie rock  country rock",
+          "   Alternative rock  folk rock",
+          "   Hard rock  rock",
+          "Hip hop",
+          "   Alternative rock  pop rock",
+          "   Rock  Pop",
+          "Alternative rock",
+          "   Hard rock  heavy metal",
+          "   Indie rock  indie pop  electronic",
+          "   Indie rock  indie folk",
+          "Alternative rock",
+          "   Garage rock  garage punk",
+          "   Dance  synth-pop",
+          "   Rock  pop",
+          "   Lo-fi  alternative rock  indie rock",
+          "   Pop rock  indie pop",
+          "   Hard rock  heavy metal",
+          "Country",
+          "   Rock  pop",
+          "   Punk rock  indie rock  alternative rock",
+          "Hip hop"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2019 in American music",
+    "page_url": "https://en.wikipedia.org/wiki/2019_in_American_music",
+    "page_entity_id": "Q59309104"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/El_Negreeto",
+          "entity_id": "Q77579965"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Akon",
+          "entity_id": "Q32849"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Reggaeton",
+          "entity_id": "Q202930"
+        },
+        {
+          "start": 14,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bachata_(music)",
+          "entity_id": "Q40461"
+        },
+        {
+          "start": 23,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Merengue_music",
+          "entity_id": "Q282131"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/The_Avett_Brothers",
+          "entity_id": "Q123320"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Folk_rock",
+          "entity_id": "Q186472"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Interrobang_(album)",
+          "entity_id": "Q85769731"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Bayside_(band)",
+          "entity_id": "Q812627"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pop_punk",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Deceiver_(DIIV_album)",
+          "entity_id": "Q81216529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DIIV",
+          "entity_id": "Q3560061"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/The_Menzingers",
+          "entity_id": "Q23665197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Punk_rock",
+          "entity_id": "Q3071"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/North_Mississippi_Allstars",
+          "entity_id": "Q475935"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Southern_rock",
+          "entity_id": "Q852767"
+        },
+        {
+          "start": 18,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Blues_music",
+          "entity_id": "Q9759"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/All_Mirrors",
+          "entity_id": "Q77580615"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Angel_Olsen",
+          "entity_id": "Q6462653"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indie_folk",
+          "entity_id": "Q1317816"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Old_LP",
+          "entity_id": "Q69619391"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/That_Dog",
+          "entity_id": "Q4345664"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Punk_rock",
+          "entity_id": "Q3071"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Ode_to_Joy_(Wilco_album)",
+          "entity_id": "Q65591619"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Wilco",
+          "entity_id": "Q637771"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        },
+        {
+          "start": 15,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Art_Alexakis",
+          "entity_id": "Q4796673"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Big_Thief",
+          "entity_id": "Q28228836"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(band)",
+          "entity_id": "Q1168381"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Heavy_metal_music",
+          "entity_id": "Q38848"
+        },
+        {
+          "start": 16,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Hard_rock",
+          "entity_id": "Q83270"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Goldroom",
+          "entity_id": "Q19564296"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Electronic_music",
+          "entity_id": "Q9778"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Electropop",
+          "entity_id": "Q188450"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Chris_Knight_(musician)",
+          "entity_id": "Q1077413"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        },
+        {
+          "start": 9,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        },
+        {
+          "start": 21,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Country_rock",
+          "entity_id": "Q613408"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Mark_Lanegan",
+          "entity_id": "Q319277"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        },
+        {
+          "start": 21,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Folk_rock",
+          "entity_id": "Q186472"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Alter_Bridge",
+          "entity_id": "Q335036"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hard_rock",
+          "entity_id": "Q83270"
+        },
+        {
+          "start": 14,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Clipping_(band)",
+          "entity_id": "Q17299778"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hip_hop_music",
+          "entity_id": "Q11401"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Fastball_(band)",
+          "entity_id": "Q541737"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        },
+        {
+          "start": 21,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Pop_rock",
+          "entity_id": "Q484641"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Skylar_Grey",
+          "entity_id": "Q233750"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pop_music",
+          "entity_id": "Q37073"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Jimmy_Eat_World",
+          "entity_id": "Q642988"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lionize",
+          "entity_id": "Q19864065"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hard_rock",
+          "entity_id": "Q83270"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Heavy_Metal_music",
+          "entity_id": "Q38848"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Pang_(album)",
+          "entity_id": "Q67222255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Caroline_Polachek",
+          "entity_id": "Q17086369"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        },
+        {
+          "start": 15,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indie_pop",
+          "entity_id": "Q842324"
+        },
+        {
+          "start": 26,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Electronic_music",
+          "entity_id": "Q9778"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sufjan_Stevens",
+          "entity_id": "Q319502"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        },
+        {
+          "start": 15,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Indie_folk",
+          "entity_id": "Q1317816"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Screamer_(album)",
+          "entity_id": "Q85800059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Third_Eye_Blind",
+          "entity_id": "Q1155385"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/White_Reaper",
+          "entity_id": "Q22026280"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Garage_rock",
+          "entity_id": "Q211573"
+        },
+        {
+          "start": 16,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Garage_punk",
+          "entity_id": "Q211573"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Black_Marble",
+          "entity_id": "Q28194812"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dance_music",
+          "entity_id": "Q316930"
+        },
+        {
+          "start": 10,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Synth-pop",
+          "entity_id": "Q1298934"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Cigarettes_After_Sex",
+          "entity_id": "Q25349372"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pop_music",
+          "entity_id": "Q37073"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Sweating_the_Plague",
+          "entity_id": "Q72688277"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Guided_By_Voices",
+          "entity_id": "Q1472033"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lo-fi",
+          "entity_id": "Q1507298"
+        },
+        {
+          "start": 10,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        },
+        {
+          "start": 28,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cheap_Queen",
+          "entity_id": "Q85751707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/King_Princess",
+          "entity_id": "Q55006878"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Pop_rock",
+          "entity_id": "Q484641"
+        },
+        {
+          "start": 13,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Indie_pop",
+          "entity_id": "Q842324"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Norma_Jean_(band)",
+          "entity_id": "Q406379"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hard_rock",
+          "entity_id": "Q83270"
+        },
+        {
+          "start": 14,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Heavy_metal_music",
+          "entity_id": "Q38848"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Old_Dominion_(band)",
+          "entity_id": "Q20685018"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Country_music",
+          "entity_id": "Q83440"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Grace_Potter",
+          "entity_id": "Q21042697"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rock_music",
+          "entity_id": "Q11399"
+        },
+        {
+          "start": 9,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Pop_music",
+          "entity_id": "Q37073"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Charly_Bliss",
+          "entity_id": "Q28024916"
+        }
+      ],
+      [
+        {
+          "start": 3,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Punk_rock",
+          "entity_id": "Q3071"
+        },
+        {
+          "start": 14,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indie_rock",
+          "entity_id": "Q183504"
+        },
+        {
+          "start": 26,
+          "end": 42,
+          "url": "http://en.wikipedia.org/wiki/Alternative_rock",
+          "entity_id": "Q11366"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Ghetto_Cowboy_(album)",
+          "entity_id": "Q80833083"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Yelawolf",
+          "entity_id": "Q168535"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hip_hop_music",
+          "entity_id": "Q11401"
+        }
+      ]
+    ]
+  ]
+}

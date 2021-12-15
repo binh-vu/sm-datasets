@@ -1,0 +1,535 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Nalanda_(Lok_Sabha_constituency)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1952",
+          "1957",
+          "1962",
+          "1967",
+          "1971",
+          "1977",
+          "1980",
+          "1984",
+          "1989",
+          "1991",
+          "1996",
+          "1998",
+          "1999",
+          "2004",
+          "2005^",
+          "2009",
+          "2014",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Winner",
+        "values": [
+          "Kailashpati Sinha",
+          "Kailashpati Sinha",
+          "Siddheshwar Prasad",
+          "Siddheshwar Prasad",
+          "Siddheshwar Prasad",
+          "Birendra Prasad",
+          "Vijay Kumar Yadav",
+          "Vijay Kumar Yadav",
+          "Ram Swarup Prasad",
+          "Vijay Kumar Yadav",
+          "George Fernandes",
+          "George Fernandes",
+          "George Fernandes",
+          "Nitish Kumar",
+          "Ram Swarup Prasad",
+          "Kaushalendra Kumar",
+          "Kaushalendra Kumar",
+          "Kaushalendra Kumar"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Party",
+        "values": [
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Bharatiya Lok Dal",
+          "Communist Party of India",
+          "Communist Party of India",
+          "Indian National Congress",
+          "Communist Party of India",
+          "Samata Party",
+          "Samata Party",
+          "Janata Dal (United)",
+          "Janata Dal (United)",
+          "Janata Dal (United)",
+          "Janata Dal (United)",
+          "Janata Dal (United)",
+          "Janata Dal (United)"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Nalanda (Lok Sabha constituency)",
+    "page_url": "https://en.wikipedia.org/wiki/Nalanda_(Lok_Sabha_constituency)",
+    "page_entity_id": "Q6960794"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1951%E2%80%9352_Indian_general_election",
+          "entity_id": "Q3531591"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kailashpati_Sinha",
+          "entity_id": "Q63073280"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1957_Indian_general_election",
+          "entity_id": "Q3532217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kailashpati_Sinha",
+          "entity_id": "Q63073280"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1962_Indian_general_election",
+          "entity_id": "Q3532199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Siddheshwar_Prasad",
+          "entity_id": "Q7508157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1967_Indian_general_election",
+          "entity_id": "Q3532250"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Siddheshwar_Prasad",
+          "entity_id": "Q7508157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1971_Indian_general_election",
+          "entity_id": "Q3532241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Siddheshwar_Prasad",
+          "entity_id": "Q7508157"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1977_Indian_general_election",
+          "entity_id": "Q3531393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Birendra_Prasad",
+          "entity_id": "Q51698974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Lok_Dal",
+          "entity_id": "Q3595130"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1980_Indian_general_election",
+          "entity_id": "Q3532192"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vijay_Kumar_Yadav",
+          "entity_id": "Q51697716"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Communist_Party_of_India",
+          "entity_id": "Q837159"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1984_Indian_general_election",
+          "entity_id": "Q3532183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vijay_Kumar_Yadav",
+          "entity_id": "Q51697716"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Communist_Party_of_India",
+          "entity_id": "Q837159"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1989_Indian_general_election",
+          "entity_id": "Q3532186"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1991_Indian_general_election",
+          "entity_id": "Q3532223"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Vijay_Kumar_Yadav",
+          "entity_id": "Q51697716"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Communist_Party_of_India",
+          "entity_id": "Q837159"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1996_Indian_general_election",
+          "entity_id": "Q3532207"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/George_Fernandes",
+          "entity_id": "Q3056379"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Samata_Party",
+          "entity_id": "Q3781719"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1998_Indian_general_election",
+          "entity_id": "Q3532246"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/George_Fernandes",
+          "entity_id": "Q3056379"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Samata_Party",
+          "entity_id": "Q3781719"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1999_Indian_general_election",
+          "entity_id": "Q10968265"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/George_Fernandes",
+          "entity_id": "Q3056379"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2004_Indian_general_election",
+          "entity_id": "Q3523023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Nitish_Kumar",
+          "entity_id": "Q122304"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2009_Indian_general_election",
+          "entity_id": "Q1134751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kaushalendra_Kumar",
+          "entity_id": "Q16193188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2014_Indian_general_election",
+          "entity_id": "Q3587169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kaushalendra_Kumar",
+          "entity_id": "Q16193188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2019_Indian_general_election",
+          "entity_id": "Q28164181"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kaushalendra_Kumar",
+          "entity_id": "Q16193188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal_(United)",
+          "entity_id": "Q904827"
+        }
+      ]
+    ]
+  ]
+}

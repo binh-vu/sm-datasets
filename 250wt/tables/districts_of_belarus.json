@@ -1,0 +1,3114 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Districts_of_Belarus",
+    "columns": [
+      {
+        "index": 0,
+        "name": "English name",
+        "values": [
+          "Baranavichy District",
+          "Brest District",
+          "Byaroza District",
+          "Drahichyn District",
+          "Hantsavichy District",
+          "Ivanava District",
+          "Ivatsevichy District",
+          "Kamenets District",
+          "Kobryn District",
+          "Luninets District",
+          "Lyakhavichy District",
+          "Malaryta District",
+          "Pinsk District",
+          "Pruzhany District",
+          "Stolin District",
+          "Zhabinka District",
+          "Akciabrski District",
+          "Brahin District",
+          "Buda-Kashalyowa District",
+          "Chachersk District",
+          "Dobruš District",
+          "Gomel District",
+          "Jeĺsk District",
+          "Kalinkavichy District",
+          "Karma District",
+          "Khoiniki District",
+          "Loyew District",
+          "Lyelchytsy District",
+          "Mazyr District",
+          "Naroulia District",
+          "Pietrykaŭ District",
+          "Rahačoŭ District",
+          "Rečyca District",
+          "Svietlahorsk District",
+          "Vietka District",
+          "Žlobin District",
+          "Žytkavičy District",
+          "Ashmyany District",
+          "Astravyets District",
+          "Byerastavitsa District",
+          "Dzyatlava District",
+          "Hrodna District",
+          "Iwye District",
+          "Karelichy District",
+          "Lida District",
+          "Masty District",
+          "Navahrudak District",
+          "Shchuchyn District",
+          "Slonim District",
+          "Smarhon District",
+          "Svislach District",
+          "Vawkavysk District",
+          "Voranava District",
+          "Zelva District",
+          "Barysaw District",
+          "Byerazino District",
+          "Chervyen District",
+          "Dzyarzhynsk District",
+          "Kapyl District",
+          "Kletsk District",
+          "Krupki District",
+          "Lahoysk District",
+          "Lyuban District",
+          "Maladzyechna District",
+          "Minsk District",
+          "Myadzyel District",
+          "Nyasvizh District",
+          "Pukhavichy District",
+          "Salihorsk District",
+          "Slutsk District",
+          "Smalyavichy District",
+          "Staryya Darohi District",
+          "Stowbtsy District",
+          "Uzda District",
+          "Valozhyn District",
+          "Vileyka District",
+          "Asipovichy District",
+          "Babruysk District",
+          "Byalynichy District",
+          "Bykhaw District",
+          "Chavusy District",
+          "Cherykaw District",
+          "Drybin District",
+          "Hlusk District",
+          "Horki District",
+          "Kastsyukovichy District",
+          "Khotsimsk District",
+          "Kirawsk District",
+          "Klichaw District",
+          "Klimavichy District",
+          "Krasnapolle District",
+          "Kruhlaye District",
+          "Krychaw District",
+          "Mogilev District",
+          "Mstsislaw District",
+          "Shklow District",
+          "Slawharad District",
+          "Beshankovichy District",
+          "Braslaw District",
+          "Chashniki District",
+          "Dokshytsy District",
+          "Dubrowna District",
+          "Haradok District",
+          "Hlybokaye District",
+          "Lepiel District",
+          "Liozna District",
+          "Myory District",
+          "Orsha District",
+          "Pastavy District",
+          "Polotsk District",
+          "Rasony District",
+          "Sharkawshchyna District",
+          "Shumilina District",
+          "Syanno District",
+          "Talachyn District",
+          "Ushachy District",
+          "Verkhnyadzvinsk District",
+          "Vitebsk District"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Belarusian name",
+        "values": [
+          "Баранавіцкі раён",
+          "Брэсцкі раён",
+          "Бярозаўскі раён",
+          "Драгічынскі раён",
+          "Ганцавіцкі раён",
+          "Іванаўскі раён",
+          "Івацэвіцкі раён",
+          "Камянецкі раён",
+          "Кобрынскі раён",
+          "Лунінецкі раён",
+          "Ляхавіцкі раён",
+          "Маларыцкі раён",
+          "Пінскі раён",
+          "Пружанскі раён",
+          "Столінскі раён",
+          "Жабінкаўскі раён",
+          "Акцябрскі раён",
+          "Брагінскі раён",
+          "Буда-Кашалёўскі раён",
+          "Чачэрскі раён",
+          "Добрушскі раён",
+          "Гомельскі раён",
+          "Ельскі раён",
+          "Калінкавіцкі раён",
+          "Кармянскі раён",
+          "Хойніцкі раён",
+          "Лоеўскі раён",
+          "Лельчыцкі раён",
+          "Мазырскі раён",
+          "Нараўлянскі раён",
+          "Петрыкаўскі раён",
+          "Рагачоўскі раён",
+          "Рэчыцкі раён",
+          "Светлагорскі раён",
+          "Веткаўскі раён",
+          "Жлобінскі раён",
+          "Жыткавіцкі раён",
+          "Ашмянскі раён",
+          "Астравецкі раён",
+          "Бераставіцкі раён",
+          "Дзятлаўскі раён",
+          "Гродзенскі раён",
+          "Іўеўскі раён",
+          "Карэліцкі раён",
+          "Лідскі раён",
+          "Мастоўскі раён",
+          "Навагрудскі раён",
+          "Шчучынскі раён",
+          "Слонімскі раён",
+          "Смаргонскі раён",
+          "Свіслацкі раён",
+          "Ваўкавыскі раён",
+          "Воранаўскі раён",
+          "Зэльвенскі раён",
+          "Барысаўскі раён",
+          "Бярэзінскі раён",
+          "Чэрвеньскі раён",
+          "Дзяржынскі раён",
+          "Капыльскі раён",
+          "Клецкі раён",
+          "Крупскі раён",
+          "Лагойскі раён",
+          "Любанскі раён",
+          "Маладзечанскі раён",
+          "Мінскі раён",
+          "Мядзельскі раён",
+          "Нясвіжскі раён",
+          "Пухавіцкі раён",
+          "Салігорскі раён",
+          "Слуцкі раён",
+          "Смалявіцкі раён",
+          "Старадарожскі раён",
+          "Стаўбцоўскі раён",
+          "Уздзенскі раён",
+          "Валожынскі раён",
+          "Вілейскі раён",
+          "Асіповіцкі раён",
+          "Бабруйскі раён",
+          "Бялыніцкі раён",
+          "Быхаўскі раён",
+          "Чавускі раён",
+          "Чэрыкаўскі раён",
+          "Дрыбінскі раён",
+          "Глускі раён",
+          "Горацкі раён",
+          "Касцюковіцкі раён",
+          "Хоцімскі раён",
+          "Кіраўскі раён",
+          "Клічаўскі раён",
+          "Клімавіцкі раён",
+          "Краснапольскі раён",
+          "Круглянскі раён",
+          "Крычаўскі раён",
+          "Магілёўскі раён",
+          "Мсціслаўскі раён",
+          "Шклоўскі раён",
+          "Слаўгарадскі раён",
+          "Бешанковіцкі раён",
+          "Браслаўскі раён",
+          "Чашніцкі раён",
+          "Докшыцкі раён",
+          "Дубровенскі раён",
+          "Гарадоцкі раён",
+          "Глыбоцкі раён",
+          "Лепельскі раён",
+          "Лёзненскі раён",
+          "Міёрскі раён",
+          "Аршанскі раён",
+          "Пастаўскі раён",
+          "Полацкі раён",
+          "Расонскі раён",
+          "Шаркаўшчы́нскі раён",
+          "Шумілінскі раён",
+          "Сенненскі раён",
+          "Талачынскі раён",
+          "Ушацкі раён",
+          "Верхнядзвінскі раён",
+          "Віцебскі раён"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Russian name",
+        "values": [
+          "Барановичский район",
+          "Брестский район",
+          "Берёзовский район",
+          "Дрогичинский район",
+          "Ганцевичский район",
+          "Ивановский район",
+          "Ивацевичский район",
+          "Каменецкий район",
+          "Кобринский район",
+          "Лунинецкий район",
+          "Ляховичский район",
+          "Малоритский район",
+          "Пинский район",
+          "Пружанский район",
+          "Столинский район",
+          "Жабинковский район",
+          "Октябрьский район",
+          "Брагинский район",
+          "Буда-Кошелёвский район",
+          "Чечерский район",
+          "Добрушский район",
+          "Гомельский район",
+          "Ельский район",
+          "Калинковичский район",
+          "Кормянский район",
+          "Хойникский район",
+          "Лоевский район",
+          "Лельчицкий район",
+          "Мозырский район",
+          "Наровлянский район",
+          "Петриковский район",
+          "Рогачёвский район",
+          "Ре́чицкий райо́н",
+          "Светлогорский район",
+          "Ветковский район",
+          "Жлобинский район",
+          "Житковичский район",
+          "Ошмя́нский райо́н",
+          "Островецкий район",
+          "Берестовицкий район",
+          "Дятловский район",
+          "Гродненский район",
+          "Ивьевский район",
+          "Кореличский район",
+          "Лидский район",
+          "Мостовский район",
+          "Новогрудский район",
+          "Щучинский район",
+          "Слонимский район",
+          "Сморгонский район",
+          "Свислочский район",
+          "Волковысский район",
+          "Вороновский район",
+          "Зельвенский район",
+          "Борисовский район",
+          "Березинский район",
+          "Червенский район",
+          "Дзержинский район",
+          "Копыльский район",
+          "Клецкий район",
+          "Крупский район",
+          "Логойский район",
+          "Любанский район",
+          "Молодечненский район",
+          "Минский район",
+          "Мядельский район",
+          "Несвижский район",
+          "Пуховичский район",
+          "Солигорский район",
+          "Слуцкий район",
+          "Смолевичский район",
+          "Стародорожский район",
+          "Столбцовский район",
+          "Узденский район",
+          "Воложинский район",
+          "Вилейский район",
+          "Осиповичский район",
+          "Бобруйский район",
+          "Белыничский район",
+          "Быховский район",
+          "Чаусский район",
+          "Чериковский район",
+          "Дрибинский район",
+          "Глусский район",
+          "Горецкий район",
+          "Костюковичский район",
+          "Хотимский район",
+          "Кировский район",
+          "Кличевский район",
+          "Климовичский район",
+          "Краснопольский район",
+          "Круглянский район",
+          "Кричевский район",
+          "Могилёвский район",
+          "Мстиславский район",
+          "Шкловский район",
+          "Славгородский район",
+          "Бешенковичский район",
+          "Браславский район",
+          "Чашницкий район",
+          "Докшицкий район",
+          "Дубровенский район",
+          "Городокский район",
+          "Глубокский район",
+          "Лепельский район",
+          "Лиозненский район",
+          "Мио́рский райо́н",
+          "Орша́нский райо́н",
+          "Поста́вский райо́н",
+          "По́лоцкий райо́н",
+          "Россонский район",
+          "Шарковщинский район",
+          "Шумилинский район",
+          "Сенненский район",
+          "Толочинский район",
+          "Ушачский район",
+          "Верхнедвинский район",
+          "Витебский район"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Region",
+        "values": [
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Brest",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Gomel",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Grodno",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Minsk",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Mogilev",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk",
+          "Vitebsk"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Seat",
+        "values": [
+          "Baranavichy",
+          "Brest",
+          "Byaroza",
+          "Drahichyn",
+          "Hantsavichy",
+          "Ivanava",
+          "Ivatsevichy",
+          "Kamyenyets",
+          "Kobryn",
+          "Luninets",
+          "Lyakhavichy",
+          "Malaryta",
+          "Pinsk",
+          "Pruzhany",
+          "Stolin",
+          "Zhabinka",
+          "Akciabrski",
+          "Brahin",
+          "Buda-Kašaliova",
+          "Čačersk",
+          "Dobrush",
+          "Gomel",
+          "Yelsk",
+          "Kalinkavichy",
+          "Karma",
+          "Khoiniki",
+          "Loyew",
+          "Lyelchytsy",
+          "Mazyr",
+          "Naroulia",
+          "Pietrykaw",
+          "Rahachow",
+          "Rechytsa",
+          "Svietlahorsk",
+          "Vietka",
+          "Zhlobin",
+          "Zhytkavichy",
+          "Ashmyany",
+          "Astravyets",
+          "Vyalikaya Byerastavitsa",
+          "Dzyatlava",
+          "Grodno",
+          "Ilwye",
+          "Karelichy",
+          "Lida",
+          "Masty",
+          "Navahrudak",
+          "Shchuchyn",
+          "Slonim",
+          "Smarhon’",
+          "Svislach",
+          "Vawkavysk",
+          "Voranava",
+          "Zelva",
+          "Barysaw",
+          "Byerazino",
+          "Chervyen",
+          "Dzyarzhynsk",
+          "Kapyl",
+          "Kletsk",
+          "Krupki",
+          "Lahoysk",
+          "Lyuban",
+          "Maladzyechna",
+          "Minsk",
+          "Myadzyel",
+          "Nyasvizh",
+          "Maryina Horka",
+          "Salihorsk",
+          "Slutsk",
+          "Smalyavichy",
+          "Staryya Darohi",
+          "Stowbtsy",
+          "Uzda",
+          "Valozhyn",
+          "Vileyka",
+          "Asipovichy",
+          "Babruysk",
+          "Byalynichy",
+          "Bykhaw",
+          "Chavusy",
+          "Cherykaw",
+          "Drybin",
+          "Hlusk",
+          "Horki",
+          "Kastsyukovichy",
+          "Khotsimsk",
+          "Kirawsk",
+          "Klichaw",
+          "Klimavichy",
+          "Krasnapolle",
+          "Kruhlaye",
+          "Krychaw",
+          "Mogilev",
+          "Mstsislaw",
+          "Shklow",
+          "Slawharad",
+          "Beshankovichy",
+          "Braslaw",
+          "Chashniki",
+          "Dokshytsy",
+          "Dubrowna",
+          "Haradok",
+          "Hlybokaye",
+          "Lepiel",
+          "Liozna",
+          "Myory",
+          "Orsha",
+          "Pastavy",
+          "Polotsk",
+          "Rasony",
+          "Sharkawshchyna",
+          "Shumilina",
+          "Syanno",
+          "Talachyn",
+          "Ushachy",
+          "Verkhnyadzvinsk",
+          "Vitebsk"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Districts of Belarus",
+    "page_url": "https://en.wikipedia.org/wiki/Districts_of_Belarus",
+    "page_entity_id": "Q2043199"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Baranavichy_District",
+          "entity_id": "Q1885613"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Baranavichy",
+          "entity_id": "Q237655"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Brest_District",
+          "entity_id": "Q1888816"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Brest,_Belarus",
+          "entity_id": "Q140147"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Byaroza_District",
+          "entity_id": "Q545069"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Byaroza",
+          "entity_id": "Q879406"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Drahichyn_District",
+          "entity_id": "Q1888829"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Drahichyn",
+          "entity_id": "Q956471"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Hantsavichy_District",
+          "entity_id": "Q1566438"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Hantsavichy",
+          "entity_id": "Q956470"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ivanava_District",
+          "entity_id": "Q1885588"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ivanava",
+          "entity_id": "Q956207"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Ivatsevichy_District",
+          "entity_id": "Q1885601"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Ivatsevichy",
+          "entity_id": "Q587173"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kamenets_District",
+          "entity_id": "Q1103893"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kamyenyets",
+          "entity_id": "Q956614"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kobryn_District",
+          "entity_id": "Q944303"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kobryn",
+          "entity_id": "Q955992"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Luninets_District",
+          "entity_id": "Q1885628"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Luninets",
+          "entity_id": "Q956132"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Lyakhavichy_District",
+          "entity_id": "Q1415052"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lyakhavichy",
+          "entity_id": "Q956607"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Malaryta_District",
+          "entity_id": "Q656512"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Malaryta",
+          "entity_id": "Q656579"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Pinsk_District",
+          "entity_id": "Q1885558"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Pinsk",
+          "entity_id": "Q204150"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Pruzhany_District",
+          "entity_id": "Q1885543"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Pruzhany",
+          "entity_id": "Q956159"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Stolin_District",
+          "entity_id": "Q1885570"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Stolin",
+          "entity_id": "Q956565"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Zhabinka_District",
+          "entity_id": "Q1630126"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Zhabinka",
+          "entity_id": "Q520162"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Akciabrski_District",
+          "entity_id": "Q1649029"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Akciabrski",
+          "entity_id": "Q2494383"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Brahin_District",
+          "entity_id": "Q1808720"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Brahin,_Belarus",
+          "entity_id": "Q2470405"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Buda-Kashalyowa_District",
+          "entity_id": "Q1638285"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Buda-Ka%C5%A1aliova",
+          "entity_id": "Q955729"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Chachersk_District",
+          "entity_id": "Q671126"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/%C4%8Ca%C4%8Dersk",
+          "entity_id": "Q867722"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dobru%C5%A1_District",
+          "entity_id": "Q1702264"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Dobrush",
+          "entity_id": "Q955474"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Gomel_District",
+          "entity_id": "Q966473"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Gomel",
+          "entity_id": "Q2678"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Je%C4%BAsk_District",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Yelsk",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Kalinkavichy_District",
+          "entity_id": "Q1786486"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Kalinkavichy",
+          "entity_id": "Q937344"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Karma_District",
+          "entity_id": "Q1952857"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/w/index.php?title=Karma,_Belarus&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Khoiniki_District",
+          "entity_id": "Q1808704"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Khoiniki",
+          "entity_id": "Q955588"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Loyew_District",
+          "entity_id": "Q1952845"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Loyew",
+          "entity_id": "Q2494413"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Lyelchytsy_District",
+          "entity_id": "Q944464"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Lelchytsy",
+          "entity_id": "Q2607484"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mazyr_District",
+          "entity_id": "Q1952838"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Mazyr",
+          "entity_id": "Q386487"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Naroulia_District",
+          "entity_id": "Q787181"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Naroulia",
+          "entity_id": "Q955736"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pietryka%C5%AD_District",
+          "entity_id": "Q571994"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pietrykaw",
+          "entity_id": "Q955717"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Raha%C4%8Do%C5%AD_District",
+          "entity_id": "Q1953403"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rahachow",
+          "entity_id": "Q955468"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Re%C4%8Dyca_District",
+          "entity_id": "Q1586359"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Rechytsa",
+          "entity_id": "Q909612"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Svietlahorsk_District",
+          "entity_id": "Q1952866"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Svietlahorsk",
+          "entity_id": "Q955359"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Vietka_District",
+          "entity_id": "Q385458"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Vietka",
+          "entity_id": "Q518559"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/%C5%BDlobin_District",
+          "entity_id": "Q1808712"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Zhlobin",
+          "entity_id": "Q837765"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/%C5%BDytkavi%C4%8Dy_District",
+          "entity_id": "Q367015"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Zhytkavichy",
+          "entity_id": "Q955564"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ashmyany_District",
+          "entity_id": "Q1817340"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ashmyany",
+          "entity_id": "Q722836"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Astravyets_District",
+          "entity_id": "Q1953368"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Astravyets",
+          "entity_id": "Q261024"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Byerastavitsa_District",
+          "entity_id": "Q1952942"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Vyalikaya_Byerastavitsa",
+          "entity_id": "Q1460634"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Dzyatlava_District",
+          "entity_id": "Q1754468"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dzyatlava",
+          "entity_id": "Q1025883"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Hrodna_District",
+          "entity_id": "Q1965697"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Grodno",
+          "entity_id": "Q181376"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Iwye_District",
+          "entity_id": "Q508510"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Iwye",
+          "entity_id": "Q738777"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Karelichy_District",
+          "entity_id": "Q1953342"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Karelichy",
+          "entity_id": "Q1025869"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Lida_District",
+          "entity_id": "Q1953388"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Lida",
+          "entity_id": "Q241475"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Masty_District",
+          "entity_id": "Q959364"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Masty,_Belarus",
+          "entity_id": "Q958685"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Navahrudak_District",
+          "entity_id": "Q1952755"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Navahrudak",
+          "entity_id": "Q278743"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Shchuchyn_District",
+          "entity_id": "Q1953351"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shchuchyn",
+          "entity_id": "Q431779"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Slonim_District",
+          "entity_id": "Q1953359"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Slonim",
+          "entity_id": "Q863576"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Smarhon_District",
+          "entity_id": "Q954534"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Smarhon%E2%80%99",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Svislach_District",
+          "entity_id": "Q1953413"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Svislach",
+          "entity_id": "Q1076109"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Vawkavysk_District",
+          "entity_id": "Q1953376"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Vawkavysk",
+          "entity_id": "Q739491"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Voranava_District",
+          "entity_id": "Q385156"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Voranava",
+          "entity_id": "Q2470394"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Zelva_District",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Zelva",
+          "entity_id": "Q2618952"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Barysaw_District",
+          "entity_id": "Q2092836"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Barysaw",
+          "entity_id": "Q19313"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Byerazino_District",
+          "entity_id": "Q2091552"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Byerazino",
+          "entity_id": "Q200833"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Chervyen_District",
+          "entity_id": "Q2091744"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Chervyen",
+          "entity_id": "Q201458"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Dzyarzhynsk_District",
+          "entity_id": "Q595480"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dzyarzhynsk",
+          "entity_id": "Q200891"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kapyl_District",
+          "entity_id": "Q518815"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kapyl",
+          "entity_id": "Q200950"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kletsk_District",
+          "entity_id": "Q2091557"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kletsk",
+          "entity_id": "Q200937"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Krupki_District",
+          "entity_id": "Q2092848"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Krupki",
+          "entity_id": "Q200960"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Lahoysk_District",
+          "entity_id": "Q950923"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lahoysk",
+          "entity_id": "Q200968"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lyuban_District",
+          "entity_id": "Q2091734"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lyuban,_Belarus",
+          "entity_id": "Q200991"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Maladzyechna_District",
+          "entity_id": "Q2061340"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Maladzyechna",
+          "entity_id": "Q201203"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Minsk_District",
+          "entity_id": "Q1636191"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Minsk",
+          "entity_id": "Q2280"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Myadzyel_District",
+          "entity_id": "Q1637855"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Myadzyel",
+          "entity_id": "Q201218"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Nyasvizh_District",
+          "entity_id": "Q2091651"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Nyasvizh",
+          "entity_id": "Q201230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Pukhavichy_District",
+          "entity_id": "Q2091726"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Maryina_Horka",
+          "entity_id": "Q201173"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Salihorsk_District",
+          "entity_id": "Q2091658"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Salihorsk",
+          "entity_id": "Q201393"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Slutsk_District",
+          "entity_id": "Q2091666"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Slutsk",
+          "entity_id": "Q201243"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Smalyavichy_District",
+          "entity_id": "Q675294"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Smalyavichy",
+          "entity_id": "Q201265"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Staryya_Darohi_District",
+          "entity_id": "Q977019"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Staryya_Darohi",
+          "entity_id": "Q201403"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Stowbtsy_District",
+          "entity_id": "Q2061349"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stowbtsy",
+          "entity_id": "Q201421"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Uzda_District",
+          "entity_id": "Q2092398"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Uzda",
+          "entity_id": "Q201429"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Valozhyn_District",
+          "entity_id": "Q1817324"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Valozhyn",
+          "entity_id": "Q200876"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vileyka_District",
+          "entity_id": "Q2061377"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vileyka",
+          "entity_id": "Q181632"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Asipovichy_District",
+          "entity_id": "Q2025083"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Asipovichy",
+          "entity_id": "Q742161"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Babruysk_District",
+          "entity_id": "Q2025091"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Babruysk",
+          "entity_id": "Q207294"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Byalynichy_District",
+          "entity_id": "Q1997119"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Byalynichy",
+          "entity_id": "Q2630527"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Bykhaw_District",
+          "entity_id": "Q537700"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bykhaw",
+          "entity_id": "Q954948"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Chavusy_District",
+          "entity_id": "Q2024276"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chavusy",
+          "entity_id": "Q955113"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Cherykaw_District",
+          "entity_id": "Q2024293"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Cherykaw",
+          "entity_id": "Q955126"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Drybin_District",
+          "entity_id": "Q675279"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/w/index.php?title=Drybin&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Hlusk_District",
+          "entity_id": "Q2024375"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/w/index.php?title=Hlusk&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Horki_District",
+          "entity_id": "Q2024126"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Horki",
+          "entity_id": "Q954812"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Kastsyukovichy_District",
+          "entity_id": "Q1318696"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Kastsyukovichy",
+          "entity_id": "Q955013"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Khotsimsk_District",
+          "entity_id": "Q1574966"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/w/index.php?title=Khotsimsk&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kirawsk_District",
+          "entity_id": "Q2024239"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kirawsk",
+          "entity_id": "Q955115"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Klichaw_District",
+          "entity_id": "Q586238"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Klichaw",
+          "entity_id": "Q955153"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Klimavichy_District",
+          "entity_id": "Q1997073"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Klimavichy",
+          "entity_id": "Q603249"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Krasnapolle_District",
+          "entity_id": "Q745264"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Krasnapolle&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kruhlaye_District",
+          "entity_id": "Q1997096"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kruhlaye&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Krychaw_District",
+          "entity_id": "Q1997107"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Krychaw",
+          "entity_id": "Q954914"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Mogilev_District",
+          "entity_id": "Q2024261"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mogilev",
+          "entity_id": "Q154835"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mstsislaw_District",
+          "entity_id": "Q1644438"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Mstsislaw",
+          "entity_id": "Q744167"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Shklow_District",
+          "entity_id": "Q1253060"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Shklow",
+          "entity_id": "Q730175"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Slawharad_District",
+          "entity_id": "Q2024248"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Slawharad",
+          "entity_id": "Q614294"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Beshankovichy_District",
+          "entity_id": "Q1378251"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Beshankovichy",
+          "entity_id": "Q1033593"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Braslaw_District",
+          "entity_id": "Q1517382"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Braslaw",
+          "entity_id": "Q628623"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Chashniki_District",
+          "entity_id": "Q2023954"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Chashniki",
+          "entity_id": "Q954421"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Dokshytsy_District",
+          "entity_id": "Q2023929"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dokshytsy",
+          "entity_id": "Q954618"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Dubrowna_District",
+          "entity_id": "Q2024268"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dubrowna",
+          "entity_id": "Q954505"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Haradok_District",
+          "entity_id": "Q2005718"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Haradok",
+          "entity_id": "Q954265"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Hlybokaye_District",
+          "entity_id": "Q2092119"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Hlybokaye",
+          "entity_id": "Q954114"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lepiel_District",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lepiel",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Liozna_District",
+          "entity_id": "Q1388657"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Liozna",
+          "entity_id": "Q1025872"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Myory_District",
+          "entity_id": "Q2024225"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Myory",
+          "entity_id": "Q266841"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Orsha_District",
+          "entity_id": "Q1245303"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Orsha",
+          "entity_id": "Q208609"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pastavy_District",
+          "entity_id": "Q2023948"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Pastavy",
+          "entity_id": "Q539012"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Polotsk_District",
+          "entity_id": "Q1423032"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Polotsk",
+          "entity_id": "Q200797"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Rasony_District",
+          "entity_id": "Q2024283"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/w/index.php?title=Rasony&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Sharkawshchyna_District",
+          "entity_id": "Q1997084"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sharkawshchyna",
+          "entity_id": "Q2659505"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Shumilina_District",
+          "entity_id": "Q2025054"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Shumilino",
+          "entity_id": "Q304613"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Syanno_District",
+          "entity_id": "Q1353622"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Syanno",
+          "entity_id": "Q954519"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Talachyn_District",
+          "entity_id": "Q1235840"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Talachyn",
+          "entity_id": "Q954343"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Ushachy_District",
+          "entity_id": "Q2025099"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Ushachy",
+          "entity_id": "Q2987234"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Verkhnyadzvinsk_District",
+          "entity_id": "Q474626"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Verkhnyadzvinsk",
+          "entity_id": "Q954610"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Vitebsk_District",
+          "entity_id": "Q1587133"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Vitebsk",
+          "entity_id": "Q102217"
+        }
+      ]
+    ]
+  ]
+}

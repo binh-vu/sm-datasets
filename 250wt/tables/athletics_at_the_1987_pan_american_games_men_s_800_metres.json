@@ -1,0 +1,528 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Athletics_at_the_1987_Pan_American_Games_–_Men's_800_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "2",
+          "2",
+          "2",
+          "2",
+          "2",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "1",
+          "2",
+          "1",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Name",
+        "values": [
+          "José Luíz Barbosa",
+          "Pablo Squella",
+          "Stanley Redwine",
+          "Paul Osland",
+          "Luis Karin Toledo",
+          "Johnny Gray",
+          "William Wuycke",
+          "Mauricio Hernández",
+          "Manuel Balmaceda",
+          "Devoe Whaley",
+          "Reuben Bayley",
+          "Luis Migueles",
+          "Reuben Bayley",
+          "Francisco Figueredo",
+          "Simon Hoogewerf",
+          "Igor Costa",
+          "Charles Bodington"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Nationality",
+        "values": [
+          " Brazil",
+          " Chile",
+          " United States",
+          " Canada",
+          " Mexico",
+          " United States",
+          " Venezuela",
+          " Mexico",
+          " Chile",
+          " Bermuda",
+          " Barbados",
+          " Argentina",
+          " Barbados",
+          " Paraguay",
+          " Canada",
+          " Brazil",
+          " Venezuela"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Time",
+        "values": [
+          "1:48.02",
+          "1:48.21",
+          "1:48.26",
+          "1:48.29",
+          "1:48.36",
+          "1:48.49",
+          "1:48.64",
+          "1:48.73",
+          "1:48.87",
+          "1:49.15",
+          "1:49.69",
+          "1:51.02",
+          "1:52.69",
+          "1:53.44",
+          "1:54.08",
+          "1:56.68",
+          "DNS"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Athletics at the 1987 Pan American Games – Men's 800 metres",
+    "page_url": "https://en.wikipedia.org/wiki/Athletics_at_the_1987_Pan_American_Games_–_Men's_800_metres",
+    "page_entity_id": "Q56063624"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Lu%C3%ADz_Barbosa",
+          "entity_id": "Q1364540"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Pablo_Squella",
+          "entity_id": "Q5813279"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chile",
+          "entity_id": "Q298"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Stanley_Redwine",
+          "entity_id": "Q23031872"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Paul_Osland",
+          "entity_id": "Q38612629"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Luis_Karin_Toledo",
+          "entity_id": "Q6701159"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Johnny_Gray",
+          "entity_id": "Q1291514"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_States",
+          "entity_id": "Q30"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/William_Wuycke",
+          "entity_id": "Q8020608"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Mauricio_Hern%C3%A1ndez_(athlete)",
+          "entity_id": "Q43388350"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Mexico",
+          "entity_id": "Q96"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Manuel_Balmaceda_(athlete)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Chile",
+          "entity_id": "Q298"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Devoe_Whaley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bermuda",
+          "entity_id": "Q23635"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Reuben_Bayley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barbados",
+          "entity_id": "Q244"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Luis_Migueles",
+          "entity_id": "Q5983979"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Argentina",
+          "entity_id": "Q414"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Reuben_Bayley&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barbados",
+          "entity_id": "Q244"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Francisco_Figueredo",
+          "entity_id": "Q42298241"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Paraguay",
+          "entity_id": "Q733"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Simon_Hoogewerf",
+          "entity_id": "Q3484301"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Igor_Costa&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Charles_Bodington&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Venezuela",
+          "entity_id": "Q717"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

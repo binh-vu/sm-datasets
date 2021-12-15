@@ -1,0 +1,1156 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Stabilimento_Tecnico_Triestino",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Ship",
+        "values": [
+          "Erzherzog Ferdinand Max",
+          "Habsburg",
+          "Vasilissa Olga",
+          "Zrinyi (or Niclas Zrinyi )",
+          "Lissa",
+          "Radetzky",
+          "Erzherzog Albrecht",
+          "Laudon",
+          "Custoza",
+          "SMS Don Juan d'Austria",
+          "Kaiser Max",
+          "SMS Tegetthoff",
+          "SMS Kronprinzessin Erzherzogin Stephanie",
+          "SMS Tiger",
+          "SMS Kaiser Franz Joseph I",
+          "SMS Kaiserin Elisabeth",
+          "SMS Kaiserin und Königin Maria Theresia",
+          "SMS Monarch",
+          "SMS Wien",
+          "SMS Budapest",
+          "SMS Kaiser Karl VI",
+          "SMS Habsburg",
+          "SMS Árpád",
+          "SMS Babenberg",
+          "SMS Erzherzog Karl",
+          "SMS Erzherzog Friedrich",
+          "SMS Erzherzog Ferdinand Max",
+          "SMS Erzherzog Franz Ferdinand",
+          "SMS Radetzky",
+          "SMS Zrínyi",
+          "SMS Tegetthoff",
+          "SMS Viribus Unitis",
+          "SMS Prinz Eugen",
+          "SMS Ersatz Monarch",
+          "SMS Ersatz Budapest"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Type",
+        "values": [
+          "Ironclad",
+          "Ironclad",
+          "Ironclad",
+          "Screw  corvette",
+          "Centre-battery",
+          "Screw frigate",
+          "Centre-battery",
+          "Screw frigate",
+          "Centre-battery",
+          "Centre-battery",
+          "Centre-battery",
+          "Centre-battery",
+          "Battleship",
+          "Torpedo  cruiser",
+          "Torpedo/ram cruiser",
+          "Torpedo/ram cruiser",
+          "Armoured cruiser",
+          "Coastal defence",
+          "Coastal defence",
+          "Coastal defence",
+          "Armoured cruiser",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship",
+          "Battleship"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Class",
+        "values": [
+          "Erzherzog Ferdinand Max",
+          "Erzherzog Ferdinand Max",
+          "*",
+          "Zrinyi",
+          "*",
+          "Radetzky",
+          "*",
+          "Radetzky",
+          "*",
+          "Kaiser Max",
+          "Kaiser Max",
+          "Tegetthoff",
+          "*",
+          "*",
+          "Kaiser Franz Joseph I",
+          "Kaiser Franz Joseph I",
+          "*",
+          "Monarch",
+          "Monarch",
+          "Monarch",
+          "*",
+          "Habsburg",
+          "Habsburg",
+          "Habsburg",
+          "Erzherzog Karl",
+          "Erzherzog Karl",
+          "Erzherzog Karl",
+          "Radetzky",
+          "Radetzky",
+          "Radetzky",
+          "Tegetthoff",
+          "Tegetthoff",
+          "Tegetthoff",
+          "Ersatz Monarch",
+          "Ersatz Monarch"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Built",
+        "values": [
+          "1866",
+          "1866",
+          "1869",
+          "1871",
+          "1871",
+          "1873",
+          "1874",
+          "1875",
+          "1875",
+          "1876",
+          "1878",
+          "1881",
+          "1887",
+          "1888",
+          "1890",
+          "1892",
+          "1895",
+          "1898",
+          "1898",
+          "1898",
+          "1900",
+          "1902",
+          "1903",
+          "1904",
+          "1906",
+          "1907",
+          "1907",
+          "1908",
+          "1911",
+          "1911",
+          "1913",
+          "1912",
+          "1914",
+          "N/A",
+          "N/A"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Disp.",
+        "values": [
+          "N/A",
+          "N/A",
+          "2,000",
+          "1,450",
+          "7,178",
+          "4,000",
+          "6,500",
+          "4,000",
+          "7,700",
+          "4,000",
+          "4,000",
+          "8,000",
+          "5,631",
+          "1,683",
+          "4,500",
+          "4,500",
+          "6,000",
+          "5,878",
+          "5,878",
+          "5,878",
+          "7,000",
+          "N/A",
+          "N/A",
+          "N/A",
+          "11,000",
+          "11,000",
+          "11,000",
+          "15,000",
+          "16,000",
+          "16,000",
+          "21,000",
+          "21,000",
+          "21,000",
+          "25,000",
+          "25,000"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "Scrapped 1917",
+          "Scrapped 1900",
+          "Built for Greek Navy, scrapped 1925",
+          "Scrapped after 1920",
+          "Scrapped 1895",
+          "To Italy in 1919, scrapped 1921",
+          "To Italy in 1920, scrapped 1955",
+          "To SHS 1919, to Italy in 1921, scrapped 1924",
+          "To Italy in 1919, scrapped after collision, 1925",
+          "Sunk, 1919",
+          "To Serbo-Croatia 1920, sunk as breakwater, 1945",
+          "To Italy in 1919, scrapped after 1921",
+          "To Italy in 1919, scrapped 1926",
+          "To Italy in 1919, scrapped 1920",
+          "Capsized and sank, Oct 1919",
+          "Scuttled Nov 1914 at Tsingtao, China",
+          "To United Kingdom in 1919, scrapped 1921",
+          "To United Kingdom in 1919, scrapped 1921",
+          "Torpedoed 1916, salvaged 1925, fate unknown",
+          "To United Kingdom in 1919, scrapped 1921",
+          "To United Kingdom in 1919, scrapped 1922",
+          "To United Kingdom in 1919, scrapped 1922",
+          "To United Kingdom in 1919, scrapped 1922",
+          "To United Kingdom in 1919, scrapped 1922",
+          "To France in 1919, scrapped 1921",
+          "To France in 1919, scrapped 1921",
+          "To United Kingdom in 1919, scrapped 1921",
+          "To Italy in 1918, scrapped 1922",
+          "To South Slavic 1918, scrapped 1922",
+          "To South Slavic 1918, scrapped 1922",
+          "To South Slavic in 1918, to Italy in 1918, scrapped in 1924",
+          "To South Slavic in 1918, scrapped 1920-1922",
+          "To South Slavic in 1918, to Italy in 1919, to France in 1920, sunk as target 1922",
+          "Cancelled 1915",
+          "Cancelled 1915"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Stabilimento Tecnico Triestino",
+    "page_url": "https://en.wikipedia.org/wiki/Stabilimento_Tecnico_Triestino",
+    "page_entity_id": "Q502713"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Ferdinand_Max_(1865)",
+          "entity_id": "Q480045"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ironclad",
+          "entity_id": "Q1410980"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/SMS_Habsburg_(1865)",
+          "entity_id": "Q3943751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ironclad",
+          "entity_id": "Q1410980"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Greek_ironclad_Vasilissa_Olga",
+          "entity_id": "Q5016651"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ironclad",
+          "entity_id": "Q1410980"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Propeller",
+          "entity_id": "Q205451"
+        },
+        {
+          "start": 7,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Corvette",
+          "entity_id": "Q170013"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/SMS_Lissa",
+          "entity_id": "Q17121697"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 6,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Frigate",
+          "entity_id": "Q161705"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Radetzky-class_battleship",
+          "entity_id": "Q695834"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Albrecht",
+          "entity_id": "Q10610634"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 6,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Frigate",
+          "entity_id": "Q161705"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Radetzky-class_battleship",
+          "entity_id": "Q695834"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/SMS_Custoza",
+          "entity_id": "Q10610578"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/SMS_Don_Juan_d%27Austria_(1875)",
+          "entity_id": "Q24970175"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kaiser_Max_(1875)",
+          "entity_id": "Q25302430"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/SMS_Tegetthoff_(1878)",
+          "entity_id": "Q3016799"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Centre-battery_ship",
+          "entity_id": "Q5062077"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tegetthoff-class_battleship",
+          "entity_id": "Q680972"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 40,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kronprinzessin_Erzherzogin_Stephanie",
+          "entity_id": "Q4048812"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/SMS_Tiger_(1887)",
+          "entity_id": "Q564873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Torpedo",
+          "entity_id": "Q165363"
+        },
+        {
+          "start": 9,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Cruiser",
+          "entity_id": "Q104843"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kaiser_Franz_Joseph_I",
+          "entity_id": "Q592226"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kaiserin_Elisabeth",
+          "entity_id": "Q537534"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 21,
+          "end": 36,
+          "url": "http://en.wikipedia.org/wiki/Tsingtao,_China",
+          "entity_id": "Q170322"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kaiserin_und_K%C3%B6nigin_Maria_Theresia",
+          "entity_id": "Q431877"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Armoured_cruiser",
+          "entity_id": "Q847478"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/SMS_Monarch",
+          "entity_id": "Q1254247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Coastal_defence_ship",
+          "entity_id": "Q2304194"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Monarch-class_coastal_defense_ship",
+          "entity_id": "Q897586"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/SMS_Wien",
+          "entity_id": "Q732301"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Coastal_defence_ship",
+          "entity_id": "Q2304194"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Monarch-class_coastal_defense_ship",
+          "entity_id": "Q897586"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/SMS_Budapest",
+          "entity_id": "Q1254210"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Coastal_defence_ship",
+          "entity_id": "Q2304194"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Monarch-class_coastal_defense_ship",
+          "entity_id": "Q897586"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/SMS_Kaiser_Karl_VI",
+          "entity_id": "Q696735"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Armoured_cruiser",
+          "entity_id": "Q847478"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/SMS_Habsburg",
+          "entity_id": "Q2614737"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Habsburg-class_battleship",
+          "entity_id": "Q576820"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/SMS_%C3%81rp%C3%A1d",
+          "entity_id": "Q902762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Habsburg-class_battleship",
+          "entity_id": "Q576820"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/SMS_Babenberg",
+          "entity_id": "Q278823"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Habsburg-class_battleship",
+          "entity_id": "Q576820"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Karl",
+          "entity_id": "Q560356"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Erzherzog_Karl-class_battleship",
+          "entity_id": "Q940079"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Friedrich",
+          "entity_id": "Q3427392"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Erzherzog_Karl-class_battleship",
+          "entity_id": "Q940079"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Ferdinand_Max",
+          "entity_id": "Q732309"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Erzherzog_Karl-class_battleship",
+          "entity_id": "Q940079"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/SMS_Erzherzog_Franz_Ferdinand",
+          "entity_id": "Q939670"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Radetzky-class_battleship",
+          "entity_id": "Q695834"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/SMS_Radetzky",
+          "entity_id": "Q610160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Radetzky-class_battleship",
+          "entity_id": "Q695834"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/SMS_Zr%C3%ADnyi",
+          "entity_id": "Q694643"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Radetzky-class_battleship",
+          "entity_id": "Q695834"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/SMS_Tegetthoff_(1912)",
+          "entity_id": "Q671876"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tegetthoff-class_battleship",
+          "entity_id": "Q680972"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/SMS_Viribus_Unitis",
+          "entity_id": "Q310501"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tegetthoff-class_battleship",
+          "entity_id": "Q680972"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/SMS_Prinz_Eugen_(1912)",
+          "entity_id": "Q668839"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tegetthoff-class_battleship",
+          "entity_id": "Q680972"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=SMS_Ersatz_Monarch&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ersatz_Monarch-class_battleship",
+          "entity_id": "Q2382635"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=SMS_Ersatz_Budapest&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Battleship",
+          "entity_id": "Q182531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Ersatz_Monarch-class_battleship",
+          "entity_id": "Q2382635"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

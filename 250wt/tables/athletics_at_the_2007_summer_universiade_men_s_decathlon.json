@@ -1,0 +1,444 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Athletics_at_the_2007_Summer_Universiade_–_Men's_decathlon",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Hans Van Alphen",
+          "Mikalai Shubianok",
+          "Oleksiy Kasyanov",
+          "Mikhail Logvinenko",
+          "Aleksandr Zyabrev",
+          "Meelis Kosk",
+          "Carlos Eduardo Chinin",
+          "David Gervasi",
+          "Jacob Minah",
+          "Aliaksandr Korzun",
+          "Alexis Chivás",
+          "Jamie Adjetey-Nelson",
+          "Ali Hazer",
+          "Álvaro Contreras"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Belgium",
+          " Belarus",
+          " Ukraine",
+          " Russia",
+          " Russia",
+          " Estonia",
+          " Brazil",
+          " Switzerland",
+          " Germany",
+          " Belarus",
+          " Cuba",
+          " Canada",
+          " Lebanon",
+          " Spain"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Time",
+        "values": [
+          "4:21.05",
+          "4:24.56",
+          "4:25.91",
+          "4:26.67",
+          "4:26.77",
+          "4:29.40",
+          "4:31.52",
+          "4:39.15",
+          "4:41.11",
+          "4:43.19",
+          "4:55.95",
+          "5:01.51",
+          "DNF",
+          "DNS"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Points",
+        "values": [
+          "804",
+          "781",
+          "772",
+          "767",
+          "766",
+          "749",
+          "735",
+          "686",
+          "673",
+          "660",
+          "583",
+          "551",
+          "0",
+          "0"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Athletics at the 2007 Summer Universiade – Men's decathlon",
+    "page_url": "https://en.wikipedia.org/wiki/Athletics_at_the_2007_Summer_Universiade_–_Men's_decathlon",
+    "page_entity_id": "Q4814773"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Hans_Van_Alphen",
+          "entity_id": "Q642834"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belgium",
+          "entity_id": "Q31"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Mikalai_Shubianok",
+          "entity_id": "Q6845680"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Oleksiy_Kasyanov",
+          "entity_id": "Q1341619"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mikhail_Logvinenko&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Aleksandr_Zyabrev&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Meelis_Kosk&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Estonia",
+          "entity_id": "Q191"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Carlos_Eduardo_Chinin",
+          "entity_id": "Q1042867"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Brazil",
+          "entity_id": "Q155"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/David_Gervasi",
+          "entity_id": "Q1174540"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Switzerland",
+          "entity_id": "Q39"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jacob_Minah",
+          "entity_id": "Q16211198"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Aliaksandr_Korzun&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Alexis_Chiv%C3%A1s",
+          "entity_id": "Q4721426"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cuba",
+          "entity_id": "Q241"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Jamie_Adjetey-Nelson",
+          "entity_id": "Q3161521"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ali_Hazer",
+          "entity_id": "Q39145060"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lebanon",
+          "entity_id": "Q822"
+        }
+      ],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=%C3%81lvaro_Contreras&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      []
+    ]
+  ]
+}

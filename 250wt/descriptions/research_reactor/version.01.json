@@ -1,0 +1,167 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q1438105",
+        "rel_uri": "wd:Q1438105",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Reactor Name"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q6256",
+        "rel_uri": "wd:Q6256",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-1",
+        "col_index": 1,
+        "label": "Country"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q82794",
+        "rel_uri": "wd:Q82794",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "City"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q31855",
+        "rel_uri": "wd:Q31855",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Institution"
+      },
+      {
+        "id": "d-4",
+        "col_index": 4,
+        "label": "Power Level"
+      },
+      {
+        "id": "d-5",
+        "col_index": 5,
+        "label": "Operation Date"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Closure Date"
+      },
+      {
+        "id": "d-7",
+        "col_index": 7,
+        "label": "Decommissioned"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "d-5",
+        "abs_uri": "http://www.wikidata.org/prop/P729",
+        "rel_uri": "p:P729",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "d-6",
+        "abs_uri": "http://www.wikidata.org/prop/P730",
+        "rel_uri": "p:P730",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "d-7",
+        "abs_uri": "http://www.wikidata.org/prop/P576",
+        "rel_uri": "p:P576",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-2",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P17",
+        "rel_uri": "p:P17",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-3",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      }
+    ]
+  }
+]

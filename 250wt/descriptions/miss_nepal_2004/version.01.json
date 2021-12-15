@@ -1,0 +1,151 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-4",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-4",
+        "col_index": 4,
+        "label": "Representing"
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q2537537",
+        "rel_uri": "wd:Q2537537",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-5",
+        "col_index": 5,
+        "label": "District"
+      },
+      {
+        "id": "d-0",
+        "col_index": 0,
+        "label": "No"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Name"
+      },
+      {
+        "id": "d-2",
+        "col_index": 2,
+        "label": "Age"
+      },
+      {
+        "id": "d-3",
+        "col_index": 3,
+        "label": "Height"
+      },
+      {
+        "id": "d-6",
+        "col_index": 6,
+        "label": "Placement"
+      },
+      {
+        "id": "context-Q6877142",
+        "value": "http://www.wikidata.org/entity/Q6877142",
+        "readable_label": "Miss Nepal 2004 (Q6877142)",
+        "is_in_context": true,
+        "datatype": "entity-id"
+      },
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "rel_uri": "wikibase:Statement",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-4",
+        "target": "d:c-4",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-4",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P131",
+        "rel_uri": "p:P131",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-5",
+        "target": "d:c-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "context-Q6877142",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P710",
+        "rel_uri": "p:P710",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "d-3",
+        "abs_uri": "http://www.wikidata.org/prop/P2048",
+        "rel_uri": "p:P2048",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-1",
+        "target": "c-0",
+        "abs_uri": "http://www.wikidata.org/prop/P710",
+        "rel_uri": "p:P710",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-1",
+        "target": "d-6",
+        "abs_uri": "http://www.wikidata.org/prop/P1352",
+        "rel_uri": "p:P1352",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      }
+    ]
+  }
+]

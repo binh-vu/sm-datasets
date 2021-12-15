@@ -1,0 +1,1683 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Local_government_areas_of_Scotland_(1973–1996)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Region",
+        "values": [
+          "Borders",
+          "Borders",
+          "Borders",
+          "Borders",
+          "Central",
+          "Central",
+          "Central",
+          "Dumfries and Galloway",
+          "Dumfries and Galloway",
+          "Dumfries and Galloway",
+          "Dumfries and Galloway",
+          "Fife",
+          "Fife",
+          "Fife",
+          "Grampian",
+          "Grampian",
+          "Grampian",
+          "Grampian",
+          "Grampian",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Highland",
+          "Lothian",
+          "Lothian",
+          "Lothian",
+          "Lothian",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Strathclyde",
+          "Tayside",
+          "Tayside",
+          "Tayside"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Districts",
+        "values": [
+          "Berwickshire",
+          "Ettrick and Lauderdale",
+          "Roxburgh",
+          "Tweeddale",
+          "Clackmannan",
+          "Falkirk",
+          "Stirling",
+          "Annandale and Eskdale",
+          "Nithsdale",
+          "Stewartry",
+          "Wigtown \n(originally named Merrick)",
+          "Dunfermline",
+          "Kirkcaldy",
+          "North East Fife",
+          "Aberdeen, City of",
+          "Banff and Buchan",
+          "Gordon",
+          "Kincardine and Deeside",
+          "Moray",
+          "Badenoch and Strathspey",
+          "Caithness",
+          "Inverness",
+          "Lochaber",
+          "Nairn",
+          "Ross and Cromarty",
+          "Skye and Lochalsh",
+          "Sutherland",
+          "East Lothian",
+          "Edinburgh, City of",
+          "Midlothian",
+          "West Lothian",
+          "Argyll and Bute \n(originally Argyll)",
+          "Bearsden and Milngavie",
+          "Clydebank",
+          "Clydesdale \n(originally named Lanark: renamed 1980)",
+          "Cumbernauld and Kilsyth \n(originally named Cumbernauld)",
+          "Cumnock and Doon Valley",
+          "Cunninghame",
+          "Dumbarton",
+          "East Kilbride",
+          "Eastwood",
+          "Glasgow, City of",
+          "Hamilton",
+          "Inverclyde",
+          "Kilmarnock and Loudoun",
+          "Kyle and Carrick",
+          "Monklands",
+          "Motherwell",
+          "Renfrew",
+          "Strathkelvin \n(originally named Bishopbriggs and Kirkintilloch)",
+          "Angus",
+          "Dundee, City of",
+          "Perth and Kinross"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Headquarters",
+        "values": [
+          "Duns",
+          "Galashiels",
+          "Hawick",
+          "Peebles",
+          "Alloa",
+          "Falkirk",
+          "Stirling",
+          "Annan",
+          "Dumfries",
+          "Kirkcudbright",
+          "Stranraer",
+          "Dunfermline",
+          "Kirkcaldy",
+          "Cupar",
+          "Aberdeen",
+          "Banff",
+          "Inverurie",
+          "Stonehaven",
+          "Elgin",
+          "Kingussie",
+          "Wick",
+          "Inverness",
+          "Fort William",
+          "Nairn",
+          "Dingwall",
+          "Portree",
+          "Golspie",
+          "Haddington",
+          "Edinburgh",
+          "Dalkeith",
+          "Bathgate",
+          "Lochgilphead",
+          "Bearsden",
+          "Clydebank",
+          "Lanark",
+          "Cumbernauld",
+          "Cumnock",
+          "Irvine",
+          "Dumbarton",
+          "East Kilbride",
+          "Giffnock",
+          "Glasgow",
+          "Hamilton",
+          "Greenock",
+          "Kilmarnock",
+          "Ayr",
+          "Coatbridge",
+          "Motherwell",
+          "Paisley",
+          "Kirkintilloch",
+          "Forfar",
+          "Dundee",
+          "Perth"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Population \nestimate \n1994",
+        "values": [
+          "19,350",
+          "35,000",
+          "35,350",
+          "15,375",
+          "47,643",
+          "142,800",
+          "81,630",
+          "37,130",
+          "57,220",
+          "23,690",
+          "30,077",
+          "129,830",
+          "148,450",
+          "69,930",
+          "213,000",
+          "88,020",
+          "77,080",
+          "54,990",
+          "83,616",
+          "10,399",
+          "26,710",
+          "62,245",
+          "19,195",
+          "10,600",
+          "49,184",
+          "11,870",
+          "13,190",
+          "85,140",
+          "418,914",
+          "79,910",
+          "146,430",
+          "63,350",
+          "41,000",
+          "47,500",
+          "58,290",
+          "63,930",
+          "42,954",
+          "139,020",
+          "77,222",
+          "82,777",
+          "60,600",
+          "681,470",
+          "105,202",
+          "90,103",
+          "79,861",
+          "112,658",
+          "102,379",
+          "143,730",
+          "201,000",
+          "85,191",
+          "96,500",
+          "171,520",
+          "129,070"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Local government areas of Scotland (1973–1996)",
+    "page_url": "https://en.wikipedia.org/wiki/Local_government_areas_of_Scotland_(1973–1996)",
+    "page_entity_id": "Q2138167"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Scottish_Borders",
+          "entity_id": "Q211113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Berwickshire_(district)",
+          "entity_id": "Q786649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Duns",
+          "entity_id": "Q769389"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Scottish_Borders",
+          "entity_id": "Q211113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Ettrick_and_Lauderdale_(district)",
+          "entity_id": "Q5405057"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Galashiels",
+          "entity_id": "Q1016925"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Scottish_Borders",
+          "entity_id": "Q211113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Roxburgh_(district)",
+          "entity_id": "Q1714424"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Hawick",
+          "entity_id": "Q407183"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Scottish_Borders",
+          "entity_id": "Q211113"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Tweeddale_(district)",
+          "entity_id": "Q3542517"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Peebles",
+          "entity_id": "Q1011507"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Central_Region,_Scotland",
+          "entity_id": "Q1053979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Clackmannan_(district)",
+          "entity_id": "Q15210783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Alloa",
+          "entity_id": "Q1009331"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Central_Region,_Scotland",
+          "entity_id": "Q1053979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Falkirk_(district)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Falkirk",
+          "entity_id": "Q623687"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Central_Region,_Scotland",
+          "entity_id": "Q1053979"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stirling_(district)",
+          "entity_id": "Q217838"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Stirling",
+          "entity_id": "Q182923"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Dumfries_and_Galloway",
+          "entity_id": "Q126514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Annandale_and_Eskdale_(district)",
+          "entity_id": "Q4767937"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Annan,_Dumfries_and_Galloway",
+          "entity_id": "Q564495"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Dumfries_and_Galloway",
+          "entity_id": "Q126514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nithsdale_(district)",
+          "entity_id": "Q7041272"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dumfries",
+          "entity_id": "Q652035"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Dumfries_and_Galloway",
+          "entity_id": "Q126514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stewartry_(district)",
+          "entity_id": "Q7616001"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kirkcudbright",
+          "entity_id": "Q1011387"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Dumfries_and_Galloway",
+          "entity_id": "Q126514"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wigtown_(district)",
+          "entity_id": "Q550606"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stranraer",
+          "entity_id": "Q1001935"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Fife",
+          "entity_id": "Q201149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dunfermline_(district)",
+          "entity_id": "Q86749888"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Dunfermline",
+          "entity_id": "Q211950"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Fife",
+          "entity_id": "Q201149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kirkcaldy_(district)",
+          "entity_id": "Q21467285"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kirkcaldy",
+          "entity_id": "Q691685"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Fife",
+          "entity_id": "Q201149"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/North_East_Fife_(district)",
+          "entity_id": "Q7053533"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Cupar",
+          "entity_id": "Q1012047"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grampian",
+          "entity_id": "Q1542364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Aberdeen_(district)",
+          "entity_id": "Q36405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Aberdeen",
+          "entity_id": "Q36405"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grampian",
+          "entity_id": "Q1542364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Banff_and_Buchan_(district)",
+          "entity_id": "Q4854873"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Banff,_Aberdeenshire",
+          "entity_id": "Q54809"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grampian",
+          "entity_id": "Q1542364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gordon_(district)",
+          "entity_id": "Q16256824"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Inverurie",
+          "entity_id": "Q1017537"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grampian",
+          "entity_id": "Q1542364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Kincardine_and_Deeside_(district)",
+          "entity_id": "Q6410454"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Stonehaven",
+          "entity_id": "Q1002177"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Grampian",
+          "entity_id": "Q1542364"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Moray_(district)",
+          "entity_id": "Q211106"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Elgin,_Moray",
+          "entity_id": "Q841074"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Badenoch_and_Strathspey_(district)",
+          "entity_id": "Q4840777"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kingussie",
+          "entity_id": "Q1016904"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Caithness_(district)",
+          "entity_id": "Q864668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Wick,_Caithness",
+          "entity_id": "Q1012502"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Inverness_(district)",
+          "entity_id": "Q1247390"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Inverness",
+          "entity_id": "Q160493"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lochaber_(district)",
+          "entity_id": "Q3181006"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Fort_William,_Scotland",
+          "entity_id": "Q848909"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Nairn_(district)",
+          "entity_id": "Q1247441"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Nairn",
+          "entity_id": "Q980084"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Ross_and_Cromarty_(district)",
+          "entity_id": "Q1586842"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dingwall",
+          "entity_id": "Q1011416"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Skye_and_Lochalsh_(district)",
+          "entity_id": "Q3486447"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Portree",
+          "entity_id": "Q1010998"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Highland_(council_area)",
+          "entity_id": "Q208279"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sutherland_(district)",
+          "entity_id": "Q1061313"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Golspie",
+          "entity_id": "Q1020232"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lothian",
+          "entity_id": "Q642024"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/East_Lothian_(district)",
+          "entity_id": "Q207257"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Haddington,_East_Lothian",
+          "entity_id": "Q2281658"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lothian",
+          "entity_id": "Q642024"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Edinburgh_(district)",
+          "entity_id": "Q23436"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Edinburgh",
+          "entity_id": "Q23436"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lothian",
+          "entity_id": "Q642024"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Midlothian_(district)",
+          "entity_id": "Q206934"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dalkeith",
+          "entity_id": "Q727520"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lothian",
+          "entity_id": "Q642024"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/West_Lothian_(district)",
+          "entity_id": "Q204940"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bathgate",
+          "entity_id": "Q810794"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Argyll_and_Bute_(district)",
+          "entity_id": "Q202174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Lochgilphead",
+          "entity_id": "Q1017159"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bearsden_and_Milngavie_(district)",
+          "entity_id": "Q4876776"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Bearsden",
+          "entity_id": "Q1908426"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Clydebank_(district)",
+          "entity_id": "Q86749891"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Clydebank",
+          "entity_id": "Q996502"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Clydesdale_(district)",
+          "entity_id": "Q796188"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lanark",
+          "entity_id": "Q1002124"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Cumbernauld_and_Kilsyth_(district)",
+          "entity_id": "Q5194005"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cumbernauld",
+          "entity_id": "Q996616"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Cumnock_and_Doon_Valley_(district)",
+          "entity_id": "Q5194160"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cumnock",
+          "entity_id": "Q1010019"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cunninghame_(district)",
+          "entity_id": "Q3007561"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Irvine,_North_Ayrshire",
+          "entity_id": "Q1774629"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dumbarton_(district)",
+          "entity_id": "Q86749894"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Dumbarton",
+          "entity_id": "Q34779"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Kilbride_(district)",
+          "entity_id": "Q85845856"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/East_Kilbride",
+          "entity_id": "Q654226"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Eastwood_(district)",
+          "entity_id": "Q5331003"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Giffnock",
+          "entity_id": "Q1016935"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Glasgow_(district)",
+          "entity_id": "Q86749897"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Glasgow",
+          "entity_id": "Q4093"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hamilton_(district)",
+          "entity_id": "Q85846073"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Hamilton,_South_Lanarkshire",
+          "entity_id": "Q4131"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Inverclyde_(district)",
+          "entity_id": "Q208271"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Greenock",
+          "entity_id": "Q217831"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Kilmarnock_and_Loudoun_(district)",
+          "entity_id": "Q6407992"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kilmarnock",
+          "entity_id": "Q576562"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Kyle_and_Carrick",
+          "entity_id": "Q6451531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/Ayr",
+          "entity_id": "Q654216"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Monklands_(district)",
+          "entity_id": "Q6900913"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Coatbridge",
+          "entity_id": "Q1018723"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Motherwell_(district)",
+          "entity_id": "Q21467504"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Motherwell",
+          "entity_id": "Q737547"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Renfrew_(district)",
+          "entity_id": "Q7313155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Paisley,_Renfrewshire",
+          "entity_id": "Q211870"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Strathclyde",
+          "entity_id": "Q124661"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Strathkelvin_(district)",
+          "entity_id": "Q7622112"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Kirkintilloch",
+          "entity_id": "Q2422689"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tayside",
+          "entity_id": "Q633294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Angus_(district)",
+          "entity_id": "Q202177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Forfar",
+          "entity_id": "Q996509"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tayside",
+          "entity_id": "Q633294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dundee_(district)",
+          "entity_id": "Q123709"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Dundee",
+          "entity_id": "Q123709"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Tayside",
+          "entity_id": "Q633294"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Perth_and_Kinross_(district)",
+          "entity_id": "Q207679"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Perth,_Scotland",
+          "entity_id": "Q203000"
+        }
+      ],
+      []
+    ]
+  ]
+}

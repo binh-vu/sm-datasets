@@ -1,0 +1,354 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q476028",
+        "rel_uri": "wd:Q476028",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Team"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Home city"
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "Sponsor"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q483110",
+        "rel_uri": "wd:Q483110",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Stadium"
+      },
+      {
+        "id": "d:c-5",
+        "col_index": 5,
+        "label": "Kitmaker"
+      },
+      {
+        "id": "c-4",
+        "col_index": 4,
+        "label": "Capacity"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Founded"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q43229",
+        "rel_uri": "wd:Q43229",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q43229",
+        "rel_uri": "wd:Q43229",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.wikidata.org/prop/P571",
+        "rel_uri": "p:P571",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P115",
+        "rel_uri": "p:P115",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P859",
+        "rel_uri": "p:P859",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P5995",
+        "rel_uri": "p:P5995",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-3",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-3",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P1083",
+        "rel_uri": "p:P1083",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      },
+      {
+        "source": "c-5",
+        "target": "d:c-6",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 11
+      }
+    ]
+  },
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "c-0",
+        "abs_uri": "http://www.wikidata.org/entity/Q476028",
+        "rel_uri": "wd:Q476028",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-0",
+        "col_index": 0,
+        "label": "Team"
+      },
+      {
+        "id": "c-2",
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-2",
+        "col_index": 2,
+        "label": "Home city"
+      },
+      {
+        "id": "d:c-6",
+        "col_index": 6,
+        "label": "Sponsor"
+      },
+      {
+        "id": "c-3",
+        "abs_uri": "http://www.wikidata.org/entity/Q483110",
+        "rel_uri": "wd:Q483110",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "d:c-3",
+        "col_index": 3,
+        "label": "Stadium"
+      },
+      {
+        "id": "d:c-5",
+        "col_index": 5,
+        "label": "Kitmaker"
+      },
+      {
+        "id": "c-4",
+        "col_index": 4,
+        "label": "Capacity"
+      },
+      {
+        "id": "d-1",
+        "col_index": 1,
+        "label": "Founded"
+      },
+      {
+        "id": "c-1",
+        "abs_uri": "http://www.wikidata.org/entity/Q43229",
+        "rel_uri": "wd:Q43229",
+        "approximation": false,
+        "readable_label": null
+      },
+      {
+        "id": "c-5",
+        "abs_uri": "http://www.wikidata.org/entity/Q43229",
+        "rel_uri": "wd:Q43229",
+        "approximation": false,
+        "readable_label": null
+      }
+    ],
+    "edges": [
+      {
+        "source": "c-0",
+        "target": "d:c-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "c-0",
+        "target": "d-1",
+        "abs_uri": "http://www.wikidata.org/prop/P571",
+        "rel_uri": "p:P571",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": "c-0",
+        "target": "c-3",
+        "abs_uri": "http://www.wikidata.org/prop/P115",
+        "rel_uri": "p:P115",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": "c-0",
+        "target": "c-5",
+        "abs_uri": "http://www.wikidata.org/prop/P859",
+        "rel_uri": "p:P859",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": "c-0",
+        "target": "c-1",
+        "abs_uri": "http://www.wikidata.org/prop/P5995",
+        "rel_uri": "p:P5995",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": "c-0",
+        "target": "c-2",
+        "abs_uri": "http://www.wikidata.org/prop/P159",
+        "rel_uri": "p:P159",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      },
+      {
+        "source": "c-2",
+        "target": "d:c-2",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 7
+      },
+      {
+        "source": "c-3",
+        "target": "d:c-3",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 8
+      },
+      {
+        "source": "c-3",
+        "target": "c-4",
+        "abs_uri": "http://www.wikidata.org/prop/P1083",
+        "rel_uri": "p:P1083",
+        "approximation": false,
+        "readable_label": null,
+        "id": 9
+      },
+      {
+        "source": "c-1",
+        "target": "d:c-5",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 10
+      },
+      {
+        "source": "c-5",
+        "target": "d:c-6",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 11
+      }
+    ]
+  }
+]

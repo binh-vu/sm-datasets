@@ -1,0 +1,508 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2011_European_Team_Championships_Super_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Kateryna Karsak",
+          "Darya Pishchalnikova",
+          "Żaneta Glanc",
+          "Nadine Müller",
+          "Mélina Robert-Michon",
+          "Vera Cechlová",
+          "Laura Bordignon",
+          "Jade Nicholls",
+          "Sviatlana Siarova",
+          "Irina Rodrigues",
+          "Mercedes de Sántalo-Ossorio",
+          "Sandra Andersson"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Ukraine",
+          " Russia",
+          " Poland",
+          " Germany",
+          " France",
+          " Czech Republic",
+          " Italy",
+          " Great Britain",
+          " Belarus",
+          " Portugal",
+          " Spain",
+          " Sweden"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "#1",
+        "values": [
+          "56.66",
+          "53.47",
+          "53.71",
+          "56.29",
+          "57.36",
+          "56.13",
+          "X",
+          "X",
+          "44.16",
+          "46.58",
+          "49.50",
+          "45.33"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "#2",
+        "values": [
+          "X",
+          "60.11",
+          "58.43",
+          "X",
+          "X",
+          "55.31",
+          "54.05",
+          "53.85",
+          "46.37",
+          "49.97",
+          "X",
+          "45.07"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "#3",
+        "values": [
+          "60.07",
+          "58.74",
+          "X",
+          "57.78",
+          "54.71",
+          "X",
+          "52.48",
+          "X",
+          "52.11",
+          "49.47",
+          "48.27",
+          "45.08"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "#4",
+        "values": [
+          "63.35",
+          "61.09",
+          "59.29",
+          "57.30",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Mark",
+        "values": [
+          "63.35",
+          "61.09",
+          "59.29",
+          "57.78",
+          "57.36",
+          "56.13",
+          "54.05",
+          "53.85",
+          "52.11",
+          "49.97",
+          "49.50",
+          "45.33"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 9,
+        "name": "Points",
+        "values": [
+          "12",
+          "11",
+          "10",
+          "9",
+          "8",
+          "7",
+          "6",
+          "5",
+          "4",
+          "3",
+          "2",
+          "1"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2011 European Team Championships Super League",
+    "page_url": "https://en.wikipedia.org/wiki/2011_European_Team_Championships_Super_League",
+    "page_entity_id": "Q4621015"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kateryna_Karsak",
+          "entity_id": "Q458043"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Darya_Pishchalnikova",
+          "entity_id": "Q6386"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Russia",
+          "entity_id": "Q159"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/%C5%BBaneta_Glanc",
+          "entity_id": "Q393003"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Nadine_M%C3%BCller_(athlete)",
+          "entity_id": "Q61483"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/M%C3%A9lina_Robert-Michon",
+          "entity_id": "Q454396"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Vera_Cechlov%C3%A1",
+          "entity_id": "Q270721"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Laura_Bordignon",
+          "entity_id": "Q617582"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jade_Nicholls&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sviatlana_Siarova",
+          "entity_id": "Q3917800"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Irina_Rodrigues",
+          "entity_id": "Q6069918"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mercedes_de_S%C3%A1ntalo-Ossorio&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sandra_Andersson",
+          "entity_id": "Q24258776"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sweden",
+          "entity_id": "Q34"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

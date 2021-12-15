@@ -1,0 +1,405 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Isabella_I_of_Castile",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1949",
+          "1951",
+          "1976",
+          "1982",
+          "1983",
+          "1992",
+          "1992",
+          "1992",
+          "2001",
+          "2006",
+          "2016",
+          "2016"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Film",
+        "values": [
+          "Christopher Columbus",
+          "Hare We Go",
+          "La espada negra",
+          "Cristóbal Colón de oficio descubridor",
+          "Juana la loca de vez en cuando",
+          "1492: Conquest of Paradise",
+          "Christopher Columbus: The Discovery",
+          "Carry On Columbus",
+          "Juana la Loca",
+          "The Fountain",
+          "La corona partida",
+          "Assassin's Creed"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Director",
+        "values": [
+          "David MacDonald",
+          "Robert McKimson",
+          "Francisco Rovira Beleta",
+          "Mariano Ozores",
+          "José Ramón Larraz",
+          "Ridley Scott",
+          "John Glen",
+          "Gerald Thomas",
+          "Vicente Aranda",
+          "Darren Aronofsky",
+          "Jordi Frades",
+          "Justin Kurzel"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Actress",
+        "values": [
+          "Florence Eldridge",
+          "Unknown",
+          "Maribel Martín",
+          "Fiorella Faltoyano",
+          "Lola Flores",
+          "Sigourney Weaver",
+          "Rachel Ward",
+          "June Whitfield",
+          "Susi Sánchez",
+          "Rachel Weisz",
+          "Michelle Jenner",
+          "Marysia S. Peres"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Isabella I of Castile",
+    "page_url": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile",
+    "page_entity_id": "Q45859"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Christopher_Columbus_(1949_film)",
+          "entity_id": "Q1084704"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/David_MacDonald_(director)",
+          "entity_id": "Q1175437"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Florence_Eldridge",
+          "entity_id": "Q446423"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hare_We_Go",
+          "entity_id": "Q3127413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Robert_McKimson",
+          "entity_id": "Q1063493"
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=La_espada_negra&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Francisco_Rovira_Beleta",
+          "entity_id": "Q3081948"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Maribel_Mart%C3%ADn",
+          "entity_id": "Q3848912"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/Crist%C3%B3bal_Col%C3%B3n_de_oficio_descubridor",
+          "entity_id": "Q5791783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Mariano_Ozores",
+          "entity_id": "Q545395"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Fiorella_Faltoyano",
+          "entity_id": "Q2679144"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/w/index.php?title=Juana_la_loca_de_vez_en_cuando&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Jos%C3%A9_Ram%C3%B3n_Larraz",
+          "entity_id": "Q3186541"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Lola_Flores",
+          "entity_id": "Q242084"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/1492:_Conquest_of_Paradise",
+          "entity_id": "Q190765"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Ridley_Scott",
+          "entity_id": "Q56005"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Sigourney_Weaver",
+          "entity_id": "Q102124"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 35,
+          "url": "http://en.wikipedia.org/wiki/Christopher_Columbus:_The_Discovery",
+          "entity_id": "Q780197"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/John_Glen_(director)",
+          "entity_id": "Q545216"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Rachel_Ward",
+          "entity_id": "Q271948"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Carry_On_Columbus",
+          "entity_id": "Q204414"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gerald_Thomas",
+          "entity_id": "Q740649"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/June_Whitfield",
+          "entity_id": "Q3361617"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Mad_Love_(2001_film)",
+          "entity_id": "Q3766322"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Vicente_Aranda",
+          "entity_id": "Q704576"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Susi_S%C3%A1nchez",
+          "entity_id": "Q6136422"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/The_Fountain",
+          "entity_id": "Q842770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Darren_Aronofsky",
+          "entity_id": "Q192762"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Rachel_Weisz",
+          "entity_id": "Q134077"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=La_corona_partida&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jordi_Frades&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Michelle_Jenner",
+          "entity_id": "Q610296"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Assassin%27s_Creed_(film)",
+          "entity_id": "Q18816889"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Justin_Kurzel",
+          "entity_id": "Q6317793"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Marysia_S._Peres&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ]
+  ]
+}

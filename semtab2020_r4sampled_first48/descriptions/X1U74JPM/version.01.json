@@ -1,0 +1,100 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q76154857:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q76154857",
+        "rel_uri": "wd:Q76154857",
+        "approximation": false,
+        "readable_label": "tram model (Q76154857)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      },
+      {
+        "id": "col-3",
+        "col_index": 3,
+        "label": "col3"
+      },
+      {
+        "id": "col-4",
+        "col_index": 4,
+        "label": "col4"
+      },
+      {
+        "id": "col-5",
+        "col_index": 5,
+        "label": "col5"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-1",
+        "abs_uri": "http://www.wikidata.org/prop/P2067",
+        "rel_uri": "p:P2067",
+        "approximation": false,
+        "readable_label": "mass (P2067)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P2043",
+        "rel_uri": "p:P2043",
+        "approximation": false,
+        "readable_label": "length (P2043)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-3",
+        "abs_uri": "http://www.wikidata.org/prop/P2048",
+        "rel_uri": "p:P2048",
+        "approximation": false,
+        "readable_label": "height (P2048)",
+        "id": 4
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-4",
+        "abs_uri": "http://www.wikidata.org/prop/P2049",
+        "rel_uri": "p:P2049",
+        "approximation": false,
+        "readable_label": "width (P2049)",
+        "id": 5
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q76154857:0",
+        "target": "col-5",
+        "abs_uri": "http://www.wikidata.org/prop/P2052",
+        "rel_uri": "p:P2052",
+        "approximation": false,
+        "readable_label": "speed (P2052)",
+        "id": 6
+      }
+    ]
+  }
+]

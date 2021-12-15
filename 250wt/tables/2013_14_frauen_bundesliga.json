@@ -1,0 +1,375 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2013–14_Frauen-Bundesliga",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "Bayer 04 Leverkusen",
+          "BV Cloppenburg",
+          "FC Bayern Munich",
+          "MSV Duisburg",
+          "SGS Essen",
+          "1. FFC Frankfurt",
+          "SC Freiburg",
+          "TSG 1899 Hoffenheim",
+          "FF USV Jena",
+          "VfL Sindelfingen",
+          "1. FFC Turbine Potsdam",
+          "VfL Wolfsburg"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Home city",
+        "values": [
+          "Leverkusen",
+          "Cloppenburg",
+          "Munich",
+          "Duisburg",
+          "Essen",
+          "Frankfurt",
+          "Freiburg",
+          "Hoffenheim",
+          "Jena",
+          "Sindelfingen",
+          "Potsdam",
+          "Wolfsburg"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Home ground",
+        "values": [
+          "Ulrich-Haberland-Stadion (Amateur)",
+          "TimePartner Arena",
+          "Sportpark Aschheim",
+          "PCC-Stadion",
+          "Stadion für Essen",
+          "Stadion am Brentanobad",
+          "Möslestadion",
+          "Rhein-Neckar-Arena",
+          "Sportzentrum Oberaue",
+          "Floschenstadion",
+          "Karl-Liebknecht-Stadion",
+          "VfL-Stadium"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2013–14 Frauen-Bundesliga",
+    "page_url": "https://en.wikipedia.org/wiki/2013–14_Frauen-Bundesliga",
+    "page_entity_id": "Q14623332"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Bayer_04_Leverkusen_(women)",
+          "entity_id": "Q812128"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Leverkusen",
+          "entity_id": "Q2938"
+        }
+      ],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/BV_Cloppenburg_(women)",
+          "entity_id": "Q797165"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cloppenburg",
+          "entity_id": "Q16059"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=TimePartner_Arena&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/FC_Bayern_Munich_(women%27s_section)",
+          "entity_id": "Q540384"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Munich",
+          "entity_id": "Q1726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Sportpark_Aschheim",
+          "entity_id": "Q836406"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/FCR_2001_Duisburg",
+          "entity_id": "Q492419"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Duisburg",
+          "entity_id": "Q2100"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/PCC-Stadion",
+          "entity_id": "Q612678"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/SGS_Essen",
+          "entity_id": "Q121968"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Essen",
+          "entity_id": "Q2066"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Stadion_f%C3%BCr_Essen&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/1._FFC_Frankfurt",
+          "entity_id": "Q162449"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frankfurt",
+          "entity_id": "Q1794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Stadion_am_Brentanobad",
+          "entity_id": "Q167202"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/SC_Freiburg_(women)",
+          "entity_id": "Q820739"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Freiburg",
+          "entity_id": "Q2833"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/M%C3%B6slestadion",
+          "entity_id": "Q1958177"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/TSG_1899_Hoffenheim_(women)",
+          "entity_id": "Q15849946"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hoffenheim",
+          "entity_id": "Q707011"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Rhein-Neckar-Arena",
+          "entity_id": "Q129870"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/FF_USV_Jena",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Jena",
+          "entity_id": "Q3150"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sportzentrum_Oberaue&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/VfL_Sindelfingen",
+          "entity_id": "Q878710"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Sindelfingen",
+          "entity_id": "Q4019"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Floschenstadion&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/1._FFC_Turbine_Potsdam",
+          "entity_id": "Q162450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Potsdam",
+          "entity_id": "Q1711"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Karl-Liebknecht-Stadion",
+          "entity_id": "Q464018"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/VfL_Wolfsburg_(women)",
+          "entity_id": "Q285131"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wolfsburg",
+          "entity_id": "Q3014"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/VfL-Stadium",
+          "entity_id": "Q323718"
+        }
+      ]
+    ]
+  ]
+}

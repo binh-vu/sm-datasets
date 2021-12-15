@@ -1,0 +1,444 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2017_European_Team_Championships_Super_League",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "2",
+          "2",
+          "2",
+          "2",
+          "1",
+          "2",
+          "2"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Lane",
+        "values": [
+          "6",
+          "5",
+          "3",
+          "7",
+          "4",
+          "2",
+          "6",
+          "5",
+          "4",
+          "7",
+          "3"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Pamela Dutkiewicz",
+          "Elisávet Pesirídou",
+          "Laura Valette",
+          "Hanna Plotitsyna",
+          "Alina Talay",
+          "Karolina Kołeczek",
+          "Alicia Barrett",
+          "Teresa Errandonea",
+          "Veronica Borsi",
+          "Lucie Koudelová",
+          "Sharona Bakker"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Nationality",
+        "values": [
+          " Germany",
+          " Greece",
+          " France",
+          " Ukraine",
+          " Belarus",
+          " Poland",
+          " Great Britain",
+          " Spain",
+          " Italy",
+          " Czech Republic",
+          " Netherlands"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "React",
+        "values": [
+          "0.105",
+          "0.150",
+          "0.148",
+          "0.165",
+          "0.179",
+          "0.176",
+          "0.193",
+          "0.180",
+          "0.148",
+          "0.166",
+          "0.182"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Time",
+        "values": [
+          "12.82",
+          "13.03",
+          "13.04",
+          "13.05",
+          "13.11",
+          "13.17",
+          "13.32",
+          "13.37",
+          "13.61",
+          "13.70",
+          "DQ"
+        ]
+      },
+      {
+        "index": 7,
+        "name": "Notes",
+        "values": [
+          "Q",
+          "Q, SB",
+          "Q, PB",
+          "q, SB",
+          "Q",
+          "Q",
+          "Q",
+          "q, PB",
+          "",
+          "",
+          "R 168.7.b"
+        ]
+      },
+      {
+        "index": 8,
+        "name": "Points",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "3",
+          "2",
+          "0"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2017 European Team Championships Super League",
+    "page_url": "https://en.wikipedia.org/wiki/2017_European_Team_Championships_Super_League",
+    "page_entity_id": "Q30682846"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Pamela_Dutkiewicz",
+          "entity_id": "Q26046163"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Elis%C3%A1vet_Pesir%C3%ADdou",
+          "entity_id": "Q24809901"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Greece",
+          "entity_id": "Q41"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Laura_Valette",
+          "entity_id": "Q17632447"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/France",
+          "entity_id": "Q142"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Hanna_Plotitsyna",
+          "entity_id": "Q19599134"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Ukraine",
+          "entity_id": "Q212"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Alina_Talay",
+          "entity_id": "Q454602"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Belarus",
+          "entity_id": "Q184"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Karolina_Ko%C5%82eczek",
+          "entity_id": "Q11736440"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Poland",
+          "entity_id": "Q36"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Alicia_Barrett",
+          "entity_id": "Q36336949"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/w/index.php?title=Teresa_Errandonea&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Veronica_Borsi",
+          "entity_id": "Q2998853"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Italy",
+          "entity_id": "Q38"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Lucie_Koudelov%C3%A1",
+          "entity_id": "Q25933029"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Czech_Republic",
+          "entity_id": "Q213"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Sharona_Bakker",
+          "entity_id": "Q2687946"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Netherlands",
+          "entity_id": "Q55"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

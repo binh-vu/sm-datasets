@@ -1,0 +1,640 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "2017–18_Bundesliga",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Team",
+        "values": [
+          "FC Augsburg",
+          "Hertha BSC",
+          "Werder Bremen",
+          "Borussia Dortmund",
+          "Eintracht Frankfurt",
+          "SC Freiburg",
+          "Hamburger SV",
+          "Hannover 96",
+          "1899 Hoffenheim",
+          "1. FC Köln",
+          "RB Leipzig",
+          "Bayer Leverkusen",
+          "Mainz 05",
+          "Borussia Mönchengladbach",
+          "Bayern Munich",
+          "Schalke 04",
+          "VfB Stuttgart",
+          "VfL Wolfsburg"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Location",
+        "values": [
+          "Augsburg",
+          "Berlin",
+          "Bremen",
+          "Dortmund",
+          "Frankfurt",
+          "Freiburg im Breisgau",
+          "Hamburg",
+          "Hanover",
+          "Sinsheim",
+          "Cologne",
+          "Leipzig",
+          "Leverkusen",
+          "Mainz",
+          "Mönchengladbach",
+          "Munich",
+          "Gelsenkirchen",
+          "Stuttgart",
+          "Wolfsburg"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Stadium",
+        "values": [
+          "WWK Arena",
+          "Olympiastadion",
+          "Weser-Stadion",
+          "Signal Iduna Park",
+          "Commerzbank-Arena",
+          "Schwarzwald-Stadion",
+          "Volksparkstadion",
+          "HDI-Arena",
+          "Wirsol Rhein-Neckar-Arena",
+          "RheinEnergieStadion",
+          "Red Bull Arena",
+          "BayArena",
+          "Opel Arena",
+          "Borussia-Park",
+          "Allianz Arena",
+          "Veltins-Arena",
+          "Mercedes-Benz Arena",
+          "Volkswagen Arena"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Capacity",
+        "values": [
+          "30,660",
+          "74,475",
+          "42,100",
+          "81,360",
+          "51,500",
+          "24,000",
+          "57,000",
+          "49,000",
+          "30,150",
+          "49,698",
+          "42,558",
+          "30,000",
+          "34,000",
+          "54,014",
+          "75,000",
+          "62,271",
+          "60,449",
+          "30,000"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Ref.",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "2017–18 Bundesliga",
+    "page_url": "https://en.wikipedia.org/wiki/2017–18_Bundesliga",
+    "page_entity_id": "Q28937555"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/FC_Augsburg",
+          "entity_id": "Q15755"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Augsburg",
+          "entity_id": "Q2749"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Augsburg_Arena",
+          "entity_id": "Q167418"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Hertha_BSC",
+          "entity_id": "Q102720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Berlin",
+          "entity_id": "Q64"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Olympiastadion_(Berlin)",
+          "entity_id": "Q151374"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/SV_Werder_Bremen",
+          "entity_id": "Q51976"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Bremen",
+          "entity_id": "Q24879"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Weser-Stadion",
+          "entity_id": "Q154475"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Borussia_Dortmund",
+          "entity_id": "Q41420"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Dortmund",
+          "entity_id": "Q1295"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Westfalenstadion",
+          "entity_id": "Q150928"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Eintracht_Frankfurt",
+          "entity_id": "Q38245"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Frankfurt",
+          "entity_id": "Q1794"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Waldstadion_(Frankfurt)",
+          "entity_id": "Q157273"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/SC_Freiburg",
+          "entity_id": "Q106394"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Freiburg_im_Breisgau",
+          "entity_id": "Q2833"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Schwarzwald-Stadion",
+          "entity_id": "Q311458"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Hamburger_SV",
+          "entity_id": "Q51974"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hamburg",
+          "entity_id": "Q1055"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Volksparkstadion",
+          "entity_id": "Q150933"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Hannover_96",
+          "entity_id": "Q33748"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Hanover",
+          "entity_id": "Q1715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Niedersachsenstadion",
+          "entity_id": "Q152633"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/TSG_1899_Hoffenheim",
+          "entity_id": "Q22707"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Sinsheim",
+          "entity_id": "Q14950"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Rhein-Neckar-Arena",
+          "entity_id": "Q129870"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/1._FC_K%C3%B6ln",
+          "entity_id": "Q104770"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cologne",
+          "entity_id": "Q365"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/M%C3%BCngersdorfer_Stadion",
+          "entity_id": "Q151893"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/RB_Leipzig",
+          "entity_id": "Q702455"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Leipzig",
+          "entity_id": "Q2079"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)",
+          "entity_id": "Q210466"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Bayer_04_Leverkusen",
+          "entity_id": "Q104761"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Leverkusen",
+          "entity_id": "Q2938"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/BayArena",
+          "entity_id": "Q156630"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/1._FSV_Mainz_05",
+          "entity_id": "Q105254"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Mainz",
+          "entity_id": "Q1720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Opel_Arena_(stadium)",
+          "entity_id": "Q392494"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Borussia_M%C3%B6nchengladbach",
+          "entity_id": "Q101959"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/M%C3%B6nchengladbach",
+          "entity_id": "Q2758"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Borussia-Park",
+          "entity_id": "Q154074"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/FC_Bayern_Munich",
+          "entity_id": "Q15789"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Munich",
+          "entity_id": "Q1726"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Allianz_Arena",
+          "entity_id": "Q127429"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/FC_Schalke_04",
+          "entity_id": "Q32494"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Gelsenkirchen",
+          "entity_id": "Q2765"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Arena_AufSchalke",
+          "entity_id": "Q150961"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/VfB_Stuttgart",
+          "entity_id": "Q4512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Stuttgart",
+          "entity_id": "Q1022"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart)",
+          "entity_id": "Q152349"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/VfL_Wolfsburg",
+          "entity_id": "Q101859"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wolfsburg",
+          "entity_id": "Q3014"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Volkswagen_Arena",
+          "entity_id": "Q155603"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

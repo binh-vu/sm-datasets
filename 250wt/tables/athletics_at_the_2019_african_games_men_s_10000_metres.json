@@ -1,0 +1,592 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Athletics_at_the_2019_African_Games_–_Men's_10,000_metres",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "",
+          "",
+          "",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Name",
+        "values": [
+          "Berehanu Tsegu",
+          "Aron Kifle",
+          "Jemal Yimer",
+          "Edwin Soi",
+          "Noël Hitimana",
+          "Onesphore Nzikwinkunda",
+          "Abadi Hadis",
+          "Samuel Kibet",
+          "Awet Habte",
+          "Jamal Hitrane",
+          "Mande Bushendich",
+          "Dejen Tesfalem",
+          "Kefasi Chitsala",
+          "Chauncy Master",
+          "Alpha Kabanga Mulumba",
+          "Osman Challey",
+          "Paul Kipngetich Tanui",
+          "Samuel Freire",
+          "Charles Yosei Muneria",
+          "Moumin Bouh Guelleh",
+          "Toka Badboy"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Nationality",
+        "values": [
+          " Ethiopia",
+          " Eritrea",
+          " Ethiopia",
+          " Kenya",
+          " Rwanda",
+          " Burundi",
+          " Ethiopia",
+          " Uganda",
+          " Eritrea",
+          " Morocco",
+          " Uganda",
+          " Eritrea",
+          " Malawi",
+          " Malawi",
+          " Democratic Republic of the Congo",
+          " Sierra Leone",
+          " Kenya",
+          " Cape Verde",
+          " Kenya",
+          " Djibouti",
+          " Lesotho"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Time",
+        "values": [
+          "27:56.81",
+          "27:57.79",
+          "27:59.02",
+          "28:05.70",
+          "28:11.84",
+          "28:11.90",
+          "28:27.38",
+          "28:32.89",
+          "28:36.30",
+          "28:48.58",
+          "28:59.66",
+          "29:12.77",
+          "30:10.27",
+          "30:59.64",
+          "33:34.53",
+          "DNF",
+          "DNF",
+          "DNF",
+          "DNF",
+          "DNS",
+          "DNS"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Notes",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Athletics at the 2019 African Games – Men's 10,000 metres",
+    "page_url": "https://en.wikipedia.org/wiki/Athletics_at_the_2019_African_Games_–_Men's_10,000_metres",
+    "page_entity_id": "Q66712976"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Berehanu_Tsegu",
+          "entity_id": "Q66818319"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Aron_Kifle",
+          "entity_id": "Q20933623"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Eritrea",
+          "entity_id": "Q986"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Jemal_Yimer",
+          "entity_id": "Q34011612"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Edwin_Soi",
+          "entity_id": "Q9126"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=No%C3%ABl_Hitimana_(athlete)&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rwanda",
+          "entity_id": "Q1037"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Onesphore_Nzikwinkunda",
+          "entity_id": "Q55040124"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Burundi",
+          "entity_id": "Q967"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Abadi_Hadis",
+          "entity_id": "Q26263137"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ethiopia",
+          "entity_id": "Q115"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Samuel_Kibet&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Uganda",
+          "entity_id": "Q1036"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Awet_Habte",
+          "entity_id": "Q36697244"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Eritrea",
+          "entity_id": "Q986"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Jamal_Hitrane&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Morocco",
+          "entity_id": "Q1028"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Mande_Bushendich&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Uganda",
+          "entity_id": "Q1036"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Dejen_Tesfalem&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Eritrea",
+          "entity_id": "Q986"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Kefasi_Chitsala",
+          "entity_id": "Q26472797"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Malawi",
+          "entity_id": "Q1020"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Chauncy_Master",
+          "entity_id": "Q5088290"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Malawi",
+          "entity_id": "Q1020"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Alpha_Kabanga_Mulumba&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+          "entity_id": "Q974"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Osman_Challey&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Sierra_Leone",
+          "entity_id": "Q1044"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Paul_Kipngetich_Tanui",
+          "entity_id": "Q471050"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Samuel_Freire&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cape_Verde",
+          "entity_id": "Q1011"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Charles_Yosei_Muneria",
+          "entity_id": "Q26459690"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kenya",
+          "entity_id": "Q114"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Moumin_Bouh_Guelleh",
+          "entity_id": "Q3327766"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Djibouti",
+          "entity_id": "Q977"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Toka_Badboy&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Lesotho",
+          "entity_id": "Q1013"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

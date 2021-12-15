@@ -1,0 +1,898 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Swimming_at_the_2002_Commonwealth_Games_–_Women's_50_metres_butterfly",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Rank",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "12",
+          "14",
+          "15",
+          "15",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "-"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Heat",
+        "values": [
+          "4",
+          "2",
+          "3",
+          "2",
+          "3",
+          "4",
+          "4",
+          "3",
+          "3",
+          "4",
+          "4",
+          "2",
+          "4",
+          "2",
+          "3",
+          "4",
+          "3",
+          "2",
+          "2",
+          "3",
+          "3",
+          "2",
+          "1",
+          "2",
+          "1",
+          "1",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Lane",
+        "values": [
+          "4",
+          "4",
+          "5",
+          "5",
+          "4",
+          "5",
+          "3",
+          "2",
+          "3",
+          "7",
+          "2",
+          "3",
+          "1",
+          "6",
+          "6",
+          "7",
+          "7",
+          "7",
+          "1",
+          "1",
+          "8",
+          "2",
+          "4",
+          "8",
+          "5",
+          "3",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Name",
+        "values": [
+          "Petria Thomas",
+          "Nicole Irving",
+          "Alison Sheppard",
+          "Mandy Loots",
+          "Rosalind Brett",
+          "Joscelin Yeo",
+          "Kerry Martin",
+          "Georgie Lee",
+          "Nadine Rolland",
+          "Audrey Lacroix",
+          "Leah Martindale",
+          "Sarah Ryan",
+          "Maria Papadopoulou",
+          "Hannah McLean",
+          "Julie Douglas",
+          "Karla Hancocks",
+          "Mandy Leach",
+          "Jennifer Fratesi",
+          "Emma Hirst",
+          "Caroline Pickering",
+          "Sharntelle McLean",
+          "Tamara Swaby",
+          "Emily Crookall-Nixon",
+          "Angela Galea",
+          "Elaine Reyes",
+          "Sana Abdul Wahid",
+          "Keren Lee Visser",
+          "Natalia Roumbina"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Nationality",
+        "values": [
+          " Australia",
+          " Australia",
+          " Scotland",
+          " South Africa",
+          " England",
+          " Singapore",
+          " Scotland",
+          " England",
+          " Canada",
+          " Canada",
+          " Barbados",
+          " Australia",
+          " Cyprus",
+          " New Zealand",
+          " Northern Ireland",
+          " Wales",
+          " Zimbabwe",
+          " Canada",
+          " Jersey",
+          " Fiji",
+          " Trinidad and Tobago",
+          " Jamaica",
+          " Isle of Man",
+          " Malta",
+          " Gibraltar",
+          " Pakistan",
+          " Zambia",
+          " Cyprus"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Time",
+        "values": [
+          "27.09",
+          "27.22",
+          "27.39",
+          "27.60",
+          "27.80",
+          "27.87",
+          "27.88",
+          "28.02",
+          "28.14",
+          "28.17",
+          "28.18",
+          "28.23",
+          "28.23",
+          "28.41",
+          "28.43",
+          "28.43",
+          "28.68",
+          "28.82",
+          "29.09",
+          "29.11",
+          "29.23",
+          "29.28",
+          "29.76",
+          "29.94",
+          "31.79",
+          "33.53",
+          "34.18",
+          "DQ"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Notes",
+        "values": [
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "Q",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Swimming at the 2002 Commonwealth Games – Women's 50 metres butterfly",
+    "page_url": "https://en.wikipedia.org/wiki/Swimming_at_the_2002_Commonwealth_Games_–_Women's_50_metres_butterfly",
+    "page_entity_id": "Q30641712"
+  },
+  "links": [
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Petria_Thomas",
+          "entity_id": "Q232816"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Nicole_Irving",
+          "entity_id": "Q16212746"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Alison_Sheppard",
+          "entity_id": "Q4727180"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mandy_Loots",
+          "entity_id": "Q4963532"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/South_Africa",
+          "entity_id": "Q258"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rosalind_Brett",
+          "entity_id": "Q7367221"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Joscelin_Yeo",
+          "entity_id": "Q1515536"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Singapore",
+          "entity_id": "Q334"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kerry_Martin&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Scotland",
+          "entity_id": "Q22"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Georgie_Lee&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/England",
+          "entity_id": "Q21"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Nadine_Rolland",
+          "entity_id": "Q16215517"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Audrey_Lacroix",
+          "entity_id": "Q2870851"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Leah_Martindale",
+          "entity_id": "Q13562882"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barbados",
+          "entity_id": "Q244"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Sarah_Ryan",
+          "entity_id": "Q3950349"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Maria_Papadopoulou",
+          "entity_id": "Q11769079"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cyprus",
+          "entity_id": "Q229"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Hannah_McLean",
+          "entity_id": "Q5648894"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/New_Zealand",
+          "entity_id": "Q664"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/w/index.php?title=Julie_Douglas&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Northern_Ireland",
+          "entity_id": "Q26"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/w/index.php?title=Karla_Hancocks&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Wales",
+          "entity_id": "Q25"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Mandy_Leach",
+          "entity_id": "Q6748302"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zimbabwe",
+          "entity_id": "Q954"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Jennifer_Fratesi",
+          "entity_id": "Q16211493"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Canada",
+          "entity_id": "Q16"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/w/index.php?title=Emma_Hirst&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Jersey",
+          "entity_id": "Q785"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Caroline_Pickering",
+          "entity_id": "Q5045194"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Fiji",
+          "entity_id": "Q712"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Sharntelle_McLean",
+          "entity_id": "Q7489947"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Trinidad_and_Tobago",
+          "entity_id": "Q754"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Tamara_Swaby&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Jamaica",
+          "entity_id": "Q766"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/w/index.php?title=Emily_Crookall-Nixon&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Isle_of_Man",
+          "entity_id": "Q9676"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Angela_Galea",
+          "entity_id": "Q16211581"
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Malta",
+          "entity_id": "Q233"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/w/index.php?title=Elaine_Reyes&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Gibraltar",
+          "entity_id": "Q1410"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Sana_Abdul_Wahid&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Pakistan",
+          "entity_id": "Q843"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Keren_Lee_Visser&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Zambia",
+          "entity_id": "Q953"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/w/index.php?title=Natalia_Roumbina&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Cyprus",
+          "entity_id": "Q229"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

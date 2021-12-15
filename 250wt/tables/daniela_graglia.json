@@ -1,0 +1,402 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Daniela_Graglia",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "2000",
+          "2000",
+          "2001",
+          "2002",
+          "2002",
+          "2003",
+          "2005",
+          "2007"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Competition",
+        "values": [
+          "European Indoor Championships",
+          "Olympic Games",
+          "World Indoor Championships",
+          "European Championships",
+          "European Championships",
+          "World Indoor Championships",
+          "European Indoor Championships",
+          "European Indoor Championships"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Venue",
+        "values": [
+          " Madrid",
+          " Sydney",
+          " Lisbon",
+          " Munich",
+          " Munich",
+          " Birmingham",
+          " Madrid",
+          " Birmingham"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Position",
+        "values": [
+          "Heat",
+          "Heat",
+          "SF",
+          "SF",
+          "6th",
+          "Heat",
+          "Heat",
+          "Heat"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Event",
+        "values": [
+          "200 metres",
+          "4x400 metres relay",
+          "60 metres",
+          "200 metres",
+          "4x100 metres relay",
+          "200 metres",
+          "200 metres",
+          "60 metres"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Performance",
+        "values": [
+          "24.23",
+          "3:27.23",
+          "7.42",
+          "23.33",
+          "43.46",
+          "23.66",
+          "23.90",
+          "7.42"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "Note",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Daniela Graglia",
+    "page_url": "https://en.wikipedia.org/wiki/Daniela_Graglia",
+    "page_entity_id": "Q3701802"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/2000_European_Athletics_Indoor_Championships",
+          "entity_id": "Q620923"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Madrid",
+          "entity_id": "Q2807"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/2000_European_Athletics_Indoor_Championships_%E2%80%93_Women%27s_200_metres",
+          "entity_id": "Q4597354"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Athletics_at_the_2000_Summer_Olympics",
+          "entity_id": "Q249809"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Australia",
+          "entity_id": "Q408"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sydney",
+          "entity_id": "Q3130"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Athletics_at_the_2000_Summer_Olympics_%E2%80%93_Women%27s_4_%C3%97_400_metres_relay",
+          "entity_id": "Q3628789"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/2001_IAAF_World_Indoor_Championships",
+          "entity_id": "Q1327991"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Portugal",
+          "entity_id": "Q45"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Lisbon",
+          "entity_id": "Q597"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/2001_IAAF_World_Indoor_Championships_%E2%80%93_Women%27s_60_metres",
+          "entity_id": "Q4598780"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/2002_European_Athletics_Championships",
+          "entity_id": "Q623388"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Munich",
+          "entity_id": "Q1726"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/2002_European_Athletics_Championships_%E2%80%93_Women%27s_200_metres",
+          "entity_id": "Q4599954"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/2002_European_Athletics_Championships",
+          "entity_id": "Q623388"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Germany",
+          "entity_id": "Q183"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Munich",
+          "entity_id": "Q1726"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/2002_European_Athletics_Championships_%E2%80%93_Women%27s_4_x_100_metres_relay",
+          "entity_id": "Q4599959"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/2003_IAAF_World_Indoor_Championships",
+          "entity_id": "Q1357413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        },
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/2003_IAAF_World_Indoor_Championships_%E2%80%93_Women%27s_200_metres",
+          "entity_id": "Q4601455"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/2005_European_Athletics_Indoor_Championships",
+          "entity_id": "Q1786608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/Spain",
+          "entity_id": "Q29"
+        },
+        {
+          "start": 1,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Madrid",
+          "entity_id": "Q2807"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/2005_European_Athletics_Indoor_Championships_%E2%80%93_Women%27s_200_metres",
+          "entity_id": "Q4604233"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/2007_European_Athletics_Indoor_Championships",
+          "entity_id": "Q301405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 0,
+          "url": "http://en.wikipedia.org/wiki/United_Kingdom",
+          "entity_id": "Q145"
+        },
+        {
+          "start": 1,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Birmingham",
+          "entity_id": "Q2256"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/2007_European_Athletics_Indoor_Championships_%E2%80%93_Women%27s_60_metres",
+          "entity_id": "Q4608393"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

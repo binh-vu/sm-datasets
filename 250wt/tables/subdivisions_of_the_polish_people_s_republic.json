@@ -1,0 +1,1528 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Subdivisions_of_the_Polish_People's_Republic",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Abbreviation",
+        "values": [
+          "bp",
+          "bk",
+          "bb",
+          "by",
+          "ch",
+          "ci",
+          "cz",
+          "el",
+          "gd",
+          "go",
+          "jg",
+          "kl",
+          "ka",
+          "ki",
+          "kn",
+          "ko",
+          "kr",
+          "ks",
+          "lg",
+          "le",
+          "lu",
+          "lo",
+          "ld",
+          "ns",
+          "ol",
+          "op",
+          "os",
+          "pi",
+          "pt",
+          "pl",
+          "po",
+          "pr",
+          "rs",
+          "rz",
+          "se",
+          "si",
+          "sk",
+          "sl",
+          "su",
+          "sz",
+          "tg",
+          "ta",
+          "to",
+          "wb",
+          "wa",
+          "wl",
+          "wr",
+          "za",
+          "zg"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Voivodeship",
+        "values": [
+          "Biała Podlaska Voivodeship",
+          "Białystok Voivodeship (1975-1998)",
+          "Bielsko-Biała Voivodeship",
+          "Bydgoszcz Voivodeship",
+          "Chełm Voivodeship",
+          "Ciechanów Voivodeship",
+          "Częstochowa Voivodeship",
+          "Elbląg Voivodeship",
+          "Gdańsk Voivodeship",
+          "Gorzów Voivodeship",
+          "Jelenia Góra Voivodeship",
+          "Kalisz Voivodeship",
+          "Katowice Voivodeship",
+          "Kielce Voivodeship",
+          "Konin Voivodeship",
+          "Koszalin Voivodeship",
+          "Kraków Voivodeship",
+          "Krosno Voivodeship",
+          "Legnica Voivodeship",
+          "Leszno Voivodeship",
+          "Lublin Voivodeship",
+          "Łomża Voivodeship",
+          "Łódź Voivodeship",
+          "Nowy Sącz Voivodeship",
+          "Olsztyn Voivodeship",
+          "Opole Voivodeship",
+          "Ostrołęka Voivodeship",
+          "Piła Voivodeship",
+          "Piotrków Voivodeship",
+          "Płock Voivodeship",
+          "Poznań Voivodeship",
+          "Przemyśl Voivodeship",
+          "Radom Voivodeship",
+          "Rzeszów Voivodeship",
+          "Siedlce Voivodeship",
+          "Sieradz Voivodeship",
+          "Skierniewice Voivodeship",
+          "Słupsk Voivodeship",
+          "Suwałki Voivodeship",
+          "Szczecin Voivodeship",
+          "Tarnobrzeg Voivodeship",
+          "Tarnów Voivodeship",
+          "Toruń Voivodeship",
+          "Wałbrzych Voivodeship",
+          "Warsaw Voivodeship",
+          "Włocławek Voivodeship",
+          "Wrocław Voivodeship",
+          "Zamość Voivodeship",
+          "Zielona Góra Voivodeship"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Capital",
+        "values": [
+          "Biała Podlaska",
+          "Białystok",
+          "Bielsko-Biała",
+          "Bydgoszcz",
+          "Chełm",
+          "Ciechanów",
+          "Częstochowa",
+          "Elbląg",
+          "Gdańsk",
+          "Gorzów Wielkopolski",
+          "Jelenia Góra",
+          "Kalisz",
+          "Katowice",
+          "Kielce",
+          "Konin",
+          "Koszalin",
+          "Kraków",
+          "Krosno",
+          "Legnica",
+          "Leszno",
+          "Lublin",
+          "Łomża",
+          "Łódź",
+          "Nowy Sącz",
+          "Olsztyn",
+          "Opole",
+          "Ostrołęka",
+          "Piła",
+          "Piotrków Trybunalski",
+          "Płock",
+          "Poznań",
+          "Przemyśl",
+          "Radom",
+          "Rzeszów",
+          "Siedlce",
+          "Sieradz",
+          "Skierniewice",
+          "Słupsk",
+          "Suwałki",
+          "Szczecin",
+          "Tarnobrzeg",
+          "Tarnów",
+          "Toruń",
+          "Wałbrzych",
+          "Warsaw",
+          "Włocławek",
+          "Wrocław",
+          "Zamość",
+          "Zielona Góra"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Area \nkm² (1998)",
+        "values": [
+          "5348",
+          "10 055",
+          "3 704",
+          "10 349",
+          "3 865",
+          "6 362",
+          "6 182",
+          "6 103",
+          "7 394",
+          "8 484",
+          "4 378",
+          "6 512",
+          "6 650",
+          "9 211",
+          "5 139",
+          "8 470",
+          "3 254",
+          "5 702",
+          "4 037",
+          "4 254",
+          "6 793",
+          "6 684",
+          "1 523",
+          "5 576",
+          "12 327",
+          "8 535",
+          "6 498",
+          "8 205",
+          "6 266",
+          "5 117",
+          "8 151",
+          "4 437",
+          "7 295",
+          "4 397",
+          "8 499",
+          "4 869",
+          "3 959",
+          "7 453",
+          "10 490",
+          "9 981",
+          "6 283",
+          "4 151",
+          "5 348",
+          "4 168",
+          "3 788",
+          "4 402",
+          "6 287",
+          "6 980",
+          "8 868"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Population \n(1980)",
+        "values": [
+          "286 400",
+          "641 100",
+          "829 900",
+          "1 036 000",
+          "230 900",
+          "405 400",
+          "747 900",
+          "441 500",
+          "1 333 800",
+          "455 400",
+          "492 600",
+          "668 000",
+          "3 733 900",
+          "1 068 700",
+          "441 200",
+          "462 200",
+          "1 167 500",
+          "448 200",
+          "458 900",
+          "357 600",
+          "935 200",
+          "325 800",
+          "1 127 800",
+          "628 800",
+          "681 400",
+          "975 000",
+          "371 400",
+          "437 100",
+          "604 200",
+          "496 100",
+          "1 237 800",
+          "380 000",
+          "702 300",
+          "648 900",
+          "616 300",
+          "392 300",
+          "396 900",
+          "369 800",
+          "422 600",
+          "897 900",
+          "556 300",
+          "607 000",
+          "610 800",
+          "716 100",
+          "2 319 100",
+          "413 400",
+          "1 076 200",
+          "472 100",
+          "609 200"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "No. of cities",
+        "values": [
+          "6",
+          "17",
+          "18",
+          "27",
+          "4",
+          "9",
+          "17",
+          "15",
+          "19",
+          "21",
+          "24",
+          "20",
+          "43",
+          "17",
+          "18",
+          "17",
+          "10",
+          "12",
+          "11",
+          "19",
+          "16",
+          "12",
+          "8",
+          "14",
+          "21",
+          "29",
+          "9",
+          "24",
+          "10",
+          "9",
+          "33",
+          "9",
+          "15",
+          "13",
+          "12",
+          "9",
+          "8",
+          "11",
+          "14",
+          "29",
+          "14",
+          "9",
+          "13",
+          "31",
+          "27",
+          "14",
+          "16",
+          "5",
+          "26"
+        ]
+      },
+      {
+        "index": 6,
+        "name": "No. of communes",
+        "values": [
+          "35",
+          "49",
+          "47",
+          "55",
+          "25",
+          "45",
+          "49",
+          "37",
+          "43",
+          "38",
+          "28",
+          "53",
+          "46",
+          "69",
+          "43",
+          "35",
+          "38",
+          "37",
+          "31",
+          "28",
+          "62",
+          "39",
+          "11",
+          "41",
+          "48",
+          "61",
+          "38",
+          "35",
+          "51",
+          "44",
+          "57",
+          "35",
+          "61",
+          "41",
+          "66",
+          "40",
+          "36",
+          "31",
+          "42",
+          "50",
+          "46",
+          "41",
+          "41",
+          "30",
+          "32",
+          "30",
+          "33",
+          "47",
+          "50"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Subdivisions of the Polish People's Republic",
+    "page_url": "https://en.wikipedia.org/wiki/Subdivisions_of_the_Polish_People's_Republic",
+    "page_entity_id": "Q4683510"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Bia%C5%82a_Podlaska_Voivodeship",
+          "entity_id": "Q1341945"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Bia%C5%82a_Podlaska",
+          "entity_id": "Q209932"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Bia%C5%82ystok_Voivodeship_(1975-1998)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bia%C5%82ystok",
+          "entity_id": "Q761"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a_Voivodeship",
+          "entity_id": "Q1747120"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 13,
+          "url": "http://en.wikipedia.org/wiki/Bielsko-Bia%C5%82a",
+          "entity_id": "Q106583"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Bydgoszcz_Voivodeship",
+          "entity_id": "Q1935608"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Bydgoszcz",
+          "entity_id": "Q41252"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Che%C5%82m_Voivodeship",
+          "entity_id": "Q1752936"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Che%C5%82m",
+          "entity_id": "Q234184"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Ciechan%C3%B3w_Voivodeship",
+          "entity_id": "Q1146779"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ciechan%C3%B3w",
+          "entity_id": "Q745051"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Cz%C4%99stochowa_Voivodeship",
+          "entity_id": "Q1499927"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Cz%C4%99stochowa",
+          "entity_id": "Q103217"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Elbl%C4%85g_Voivodeship",
+          "entity_id": "Q1415833"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Elbl%C4%85g",
+          "entity_id": "Q104712"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gda%C5%84sk_Voivodeship",
+          "entity_id": "Q1222000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Gda%C5%84sk",
+          "entity_id": "Q1792"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Gorz%C3%B3w_Voivodeship",
+          "entity_id": "Q1410914"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Gorz%C3%B3w_Wielkopolski",
+          "entity_id": "Q104731"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Jelenia_G%C3%B3ra_Voivodeship",
+          "entity_id": "Q386333"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jelenia_G%C3%B3ra",
+          "entity_id": "Q147934"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kalisz_Voivodeship",
+          "entity_id": "Q636580"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kalisz",
+          "entity_id": "Q52842"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Katowice_Voivodeship",
+          "entity_id": "Q1626030"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Katowice",
+          "entity_id": "Q588"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Kielce_Voivodeship",
+          "entity_id": "Q617213"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kielce",
+          "entity_id": "Q102317"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Konin_Voivodeship",
+          "entity_id": "Q1415827"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Konin",
+          "entity_id": "Q52845"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Koszalin_Voivodeship",
+          "entity_id": "Q265000"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Koszalin",
+          "entity_id": "Q62868"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Krak%C3%B3w_Voivodeship",
+          "entity_id": "Q239174"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Krak%C3%B3w",
+          "entity_id": "Q31487"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Krosno_Voivodeship",
+          "entity_id": "Q1422856"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Krosno",
+          "entity_id": "Q826068"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Legnica_Voivodeship",
+          "entity_id": "Q943781"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Legnica",
+          "entity_id": "Q106274"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Leszno_Voivodeship",
+          "entity_id": "Q634249"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Leszno",
+          "entity_id": "Q52892"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Lublin_Voivodeship",
+          "entity_id": "Q54155"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lublin",
+          "entity_id": "Q37333"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/%C5%81om%C5%BCa_Voivodeship",
+          "entity_id": "Q1755185"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/%C5%81om%C5%BCa",
+          "entity_id": "Q215633"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_Voivodeship",
+          "entity_id": "Q54158"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA",
+          "entity_id": "Q580"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Nowy_S%C4%85cz_Voivodeship",
+          "entity_id": "Q735891"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Nowy_S%C4%85cz",
+          "entity_id": "Q802"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Olsztyn_Voivodeship",
+          "entity_id": "Q259995"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Olsztyn",
+          "entity_id": "Q82765"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Opole_Voivodeship",
+          "entity_id": "Q54171"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Opole",
+          "entity_id": "Q92212"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Ostro%C5%82%C4%99ka_Voivodeship",
+          "entity_id": "Q1416385"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Ostro%C5%82%C4%99ka",
+          "entity_id": "Q461287"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Pi%C5%82a_Voivodeship",
+          "entity_id": "Q212383"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Pi%C5%82a",
+          "entity_id": "Q556200"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Piotrk%C3%B3w_Voivodeship",
+          "entity_id": "Q1416184"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Piotrk%C3%B3w_Trybunalski",
+          "entity_id": "Q158004"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/P%C5%82ock_Voivodeship",
+          "entity_id": "Q949201"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/P%C5%82ock",
+          "entity_id": "Q104725"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Pozna%C5%84_Voivodeship",
+          "entity_id": "Q52973"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Pozna%C5%84",
+          "entity_id": "Q268"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Przemy%C5%9Bl_Voivodeship",
+          "entity_id": "Q1935008"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Przemy%C5%9Bl",
+          "entity_id": "Q208473"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Radom_Voivodeship",
+          "entity_id": "Q185306"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Radom",
+          "entity_id": "Q104740"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Rzesz%C3%B3w_Voivodeship",
+          "entity_id": "Q9377206"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Rzesz%C3%B3w",
+          "entity_id": "Q598"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Siedlce_Voivodeship",
+          "entity_id": "Q1752654"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Siedlce",
+          "entity_id": "Q319813"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Sieradz_Voivodeship",
+          "entity_id": "Q1752919"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Sieradz",
+          "entity_id": "Q745074"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Skierniewice_Voivodeship",
+          "entity_id": "Q1752924"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Skierniewice",
+          "entity_id": "Q2734"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/S%C5%82upsk_Voivodeship",
+          "entity_id": "Q1753245"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/S%C5%82upsk",
+          "entity_id": "Q105048"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Suwa%C5%82ki_Voivodeship",
+          "entity_id": "Q1755166"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Suwa%C5%82ki",
+          "entity_id": "Q236083"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 20,
+          "url": "http://en.wikipedia.org/wiki/Szczecin_Voivodeship",
+          "entity_id": "Q423946"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Szczecin",
+          "entity_id": "Q393"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Tarnobrzeg_Voivodeship",
+          "entity_id": "Q1416177"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tarnobrzeg",
+          "entity_id": "Q28516"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Tarn%C3%B3w_Voivodeship",
+          "entity_id": "Q1537298"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Tarn%C3%B3w",
+          "entity_id": "Q106281"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Toru%C5%84_Voivodeship",
+          "entity_id": "Q1752927"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Toru%C5%84",
+          "entity_id": "Q47554"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Wa%C5%82brzych_Voivodeship",
+          "entity_id": "Q1422870"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Wa%C5%82brzych",
+          "entity_id": "Q110732"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Warsaw_Voivodeship_(1975-1998)",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Warsaw",
+          "entity_id": "Q270"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/W%C5%82oc%C5%82awek_Voivodeship",
+          "entity_id": "Q2588302"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/W%C5%82oc%C5%82awek",
+          "entity_id": "Q106681"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Wroc%C5%82aw_Voivodeship",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Wroc%C5%82aw",
+          "entity_id": "Q1799"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Zamo%C5%9B%C4%87_Voivodeship",
+          "entity_id": "Q602747"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Zamo%C5%9B%C4%87",
+          "entity_id": "Q145972"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Zielona_G%C3%B3ra_Voivodeship",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Zielona_G%C3%B3ra",
+          "entity_id": "Q104720"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

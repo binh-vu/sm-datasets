@@ -1,0 +1,449 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Seven_Network_Olympic_broadcasts",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1956 Summer",
+          "1976 Summer",
+          "1980 Summer",
+          "1992 Summer",
+          "1996 Summer",
+          "2000 Summer",
+          "2002 Winter",
+          "2004 Summer",
+          "2006 Winter",
+          "2008 Summer",
+          "2016 Summer",
+          "2018 Winter",
+          "2020 Summer"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Host",
+        "values": [
+          "Melbourne",
+          "Montreal",
+          "Moscow",
+          "Barcelona",
+          "Atlanta",
+          "Sydney",
+          "Salt Lake City",
+          "Athens",
+          "Turin",
+          "Beijing",
+          "Rio de Janeiro",
+          "Pyeongchang",
+          "Tokyo"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Shared telecast",
+        "values": [
+          "ABC \nNine",
+          "ABC \nNine",
+          "No",
+          "No",
+          "No",
+          "No",
+          "No",
+          "SBS",
+          "No",
+          "SBS",
+          "No",
+          "No",
+          "No"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Multichannels used",
+        "values": [
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "Multichannels not available",
+          "7HD  (simulcast)",
+          "7Two \n7mate",
+          "7Two \n7mate",
+          "TBA"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Cost of rights",
+        "values": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "$71 million",
+          "N/A",
+          "$150-$170 million",
+          "$150-$170 million",
+          "$150-$170 million"
+        ]
+      },
+      {
+        "index": 5,
+        "name": "Ref",
+        "values": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Seven Network Olympic broadcasts",
+    "page_url": "https://en.wikipedia.org/wiki/Seven_Network_Olympic_broadcasts",
+    "page_entity_id": "Q7089186"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1956_Summer_Olympics",
+          "entity_id": "Q8411"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Melbourne",
+          "entity_id": "Q3141"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1976_Summer_Olympics",
+          "entity_id": "Q8444"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Montreal",
+          "entity_id": "Q340"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1980_Summer_Olympics",
+          "entity_id": "Q8450"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Moscow",
+          "entity_id": "Q649"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1992_Summer_Olympics",
+          "entity_id": "Q8488"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Barcelona",
+          "entity_id": "Q1492"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/1996_Summer_Olympics",
+          "entity_id": "Q8531"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Atlanta",
+          "entity_id": "Q23556"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2000_Summer_Olympics",
+          "entity_id": "Q8544"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Sydney",
+          "entity_id": "Q3130"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2002_Winter_Olympics",
+          "entity_id": "Q9668"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Salt_Lake_City",
+          "entity_id": "Q23337"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2004_Summer_Olympics",
+          "entity_id": "Q8558"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Athens",
+          "entity_id": "Q1524"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2006_Winter_Olympics",
+          "entity_id": "Q9672"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Turin",
+          "entity_id": "Q495"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2008_Summer_Olympics",
+          "entity_id": "Q8567"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Beijing",
+          "entity_id": "Q956"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 3,
+          "url": "http://en.wikipedia.org/wiki/7HD",
+          "entity_id": "Q7457271"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2016_Summer_Olympics",
+          "entity_id": "Q8613"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Rio_de_Janeiro",
+          "entity_id": "Q8678"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/7Two",
+          "entity_id": null
+        },
+        {
+          "start": 6,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/7mate",
+          "entity_id": "Q4643923"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2018_Winter_Olympics",
+          "entity_id": "Q9680"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/Pyeongchang",
+          "entity_id": "Q188624"
+        }
+      ],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/7Two",
+          "entity_id": null
+        },
+        {
+          "start": 6,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/7mate",
+          "entity_id": "Q4643923"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/wiki/2020_Summer_Olympics",
+          "entity_id": "Q181278"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Tokyo",
+          "entity_id": "Q1490"
+        }
+      ],
+      [],
+      [],
+      [],
+      []
+    ]
+  ]
+}

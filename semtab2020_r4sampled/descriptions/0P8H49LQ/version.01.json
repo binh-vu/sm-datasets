@@ -1,0 +1,74 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "id": "col-0",
+        "col_index": 0,
+        "label": "col0"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q50337:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q50337",
+        "rel_uri": "wd:Q50337",
+        "approximation": false,
+        "readable_label": "prefecture of Japan (Q50337)"
+      },
+      {
+        "id": "col-1",
+        "col_index": 1,
+        "label": "col1"
+      },
+      {
+        "id": "http://www.wikidata.org/entity/Q5:0",
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": "human (Q5)"
+      },
+      {
+        "id": "col-2",
+        "col_index": 2,
+        "label": "col2"
+      }
+    ],
+    "edges": [
+      {
+        "source": "http://www.wikidata.org/entity/Q50337:0",
+        "target": "col-0",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q50337:0",
+        "target": "http://www.wikidata.org/entity/Q5:0",
+        "abs_uri": "http://www.wikidata.org/prop/P6",
+        "rel_uri": "p:P6",
+        "approximation": false,
+        "readable_label": "head of government (P6)",
+        "id": 2
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q50337:0",
+        "target": "col-2",
+        "abs_uri": "http://www.wikidata.org/prop/P190",
+        "rel_uri": "p:P190",
+        "approximation": false,
+        "readable_label": "twinned administrative body (P190)",
+        "id": 3
+      },
+      {
+        "source": "http://www.wikidata.org/entity/Q5:0",
+        "target": "col-1",
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      }
+    ]
+  }
+]

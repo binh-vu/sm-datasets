@@ -1,0 +1,2278 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Public_sector_undertakings_in_Kerala",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Sl. No",
+        "values": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19",
+          "20",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "35",
+          "36",
+          "37",
+          "38",
+          "39",
+          "40",
+          "41",
+          "42",
+          "43",
+          "44",
+          "45",
+          "46",
+          "47",
+          "48",
+          "49",
+          "50",
+          "51",
+          "52",
+          "53",
+          "54",
+          "55",
+          "56",
+          "57",
+          "58",
+          "59",
+          "60",
+          "61",
+          "62",
+          "63",
+          "64",
+          "65",
+          "66",
+          "67",
+          "68",
+          "69",
+          "70",
+          "71",
+          "72",
+          "73",
+          "74",
+          "75",
+          "76",
+          "77",
+          "78",
+          "79",
+          "80",
+          "81",
+          "82",
+          "83",
+          "84",
+          "85",
+          "86",
+          "87",
+          "88",
+          "89",
+          "90",
+          "91",
+          "92",
+          "93",
+          "94",
+          "95",
+          "96",
+          "97",
+          "98",
+          "99",
+          "100",
+          "101",
+          "102"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Company",
+        "values": [
+          "Technopark,Thiruvananthapuram",
+          "Autokast Limited",
+          "Bekal Resorts Development Corporation Ltd.,",
+          "Foam Mattings (India) Limited",
+          "Forest Industries (Travancore) Limited,",
+          "Handicrafts Development Corporation of Kerala Ltd",
+          "InfoPark, Kochi",
+          "Kerala Agro Industries Corporation Limited",
+          "Kerala Agro Machinery Corporation Ltd.,",
+          "Kerala Artisans' Development Corporation Ltd.,",
+          "Kerala Automobiles Limited",
+          "The Kerala Ceramics Limited",
+          "Kerala Clays and Ceramic Products Limited",
+          "Kerala Construction Components Limited",
+          "Kerala Electrical and Allied Engineering Company Ltd.",
+          "Kerala Solvent Extractions Ltd",
+          "Kerala Garments Limited",
+          "Kerala Hitech Industries Limited",
+          "Kerala Industrial Infrastructure Development Corporation (KINFRA)",
+          "Kerala Khadi & Village Industries Board",
+          "Kerala Land Development Corporation Limited",
+          "Kerala Medical Services, Corporation",
+          "Kerala Minerals and Metals Ltd.",
+          "Kerala Police Housing and Construction Corporation Limited",
+          "Kerala Premo Pipe Factory",
+          "Kerala Shipping & Inland Navigation Corporation Ltd.",
+          "Kerala Small Industries Development Corporation Ltd., (SIDCO)",
+          "Kerala Soaps & Oils Ltd. (Not to be confused with Kerala Soaps Unit)",
+          "The Kerala State Bamboo Corporation Ltd",
+          "Kerala State Beverages (M&M) Corporation Ltd .",
+          "Kerala State Cashew Development Corporation Ltd.",
+          "Kerala State Civil Supplies Corporation Ltd.",
+          "Kerala State Coconut Development Corporation Ltd.",
+          "Kerala State Coir Corporation Ltd.",
+          "Kerala State Construction Corporation Ltd.",
+          "Kerala State Co-operative Federation for Fisheries Development Ltd., Matsyafed",
+          "Kerala State Detergents and Chemicals Ltd.",
+          "Kerala State Development Corporation for Christian Converts from Scheduled Castes and the Recommended communities Ltd.",
+          "Kerala State Cooperative Textile Federation Ltd.",
+          "Kerala State Development Corporation for Scheduled Castes and Scheduled Tribes Ltd.",
+          "Kerala State Drugs and Pharmaceuticals Limited",
+          "Kerala State Electricity Board",
+          "Kerala State Electronics Development Corporation Ltd., (KELTRON) ,",
+          "Kerala State Film Development Corporation Ltd.",
+          "Kerala State Financial Enterprises Ltd .",
+          "Kerala State Handicapped Persons Welfare Corporation Ltd.",
+          "Kerala State Handloom Development Corporation Ltd.",
+          "Kerala State Horticultural Products Development Corporation Ltd., (Horticrop)",
+          "Kerala State Housing Board",
+          "Kerala State Industrial Development Corporation Ltd.",
+          "Kerala State Industrial Enterprises Ltd",
+          "Kerala State Industrial Products Trading Corporation Ltd.",
+          "Kerala State Maritime Development Corporation Ltd.",
+          "Kerala State Poultry Development Corporation Ltd.",
+          "Kerala State Palmyrah Products Development and Workers Welfare Corporation Ltd., (KELPAM)",
+          "Kerala State Road Transport Corporation",
+          "Kerala State Salicylates & Chemicals Ltd.",
+          "Kerala State Textile Corporation Ltd.",
+          "Kerala State Warehousing Corporation",
+          "Kerala State Women's Development Corporation Ltd.",
+          "Kerala State Wood Industries Ltd.",
+          "Kerala Tourism Development Corporation Ltd.",
+          "Kerala Urban and Rural Development Finance Corporation Ltd.",
+          "Kerala Water Authority",
+          "Malabar Cements Limited",
+          "Malabar Co-operative Textiles Ltd. (MALCOTEX)",
+          "Meat Products of India Ltd.",
+          "Oil Palm India Ltd.",
+          "Overseas Development and Employment Promotion Consultants Ltd.",
+          "Rehabilitation Plantations Ltd",
+          "Roads and Bridges Development Corporation of Kerala Ltd.",
+          "Scooters Kerala Ltd.",
+          "Sideco Mohan Kerala Ltd.",
+          "Sidkel Televisions Ltd.",
+          "Sitaram Spinning and Weaving Mills",
+          "State Farming Corporation of Kerala Ltd.",
+          "State Rural Development Board",
+          "Steel Complex Ltd.",
+          "Steel and Industrial Forgings Ltd",
+          "The Metal Industries Ltd.",
+          "The Metropolitan Engineering Company Ltd.",
+          "The Pharmaceutical Corporation (IM) Kerala Ltd., (Oushadhi)",
+          "The Plantation Corporation of Kerala Ltd.",
+          "The Priyadarshini Co-operative Spinning Mills Ltd.",
+          "Tourist Resorts (Kerala) Ltd.",
+          "Astral Watches Limited, Kowdiar",
+          "Traco Cable Company Ltd.",
+          "Transformers and Electricals Kerala Limited",
+          "Tranvancore Cochin Chemicals Ltd.",
+          "Travancore Cements Ltd.",
+          "Travancore Plywood Industries Ltd.",
+          "Travancore Sugars & Chemicals Ltd.",
+          "Travancore Titanium Products Ltd.",
+          "Trivandrum Rubber Works Ltd.",
+          "Trivandrum Spinning Mills Ltd.",
+          "Tourist Resorts Ltd.",
+          "United Electrical Industries Ltd.",
+          "Kerala State Rural Women's Electronics Industrial Co-operative Federation Ltd-RUTRONIX",
+          "Kerala Feeds Limited",
+          "LBS Institute of Technology for Women",
+          "Kerala State Development Corporation for Christian Converts from Scheduled Castes and the Recommended Communities",
+          "The Trichur Co-operative Spinning Mills Ltd"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "HQ Location",
+        "values": [
+          "Thiruvananthapuram",
+          "Cherthala",
+          "Thiruvananthapuram",
+          "Alappuzha",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kundara",
+          "Kannur",
+          "Cherthala",
+          "Kochi",
+          "Thrissur",
+          "Kannur",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kollam",
+          "Thiruvananthapuram",
+          "Chavara",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Kozhikode",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kollam",
+          "Kochi",
+          "Attingal",
+          "Alappuzha",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Kuttipuram",
+          "Kottayam",
+          "Thiruvananthapuram",
+          "Thrissur",
+          "Alappuzha",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thrissur",
+          "Thiruvananthapuram",
+          "Kannur",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kochi",
+          "Thiruvananthapuram",
+          "Malappuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Palakkad",
+          "Malappuram",
+          "Kochi",
+          "Kottayam",
+          "Thiruvananthapuram",
+          "Punalur",
+          "Kochi",
+          "Alappuzha",
+          "Thrissur",
+          "Thiruvananthapuram",
+          "Thrissur",
+          "Punalur",
+          "Thiruvananthapuram",
+          "Kozhikode",
+          "Thrissur",
+          "Palakkad",
+          "Thiruvananthapuram",
+          "Thrissur",
+          "Kottayam",
+          "Kottayam",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kochi",
+          "Kochi",
+          "Kochi",
+          "Nattakom Kottayam",
+          "Punalur",
+          "Thiruvalla",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Thiruvananthapuram",
+          "Kollam",
+          "Thiruvananthapuram",
+          "Thrissur",
+          "Thiruvananthapuram",
+          "Kottayam",
+          "Thrissur"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Sector",
+        "values": [
+          "Development & Infrastructure, Information Technology",
+          "Engineering",
+          "Tourism",
+          "Traditional industry",
+          "Wood based industry",
+          "Traditional industry",
+          "Information Technology",
+          "Agro based",
+          "Engineering",
+          "Welfare",
+          "Engineering",
+          "Ceramics & Refractories",
+          "Ceramics & Refractories",
+          "Ceramics & Refractories",
+          "Electrical equipment",
+          "Agro based",
+          "Textiles",
+          "Engineering",
+          "Developmental & Infrastructure",
+          "Traditional industry",
+          "Developmental & Infrastructure",
+          "",
+          "Chemical industries",
+          "Developmental & Infrastructure",
+          "",
+          "Public utilities",
+          "Developmental & Infrastructure",
+          "Chemical industries",
+          "Agro based",
+          "Trading unit",
+          "Agro based",
+          "Trading unit",
+          "Agro based",
+          "Agro based",
+          "Engineering",
+          "Fisheries",
+          "Chemical industries",
+          "Welfare",
+          "Textile",
+          "Welfare",
+          "Chemical industries",
+          "Public utilities",
+          "Electronics",
+          "Developmental & Infrastructure",
+          "Developmental & Infrastructure",
+          "Welfare",
+          "Traditional industries",
+          "Agro based",
+          "Public utilities",
+          "Development & Infrastructure",
+          "Development & Infrastructure",
+          "Trading units",
+          "Public utilities",
+          "Agro based",
+          "Welfare",
+          "Public utilities",
+          "Chemical industries",
+          "Textiles",
+          "Agro based",
+          "Welfare",
+          "Wood based industry",
+          "Tourism",
+          "Development & Infrastructure",
+          "Public utilities",
+          "Chemical industries",
+          "Textiles",
+          "Agro based",
+          "Agro based",
+          "Labour & Rehabilitation",
+          "Labour & Rehabilitation",
+          "Public works",
+          "Engineering",
+          "",
+          "electronics",
+          "Textiles",
+          "Agro",
+          "Development & Infrastructure",
+          "Engineering",
+          "Engineering",
+          "Engineering",
+          "Electrical equipment",
+          "Chemical industries",
+          "Agro based",
+          "Textiles",
+          "Tourism",
+          "Engineering",
+          "Electrical equipment",
+          "Electrical equipment",
+          "Chemical industries",
+          "Chemical industries",
+          "Wood based industry",
+          "Chemical industries",
+          "Chemical industries",
+          "Agro based",
+          "Textiles",
+          "Infrastructure & Development",
+          "Electrical equipment",
+          "Electronic /IT Training",
+          "Cattle Feed",
+          "Engineering Education",
+          "Financing, Marketing, Education",
+          "Textiles"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Remarks",
+        "values": [
+          "Profit Making,Single largest employment facilitator in Kerala",
+          "profit making",
+          "Profit making",
+          "",
+          "",
+          "Loss making",
+          "Profit Making",
+          "Profit Making",
+          "Profit Making",
+          "loss making",
+          "Loss making",
+          "Loss making",
+          "Profit making",
+          "Closed down",
+          "",
+          "Profit Making",
+          "Closed down",
+          "",
+          "",
+          "",
+          "Loss making",
+          "",
+          "Profit Making",
+          "Loss making",
+          "Unit closed down",
+          "",
+          "Profit making",
+          "Liquidated",
+          "Loss making",
+          "",
+          "Loss making",
+          "",
+          "Under liquidation",
+          "Profit Making",
+          "",
+          "",
+          "Closed down",
+          "Loss making",
+          "Loss making",
+          "",
+          "Profit making",
+          "",
+          "Profit making",
+          "Loss making",
+          "Profit Making",
+          "",
+          "Loss making",
+          "Loss making",
+          "Loss making",
+          "Profit Making",
+          "Profit Making",
+          "Loss making",
+          "Loss making",
+          "",
+          "Loss making",
+          "Loss making",
+          "Closed down",
+          "Loss making",
+          "Loss making",
+          "",
+          "Loss making",
+          "Profit making",
+          "",
+          "Loss making",
+          "Profit Making",
+          "",
+          "",
+          "Profit Making",
+          "",
+          "Profit Making",
+          "",
+          "Closed down",
+          "Unit closed down",
+          "Unit closed down",
+          "Loss making",
+          "",
+          "Unit closed down",
+          "Loss making",
+          "Profit Making",
+          "Loss making",
+          "Unit closed",
+          "Profit Making",
+          "",
+          "",
+          "",
+          "Company declared Defunct",
+          "Loss making",
+          "Profit Making",
+          "Profit making",
+          "Loss making",
+          "Closed down",
+          "",
+          "Profit Making",
+          "Liquidated",
+          "Closed down",
+          "",
+          "Loss making.",
+          "",
+          "Profit Making",
+          "",
+          "Loss Making",
+          ""
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Public sector undertakings in Kerala",
+    "page_url": "https://en.wikipedia.org/wiki/Public_sector_undertakings_in_Kerala",
+    "page_entity_id": "Q7257981"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 29,
+          "url": "http://en.wikipedia.org/wiki/Technopark,_Kerala",
+          "entity_id": "Q162506"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cherthala",
+          "entity_id": "Q888665"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Alappuzha",
+          "entity_id": "Q585026"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/InfoPark,_Kochi",
+          "entity_id": "Q2003162"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Automobiles_Limited",
+          "entity_id": "Q6393303"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Kundara",
+          "entity_id": "Q6444299"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 41,
+          "url": "http://en.wikipedia.org/w/index.php?title=Kerala_Clays_and_Ceramic_Products_Limited&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kannur",
+          "entity_id": "Q4789666"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Cherthala",
+          "entity_id": "Q888665"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 48,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Electrical_and_Allied_Engineering_Company",
+          "entity_id": "Q20577078"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Solvent_Extractions_Ltd",
+          "entity_id": "Q6393411"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kannur",
+          "entity_id": "Q4789666"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 32,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Hitech_Industries_Limited",
+          "entity_id": "Q6393351"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 65,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Industrial_Infrastructure_Development_Corporation",
+          "entity_id": "Q6393357"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Khadi_%26_Village_Industries_Board",
+          "entity_id": "Q28169343"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 31,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Minerals_and_Metals",
+          "entity_id": "Q6393370"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kollam",
+          "entity_id": "Q321475"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Chavara",
+          "entity_id": "Q5088466"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 52,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Shipping_and_Inland_Navigation_Corporation",
+          "entity_id": "Q6393405"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kozhikode",
+          "entity_id": "Q28729"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 44,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Beverages_(M%26M)_Corporation_Ltd",
+          "entity_id": "Q6393413"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 48,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Cashew_Development_Corporation_Limited",
+          "entity_id": "Q18387788"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kollam",
+          "entity_id": "Q321475"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Attingal",
+          "entity_id": "Q534444"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Alappuzha",
+          "entity_id": "Q585026"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 78,
+          "url": "http://en.wikipedia.org/wiki/Matsyafed",
+          "entity_id": "Q6788247"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Kuttipuram",
+          "entity_id": "Q6448601"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 48,
+          "url": "http://texfed.kerala.gov.in/",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 46,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Drugs_and_Pharmaceuticals_Limited",
+          "entity_id": "Q55615848"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Alappuzha",
+          "entity_id": "Q585026"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Electricity_Board",
+          "entity_id": "Q6393422"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 64,
+          "url": "http://en.wikipedia.org/wiki/Keltron",
+          "entity_id": "Q30635667"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 38,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Financial_Enterprise",
+          "entity_id": "Q6393471"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kannur",
+          "entity_id": "Q4789666"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 26,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Housing_Board",
+          "entity_id": "Q51322912"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 52,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Industrial_Development_Corporation",
+          "entity_id": "Q6393472"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 39,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Road_Transport_Corporation",
+          "entity_id": "Q679587"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Malappuram",
+          "entity_id": "Q956893"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Tourism_Development_Corporation",
+          "entity_id": "Q5015142"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Kerala_Water_Authority",
+          "entity_id": "Q6393504"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Malabar_Cements_Limited",
+          "entity_id": "Q55621843"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Palakkad",
+          "entity_id": "Q1006240"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Malappuram",
+          "entity_id": "Q956893"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 27,
+          "url": "http://en.wikipedia.org/wiki/Meat_Products_of_India",
+          "entity_id": "Q17072750"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 30,
+          "url": "http://en.wikipedia.org/wiki/Punalur#The_Rehabilitation_Plantations_Ltd",
+          "entity_id": "Q742720"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Punalur",
+          "entity_id": "Q742720"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Alappuzha",
+          "entity_id": "Q585026"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 34,
+          "url": "http://en.wikipedia.org/wiki/Sitaram_Spinning_and_Weaving_Mills",
+          "entity_id": "Q7531701"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Punalur",
+          "entity_id": "Q742720"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Kozhikode",
+          "entity_id": "Q28729"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Steel_and_Industrial_Forgings_Ltd",
+          "entity_id": "Q7605741"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Palakkad",
+          "entity_id": "Q1006240"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 59,
+          "url": "http://en.wikipedia.org/wiki/Oushadhi",
+          "entity_id": "Q7111342"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://en.wikipedia.org/wiki/Transformers_and_Electricals_Kerala_Limited",
+          "entity_id": "Q51745390"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Travancore_Cochin_Chemicals",
+          "entity_id": "Q7835867"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Kochi",
+          "entity_id": "Q1800"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 9,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Punalur",
+          "entity_id": "Q742720"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Thiruvalla",
+          "entity_id": "Q2336443"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/Travancore_Titanium_Products",
+          "entity_id": "Q7835872"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Chemical_industries&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Trivandrum_Rubber_Works",
+          "entity_id": "Q7844619"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Tourist_Resorts_(Kerala)",
+          "entity_id": "Q7829255"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 33,
+          "url": "http://en.wikipedia.org/wiki/United_Electrical_Industries_Limited",
+          "entity_id": "Q18356606"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Kollam",
+          "entity_id": "Q321475"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 11,
+          "url": "http://en.wikipedia.org/w/index.php?title=Cattle_Feed&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 37,
+          "url": "http://en.wikipedia.org/wiki/L_B_S_Institute_of_Technology_for_Women",
+          "entity_id": "Q6460550"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Thiruvananthapuram",
+          "entity_id": "Q167715"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/w/index.php?title=Engineering_Education&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 113,
+          "url": "http://en.wikipedia.org/wiki/Kerala_State_Development_Corporation_for_Christian_Converts_from_Scheduled_Castes_and_the_Recommended_Communities",
+          "entity_id": "Q28169783"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Kottayam",
+          "entity_id": "Q659887"
+        }
+      ],
+      [],
+      []
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 43,
+          "url": "http://tcsmltd.co.in",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Thrissur",
+          "entity_id": "Q163798"
+        }
+      ],
+      [],
+      []
+    ]
+  ]
+}

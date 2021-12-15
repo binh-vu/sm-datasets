@@ -1,0 +1,878 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Philippine_Broadcasting_Service",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Branding",
+        "values": [
+          "Radyo Pilipinas 1 Manila",
+          "Radyo Pilipinas 2 Manila",
+          "Radyo Pilipinas Baguio",
+          "Radyo Pilipinas Tabuk",
+          "Radyo Pilipinas Bontoc",
+          "Radyo Pilipinas Laoag",
+          "Radyo Pilipinas Vigan",
+          "Radyo Pilipinas Agoo",
+          "Radyo Pilipinas Dagupan",
+          "Radyo Pilipinas Tayug",
+          "Radyo Pilipinas Batanes",
+          "Radyo Pilipinas Tuguegarao",
+          "Radyo Pilipinas Lucena",
+          "Radyo Pilipinas Palawan",
+          "Radyo Pilipinas Naga",
+          "Radyo Pilipinas Albay",
+          "Radyo Pilipinas Virac",
+          "Radyo Pilipinas Iloilo",
+          "Radyo Pilipinas Cebu",
+          "Radyo Pilipinas Tacloban",
+          "Radyo Pilipinas Sogod",
+          "Radyo Pilipinas Calbayog",
+          "Radyo Pilipinas Borongan",
+          "Radyo Pilipinas Zamboanga",
+          "Radyo Pilipinas Cagayan de Oro",
+          "Radyo Pilipinas Gingoog",
+          "Radyo Pilipinas Iligan",
+          "Radyo Pilipinas Davao",
+          "Radyo Pilipinas Butuan",
+          "Radyo Pilipinas Tandag",
+          "Radyo Pilipinas Jolo",
+          "Radyo Pilipinas Tawi-Tawi"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Call-Sign",
+        "values": [
+          "DZRB",
+          "DZSR",
+          "DZEQ",
+          "DZRK",
+          "DWFR",
+          "DWFB",
+          "DWAE",
+          "DZAG",
+          "DZMQ",
+          "DWRS",
+          "DWBT",
+          "DWPE",
+          "DWLC",
+          "DWMR",
+          "DWRB",
+          "DWJS",
+          "DWDF",
+          "DYLL",
+          "DYMR",
+          "DYCT",
+          "DYSL",
+          "DYOG",
+          "DYES",
+          "DXMR",
+          "DXIM",
+          "DXRG",
+          "DXDX",
+          "DXRP",
+          "DXBN",
+          "DXJS",
+          "DXSM",
+          "DXAS"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Frequency",
+        "values": [
+          "738 kHz",
+          "918 kHz",
+          "999 kHz",
+          "837 kHz",
+          "972 kHz",
+          "954 kHz",
+          "747 kHz",
+          "97.1 MHz",
+          "576 kHz",
+          "756 kHz",
+          "94.3 MHz",
+          "729 kHz",
+          "1017 kHz",
+          "648 kHz",
+          "549 kHz",
+          "621 kHz",
+          "94.3 MHz",
+          "585 kHz",
+          "576 kHz",
+          "102.3 MHz",
+          "1170 kHz",
+          "882 kHz",
+          "657 kHz",
+          "1170 kHz",
+          "936 kHz",
+          "1242 kHz",
+          "105.5 MHz",
+          "675 kHz 1",
+          "792 kHz",
+          "837 kHz",
+          "1224 kHz",
+          "104.7 MHz"
+        ]
+      },
+      {
+        "index": 3,
+        "name": "Power (kW)",
+        "values": [
+          "50 kW",
+          "50 kW",
+          "5 kW",
+          "5 kW",
+          "5 kW",
+          "5 kW",
+          "5 kW",
+          "5 kW",
+          "10 kW",
+          "5 kW",
+          "5 kW",
+          "10 kW",
+          "10 kW",
+          "10 kW",
+          "10 kW",
+          "5 kW",
+          "5 kW",
+          "15 kW",
+          "15 kW",
+          "5 kW",
+          "5 kW",
+          "10 kW",
+          "5 kW",
+          "10 kW",
+          "10 kW",
+          "10 kW",
+          "5 kW",
+          "15 kW",
+          "5 kW",
+          "5 kW",
+          "5 kW",
+          "1 kW"
+        ]
+      },
+      {
+        "index": 4,
+        "name": "Location",
+        "values": [
+          "Metro Manila",
+          "Metro Manila",
+          "Baguio",
+          "Tabuk, Kalinga",
+          "Bontoc, Mountain Province",
+          "Laoag",
+          "Vigan",
+          "Agoo, La Union",
+          "Dagupan",
+          "Tayug, Pangasinan",
+          "Basco, Batanes",
+          "Tuguegarao",
+          "Lucena",
+          "Puerto Princesa",
+          "Naga",
+          "Legazpi, Albay",
+          "Virac, Catanduanes",
+          "Iloilo",
+          "Cebu",
+          "Tacloban",
+          "Sogod, Southern Leyte",
+          "Calbayog",
+          "Borongan, Eastern Samar",
+          "Zamboanga",
+          "Cagayan De Oro",
+          "Gingoog",
+          "Iligan",
+          "Davao",
+          "Butuan",
+          "Tandag, Surigao del Sur",
+          "Jolo, Sulu",
+          "Bongao, Tawi-Tawi"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Philippine Broadcasting Service",
+    "page_url": "https://en.wikipedia.org/wiki/Philippine_Broadcasting_Service",
+    "page_entity_id": "Q7184994"
+  },
+  "links": [
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZRB-AM",
+          "entity_id": "Q3551672"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Metro_Manila",
+          "entity_id": "Q13580"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZSR",
+          "entity_id": "Q3544776"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Metro_Manila",
+          "entity_id": "Q13580"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZEQ",
+          "entity_id": "Q30636082"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Baguio_City",
+          "entity_id": "Q1822"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZRK",
+          "entity_id": "Q85845771"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Tabuk,_Kalinga",
+          "entity_id": "Q35925"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/w/index.php?title=DWFR&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 25,
+          "url": "http://en.wikipedia.org/wiki/Bontoc,_Mountain_Province",
+          "entity_id": "Q36025"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWFB",
+          "entity_id": "Q5206463"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Laoag_City",
+          "entity_id": "Q39738"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWAE",
+          "entity_id": "Q65051047"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Vigan_City",
+          "entity_id": "Q235004"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZAG",
+          "entity_id": "Q65051677"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Agoo,_La_Union",
+          "entity_id": "Q40168"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DZMQ",
+          "entity_id": "Q68521301"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Dagupan_City",
+          "entity_id": "Q875070"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/w/index.php?title=DWRS-AM&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Tayug,_Pangasinan",
+          "entity_id": "Q43148"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/w/index.php?title=DWBT&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Basco,_Batanes",
+          "entity_id": "Q43180"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWPE",
+          "entity_id": "Q30634497"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Tuguegarao_City",
+          "entity_id": "Q2200"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWLC",
+          "entity_id": "Q5206490"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Lucena,_Quezon",
+          "entity_id": "Q104125"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWRM",
+          "entity_id": "Q5206526"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Puerto_Princesa_City",
+          "entity_id": "Q111739"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWRB-AM",
+          "entity_id": "Q39045649"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Naga,_Camarines_Sur",
+          "entity_id": "Q2207"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DWJS-AM",
+          "entity_id": "Q65053045"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Legazpi,_Albay",
+          "entity_id": "Q1696"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/w/index.php?title=DWDF-FM&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 18,
+          "url": "http://en.wikipedia.org/wiki/Virac,_Catanduanes",
+          "entity_id": "Q192681"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYLL",
+          "entity_id": "Q92791739"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Iloilo_City",
+          "entity_id": "Q459787"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYMR",
+          "entity_id": "Q5206853"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/Cebu_City",
+          "entity_id": "Q1467"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYCT",
+          "entity_id": "Q30589991"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Tacloban_City",
+          "entity_id": "Q40626"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYSL",
+          "entity_id": "Q85755429"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 21,
+          "url": "http://en.wikipedia.org/wiki/Sogod,_Southern_Leyte",
+          "entity_id": "Q173792"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYOG",
+          "entity_id": "Q33174483"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 8,
+          "url": "http://en.wikipedia.org/wiki/Calbayog_City",
+          "entity_id": "Q577336"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DYES-AM",
+          "entity_id": "Q85755381"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Borongan,_Eastern_Samar",
+          "entity_id": "Q894059"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXMR-AM",
+          "entity_id": "Q5206690"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 9,
+          "url": "http://en.wikipedia.org/wiki/Zamboanga_City",
+          "entity_id": "Q1629"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXIM",
+          "entity_id": "Q65042429"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 14,
+          "url": "http://en.wikipedia.org/wiki/Cagayan_De_Oro_City",
+          "entity_id": "Q1645"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXRG-AM",
+          "entity_id": "Q47227583"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 7,
+          "url": "http://en.wikipedia.org/wiki/Gingoog_City",
+          "entity_id": "Q1525029"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXDX-FM",
+          "entity_id": "Q65043925"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Iligan_City",
+          "entity_id": "Q285488"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXRP-AM",
+          "entity_id": "Q5206728"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 5,
+          "url": "http://en.wikipedia.org/wiki/Davao_City",
+          "entity_id": "Q1473"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXBN-AM",
+          "entity_id": "Q5206600"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 6,
+          "url": "http://en.wikipedia.org/wiki/Butuan_City",
+          "entity_id": "Q1686"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXJS",
+          "entity_id": "Q85755249"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 23,
+          "url": "http://en.wikipedia.org/wiki/Tandag,_Surigao_del_Sur",
+          "entity_id": "Q155674"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXSM",
+          "entity_id": "Q85755316"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Jolo,_Sulu",
+          "entity_id": "Q156024"
+        }
+      ]
+    ],
+    [
+      [],
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/DXAS-FM",
+          "entity_id": "Q85755196"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Bongao,_Tawi-Tawi",
+          "entity_id": null
+        }
+      ]
+    ]
+  ]
+}

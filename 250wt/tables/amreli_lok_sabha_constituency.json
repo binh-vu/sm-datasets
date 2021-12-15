@@ -1,0 +1,498 @@
+{
+  "version": "1.1",
+  "table": {
+    "version": "2",
+    "table_id": "Amreli_(Lok_Sabha_constituency)",
+    "columns": [
+      {
+        "index": 0,
+        "name": "Year",
+        "values": [
+          "1957",
+          "1962",
+          "1967",
+          "1971",
+          "1977",
+          "1980",
+          "1984",
+          "1989",
+          "1991",
+          "1996",
+          "1998",
+          "1999",
+          "2004",
+          "2009",
+          "2014",
+          "2019"
+        ]
+      },
+      {
+        "index": 1,
+        "name": "Winner",
+        "values": [
+          "Jayaben Shah",
+          "Jayaben Shah",
+          "Jayaben Shah",
+          "Jivraj Mehta",
+          "Dwarkadas Patel",
+          "Navinchandra Ravani",
+          "Navinchandra Ravani",
+          "Manubhai Kotadia",
+          "Dileep Sanghani",
+          "Dileep Sanghani",
+          "Dileep Sanghani",
+          "Dileep Sanghani",
+          "Virjibhai Thummar",
+          "Naranbhai Kachhadia",
+          "Naranbhai Kachhadia",
+          "Naranbhai Kachhadia"
+        ]
+      },
+      {
+        "index": 2,
+        "name": "Party",
+        "values": [
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress",
+          "Indian National Congress (I)",
+          "Indian National Congress",
+          "Janata Dal",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party",
+          "Indian National Congress",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party",
+          "Bharatiya Janata Party"
+        ]
+      }
+    ]
+  },
+  "context": {
+    "page_title": "Amreli (Lok Sabha constituency)",
+    "page_url": "https://en.wikipedia.org/wiki/Amreli_(Lok_Sabha_constituency)",
+    "page_entity_id": "Q3765227"
+  },
+  "links": [
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1957_Indian_general_election",
+          "entity_id": "Q3532217"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jayaben_Shah",
+          "entity_id": "Q24069512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1962_Indian_general_election",
+          "entity_id": "Q3532199"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jayaben_Shah",
+          "entity_id": "Q24069512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1967_Indian_general_election",
+          "entity_id": "Q3532250"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jayaben_Shah",
+          "entity_id": "Q24069512"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1971_Indian_general_election",
+          "entity_id": "Q3532241"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 12,
+          "url": "http://en.wikipedia.org/wiki/Jivraj_Mehta",
+          "entity_id": "Q2759529"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1977_Indian_general_election",
+          "entity_id": "Q3531393"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/w/index.php?title=Dwarkadas_Patel&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1980_Indian_general_election",
+          "entity_id": "Q3532192"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Navinchandra_Ravani&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 28,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1984_Indian_general_election",
+          "entity_id": "Q3532183"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/w/index.php?title=Navinchandra_Ravani&action=edit&redlink=1",
+          "entity_id": null
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1989_Indian_general_election",
+          "entity_id": "Q3532186"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 16,
+          "url": "http://en.wikipedia.org/wiki/Manubhai_Kotadia",
+          "entity_id": "Q40938259"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 10,
+          "url": "http://en.wikipedia.org/wiki/Janata_Dal",
+          "entity_id": "Q1682547"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1991_Indian_general_election",
+          "entity_id": "Q3532223"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dileep_Sanghani",
+          "entity_id": "Q5276742"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1996_Indian_general_election",
+          "entity_id": "Q3532207"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dileep_Sanghani",
+          "entity_id": "Q5276742"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1998_Indian_general_election",
+          "entity_id": "Q3532246"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dileep_Sanghani",
+          "entity_id": "Q5276742"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/1999_Indian_general_election",
+          "entity_id": "Q10968265"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 15,
+          "url": "http://en.wikipedia.org/wiki/Dileep_Sanghani",
+          "entity_id": "Q5276742"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2004_Indian_general_election",
+          "entity_id": "Q3523023"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 17,
+          "url": "http://en.wikipedia.org/wiki/Virjibhai_Thummar",
+          "entity_id": "Q7934825"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 24,
+          "url": "http://en.wikipedia.org/wiki/Indian_National_Congress",
+          "entity_id": "Q10225"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2009_Indian_general_election",
+          "entity_id": "Q1134751"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Naranbhai_Kachhadia",
+          "entity_id": "Q6965334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2014_Indian_general_election",
+          "entity_id": "Q3587169"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Naranbhai_Kachhadia",
+          "entity_id": "Q6965334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "start": 0,
+          "end": 4,
+          "url": "http://en.wikipedia.org/wiki/2019_Indian_general_election",
+          "entity_id": "Q28164181"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 19,
+          "url": "http://en.wikipedia.org/wiki/Naranbhai_Kachhadia",
+          "entity_id": "Q6965334"
+        }
+      ],
+      [
+        {
+          "start": 0,
+          "end": 22,
+          "url": "http://en.wikipedia.org/wiki/Bharatiya_Janata_Party",
+          "entity_id": "Q10230"
+        }
+      ]
+    ]
+  ]
+}

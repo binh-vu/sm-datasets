@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "nodes": [
+    {
+      "id": "schema:Player:1",
+      "abs_uri": "http://schema.org/Player",
+      "rel_uri": "schema:Player"
+    },
+    {
+      "id": "dnode:Selections",
+      "col_index": 13,
+      "label": "Selections"
+    },
+    {
+      "id": "dnode:Age",
+      "col_index": 12,
+      "label": "Age"
+    },
+    {
+      "id": "dnode:Date de naissance",
+      "col_index": 11,
+      "label": "Date de naissance"
+    },
+    {
+      "id": "dnode:Position",
+      "col_index": 10,
+      "label": "Position"
+    },
+    {
+      "id": "dnode:Joueur",
+      "col_index": 9,
+      "label": "Joueur"
+    },
+    {
+      "id": "dnode:No.",
+      "col_index": 7,
+      "label": "No."
+    },
+    {
+      "id": "schema:SportsTeam:1",
+      "abs_uri": "http://schema.org/SportsTeam",
+      "rel_uri": "schema:SportsTeam"
+    },
+    {
+      "id": "dnode:Classement FIFA",
+      "col_index": 3,
+      "label": "Classement FIFA"
+    },
+    {
+      "id": "dnode:Equipe",
+      "col_index": 2,
+      "label": "Equipe"
+    },
+    {
+      "id": "schema:SportsClub:1",
+      "abs_uri": "http://schema.org/SportsClub",
+      "rel_uri": "schema:SportsClub"
+    },
+    {
+      "id": "dnode:Club",
+      "col_index": 15,
+      "label": "Club"
+    }
+  ],
+  "edges": [
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:Selections",
+      "abs_uri": "http://schema.org/numberOfPlayedGames",
+      "rel_uri": "schema:numberOfPlayedGames"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:Age",
+      "abs_uri": "http://schema.org/age",
+      "rel_uri": "schema:age"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:Date de naissance",
+      "abs_uri": "http://schema.org/birthDate",
+      "rel_uri": "schema:birthDate"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:Position",
+      "abs_uri": "http://schema.org/playPosition",
+      "rel_uri": "schema:playPosition"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:Joueur",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "dnode:No.",
+      "abs_uri": "http://schema.org/tag",
+      "rel_uri": "schema:tag"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "schema:SportsClub:1",
+      "abs_uri": "http://schema.org/inClub",
+      "rel_uri": "schema:inClub"
+    },
+    {
+      "source": "schema:Player:1",
+      "target": "schema:SportsTeam:1",
+      "abs_uri": "http://schema.org/inNationalTeam",
+      "rel_uri": "schema:inNationalTeam"
+    },
+    {
+      "source": "schema:SportsTeam:1",
+      "target": "dnode:Classement FIFA",
+      "abs_uri": "http://schema.org/ranking",
+      "rel_uri": "schema:ranking"
+    },
+    {
+      "source": "schema:SportsTeam:1",
+      "target": "dnode:Equipe",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    },
+    {
+      "source": "schema:SportsClub:1",
+      "target": "dnode:Club",
+      "abs_uri": "http://schema.org/name",
+      "rel_uri": "schema:name"
+    }
+  ]
+}
