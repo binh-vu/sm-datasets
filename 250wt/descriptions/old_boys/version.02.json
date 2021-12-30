@@ -1,0 +1,81 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q2385804",
+        "rel_uri": "wd:Q2385804",
+        "approximation": false,
+        "readable_label": "educational institution (Q2385804)",
+        "id": 0
+      },
+      { "col_index": 0, "label": "School", "id": 1 },
+      { "col_index": 2, "label": "Old Boys/Girls", "id": 2 },
+      { "col_index": 3, "label": "Derivation", "id": 3 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q486972",
+        "rel_uri": "wd:Q486972",
+        "approximation": false,
+        "readable_label": "human settlement (Q486972)",
+        "id": 4
+      },
+      { "col_index": 4, "label": "Location", "id": 5 },
+      { "col_index": 1, "label": "Type", "id": 6 },
+      { "col_index": 5, "label": "Notes", "id": 7 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q4167836",
+        "rel_uri": "wd:Q4167836",
+        "approximation": false,
+        "readable_label": "Wikimedia category (Q4167836)",
+        "id": 8
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "rel_uri": "p:P276",
+        "approximation": false,
+        "readable_label": "location (P276)",
+        "id": 1
+      },
+      {
+        "source": 4,
+        "target": 5,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 8,
+        "abs_uri": "http://www.wikidata.org/prop/P3876",
+        "rel_uri": "p:P3876",
+        "approximation": false,
+        "readable_label": "category for alumni of educational institution (P3876)",
+        "id": 3
+      },
+      {
+        "source": 8,
+        "target": 2,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 4
+      }
+    ]
+  }
+]

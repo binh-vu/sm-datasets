@@ -1,6 +1,15 @@
 # Changelog
 
-Current version: **1.1.1**
+Current version: **1.2.0**
+
+### [1.2.0]
+
+---
+
+- add additional semantic descriptions of tables that include the table subjects. For example, tables about songs of a producer can have the producer. This is to not give incorrect penalty to
+  semantic descriptions including table subjects.
+- add an additional semantic description for table `Gwendoline_Christie` which also is a correct way to model the table in Wikidata.
+- fix semantic descriptions: `2013–14_Frauen-Bundesliga` should use Q51481377 instead of Q476028; `1985_PGA_Championship` should use Q6256 for country according to annotation guideline that the type should be true even when new row is added to the table; `17th_Saskatchewan_Legislature` should use Q6596424 as it is more specific than Q192611; `1967_NFL/AFL_Draft` should use Q17156793 instead of Q26895936 to consistent with descriptions of similar tables; `old_boys` add type to column 2 since P3876 is object property; `Local_government_areas_of_Scotland_(1973–1996)` population of district not region.
 
 ### [1.1.1] 2021-12-14
 

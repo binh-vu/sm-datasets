@@ -1,0 +1,55 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:http://www.wikidata.org/entity/Q5",
+        "approximation": false,
+        "readable_label": "human (Q5)",
+        "id": 0
+      },
+      { "col_index": 1, "label": "Player", "id": 1 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q6256",
+        "rel_uri": "wd:http://www.wikidata.org/entity/Q6256",
+        "approximation": false,
+        "readable_label": "country (Q6256)",
+        "id": 2
+      },
+      { "col_index": 2, "label": "Country", "id": 3 },
+      { "col_index": 0, "label": "Place", "id": 4 },
+      { "col_index": 3, "label": "Score", "id": 5 },
+      { "col_index": 4, "label": "To par", "id": 6 }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://www.wikidata.org/prop/P27",
+        "rel_uri": "p:http://www.wikidata.org/prop/P27",
+        "approximation": false,
+        "readable_label": "country of citizenship (P27)",
+        "id": 1
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 2
+      }
+    ]
+  }
+]

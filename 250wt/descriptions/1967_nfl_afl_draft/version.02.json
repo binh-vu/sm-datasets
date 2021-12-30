@@ -1,0 +1,131 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "rel_uri": "wd:Q5",
+        "approximation": false,
+        "readable_label": "human (Q5)",
+        "id": 0
+      },
+      { "col_index": 1, "label": "Player", "id": 1 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q694589",
+        "rel_uri": "wd:Q694589",
+        "approximation": false,
+        "readable_label": "American football position (Q694589)",
+        "id": 2
+      },
+      { "col_index": 2, "label": "Pos.", "id": 3 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q35120",
+        "rel_uri": "wd:Q35120",
+        "approximation": false,
+        "readable_label": "entity (Q35120)",
+        "id": 4
+      },
+      { "col_index": 3, "label": "College", "id": 5 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q2992826",
+        "rel_uri": "wd:Q2992826",
+        "approximation": false,
+        "readable_label": "athletic conference (Q2992826)",
+        "id": 6
+      },
+      { "col_index": 4, "label": "Conf.", "id": 7 },
+      { "col_index": 0, "label": "Original NFL team", "id": 8 },
+      { "col_index": 5, "label": "Notes", "id": 9 },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q17156793",
+        "rel_uri": "wd:Q17156793",
+        "approximation": false,
+        "readable_label": "American football team (Q17156793)",
+        "id": 10
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://www.wikidata.org/prop/P413",
+        "rel_uri": "p:P413",
+        "approximation": false,
+        "readable_label": "position played on team / speciality (P413)",
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://www.wikidata.org/prop/P54",
+        "rel_uri": "p:P54",
+        "approximation": false,
+        "readable_label": "member of sports team (P54)",
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 10,
+        "abs_uri": "http://www.wikidata.org/prop/P54",
+        "rel_uri": "p:P54",
+        "approximation": false,
+        "readable_label": "member of sports team (P54)",
+        "id": 3
+      },
+      {
+        "source": 2,
+        "target": 3,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 4
+      },
+      {
+        "source": 4,
+        "target": 5,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 5
+      },
+      {
+        "source": 4,
+        "target": 6,
+        "abs_uri": "http://www.wikidata.org/prop/P463",
+        "rel_uri": "p:P463",
+        "approximation": false,
+        "readable_label": "member of (P463)",
+        "id": 6
+      },
+      {
+        "source": 6,
+        "target": 7,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 7
+      },
+      {
+        "source": 10,
+        "target": 8,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 8
+      }
+    ]
+  }
+]
