@@ -1,0 +1,354 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q51481377",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q51481377",
+                "approximation": false,
+                "readable_label": "women's association football club (Q51481377)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q486972",
+                "approximation": true,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1154710",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q1154710",
+                "approximation": false,
+                "readable_label": "association football venue (Q1154710)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Home ground",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:http://www.wikidata.org/prop/P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:http://www.wikidata.org/prop/P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q51481377",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q51481377",
+                "approximation": false,
+                "readable_label": "women's association football club (Q51481377)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q486972",
+                "approximation": true,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1154710",
+                "rel_uri": "wd:http://www.wikidata.org/entity/Q1154710",
+                "approximation": false,
+                "readable_label": "association football venue (Q1154710)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Home ground",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:http://www.wikidata.org/prop/P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 1
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 4
+            },
+            {
+                "source": 4,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 6
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q51481377",
+                "rel_uri": "wd:Q51481377",
+                "approximation": false,
+                "readable_label": "women's association football club (Q51481377)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": true,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1154710",
+                "rel_uri": "wd:Q1154710",
+                "approximation": false,
+                "readable_label": "association football venue (Q1154710)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Home ground",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 1
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q51481377",
+                "rel_uri": "wd:Q51481377",
+                "approximation": false,
+                "readable_label": "women's association football club (Q51481377)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": true,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1154710",
+                "rel_uri": "wd:Q1154710",
+                "approximation": false,
+                "readable_label": "association football venue (Q1154710)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Home ground",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 0
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": "rdfs:label",
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            },
+            {
+                "source": 4,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 5
+            }
+        ]
+    }
+]

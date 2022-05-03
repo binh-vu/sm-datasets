@@ -1,0 +1,314 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q17350442",
+                "rel_uri": "wd:Q17350442",
+                "approximation": false,
+                "readable_label": "venue (Q17350442)",
+                "id": 0
+            },
+            {
+                "col_index": 1,
+                "label": "Venue",
+                "id": 1
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 2
+            },
+            {
+                "col_index": 6,
+                "label": "Franchise notes",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q515",
+                "rel_uri": "wd:Q515",
+                "approximation": false,
+                "readable_label": "city (Q515)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "City",
+                "id": 5
+            },
+            {
+                "col_index": 3,
+                "label": "State/Province",
+                "id": 6
+            },
+            {
+                "col_index": 5,
+                "label": "Est.",
+                "id": 7
+            },
+            {
+                "col_index": 4,
+                "label": "League",
+                "id": 8
+            },
+            {
+                "col_index": 7,
+                "label": "Ref",
+                "id": 9
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q15916867",
+                "rel_uri": "wd:Q15916867",
+                "approximation": false,
+                "readable_label": "Q15916867 (Q15916867)",
+                "id": 10
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q847017",
+                "rel_uri": "wd:Q847017",
+                "approximation": false,
+                "readable_label": "sports club (Q847017)",
+                "id": 11
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 1
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 3
+            },
+            {
+                "source": 10,
+                "target": 6,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            },
+            {
+                "source": 11,
+                "target": 2,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            },
+            {
+                "source": 11,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 6
+            },
+            {
+                "source": 11,
+                "target": 8,
+                "abs_uri": "http://www.wikidata.org/prop/P118",
+                "rel_uri": "p:P118",
+                "approximation": false,
+                "readable_label": "league (P118)",
+                "id": 7
+            },
+            {
+                "source": 11,
+                "target": 7,
+                "abs_uri": "http://www.wikidata.org/prop/P571",
+                "rel_uri": "p:P571",
+                "approximation": false,
+                "readable_label": "inception (P571)",
+                "id": 8
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q17350442",
+                "rel_uri": "wd:Q17350442",
+                "approximation": false,
+                "readable_label": "venue (Q17350442)",
+                "id": 0
+            },
+            {
+                "col_index": 1,
+                "label": "Venue",
+                "id": 1
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 2
+            },
+            {
+                "col_index": 6,
+                "label": "Franchise notes",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q515",
+                "rel_uri": "wd:Q515",
+                "approximation": false,
+                "readable_label": "city (Q515)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "City",
+                "id": 5
+            },
+            {
+                "col_index": 3,
+                "label": "State/Province",
+                "id": 6
+            },
+            {
+                "col_index": 5,
+                "label": "Est.",
+                "id": 7
+            },
+            {
+                "col_index": 4,
+                "label": "League",
+                "id": 8
+            },
+            {
+                "col_index": 7,
+                "label": "Ref",
+                "id": 9
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q15916867",
+                "rel_uri": "wd:Q15916867",
+                "approximation": false,
+                "readable_label": "Q15916867 (Q15916867)",
+                "id": 10
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q847017",
+                "rel_uri": "wd:Q847017",
+                "approximation": false,
+                "readable_label": "sports club (Q847017)",
+                "id": 11
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 1
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 10,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 3
+            },
+            {
+                "source": 10,
+                "target": 6,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            },
+            {
+                "source": 11,
+                "target": 2,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            },
+            {
+                "source": 11,
+                "target": 8,
+                "abs_uri": "http://www.wikidata.org/prop/P118",
+                "rel_uri": "p:P118",
+                "approximation": false,
+                "readable_label": "league (P118)",
+                "id": 7
+            },
+            {
+                "source": 11,
+                "target": 7,
+                "abs_uri": "http://www.wikidata.org/prop/P571",
+                "rel_uri": "p:P571",
+                "approximation": false,
+                "readable_label": "inception (P571)",
+                "id": 8
+            },
+            {
+                "source": 0,
+                "target": 11,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 11
+            }
+        ]
+    }
+]

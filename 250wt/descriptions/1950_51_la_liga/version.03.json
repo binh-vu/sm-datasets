@@ -1,0 +1,354 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q476028",
+                "rel_uri": "wd:Q476028",
+                "approximation": false,
+                "readable_label": "association football club (Q476028)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Club",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q2074737",
+                "rel_uri": "wd:Q2074737",
+                "approximation": true,
+                "readable_label": "municipality of Spain (Q2074737)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "City",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 1
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q476028",
+                "rel_uri": "wd:Q476028",
+                "approximation": false,
+                "readable_label": "association football club (Q476028)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Club",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q2074737",
+                "rel_uri": "wd:Q2074737",
+                "approximation": true,
+                "readable_label": "municipality of Spain (Q2074737)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "City",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            },
+            {
+                "source": 4,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q476028",
+                "rel_uri": "wd:Q476028",
+                "approximation": false,
+                "readable_label": "association football club (Q476028)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Club",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q2074737",
+                "rel_uri": "wd:Q2074737",
+                "approximation": true,
+                "readable_label": "municipality of Spain (Q2074737)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "City",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q476028",
+                "rel_uri": "wd:Q476028",
+                "approximation": false,
+                "readable_label": "association football club (Q476028)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Club",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q2074737",
+                "rel_uri": "wd:Q2074737",
+                "approximation": true,
+                "readable_label": "municipality of Spain (Q2074737)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "City",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 5
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            },
+            {
+                "source": 4,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 5
+            }
+        ]
+    }
+]

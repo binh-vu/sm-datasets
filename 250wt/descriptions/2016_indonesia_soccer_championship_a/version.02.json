@@ -1,0 +1,206 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 0
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q17270000",
+                "rel_uri": "wd:Q17270000",
+                "approximation": false,
+                "readable_label": "football club (Q17270000)",
+                "id": 2
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 3
+            },
+            {
+                "col_index": 1,
+                "label": "Location",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1434505",
+                "rel_uri": "wd:Q1434505",
+                "approximation": false,
+                "readable_label": "administrative territorial entity of Indonesia (Q1434505)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 2,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 4
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q483110",
+                "rel_uri": "wd:Q483110",
+                "approximation": false,
+                "readable_label": "stadium (Q483110)",
+                "id": 0
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q17270000",
+                "rel_uri": "wd:Q17270000",
+                "approximation": false,
+                "readable_label": "football club (Q17270000)",
+                "id": 2
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 3
+            },
+            {
+                "col_index": 1,
+                "label": "Location",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1434505",
+                "rel_uri": "wd:Q1434505",
+                "approximation": false,
+                "readable_label": "administrative territorial entity of Indonesia (Q1434505)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 8
+            }
+        ]
+    }
+]

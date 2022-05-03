@@ -1,0 +1,410 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13393265",
+                "rel_uri": "wd:Q13393265",
+                "approximation": false,
+                "readable_label": "basketball team (Q13393265)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": false,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q35120",
+                "rel_uri": "wd:Q35120",
+                "approximation": false,
+                "readable_label": "entity (Q35120)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 1
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 6,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            },
+            {
+                "source": 6,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13393265",
+                "rel_uri": "wd:Q13393265",
+                "approximation": false,
+                "readable_label": "basketball team (Q13393265)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": false,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q35120",
+                "rel_uri": "wd:Q35120",
+                "approximation": false,
+                "readable_label": "entity (Q35120)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 2
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 6,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 4
+            },
+            {
+                "source": 6,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 5
+            },
+            {
+                "source": 6,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 6
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13393265",
+                "rel_uri": "wd:Q13393265",
+                "approximation": false,
+                "readable_label": "basketball team (Q13393265)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": false,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+                "rel_uri": "wd:Q1076486",
+                "approximation": false,
+                "readable_label": "sports venue (Q1076486)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 6,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            },
+            {
+                "source": 6,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13393265",
+                "rel_uri": "wd:Q13393265",
+                "approximation": false,
+                "readable_label": "basketball team (Q13393265)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Team",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q486972",
+                "rel_uri": "wd:Q486972",
+                "approximation": false,
+                "readable_label": "human settlement (Q486972)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Home city",
+                "id": 3
+            },
+            {
+                "col_index": 2,
+                "label": "Stadium",
+                "id": 4
+            },
+            {
+                "col_index": 3,
+                "label": "Capacity",
+                "id": 5
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+                "rel_uri": "wd:Q1076486",
+                "approximation": false,
+                "readable_label": "sports venue (Q1076486)",
+                "id": 6
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P159",
+                "rel_uri": "p:P159",
+                "approximation": false,
+                "readable_label": "headquarters location (P159)",
+                "id": 2
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 3
+            },
+            {
+                "source": 6,
+                "target": 4,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 4
+            },
+            {
+                "source": 6,
+                "target": 5,
+                "abs_uri": "http://www.wikidata.org/prop/P1083",
+                "rel_uri": "p:P1083",
+                "approximation": false,
+                "readable_label": "maximum capacity (P1083)",
+                "id": 5
+            },
+            {
+                "source": 6,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+                "rel_uri": "wd:Q1076486",
+                "approximation": false,
+                "readable_label": "sports venue (Q1076486)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Ballpark",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+                "rel_uri": "wd:Q1093829",
+                "approximation": false,
+                "readable_label": "city of the United States (Q1093829)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Location",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13027888",
+                "rel_uri": "wd:Q13027888",
+                "approximation": false,
+                "readable_label": "baseball team (Q13027888)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Team",
+                "id": 5
+            },
+            {
+                "col_index": 6,
+                "label": "Current status",
+                "id": 6
+            },
+            {
+                "col_index": 3,
+                "label": "Opened",
+                "id": 7
+            },
+            {
+                "col_index": 4,
+                "label": "Closed",
+                "id": 8
+            },
+            {
+                "col_index": 5,
+                "label": "Demo'd",
+                "id": 9
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 7,
+                "abs_uri": "http://www.wikidata.org/prop/P1619",
+                "rel_uri": "p:P1619",
+                "approximation": false,
+                "readable_label": "date of official opening (P1619)",
+                "id": 2
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "abs_uri": "http://www.wikidata.org/prop/P3999",
+                "rel_uri": "p:P3999",
+                "approximation": false,
+                "readable_label": "date of official closure (P3999)",
+                "id": 3
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "abs_uri": "http://www.wikidata.org/prop/P576",
+                "rel_uri": "p:P576",
+                "approximation": false,
+                "readable_label": "dissolved, abolished or demolished date (P576)",
+                "id": 4
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 6
+            },
+            {
+                "source": 4,
+                "target": 0,
+                "abs_uri": "http://www.wikidata.org/prop/P115",
+                "rel_uri": "p:P115",
+                "approximation": false,
+                "readable_label": "home venue (P115)",
+                "id": 7
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "nodes": [
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1076486",
+                "rel_uri": "wd:Q1076486",
+                "approximation": false,
+                "readable_label": "sports venue (Q1076486)",
+                "id": 0
+            },
+            {
+                "col_index": 0,
+                "label": "Ballpark",
+                "id": 1
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q1093829",
+                "rel_uri": "wd:Q1093829",
+                "approximation": false,
+                "readable_label": "city of the United States (Q1093829)",
+                "id": 2
+            },
+            {
+                "col_index": 1,
+                "label": "Location",
+                "id": 3
+            },
+            {
+                "abs_uri": "http://www.wikidata.org/entity/Q13027888",
+                "rel_uri": "wd:Q13027888",
+                "approximation": false,
+                "readable_label": "baseball team (Q13027888)",
+                "id": 4
+            },
+            {
+                "col_index": 2,
+                "label": "Team",
+                "id": 5
+            },
+            {
+                "col_index": 6,
+                "label": "Current status",
+                "id": 6
+            },
+            {
+                "col_index": 3,
+                "label": "Opened",
+                "id": 7
+            },
+            {
+                "col_index": 4,
+                "label": "Closed",
+                "id": 8
+            },
+            {
+                "col_index": 5,
+                "label": "Demo'd",
+                "id": 9
+            }
+        ],
+        "edges": [
+            {
+                "source": 0,
+                "target": 1,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 0
+            },
+            {
+                "source": 0,
+                "target": 2,
+                "abs_uri": "http://www.wikidata.org/prop/P131",
+                "rel_uri": "p:P131",
+                "approximation": false,
+                "readable_label": "located in the administrative territorial entity (P131)",
+                "id": 1
+            },
+            {
+                "source": 0,
+                "target": 7,
+                "abs_uri": "http://www.wikidata.org/prop/P1619",
+                "rel_uri": "p:P1619",
+                "approximation": false,
+                "readable_label": "date of official opening (P1619)",
+                "id": 2
+            },
+            {
+                "source": 0,
+                "target": 8,
+                "abs_uri": "http://www.wikidata.org/prop/P3999",
+                "rel_uri": "p:P3999",
+                "approximation": false,
+                "readable_label": "date of official closure (P3999)",
+                "id": 3
+            },
+            {
+                "source": 0,
+                "target": 9,
+                "abs_uri": "http://www.wikidata.org/prop/P576",
+                "rel_uri": "p:P576",
+                "approximation": false,
+                "readable_label": "dissolved, abolished or demolished date (P576)",
+                "id": 4
+            },
+            {
+                "source": 2,
+                "target": 3,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 5
+            },
+            {
+                "source": 4,
+                "target": 5,
+                "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                "rel_uri": "rdfs:label",
+                "approximation": false,
+                "readable_label": null,
+                "id": 6
+            },
+            {
+                "source": 0,
+                "target": 4,
+                "abs_uri": "http://www.wikidata.org/prop/P466",
+                "rel_uri": "p:P466",
+                "approximation": false,
+                "readable_label": "occupant (P466)",
+                "id": 12
+            }
+        ]
+    }
+]
