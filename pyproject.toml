@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "sm-datasets"
+version = "1.0.0"
+description = "Datasets for benchmarking Semantic Modeling problem"
+authors = ["Binh Vu <binh@toan2.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+rsoup = "^2.5.1"
+sem-desc = "^4.0.0"
+python-slugify = "^6.1.2"
+rdflib = "^6.1.1"
+loguru = "^0.6.0"
+kgdata = "^3.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
