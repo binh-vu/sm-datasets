@@ -3,53 +3,62 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q8463186:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
+        "col_index": 3,
+        "label": "col3",
+        "id": 3
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q8463186",
         "rel_uri": "wd:Q8463186",
         "approximation": false,
-        "readable_label": "national association football cup (Q8463186)"
+        "readable_label": "national association football cup (Q8463186)",
+        "id": 4
       },
       {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q31629:0",
         "abs_uri": "http://www.wikidata.org/entity/Q31629",
         "rel_uri": "wd:Q31629",
         "approximation": false,
-        "readable_label": "type of sport (Q31629)"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "col-3",
-        "col_index": 3,
-        "label": "col3"
+        "readable_label": "type of sport (Q31629)",
+        "id": 5
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q8463186:0",
-        "target": "col-0",
+        "source": 4,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 5,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
         "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q8463186:0",
-        "target": "http://www.wikidata.org/entity/Q31629:0",
+        "source": 4,
+        "target": 5,
         "abs_uri": "http://www.wikidata.org/prop/P641",
         "rel_uri": "p:P641",
         "approximation": false,
@@ -57,8 +66,8 @@
         "id": 2
       },
       {
-        "source": "http://www.wikidata.org/entity/Q8463186:0",
-        "target": "col-2",
+        "source": 4,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P4794",
         "rel_uri": "p:P4794",
         "approximation": false,
@@ -66,22 +75,13 @@
         "id": 3
       },
       {
-        "source": "http://www.wikidata.org/entity/Q8463186:0",
-        "target": "col-3",
+        "source": 4,
+        "target": 3,
         "abs_uri": "http://www.wikidata.org/prop/P1132",
         "rel_uri": "p:P1132",
         "approximation": false,
         "readable_label": "number of participants (P1132)",
         "id": 4
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q31629:0",
-        "target": "col-1",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
-        "id": 5
       }
     ]
   }

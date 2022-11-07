@@ -3,55 +3,55 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q1384677:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q1384677",
         "rel_uri": "wd:Q1384677",
         "approximation": false,
-        "readable_label": "congregation (Q1384677)"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
+        "readable_label": "religious congregation (Q1384677)",
+        "id": 3
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q1384677:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
-        "id": 1
+        "readable_label": "rdfs:label",
+        "id": 0
       },
       {
-        "source": "http://www.wikidata.org/entity/Q1384677:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P17",
         "rel_uri": "p:P17",
         "approximation": false,
         "readable_label": "country (P17)",
-        "id": 2
+        "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q1384677:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P571",
         "rel_uri": "p:P571",
         "approximation": false,
         "readable_label": "inception (P571)",
-        "id": 3
+        "id": 2
       }
     ]
   }

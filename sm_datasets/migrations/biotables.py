@@ -1,9 +1,13 @@
+from __future__ import annotations
+
 from collections import defaultdict
 import csv
 from io import StringIO
 from typing import Dict, List, Mapping, Optional, cast
-from zipfile import ZipFile, Path as ZipPath
-from kgdata.wikidata.db import get_entity_redirection_db, get_wdclass_db, get_wdprop_db
+from zipfile import ZipFile
+from kgdata.wikidata.db import (
+    WikidataDB,
+)
 from kgdata.wikidata.models import WDClass, WDProperty
 from loguru import logger
 from rdflib import RDFS
@@ -11,7 +15,8 @@ from rdflib import RDFS
 from sm.dataset import Dataset, Example, FullTable
 import sm.inputs.prelude as I
 import sm.outputs.semantic_model as O
-from sm.misc.matrix import Matrix
+from sm.misc.matri
+x import Matrix
 from sm.namespaces.wikidata import WikidataNamespace
 from sm_datasets.helper import (
     DB_DIR,
@@ -183,16 +188,9 @@ def normalize_biotables(
 
 
 if __name__ == "__main__":
-    wdredirections = get_entity_redirection_db(
-        DB_DIR / "wdentity_redirections.db", read_only=True
-    )
-    wdclasses = get_wdclass_db(DB_DIR / "wdclasses.db", read_only=True)
-    wdprops = get_wdprop_db(DB_DIR / "wdprops.db", read_only=True)
-
-    wdclasses = wdclasses.cache()
-    wdprops = wdprops.cache()
-    wdredirections = wdredirections.cache()
-
+    db = WikidataDB(DB_DIR)
     normalize_biotables(
-        wdredirections=wdredirections, wdclasses=wdclasses, wdprops=wdprops
+        wdredirections=db.wdredirections.cache(),
+        wdclasses=db.wdclasses.cache(),
+        wdprops=db.wdprops.cache(),
     )

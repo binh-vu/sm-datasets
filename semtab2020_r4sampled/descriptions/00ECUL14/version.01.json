@@ -3,55 +3,55 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q2442401:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q2442401",
         "rel_uri": "wd:Q2442401",
         "approximation": false,
-        "readable_label": "record company (Q2442401)"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
+        "readable_label": "record company (Q2442401)",
+        "id": 3
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q2442401:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
-        "id": 1
+        "readable_label": "rdfs:label",
+        "id": 0
       },
       {
-        "source": "http://www.wikidata.org/entity/Q2442401:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P112",
         "rel_uri": "p:P112",
         "approximation": false,
         "readable_label": "founded by (P112)",
-        "id": 2
+        "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q2442401:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P1448",
         "rel_uri": "p:P1448",
         "approximation": false,
         "readable_label": "official name (P1448)",
-        "id": 3
+        "id": 2
       }
     ]
   }

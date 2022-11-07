@@ -3,55 +3,55 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q6251:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q6251",
         "rel_uri": "wd:Q6251",
         "approximation": false,
-        "readable_label": "Wolf\u2013Rayet star (Q6251)"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
+        "readable_label": "Wolf–Rayet star (Q6251)",
+        "id": 3
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q6251:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
-        "id": 1
+        "readable_label": "rdfs:label",
+        "id": 0
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6251:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P2583",
         "rel_uri": "p:P2583",
         "approximation": false,
         "readable_label": "distance from Earth (P2583)",
-        "id": 2
+        "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6251:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P6257",
         "rel_uri": "p:P6257",
         "approximation": false,
         "readable_label": "right ascension (P6257)",
-        "id": 3
+        "id": 2
       }
     ]
   }

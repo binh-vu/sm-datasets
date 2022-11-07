@@ -3,48 +3,57 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q23657281:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q23657281",
         "rel_uri": "wd:Q23657281",
         "approximation": false,
-        "readable_label": "drypoint print (Q23657281)"
+        "readable_label": "drypoint print (Q23657281)",
+        "id": 3
       },
       {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q207694:0",
         "abs_uri": "http://www.wikidata.org/entity/Q207694",
         "rel_uri": "wd:Q207694",
         "approximation": false,
-        "readable_label": "art museum (Q207694)"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
+        "readable_label": "art museum (Q207694)",
+        "id": 4
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q23657281:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 4,
+        "target": 2,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
         "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q23657281:0",
-        "target": "http://www.wikidata.org/entity/Q207694:0",
+        "source": 3,
+        "target": 4,
         "abs_uri": "http://www.wikidata.org/prop/P195",
         "rel_uri": "p:P195",
         "approximation": false,
@@ -52,22 +61,13 @@
         "id": 2
       },
       {
-        "source": "http://www.wikidata.org/entity/Q23657281:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P571",
         "rel_uri": "p:P571",
         "approximation": false,
         "readable_label": "inception (P571)",
         "id": 3
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q207694:0",
-        "target": "col-2",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
-        "id": 4
       }
     ]
   }

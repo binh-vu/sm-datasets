@@ -3,55 +3,55 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q19723451:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q19723451",
         "rel_uri": "wd:Q19723451",
         "approximation": false,
-        "readable_label": "smartphone model (Q19723451)"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
+        "readable_label": "smartphone model (Q19723451)",
+        "id": 3
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q19723451:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
-        "id": 1
+        "readable_label": "rdfs:label",
+        "id": 0
       },
       {
-        "source": "http://www.wikidata.org/entity/Q19723451:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P279",
         "rel_uri": "p:P279",
         "approximation": false,
         "readable_label": "subclass of (P279)",
-        "id": 2
+        "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q19723451:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P2928",
         "rel_uri": "p:P2928",
         "approximation": false,
         "readable_label": "memory capacity (P2928)",
-        "id": 3
+        "id": 2
       }
     ]
   }

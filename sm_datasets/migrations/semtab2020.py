@@ -3,14 +3,13 @@ a reference how semtab2020 dataset is converted
 """
 
 import csv
-import glob, orjson, shutil
+import orjson
 from io import StringIO
 
-from zipfile import ZipFile, Path as ZipPath
+from zipfile import ZipFile
 from collections import defaultdict
-from operator import itemgetter
 from pathlib import Path
-from typing import Dict, List, Mapping, Optional, Tuple, Union, cast
+from typing import List, Mapping, Optional, Tuple, Union, cast
 from grams.inputs.linked_table import Context, Link, LinkedTable
 from kgdata.wikidata.models import WDProperty, WDClass
 
@@ -20,11 +19,10 @@ from sm.namespaces.wikidata import WikidataNamespace
 from tqdm import tqdm
 
 from sm.prelude import M, O, I
-from sm.namespaces.prelude import Namespace
 from kgdata.wikidata.db import get_wdclass_db, get_wdprop_db, get_entity_redirection_db
 
 from scripts.config import DATA_DIR, DATASET_DIR
-
+import serde.csv
 
 PathOrStr = Union[str, Path]
 
@@ -75,9 +73,9 @@ def normalize_semtab2020(
     cpa_gt = indir.parent / f"GT/CPA/CPA_Round{no}_gt.csv"
     cta_gt = indir.parent / f"GT/CTA/CTA_Round{no}_gt.csv"
 
-    cea = M.deserialize_csv(cea_gt)
-    cpa = M.deserialize_csv(cpa_gt)
-    cta = M.deserialize_csv(cta_gt)
+    cea = serde.csv.deser(cea_gt)
+    cpa = serde.csv.deser(cpa_gt)
+    cta = serde.csv.deser(cta_gt)
 
     # gather links and prop/types
     table2links = defaultdict(list)
@@ -97,14 +95,14 @@ def normalize_semtab2020(
     cta_tables = {row[0] for row in cta}
 
     # verifying that the target and ground truth are the same
-    for i, row in enumerate(M.deserialize_csv(indir / f"CEA_Round{no}_targets.csv")):
+    for i, row in enumerate(serde.csv.deser(indir / f"CEA_Round{no}_targets.csv")):
         if i >= len(cea) or row != cea[i][:3]:
             assert (
                 row[0] not in cea_tables
             ), f"when a target entity is not in ground-truth. the whole table {row[0]} must not be in the ground-truth"
-    for i, row in enumerate(M.deserialize_csv(indir / f"CPA_Round{no}_targets.csv")):
+    for i, row in enumerate(serde.csv.deser(indir / f"CPA_Round{no}_targets.csv")):
         assert row == cpa[i][:3]
-    for i, row in enumerate(M.deserialize_csv(indir / f"CTA_Round{no}_targets.csv")):
+    for i, row in enumerate(serde.csv.deser(indir / f"CTA_Round{no}_targets.csv")):
         if i >= len(cta) or row != cta[i][:2]:
             assert (
                 row[0] not in cta_tables
@@ -257,8 +255,8 @@ def normalize_semtab2020(
 
     for name in ["CEA", "CPA", "CTA"]:
         # compress the content to save space, use zless, zcat to browse it
-        content = M.deserialize_bytes(indir / f"{name}_Round{no}_targets.csv")
-        M.serialize_bytes(content, outdir / f"{name}_targets.csv.gz")
+        content = (indir / f"{name}_Round{no}_targets.csv").read_bytes()
+        (outdir / f"{name}_targets.csv.gz").write_bytes(content)
 
     counter = 0
     for i in range(0, len(outputs), batch_size):

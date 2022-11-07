@@ -3,48 +3,57 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q317557:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q317557",
         "rel_uri": "wd:Q317557",
         "approximation": false,
-        "readable_label": "parish church (Q317557)"
+        "readable_label": "parish church (Q317557)",
+        "id": 3
       },
       {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q32880:0",
         "abs_uri": "http://www.wikidata.org/entity/Q32880",
         "rel_uri": "wd:Q32880",
         "approximation": false,
-        "readable_label": "architectural style (Q32880)"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
+        "readable_label": "architectural style (Q32880)",
+        "id": 4
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q317557:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 4,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
         "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q317557:0",
-        "target": "http://www.wikidata.org/entity/Q32880:0",
+        "source": 3,
+        "target": 4,
         "abs_uri": "http://www.wikidata.org/prop/P149",
         "rel_uri": "p:P149",
         "approximation": false,
@@ -52,22 +61,13 @@
         "id": 2
       },
       {
-        "source": "http://www.wikidata.org/entity/Q317557:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P186",
         "rel_uri": "p:P186",
         "approximation": false,
-        "readable_label": "material used (P186)",
+        "readable_label": "made from material (P186)",
         "id": 3
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q32880:0",
-        "target": "col-1",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
-        "id": 4
       }
     ]
   }

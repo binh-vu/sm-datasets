@@ -3,131 +3,131 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q6979593:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
+        "col_index": 3,
+        "label": "col3",
+        "id": 3
+      },
+      {
+        "col_index": 4,
+        "label": "col4",
+        "id": 4
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q6979593",
         "rel_uri": "wd:Q6979593",
         "approximation": false,
-        "readable_label": "national association football team (Q6979593)"
+        "readable_label": "national association football team (Q6979593)",
+        "id": 5
       },
       {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q5:0",
         "abs_uri": "http://www.wikidata.org/entity/Q5",
         "rel_uri": "wd:Q5",
         "approximation": false,
-        "readable_label": "human (Q5)"
+        "readable_label": "human (Q5)",
+        "id": 6
       },
       {
-        "id": "col-3",
-        "col_index": 3,
-        "label": "col3"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q31629:0",
         "abs_uri": "http://www.wikidata.org/entity/Q31629",
         "rel_uri": "wd:Q31629",
         "approximation": false,
-        "readable_label": "type of sport (Q31629)"
+        "readable_label": "type of sport (Q31629)",
+        "id": 7
       },
       {
-        "id": "col-4",
-        "col_index": 4,
-        "label": "col4"
-      },
-      {
-        "id": "http://www.wikidata.org/entity/Q5:1",
         "abs_uri": "http://www.wikidata.org/entity/Q5",
         "rel_uri": "wd:Q5",
         "approximation": false,
-        "readable_label": "human (Q5)"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
+        "readable_label": "human (Q5)",
+        "id": 8
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q6979593:0",
-        "target": "col-0",
+        "source": 5,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
+        "readable_label": "rdfs:label",
+        "id": 0
+      },
+      {
+        "source": 6,
+        "target": 2,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
         "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6979593:0",
-        "target": "http://www.wikidata.org/entity/Q5:0",
+        "source": 7,
+        "target": 3,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 2
+      },
+      {
+        "source": 8,
+        "target": 4,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": "rdfs:label",
+        "id": 3
+      },
+      {
+        "source": 5,
+        "target": 6,
         "abs_uri": "http://www.wikidata.org/prop/P634",
         "rel_uri": "p:P634",
         "approximation": false,
         "readable_label": "captain (P634)",
-        "id": 2
+        "id": 4
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6979593:0",
-        "target": "http://www.wikidata.org/entity/Q31629:0",
+        "source": 5,
+        "target": 7,
         "abs_uri": "http://www.wikidata.org/prop/P641",
         "rel_uri": "p:P641",
         "approximation": false,
         "readable_label": "sport (P641)",
-        "id": 3
+        "id": 5
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6979593:0",
-        "target": "http://www.wikidata.org/entity/Q5:1",
+        "source": 5,
+        "target": 8,
         "abs_uri": "http://www.wikidata.org/prop/P286",
         "rel_uri": "p:P286",
         "approximation": false,
         "readable_label": "head coach (P286)",
-        "id": 4
+        "id": 6
       },
       {
-        "source": "http://www.wikidata.org/entity/Q6979593:0",
-        "target": "col-1",
+        "source": 5,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P571",
         "rel_uri": "p:P571",
         "approximation": false,
         "readable_label": "inception (P571)",
-        "id": 5
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q5:0",
-        "target": "col-2",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
-        "id": 6
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q31629:0",
-        "target": "col-3",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
         "id": 7
-      },
-      {
-        "source": "http://www.wikidata.org/entity/Q5:1",
-        "target": "col-4",
-        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
-        "rel_uri": "rdfs:label",
-        "approximation": false,
-        "readable_label": null,
-        "id": 8
       }
     ]
   }

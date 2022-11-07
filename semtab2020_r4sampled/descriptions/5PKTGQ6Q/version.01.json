@@ -3,55 +3,55 @@
     "version": 1,
     "nodes": [
       {
-        "id": "col-0",
         "col_index": 0,
-        "label": "col0"
+        "label": "col0",
+        "id": 0
       },
       {
-        "id": "http://www.wikidata.org/entity/Q152450:0",
+        "col_index": 1,
+        "label": "col1",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "col2",
+        "id": 2
+      },
+      {
         "abs_uri": "http://www.wikidata.org/entity/Q152450",
         "rel_uri": "wd:Q152450",
         "approximation": false,
-        "readable_label": "municipal election (Q152450)"
-      },
-      {
-        "id": "col-1",
-        "col_index": 1,
-        "label": "col1"
-      },
-      {
-        "id": "col-2",
-        "col_index": 2,
-        "label": "col2"
+        "readable_label": "municipal election (Q152450)",
+        "id": 3
       }
     ],
     "edges": [
       {
-        "source": "http://www.wikidata.org/entity/Q152450:0",
-        "target": "col-0",
+        "source": 3,
+        "target": 0,
         "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
         "rel_uri": "rdfs:label",
         "approximation": false,
-        "readable_label": null,
-        "id": 1
+        "readable_label": "rdfs:label",
+        "id": 0
       },
       {
-        "source": "http://www.wikidata.org/entity/Q152450:0",
-        "target": "col-1",
+        "source": 3,
+        "target": 1,
         "abs_uri": "http://www.wikidata.org/prop/P1868",
         "rel_uri": "p:P1868",
         "approximation": false,
         "readable_label": "ballots cast (P1868)",
-        "id": 2
+        "id": 1
       },
       {
-        "source": "http://www.wikidata.org/entity/Q152450:0",
-        "target": "col-2",
+        "source": 3,
+        "target": 2,
         "abs_uri": "http://www.wikidata.org/prop/P5045",
         "rel_uri": "p:P5045",
         "approximation": false,
         "readable_label": "number of blank votes (P5045)",
-        "id": 3
+        "id": 2
       }
     ]
   }
