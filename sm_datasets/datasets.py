@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Any
 from kgdata.wikidata.models.wdentity import WDEntity
 from loguru import logger
+import orjson
 from sm.dataset import Dataset, Example, FullTable
 from sm.inputs.link import EntityId
 from sm.namespaces.namespace import KnowledgeGraphNamespace
@@ -21,8 +22,17 @@ class Datasets:
     def semtab2020r4(self):
         return Dataset(ROOT_DIR / "semtab2020_round4").load()
 
-    def semtab2020r4sampled(self):
+    def semtab2020r4_sampled50(self):
         return Dataset(ROOT_DIR / "semtab2020_r4sampled").load()
+
+    def semtab2020r4_sampled512(self):
+        examples = {e.table.table.table_id: e for e in self.semtab2020r4()}
+        return [
+            examples[eid]
+            for eid in orjson.loads(
+                (ROOT_DIR / "semtab2020_round4/sampled_4k.json").read_bytes()
+            )[:512]
+        ]
 
     def biotable(self):
         return Dataset(ROOT_DIR / "biotables").load()
