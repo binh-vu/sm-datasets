@@ -10,13 +10,13 @@ from kgdata.wikidata.db import (
 )
 from kgdata.wikidata.models import WDClass, WDProperty
 from loguru import logger
+import orjson
 from rdflib import RDFS
 
 from sm.dataset import Dataset, Example, FullTable
 import sm.inputs.prelude as I
 import sm.outputs.semantic_model as O
-from sm.misc.matri
-x import Matrix
+from sm.misc.matrix import Matrix
 from sm.namespaces.wikidata import WikidataNamespace
 from sm_datasets.helper import (
     DB_DIR,
@@ -24,6 +24,7 @@ from sm_datasets.helper import (
     get_class_readable_label,
     get_prop_readable_label,
 )
+import random
 from tqdm import tqdm
 from pathlib import Path
 
@@ -187,10 +188,25 @@ def normalize_biotables(
         ds.save(examples, individual_table_compressed="gz")
 
 
+def sample_rows(dataset_name="biotables"):
+    ds = Dataset(ROOT_DIR / dataset_name)
+    if not (ds.location / "sampled_rows.json").exists():
+        random.seed(72)
+        output = {}
+        for example in ds.load():
+            nrows, ncols = example.table.table.shape()
+            index = list(range(nrows))[:1000]
+            random.shuffle(index)
+            output[example.table.table.table_id] = index
+
+        (ds.location / "sampled_rows.json").write_bytes(orjson.dumps(output))
+
+
 if __name__ == "__main__":
     db = WikidataDB(DB_DIR)
-    normalize_biotables(
-        wdredirections=db.wdredirections.cache(),
-        wdclasses=db.wdclasses.cache(),
-        wdprops=db.wdprops.cache(),
-    )
+    # normalize_biotables(
+    #     wdredirections=db.wdredirections.cache(),
+    #     wdclasses=db.wdclasses.cache(),
+    #     wdprops=db.wdprops.cache(),
+    # )
+    sample_rows()

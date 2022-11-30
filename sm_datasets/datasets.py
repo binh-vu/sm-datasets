@@ -37,6 +37,14 @@ class Datasets:
     def biotable(self):
         return Dataset(ROOT_DIR / "biotables").load()
 
+    def biotable_rowsampled200(self):
+        examples = {e.table.table.table_id: e for e in self.biotable()}
+        for eid, sample in orjson.loads(
+            (ROOT_DIR / "biotables" / "sampled_rows.json").read_bytes()
+        ).items():
+            examples[eid].table.keep_rows(sample[:200])
+        return list(examples.values())
+
     def fix_redirection(
         self,
         examples: list[Example[FullTable]],
