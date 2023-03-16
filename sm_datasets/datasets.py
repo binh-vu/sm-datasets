@@ -1,13 +1,14 @@
 from __future__ import annotations
+from collections import defaultdict
 from collections.abc import Set, Mapping
-
+import pandas as pd
 from pathlib import Path
 from typing import Any
 from kgdata.wikidata.models.wdentity import WDEntity
 from loguru import logger
 import orjson
 from sm.dataset import Dataset, Example, FullTable
-from sm.inputs.link import EntityId
+from sm.inputs.link import WIKIDATA, EntityId, Link
 from sm.namespaces.namespace import KnowledgeGraphNamespace
 from sm.namespaces.wikidata import WikidataNamespace
 from sm.outputs.semantic_model import ClassNode, LiteralNode, LiteralNodeDataType
@@ -16,8 +17,37 @@ ROOT_DIR = Path(__file__).parent.parent.absolute()
 
 
 class Datasets:
-    def wt250(self):
-        return Dataset(ROOT_DIR / "250wt").load()
+    def wt250(self, fix_el: bool = True):
+        dataset = Dataset(ROOT_DIR / "250wt")
+        examples = dataset.load()
+        if fix_el:
+            for file in (dataset.location / "el_corrections/tables").iterdir():
+                if not file.name.endswith(".tsv"):
+                    continue
+
+                with open(file, "r") as stream:
+                    table_id = orjson.loads(stream.readline())
+                    table = [
+                        ex for ex in examples if ex.table.table.table_id == table_id
+                    ][0].table
+                    df = pd.read_csv(stream, sep="\t")
+                    pos2rows = defaultdict(list)
+                    for row in df.to_dict(orient="records"):
+                        ri, ci = row["row"], row["col"]
+                        pos2rows[ri, ci].append(row)
+
+                    for (ri, ci), rows in pos2rows.items():
+                        links = []
+                        for row in rows:
+                            link = Link(
+                                start=row["start"],
+                                end=row["end"],
+                                url=row["url"],
+                                entities=[EntityId(row["entity"], WIKIDATA)],
+                            )
+                            links.append(link)
+                        table.links[ri, ci] = links
+        return examples
 
     def semtab2020r4(self):
         return Dataset(ROOT_DIR / "semtab2020_round4").load()
