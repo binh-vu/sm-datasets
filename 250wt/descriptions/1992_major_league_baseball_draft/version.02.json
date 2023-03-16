@@ -1,0 +1,130 @@
+[
+  {
+    "edges": [
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 0,
+        "target": 1
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P413",
+        "approximation": false,
+        "id": 1,
+        "readable_label": "position played on team / speciality (P413)",
+        "rel_uri": "p:P413",
+        "source": 0,
+        "target": 2
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P69",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "educated at (P69)",
+        "rel_uri": "p:P69",
+        "source": 0,
+        "target": 6
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P647",
+        "approximation": false,
+        "id": 3,
+        "readable_label": "drafted by (P647)",
+        "rel_uri": "p:P647",
+        "source": 0,
+        "target": 9
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 2,
+        "target": 3
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 5,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 4,
+        "target": 5
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 6,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 6,
+        "target": 7
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P647",
+        "approximation": false,
+        "id": 7,
+        "readable_label": "drafted by (P647)",
+        "rel_uri": "p:P647",
+        "source": 9,
+        "target": 4
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P1836",
+        "approximation": false,
+        "id": 8,
+        "readable_label": "draft pick number (P1836)",
+        "rel_uri": "p:P1836",
+        "source": 9,
+        "target": 8
+      }
+    ],
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "human (Q5)",
+        "rel_uri": "wd:Q5"
+      },
+      { "col_index": 1, "id": 1, "label": "Player" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q1151733",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "baseball position (Q1151733)",
+        "rel_uri": "wd:Q1151733"
+      },
+      { "col_index": 3, "id": 3, "label": "Position" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q13027888",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "baseball team (Q13027888)",
+        "rel_uri": "wd:Q13027888"
+      },
+      { "col_index": 2, "id": 5, "label": "Team" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q2385804",
+        "approximation": false,
+        "id": 6,
+        "readable_label": "educational institution (Q2385804)",
+        "rel_uri": "wd:Q2385804"
+      },
+      { "col_index": 4, "id": 7, "label": "School" },
+      { "col_index": 0, "id": 8, "label": "Pick" },
+      {
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "approximation": false,
+        "id": 9,
+        "readable_label": "wikibase:Statement",
+        "rel_uri": "wikibase:Statement"
+      }
+    ],
+    "version": 1
+  }
+]

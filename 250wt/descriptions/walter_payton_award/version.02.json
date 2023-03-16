@@ -1,0 +1,120 @@
+[
+  {
+    "edges": [
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 0,
+        "target": 1
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P413",
+        "approximation": false,
+        "id": 1,
+        "readable_label": "position played on team / speciality (P413)",
+        "rel_uri": "p:P413",
+        "source": 0,
+        "target": 2
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P69",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "educated at (P69)",
+        "rel_uri": "p:P69",
+        "source": 0,
+        "target": 7
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P166",
+        "approximation": false,
+        "id": 3,
+        "readable_label": "award received (P166)",
+        "rel_uri": "p:P166",
+        "source": 0,
+        "target": 8
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 2,
+        "target": 3
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 5,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 7,
+        "target": 5
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P166",
+        "approximation": false,
+        "id": 6,
+        "readable_label": "award received (P166)",
+        "rel_uri": "p:P166",
+        "source": 8,
+        "target": 6
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P585",
+        "approximation": false,
+        "id": 7,
+        "readable_label": "point in time (P585)",
+        "rel_uri": "p:P585",
+        "source": 8,
+        "target": 4
+      }
+    ],
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "human (Q5)",
+        "rel_uri": "wd:Q5"
+      },
+      { "col_index": 1, "id": 1, "label": "Player" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q694589",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "American football position (Q694589)",
+        "rel_uri": "wd:Q694589"
+      },
+      { "col_index": 3, "id": 3, "label": "Position" },
+      { "col_index": 0, "id": 4, "label": "Year" },
+      { "col_index": 2, "id": 5, "label": "School" },
+      {
+        "datatype": "entity-id",
+        "id": 6,
+        "is_in_context": true,
+        "readable_label": "Walter Payton Award (Q7965804)",
+        "value": "http://www.wikidata.org/entity/Q7965804"
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q3918",
+        "approximation": true,
+        "id": 7,
+        "readable_label": "university (Q3918)",
+        "rel_uri": "wd:Q3918"
+      },
+      {
+        "abs_uri": "http://wikiba.se/ontology#Statement",
+        "approximation": false,
+        "id": 8,
+        "readable_label": "wikibase:Statement",
+        "rel_uri": "wikibase:Statement"
+      }
+    ],
+    "version": 1
+  }
+]

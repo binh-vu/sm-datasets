@@ -1,0 +1,141 @@
+[
+  {
+    "edges": [
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 7,
+        "target": 0
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P175",
+        "approximation": false,
+        "id": 1,
+        "readable_label": "performer (P175)",
+        "rel_uri": "p:P175",
+        "source": 7,
+        "target": 8
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P577",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "publication date (P577)",
+        "rel_uri": "p:P577",
+        "source": 7,
+        "target": 5
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P136",
+        "approximation": false,
+        "id": 3,
+        "readable_label": "genre (P136)",
+        "rel_uri": "p:P136",
+        "source": 7,
+        "target": 9
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P162",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "producer (P162)",
+        "rel_uri": "p:P162",
+        "source": 7,
+        "target": 10
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P264",
+        "approximation": false,
+        "id": 5,
+        "readable_label": "record label (P264)",
+        "rel_uri": "p:P264",
+        "source": 7,
+        "target": 11
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 6,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 8,
+        "target": 1
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 7,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 9,
+        "target": 2
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 8,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 10,
+        "target": 3
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 9,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 11,
+        "target": 4
+      }
+    ],
+    "nodes": [
+      { "col_index": 2, "id": 0, "label": "Album" },
+      { "col_index": 1, "id": 1, "label": "Artist" },
+      { "col_index": 3, "id": 2, "label": "Genre" },
+      { "col_index": 5, "id": 3, "label": "Producer" },
+      { "col_index": 4, "id": 4, "label": "Label" },
+      { "col_index": 0, "id": 5, "label": "Release date" },
+      { "col_index": 6, "id": 6, "label": "Ref." },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q2031291",
+        "approximation": false,
+        "id": 7,
+        "readable_label": "release (Q2031291)",
+        "rel_uri": "wd:Q2031291"
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q24229398",
+        "approximation": false,
+        "id": 8,
+        "readable_label": "agent (Q24229398)",
+        "rel_uri": "wd:Q24229398"
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q188451",
+        "approximation": false,
+        "id": 9,
+        "readable_label": "music genre (Q188451)",
+        "rel_uri": "wd:Q188451"
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q5",
+        "approximation": false,
+        "id": 10,
+        "readable_label": "human (Q5)",
+        "rel_uri": "wd:Q5"
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q18127",
+        "approximation": false,
+        "id": 11,
+        "readable_label": "record label (Q18127)",
+        "rel_uri": "wd:Q18127"
+      }
+    ],
+    "version": 1
+  }
+]

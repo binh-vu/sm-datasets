@@ -2,6 +2,15 @@
 
 Current version: **1.3.0**
 
+### [1.4.0] 2023-03-14
+
+---
+
+- Added linked entitiy corrections. We pre-filter low-chanced error tables using heuristics so the list may not be completed.
+- 2016–17_Pro_A_season: inconsistent annotation, in some models, Stadium is modeled as sport venue (which is correct). In the other models, it is entity. Change it to sport value.
+- College sport related tables: add models where college columns are annotated as college/school/university follow the column meaning instead of the existing linked entities (e.g., `1967_NFL/AFL_Draft`, `1992_Major_League_Baseball_draft`).
+- Fix column types that are not specific enough (e.g., `FC_Nordsjælland_in_European_football` sport club to association football club, `Bluebird_Airways` change geographic feature to geographic region, Album related tables such as `List_of_2009_albums?ref=1.1_2` - change artist column from entity to agent)
+
 ### [1.3.0] 2022-04-27
 
 ---

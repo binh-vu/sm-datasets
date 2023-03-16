@@ -1,0 +1,74 @@
+[
+  {
+    "edges": [
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 0,
+        "target": 1
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P3450",
+        "approximation": false,
+        "id": 1,
+        "readable_label": "sports season of league or competition (P3450)",
+        "rel_uri": "p:P3450",
+        "source": 0,
+        "target": 2
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 2,
+        "target": 3
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 3,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 10,
+        "target": 5
+      }
+    ],
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q27020041",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "sports season (Q27020041)",
+        "rel_uri": "wd:Q27020041"
+      },
+      { "col_index": 0, "id": 1, "label": "Season" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q1478437",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "association football competition (Q1478437)",
+        "rel_uri": "wd:Q1478437"
+      },
+      { "col_index": 1, "id": 3, "label": "Competition" },
+      { "col_index": 2, "id": 4, "label": "Round" },
+      { "col_index": 3, "id": 5, "label": "Club" },
+      { "col_index": 4, "id": 6, "label": "Home" },
+      { "col_index": 5, "id": 7, "label": "Away" },
+      { "col_index": 6, "id": 8, "label": "Aggregate" },
+      { "col_index": 7, "id": 9, "label": "" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q476028",
+        "approximation": false,
+        "id": 10,
+        "readable_label": "association football club (Q476028)",
+        "rel_uri": "wd:Q476028"
+      }
+    ],
+    "version": 1
+  }
+]
