@@ -1,6 +1,10 @@
 # Changelog
 
-Current version: **1.3.0**
+Current version: **1.4.1**
+
+### [1.4.1] 2023-03-15
+
+- Add missing part of to between tennis tournament edition and tennis with multiple editions in table 2018_angelique_kerber_tennis_season.
 
 ### [1.4.0] 2023-03-14
 

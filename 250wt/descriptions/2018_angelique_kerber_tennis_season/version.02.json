@@ -1,0 +1,84 @@
+[
+  {
+    "edges": [
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 0,
+        "target": 1
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P276",
+        "approximation": false,
+        "id": 1,
+        "readable_label": "location (P276)",
+        "rel_uri": "p:P276",
+        "source": 0,
+        "target": 2
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 2,
+        "target": 3
+      },
+      {
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "approximation": false,
+        "id": 3,
+        "readable_label": "rdfs:label",
+        "rel_uri": "rdfs:label",
+        "source": 4,
+        "target": 5
+      },
+      {
+        "abs_uri": "http://www.wikidata.org/prop/P361",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "part of (P361)",
+        "rel_uri": "p:P361",
+        "source": 0,
+        "target": 4
+      }
+    ],
+    "nodes": [
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q47345468",
+        "approximation": false,
+        "id": 0,
+        "readable_label": "tennis tournament edition (Q47345468)",
+        "rel_uri": "wd:Q47345468"
+      },
+      { "col_index": 1, "id": 1, "label": "Championship" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q515",
+        "approximation": false,
+        "id": 2,
+        "readable_label": "city (Q515)",
+        "rel_uri": "wd:Q515"
+      },
+      { "col_index": 2, "id": 3, "label": "Location" },
+      {
+        "abs_uri": "http://www.wikidata.org/entity/Q50301185",
+        "approximation": false,
+        "id": 4,
+        "readable_label": "tennis tour with multiple editions (Q50301185)",
+        "rel_uri": "wd:Q50301185"
+      },
+      { "col_index": 3, "id": 5, "label": "Category" },
+      { "col_index": 6, "id": 6, "label": "2017 \npoints" },
+      { "col_index": 8, "id": 7, "label": "Outcome" },
+      { "col_index": 7, "id": 8, "label": "2018 \npoints" },
+      { "col_index": 0, "id": 9, "label": "Date" },
+      { "col_index": 4, "id": 10, "label": "Surface" },
+      { "col_index": 5, "id": 11, "label": "2017 \nresult" }
+    ],
+    "version": 1
+  }
+]
