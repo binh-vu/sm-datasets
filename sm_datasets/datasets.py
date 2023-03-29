@@ -30,7 +30,19 @@ class Datasets:
                     table = [
                         ex for ex in examples if ex.table.table.table_id == table_id
                     ][0].table
-                    df = pd.read_csv(stream, sep="\t")
+                    df = pd.read_csv(
+                        stream,
+                        sep="\t",
+                        dtype={
+                            "url": str,
+                            "row": int,
+                            "col": int,
+                            "start": int,
+                            "end": int,
+                            "entity": str,
+                        },
+                    )
+                    df[["url"]] = df[["url"]].fillna("")
                     pos2rows = defaultdict(list)
                     for row in df.to_dict(orient="records"):
                         ri, ci = row["row"], row["col"]
