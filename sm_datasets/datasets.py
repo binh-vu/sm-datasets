@@ -61,6 +61,9 @@ class Datasets:
                         table.links[ri, ci] = links
         return examples
 
+    def semtab2022_r1(self):
+        return Dataset(ROOT_DIR / "semtab2022_hardtable_r1").load()
+
     def semtab2020r4(self):
         return Dataset(ROOT_DIR / "semtab2020_round4").load()
 
