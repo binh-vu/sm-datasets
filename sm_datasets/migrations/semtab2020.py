@@ -3,26 +3,24 @@ a reference how semtab2020 dataset is converted
 """
 
 import csv
-import orjson
-from io import StringIO
-
-from zipfile import ZipFile
 from collections import defaultdict
+from io import StringIO
 from pathlib import Path
 from typing import List, Mapping, Optional, Tuple, Union, cast
-from grams.inputs.linked_table import Context, Link, LinkedTable
-from kgdata.wikidata.models import WDProperty, WDClass
+from zipfile import ZipFile
 
+import orjson
+import serde.csv
+from kgdata.wikidata.db import get_class_db, get_entity_redirection_db, get_prop_db
+from kgdata.wikidata.models import WDClass, WDProperty
 from loguru import logger
 from rdflib import RDFS
 from sm.namespaces.wikidata import WikidataNamespace
+from sm.prelude import I, M, O
 from tqdm import tqdm
 
-from sm.prelude import M, O, I
-from kgdata.wikidata.db import get_wdclass_db, get_wdprop_db, get_entity_redirection_db
-
+from grams.inputs.linked_table import Context, Link, LinkedTable
 from scripts.config import DATA_DIR, DATASET_DIR
-import serde.csv
 
 PathOrStr = Union[str, Path]
 
@@ -303,8 +301,8 @@ if __name__ == "__main__":
     wdredirections = get_entity_redirection_db(
         DATA_DIR / "home/databases/wdentity_redirections.db", read_only=True
     )
-    wdclasses = get_wdclass_db(DATA_DIR / "home/databases/wdclasses.db", read_only=True)
-    wdprops = get_wdprop_db(DATA_DIR / "home/databases/wdprops.db", read_only=True)
+    wdclasses = get_class_db(DATA_DIR / "home/databases/wdclasses.db", read_only=True)
+    wdprops = get_prop_db(DATA_DIR / "home/databases/wdprops.db", read_only=True)
 
     wdclasses = wdclasses.cache()
     wdprops = wdprops.cache()

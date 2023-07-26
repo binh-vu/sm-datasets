@@ -1,12 +1,15 @@
 from __future__ import annotations
+
 from collections import defaultdict
-from collections.abc import Set, Mapping
-import pandas as pd
+from collections.abc import Mapping, Set
 from pathlib import Path
 from typing import Any
+
+import orjson
+import pandas as pd
+from kgdata.models.entity import Entity
 from kgdata.wikidata.models.wdentity import WDEntity
 from loguru import logger
-import orjson
 from sm.dataset import Dataset, Example, FullTable
 from sm.inputs.link import WIKIDATA, EntityId, Link
 from sm.namespaces.namespace import KnowledgeGraphNamespace
@@ -64,6 +67,9 @@ class Datasets:
     def semtab2022_r1(self):
         return Dataset(ROOT_DIR / "semtab2022_hardtable_r1").load()
 
+    def semtab2019_t2dv2_dbpedia(self):
+        return Dataset(ROOT_DIR / "semtab2019_t2dv2/dbpedia").load()
+
     def semtab2020r4(self):
         return Dataset(ROOT_DIR / "semtab2020_round4").load()
 
@@ -93,7 +99,7 @@ class Datasets:
     def fix_redirection(
         self,
         examples: list[Example[FullTable]],
-        entities: Mapping[str, WDEntity] | Set[str],
+        entities: Mapping[str, WDEntity | Entity] | Set[str],
         redirections: Mapping[str, str],
         kgns: KnowledgeGraphNamespace,
     ):
@@ -118,9 +124,10 @@ class Datasets:
                             new_qid = redirections[qid]
                             logger.debug("Redirect entity: {} to {}", qid, new_qid)
 
-                            assert (
-                                new_qid in entities
-                            ), "Just to be safe that qnodes & redirections are consistent"
+                            assert new_qid in entities, (
+                                "Just to be safe that qnodes & redirections are consistent",
+                                new_qid,
+                            )
                             n.abs_uri = kgns.get_entity_abs_uri(new_qid)
                             n.rel_uri = kgns.get_entity_rel_uri(new_qid)
                     if isinstance(n, LiteralNode):
@@ -131,9 +138,10 @@ class Datasets:
                                 new_qid = redirections[qid]
                                 logger.debug("Redirect entity: {} to {}", qid, new_qid)
 
-                                assert (
-                                    new_qid in entities
-                                ), "Just to be safe that qnodes & redirections are consistent"
+                                assert new_qid in entities, (
+                                    "Just to be safe that qnodes & redirections are consistent",
+                                    new_qid,
+                                )
                                 n.value = WikidataNamespace.get_entity_abs_uri(new_qid)
 
         return examples
@@ -149,9 +157,10 @@ class Datasets:
             if entid not in entities:
                 newid = redirections.get(entid, None)
                 logger.debug("Redirect entity: {} to {}", entid, newid)
-                assert (
-                    newid is None or newid in entities
-                ), "Just to be safe that qnodes & redirections are consistent"
+                assert newid is None or newid in entities, (
+                    "Just to be safe that qnodes & redirections are consistent",
+                    newid,
+                )
                 if newid is not None:
                     newents.append(EntityId(newid, entid.type))
             else:
