@@ -7,9 +7,11 @@ from typing import Any
 
 import orjson
 import pandas as pd
-from kgdata.models.entity import Entity
-from kgdata.wikidata.models.wdentity import WDEntity
 from loguru import logger
+
+from kgdata.models.entity import Entity
+from kgdata.models.ont_property import OntologyProperty
+from kgdata.wikidata.models.wdentity import WDEntity
 from sm.dataset import Dataset, Example, FullTable
 from sm.inputs.link import WIKIDATA, EntityId, Link
 from sm.namespaces.namespace import KnowledgeGraphNamespace
@@ -100,9 +102,13 @@ class Datasets:
         self,
         examples: list[Example[FullTable]],
         entities: Mapping[str, WDEntity | Entity] | Set[str],
+        props: Mapping[str, OntologyProperty] | Set[str],
         redirections: Mapping[str, str],
         kgns: KnowledgeGraphNamespace,
+        skip_unk_ont_ent: bool = False,
+        skip_no_sm: bool = False,
     ):
+        new_examples = []
         for example in examples:
             table = example.table
             for cell in table.links.flat_iter():
@@ -115,24 +121,14 @@ class Datasets:
                 table.context.page_entities, entities, redirections
             )
 
-            for sm in example.sms:
+            new_sms = []
+            for sm_i, sm in enumerate(example.sms):
+                skip_sm = False
                 for n in sm.iter_nodes():
-                    if isinstance(n, ClassNode) and kgns.is_abs_uri_entity(n.abs_uri):
-                        qid = kgns.get_entity_id(n.abs_uri)
-                        if qid not in entities:
-                            # if the qid not in redirection, the class is deleted, we should consider remove this example
-                            new_qid = redirections[qid]
-                            logger.debug("Redirect entity: {} to {}", qid, new_qid)
-
-                            assert new_qid in entities, (
-                                "Just to be safe that qnodes & redirections are consistent",
-                                new_qid,
-                            )
-                            n.abs_uri = kgns.get_entity_abs_uri(new_qid)
-                            n.rel_uri = kgns.get_entity_rel_uri(new_qid)
-                    if isinstance(n, LiteralNode):
-                        if n.datatype == LiteralNodeDataType.Entity:
-                            qid = WikidataNamespace.get_entity_id(n.value)
+                    if isinstance(n, ClassNode):
+                        assert kgns.is_uri(n.abs_uri)
+                        if kgns.is_abs_uri_entity(n.abs_uri):
+                            qid = kgns.get_entity_id(n.abs_uri)
                             if qid not in entities:
                                 # if the qid not in redirection, the class is deleted, we should consider remove this example
                                 new_qid = redirections[qid]
@@ -142,9 +138,66 @@ class Datasets:
                                     "Just to be safe that qnodes & redirections are consistent",
                                     new_qid,
                                 )
-                                n.value = WikidataNamespace.get_entity_abs_uri(new_qid)
+                                n.abs_uri = kgns.get_entity_abs_uri(new_qid)
+                                n.rel_uri = kgns.get_entity_rel_uri(new_qid)
+                    if isinstance(n, LiteralNode):
+                        if n.datatype == LiteralNodeDataType.Entity:
+                            assert kgns.is_uri(n.value)
+                            qid = kgns.get_entity_id(n.value)
+                            if qid not in entities:
+                                # if the qid not in redirection, the class is deleted, we should consider remove this example
+                                new_qid = redirections[qid]
+                                logger.debug("Redirect entity: {} to {}", qid, new_qid)
 
-        return examples
+                                assert new_qid in entities, (
+                                    "Just to be safe that entities & redirections are consistent",
+                                    new_qid,
+                                )
+                                n.value = WikidataNamespace.get_entity_abs_uri(new_qid)
+                for e in sm.iter_edges():
+                    assert kgns.is_uri(e.abs_uri)
+                    if not kgns.is_abs_uri_property(e.abs_uri):
+                        continue
+                    pid = kgns.get_prop_id(e.abs_uri)
+                    if pid not in props:
+                        if pid in redirections:
+                            new_pid = redirections[pid]
+                            logger.debug("Redirect property: {} to {}", pid, new_pid)
+
+                            assert new_pid in props, (
+                                "Just to be safe that entities & redirections are consistent",
+                                new_pid,
+                            )
+                            e.abs_uri = kgns.get_entity_abs_uri(new_pid)
+                            e.rel_uri = kgns.get_entity_rel_uri(new_pid)
+                        else:
+                            if skip_unk_ont_ent:
+                                # if the pid not in redirection, the property is deleted, we should consider remove this example
+                                skip_sm = True
+                                break
+                            else:
+                                raise KeyError("Unknown property", pid)
+
+                if skip_sm and skip_unk_ont_ent:
+                    logger.debug(
+                        "Skip the semantic model at pos {} of example {} due to unknown property {}",
+                        sm_i,
+                        example.table.table.table_id,
+                        pid,
+                    )
+                    continue
+                new_sms.append(sm)
+
+            example.sms = new_sms
+            if len(example.sms) == 0 and skip_no_sm:
+                logger.debug(
+                    "Skip the example {} due to no semantic model",
+                    example.table.table.table_id,
+                )
+                continue
+            new_examples.append(example)
+
+        return new_examples
 
     def _fix_redirections(
         self,
@@ -158,7 +211,7 @@ class Datasets:
                 newid = redirections.get(entid, None)
                 logger.debug("Redirect entity: {} to {}", entid, newid)
                 assert newid is None or newid in entities, (
-                    "Just to be safe that qnodes & redirections are consistent",
+                    "Just to be safe that entities & redirections are consistent",
                     newid,
                 )
                 if newid is not None:
