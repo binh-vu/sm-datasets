@@ -3,15 +3,14 @@ from __future__ import annotations
 from collections import defaultdict
 from collections.abc import Mapping, Set
 from pathlib import Path
-from typing import Any
+from typing import Any, Sequence
 
 import orjson
 import pandas as pd
-from loguru import logger
-
 from kgdata.models.entity import Entity
 from kgdata.models.ont_property import OntologyProperty
 from kgdata.wikidata.models.wdentity import WDEntity
+from loguru import logger
 from sm.dataset import Dataset, Example, FullTable
 from sm.inputs.link import WIKIDATA, EntityId, Link
 from sm.namespaces.namespace import KnowledgeGraphNamespace
@@ -101,14 +100,14 @@ class Datasets:
     def fix_redirection(
         self,
         examples: list[Example[FullTable]],
-        entities: Mapping[str, WDEntity | Entity] | Set[str],
+        entities: Mapping[str, Any] | Set[str],
         props: Mapping[str, OntologyProperty] | Set[str],
         redirections: Mapping[str, str],
         kgns: KnowledgeGraphNamespace,
         skip_unk_ont_ent: bool = False,
         skip_no_sm: bool = False,
     ):
-        new_examples = []
+        new_examples: list[Example[FullTable]] = []
         for example in examples:
             table = example.table
             for cell in table.links.flat_iter():
