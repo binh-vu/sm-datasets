@@ -250,7 +250,7 @@ def normalize_semtab2022(
     for name in ["CEA", "CPA", "CTA"]:
         # compress the content to save space, use zless, zcat to browse it
         content = (indir / f"target/{name.lower()}_target.csv").read_bytes()
-        (outdir / f"{name}_targets.csv.gz").write_bytes(content)
+        (outdir / f"{name}_targets.csv").write_bytes(content)
 
     counter = 0
     for i in range(0, len(outputs), batch_size):

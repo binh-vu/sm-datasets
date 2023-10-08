@@ -21,6 +21,9 @@ ROOT_DIR = Path(__file__).parent.parent.absolute()
 
 
 class Datasets:
+    def get_dataset(self, name: str) -> Dataset:
+        return getattr(self, name)()
+
     def wt250(self, fix_el: bool = True):
         dataset = Dataset(ROOT_DIR / "250wt")
         examples = dataset.load()
@@ -66,19 +69,19 @@ class Datasets:
         return examples
 
     def semtab2022_r1(self):
-        return Dataset(ROOT_DIR / "semtab2022_hardtable_r1").load()
+        return Dataset(ROOT_DIR / "semtab2022_hardtable_r1")
 
     def semtab2019_t2dv2_dbpedia(self):
-        return Dataset(ROOT_DIR / "semtab2019_t2dv2/dbpedia").load()
+        return Dataset(ROOT_DIR / "semtab2019_t2dv2/dbpedia")
 
     def semtab2020r4(self):
-        return Dataset(ROOT_DIR / "semtab2020_round4").load()
+        return Dataset(ROOT_DIR / "semtab2020_round4")
 
     def semtab2020r4_sampled50(self):
-        return Dataset(ROOT_DIR / "semtab2020_r4sampled").load()
+        return Dataset(ROOT_DIR / "semtab2020_r4sampled")
 
     def semtab2020r4_sampled512(self):
-        examples = {e.table.table.table_id: e for e in self.semtab2020r4()}
+        examples = {e.table.table.table_id: e for e in self.semtab2020r4().load()}
         return [
             examples[eid]
             for eid in orjson.loads(
@@ -87,10 +90,10 @@ class Datasets:
         ]
 
     def biotable(self):
-        return Dataset(ROOT_DIR / "biotables").load()
+        return Dataset(ROOT_DIR / "biotables")
 
     def biotable_rowsampled200(self):
-        examples = {e.table.table.table_id: e for e in self.biotable()}
+        examples = {e.table.table.table_id: e for e in self.biotable().load()}
         for eid, sample in orjson.loads(
             (ROOT_DIR / "biotables" / "sampled_rows.json").read_bytes()
         ).items():
@@ -153,6 +156,7 @@ class Datasets:
                                     new_qid,
                                 )
                                 n.value = WikidataNamespace.get_entity_abs_uri(new_qid)
+                pid = None
                 for e in sm.iter_edges():
                     assert kgns.is_uri(e.abs_uri)
                     if not kgns.is_abs_uri_property(e.abs_uri):
@@ -222,5 +226,5 @@ class Datasets:
 
 if __name__ == "__main__":
     # exs = Datasets().wt250()
-    exs = Datasets().biotable()
+    exs = Datasets().biotable().load()
     print(len(exs))
