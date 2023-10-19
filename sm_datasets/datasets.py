@@ -20,53 +20,58 @@ from sm.outputs.semantic_model import ClassNode, LiteralNode, LiteralNodeDataTyp
 ROOT_DIR = Path(__file__).parent.parent.absolute()
 
 
+class FixedELDataset(Dataset):
+    def load(self):
+        examples = super().load()
+        for file in (self.location / "el_corrections/tables").iterdir():
+            if not file.name.endswith(".tsv"):
+                continue
+
+            with open(file, "r") as stream:
+                table_id = orjson.loads(stream.readline())
+                table = [ex for ex in examples if ex.table.table.table_id == table_id][
+                    0
+                ].table
+                df = pd.read_csv(
+                    stream,
+                    sep="\t",
+                    dtype={
+                        "url": str,
+                        "row": int,
+                        "col": int,
+                        "start": int,
+                        "end": int,
+                        "entity": str,
+                    },
+                )
+                df[["url"]] = df[["url"]].fillna("")
+                pos2rows = defaultdict(list)
+                for row in df.to_dict(orient="records"):
+                    ri, ci = row["row"], row["col"]
+                    pos2rows[ri, ci].append(row)
+
+                for (ri, ci), rows in pos2rows.items():
+                    links = []
+                    for row in rows:
+                        link = Link(
+                            start=row["start"],
+                            end=row["end"],
+                            url=row["url"],
+                            entities=[EntityId(row["entity"], WIKIDATA)],
+                        )
+                        links.append(link)
+                    table.links[ri, ci] = links
+        return examples
+
+
 class Datasets:
     def get_dataset(self, name: str) -> Dataset:
         return getattr(self, name)()
 
     def wt250(self, fix_el: bool = True):
-        dataset = Dataset(ROOT_DIR / "250wt")
-        examples = dataset.load()
         if fix_el:
-            for file in (dataset.location / "el_corrections/tables").iterdir():
-                if not file.name.endswith(".tsv"):
-                    continue
-
-                with open(file, "r") as stream:
-                    table_id = orjson.loads(stream.readline())
-                    table = [
-                        ex for ex in examples if ex.table.table.table_id == table_id
-                    ][0].table
-                    df = pd.read_csv(
-                        stream,
-                        sep="\t",
-                        dtype={
-                            "url": str,
-                            "row": int,
-                            "col": int,
-                            "start": int,
-                            "end": int,
-                            "entity": str,
-                        },
-                    )
-                    df[["url"]] = df[["url"]].fillna("")
-                    pos2rows = defaultdict(list)
-                    for row in df.to_dict(orient="records"):
-                        ri, ci = row["row"], row["col"]
-                        pos2rows[ri, ci].append(row)
-
-                    for (ri, ci), rows in pos2rows.items():
-                        links = []
-                        for row in rows:
-                            link = Link(
-                                start=row["start"],
-                                end=row["end"],
-                                url=row["url"],
-                                entities=[EntityId(row["entity"], WIKIDATA)],
-                            )
-                            links.append(link)
-                        table.links[ri, ci] = links
-        return examples
+            return FixedELDataset(ROOT_DIR / "250wt")
+        return Dataset(ROOT_DIR / "250wt")
 
     def semtab2022_r1(self):
         return Dataset(ROOT_DIR / "semtab2022_hardtable_r1")

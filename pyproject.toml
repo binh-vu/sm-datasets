@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sm-datasets"
-version = "1.3.0"
+version = "1.3.1"
 description = "Datasets for benchmarking Semantic Modeling problem"
 authors = ["Binh Vu <binh@toan2.com>"]
 license = "MIT"
