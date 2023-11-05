@@ -2,36 +2,28 @@
 from __future__ import annotations
 
 import csv
-import os
 from abc import ABC, abstractmethod
 from collections import defaultdict
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from glob import glob
-from io import StringIO
 from pathlib import Path
-from typing import List, Literal, Mapping, Optional, Tuple, Union, cast
+from typing import List, Literal, Optional, Tuple, Union, cast
 from zipfile import ZipFile
 
 import orjson
-import pandas as pd
 import serde.csv
 import serde.json
 import serde.textline
 import yada
-from kgdata.wikidata.db import (
-    WikidataDB,
-    get_class_db,
-    get_entity_redirection_db,
-    get_prop_db,
-)
-from kgdata.wikidata.models import WDClass, WDProperty
+from kgdata.wikidata.db import WikidataDB
 from loguru import logger
 from rdflib import RDFS
 from sm.dataset import Context, FullTable
-from sm.inputs.link import WIKIDATA, EntityId, Link
+from sm.inputs.link import EntityId, Link
 from sm.misc.matrix import Matrix
+from sm.namespaces.utils import KGName
 from sm.namespaces.wikidata import WikidataNamespace
-from sm.prelude import I, M, O
+from sm.prelude import I, O
 from tqdm import tqdm
 
 PathOrStr = Union[str, Path]
@@ -550,15 +542,15 @@ class WikidataOntology(Ontology):
         self.wdns = WikidataNamespace.create()
 
     def get_entity_id(self, ent_uri: str) -> EntityId:
-        return EntityId(self.wdns.get_entity_id(ent_uri), WIKIDATA)
+        return EntityId(self.wdns.uri_to_id(ent_uri), KGName.Wikidata)
 
     def get_prop_readable_label(
         self,
         prop_uri: str,
     ):
-        pid = self.wdns.get_prop_id(prop_uri)
-        if pid in self.db.redirections:
-            pid = self.db.redirections[pid]
+        pid = self.wdns.uri_to_id(prop_uri)
+        if pid in self.db.entity_redirections:
+            pid = self.db.entity_redirections[pid]
 
         return f"{self.db.props[pid].label} ({pid})"
 
@@ -566,23 +558,23 @@ class WikidataOntology(Ontology):
         self,
         class_uri: str,
     ):
-        eid = self.wdns.get_entity_id(class_uri)
-        if eid in self.db.redirections:
-            eid = self.db.redirections[eid]
+        eid = self.wdns.uri_to_id(class_uri)
+        if eid in self.db.entity_redirections:
+            eid = self.db.entity_redirections[eid]
 
         return f"{self.db.classes[eid].label} ({eid})"
 
     def get_entity_abs_uri(self, ent_uri: str) -> str:
-        return self.wdns.get_entity_abs_uri(self.wdns.get_entity_id(ent_uri))
+        return self.wdns.id_to_uri(self.wdns.uri_to_id(ent_uri))
 
     def get_entity_rel_uri(self, ent_uri: str) -> str:
-        return self.wdns.get_entity_rel_uri(self.wdns.get_entity_id(ent_uri))
+        return self.wdns.get_rel_uri(ent_uri)
 
     def get_prop_abs_uri(self, prop_uri: str) -> str:
-        return self.wdns.get_prop_abs_uri(self.wdns.get_prop_id(prop_uri))
+        return self.wdns.id_to_uri(self.wdns.uri_to_id(prop_uri))
 
     def get_prop_rel_uri(self, prop_uri: str) -> str:
-        return self.wdns.get_prop_rel_uri(self.wdns.get_prop_id(prop_uri))
+        return self.wdns.get_rel_uri(prop_uri)
 
     def get_rel_uri(self, uri: str) -> str:
         return self.wdns.get_rel_uri(uri)

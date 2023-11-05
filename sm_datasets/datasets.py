@@ -3,17 +3,16 @@ from __future__ import annotations
 from collections import defaultdict
 from collections.abc import Mapping, Set
 from pathlib import Path
-from typing import Any, Sequence
+from typing import Any
 
 import orjson
 import pandas as pd
-from kgdata.models.entity import Entity
 from kgdata.models.ont_property import OntologyProperty
-from kgdata.wikidata.models.wdentity import WDEntity
 from loguru import logger
 from sm.dataset import Dataset, Example, FullTable
-from sm.inputs.link import WIKIDATA, EntityId, Link
+from sm.inputs.link import EntityId, Link
 from sm.namespaces.namespace import KnowledgeGraphNamespace
+from sm.namespaces.utils import KGName
 from sm.namespaces.wikidata import WikidataNamespace
 from sm.outputs.semantic_model import ClassNode, LiteralNode, LiteralNodeDataType
 
@@ -57,7 +56,7 @@ class FixedELDataset(Dataset):
                             start=row["start"],
                             end=row["end"],
                             url=row["url"],
-                            entities=[EntityId(row["entity"], WIKIDATA)],
+                            entities=[EntityId(row["entity"], KGName.Wikidata)],
                         )
                         links.append(link)
                     table.links[ri, ci] = links
@@ -124,8 +123,8 @@ class Datasets:
                         link.entities, entities, redirections
                     )
 
-            table.context.page_entities = self._fix_redirections(
-                table.context.page_entities, entities, redirections
+            table.context.entities = self._fix_redirections(
+                table.context.entities, entities, redirections
             )
 
             new_sms = []
@@ -134,8 +133,8 @@ class Datasets:
                 for n in sm.iter_nodes():
                     if isinstance(n, ClassNode):
                         assert kgns.is_uri(n.abs_uri)
-                        if kgns.is_abs_uri_entity(n.abs_uri):
-                            qid = kgns.get_entity_id(n.abs_uri)
+                        if kgns.is_uri_in_main_ns(n.abs_uri):
+                            qid = kgns.uri_to_id(n.abs_uri)
                             if qid not in entities:
                                 # if the qid not in redirection, the class is deleted, we should consider remove this example
                                 new_qid = redirections[qid]
@@ -145,12 +144,12 @@ class Datasets:
                                     "Just to be safe that qnodes & redirections are consistent",
                                     new_qid,
                                 )
-                                n.abs_uri = kgns.get_entity_abs_uri(new_qid)
-                                n.rel_uri = kgns.get_entity_rel_uri(new_qid)
+                                n.abs_uri = kgns.id_to_uri(new_qid)
+                                n.rel_uri = kgns.get_rel_uri(kgns.id_to_uri(new_qid))
                     if isinstance(n, LiteralNode):
                         if n.datatype == LiteralNodeDataType.Entity:
                             assert kgns.is_uri(n.value)
-                            qid = kgns.get_entity_id(n.value)
+                            qid = kgns.uri_to_id(n.value)
                             if qid not in entities:
                                 # if the qid not in redirection, the class is deleted, we should consider remove this example
                                 new_qid = redirections[qid]
@@ -160,13 +159,13 @@ class Datasets:
                                     "Just to be safe that entities & redirections are consistent",
                                     new_qid,
                                 )
-                                n.value = WikidataNamespace.get_entity_abs_uri(new_qid)
+                                n.value = WikidataNamespace.id_to_uri(new_qid)
                 pid = None
                 for e in sm.iter_edges():
                     assert kgns.is_uri(e.abs_uri)
-                    if not kgns.is_abs_uri_property(e.abs_uri):
+                    if not kgns.is_uri_in_main_ns(e.abs_uri):
                         continue
-                    pid = kgns.get_prop_id(e.abs_uri)
+                    pid = kgns.uri_to_id(e.abs_uri)
                     if pid not in props:
                         if pid in redirections:
                             new_pid = redirections[pid]
@@ -176,8 +175,8 @@ class Datasets:
                                 "Just to be safe that entities & redirections are consistent",
                                 new_pid,
                             )
-                            e.abs_uri = kgns.get_entity_abs_uri(new_pid)
-                            e.rel_uri = kgns.get_entity_rel_uri(new_pid)
+                            e.abs_uri = kgns.id_to_uri(new_pid)
+                            e.rel_uri = kgns.get_rel_uri(kgns.id_to_uri(new_pid))
                         else:
                             if skip_unk_ont_ent:
                                 # if the pid not in redirection, the property is deleted, we should consider remove this example

@@ -1,21 +1,21 @@
 from __future__ import annotations
 
-from collections import defaultdict
 import csv
+import random
+from collections import defaultdict
 from io import StringIO
+from pathlib import Path
 from typing import Dict, List, Mapping, Optional, cast
 from zipfile import ZipFile
-from kgdata.wikidata.db import (
-    WikidataDB,
-)
-from kgdata.wikidata.models import WDClass, WDProperty
-from loguru import logger
-import orjson
-from rdflib import RDFS
 
-from sm.dataset import Dataset, Example, FullTable
+import orjson
 import sm.inputs.prelude as I
 import sm.outputs.semantic_model as O
+from kgdata.wikidata.db import WikidataDB
+from kgdata.wikidata.models import WDClass, WDProperty
+from loguru import logger
+from rdflib import RDFS
+from sm.dataset import Dataset, Example, FullTable
 from sm.misc.matrix import Matrix
 from sm.namespaces.wikidata import WikidataNamespace
 from sm_datasets.helper import (
@@ -24,9 +24,7 @@ from sm_datasets.helper import (
     get_class_readable_label,
     get_prop_readable_label,
 )
-import random
 from tqdm import tqdm
-from pathlib import Path
 
 
 def normalize_biotables(
@@ -94,7 +92,7 @@ def normalize_biotables(
                                 end=len(table[int(ri), int(ci)]),
                                 url=wdenturl,
                                 entities=[
-                                    I.EntityId(wdns.get_entity_id(wdenturl), "wikidata")
+                                    I.EntityId(wdns.uri_to_id(wdenturl), "wikidata")
                                 ],
                             )
                         )
@@ -111,7 +109,7 @@ def normalize_biotables(
 
                     for ci, wdenturl in rows:
                         ci = int(ci)
-                        entid = wdns.get_entity_id(wdenturl)
+                        entid = wdns.uri_to_id(wdenturl)
 
                         try:
                             label = get_class_readable_label(
@@ -134,8 +132,8 @@ def normalize_biotables(
 
                         class_id = sm.add_node(
                             O.ClassNode(
-                                abs_uri=wdns.get_entity_abs_uri(entid),
-                                rel_uri=wdns.get_entity_rel_uri(entid),
+                                abs_uri=wdns.id_to_uri(entid),
+                                rel_uri=wdns.get_rel_uri(wdns.id_to_uri(entid)),
                                 approximation=False,
                                 readable_label=label,
                             )
@@ -159,14 +157,14 @@ def normalize_biotables(
                     col2node = table2col2node[tid]
 
                     for ci, cj, wdpropurl in rows:
-                        pid = wdns.get_prop_id(wdpropurl)
+                        pid = wdns.uri_to_id(wdpropurl)
                         label = get_prop_readable_label(pid, wdredirections, wdprops)
                         sm.add_edge(
                             O.Edge(
                                 source=col2node[int(ci)],
                                 target=col2node[int(cj)],
-                                abs_uri=wdns.get_prop_abs_uri(pid),
-                                rel_uri=wdns.get_prop_rel_uri(pid),
+                                abs_uri=(tmp_abs_uri := wdns.id_to_uri(pid)),
+                                rel_uri=wdns.get_rel_uri(tmp_abs_uri),
                                 approximation=False,
                                 readable_label=label,
                             )

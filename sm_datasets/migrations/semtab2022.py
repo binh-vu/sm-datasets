@@ -16,14 +16,14 @@ from kgdata.wikidata.db import get_class_db, get_entity_redirection_db, get_prop
 from kgdata.wikidata.models import WDClass, WDProperty
 from loguru import logger
 from rdflib import RDFS
-from sm.dataset import FullTable
-from sm.inputs.link import WIKIDATA, EntityId
+from sm.dataset import Context, FullTable, Link
+from sm.inputs.link import EntityId
 from sm.misc.matrix import Matrix
+from sm.namespaces.utils import KGName
 from sm.namespaces.wikidata import WikidataNamespace
 from sm.prelude import I, M, O
 from tqdm import tqdm
 
-from grams.inputs.linked_table import Context, Link, LinkedTable
 from scripts.config import DATA_DIR, DATASET_DIR
 
 PathOrStr = Union[str, Path]
@@ -129,7 +129,7 @@ def normalize_semtab2022(
                         start=0,
                         end=len(table[ri, ci]),
                         url=None,
-                        entities=[EntityId(wdns.get_entity_id(ent_uri), WIKIDATA)],
+                        entities=[EntityId(wdns.uri_to_id(ent_uri), KGName.Wikidata)],
                     )
                 )
 
@@ -145,7 +145,7 @@ def normalize_semtab2022(
 
             for row in types:
                 cid = int(row[1])
-                ent_id = wdns.get_entity_id(row[-1])
+                ent_id = wdns.uri_to_id(row[-1])
 
                 try:
                     label = get_class_readable_label(ent_id, wdredirections, wdclasses)
@@ -166,8 +166,8 @@ def normalize_semtab2022(
 
                 class_id = sm.add_node(
                     O.ClassNode(
-                        abs_uri=wdns.get_entity_abs_uri(ent_id),
-                        rel_uri=wdns.get_entity_rel_uri(ent_id),
+                        abs_uri=wdns.id_to_uri(ent_id),
+                        rel_uri=wdns.get_rel_uri(wdns.id_to_uri(ent_id)),
                         approximation=False,
                         readable_label=label,
                     )
@@ -188,7 +188,7 @@ def normalize_semtab2022(
                 continue
 
             for row in rels:
-                pid = wdns.get_prop_id(row[-1])
+                pid = wdns.uri_to_id(row[-1])
                 c1, c2 = int(row[1]), int(row[2])
                 try:
                     label = get_prop_readable_label(pid, wdredirections, wdprops)
@@ -225,8 +225,8 @@ def normalize_semtab2022(
                     O.Edge(
                         source=col2node[c1],
                         target=col2node[c2],
-                        abs_uri=wdns.get_prop_abs_uri(pid),
-                        rel_uri=wdns.get_prop_rel_uri(pid),
+                        abs_uri=(tmp_abs_uri := wdns.id_to_uri(pid)),
+                        rel_uri=wdns.get_rel_uri(tmp_abs_uri),
                         approximation=False,
                         readable_label=label,
                     )
