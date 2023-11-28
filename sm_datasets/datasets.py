@@ -101,7 +101,7 @@ class Datasets:
         for eid, sample in orjson.loads(
             (ROOT_DIR / "biotables" / "sampled_rows.json").read_bytes()
         ).items():
-            examples[eid].table.keep_rows(sample[:200])
+            examples[eid].table = examples[eid].table.select_rows(sample[:200])
         return list(examples.values())
 
     def fix_redirection(
