@@ -11,15 +11,19 @@ from zipfile import ZipFile
 
 import orjson
 import serde.csv
+import serde.textline
 from kgdata.wikidata.db import get_class_db, get_entity_redirection_db, get_prop_db
 from kgdata.wikidata.models import WDClass, WDProperty
 from loguru import logger
 from rdflib import RDFS
+from sm.dataset import Context, FullTable, Link
+from sm.inputs.link import EntityId
+from sm.misc.matrix import Matrix
+from sm.namespaces.utils import KGName
 from sm.namespaces.wikidata import WikidataNamespace
 from sm.prelude import I, M, O
 from tqdm import tqdm
 
-from grams.inputs.linked_table import Context, Link, LinkedTable
 from scripts.config import DATA_DIR, DATASET_DIR
 
 PathOrStr = Union[str, Path]
@@ -87,7 +91,7 @@ def normalize_semtab2020(
         table2sem[row[0]][1].append(row)
 
     wdns = WikidataNamespace.create()
-    outputs: List[Tuple[O.SemanticModel, LinkedTable]] = []
+    outputs: List[Tuple[O.SemanticModel, FullTable]] = []
 
     cea_tables = {row[0] for row in cea}
     cta_tables = {row[0] for row in cta}
@@ -134,17 +138,18 @@ def normalize_semtab2020(
 
                 table = I.ColumnBasedTable(table_id=table_id, columns=columns)
                 shp = table.shape()
-                links = [[[] for ci in range(shp[1])] for ri in range(shp[0])]
+                links = Matrix.default(shp, list)
                 for row in table2links[table_id]:
                     ri, ci = int(row[1]) - 1, int(row[2])
                     ent_uri = row[-1]
-                    links[ri][ci].append(
+                    links[ri, ci].append(
                         Link(
                             start=0,
                             end=len(table[ri, ci]),
                             url=None,
-                            entity_id=wdns.uri_to_id(ent_uri),
-                            candidates=[],
+                            entities=[
+                                EntityId(wdns.uri_to_id(ent_uri), KGName.Wikidata)
+                            ],
                         )
                     )
 
@@ -240,12 +245,12 @@ def normalize_semtab2020(
                     continue
 
                 outputs.append(
-                    (sm, LinkedTable(table=table, context=Context(), links=links))
+                    (sm, FullTable(table=table, context=Context(), links=links))
                 )
 
-        M.serialize_lines(ignore_logs, outdir / "ignore_tables.log")
+        serde.textline.ser(ignore_logs, outdir / "ignore_tables.log")
 
-    outputs = sorted(outputs, key=lambda x: x[1].id)
+    outputs = sorted(outputs, key=lambda x: x[1].table.table_id)
     (outdir / "descriptions").mkdir(exist_ok=True, parents=True)
     (outdir / "tables").mkdir(exist_ok=True, parents=True)
 
@@ -262,10 +267,14 @@ def normalize_semtab2020(
         filename = f"part-{counter:04d}.zip"
         with ZipFile(outdir / "descriptions" / filename, "w") as zf:
             for sm, table in batch:
-                zf.writestr(table.id + ".json", data=orjson.dumps([sm.to_dict()]))
+                zf.writestr(
+                    table.table.table_id + ".json", data=orjson.dumps([sm.to_dict()])
+                )
         with ZipFile(outdir / "tables" / filename, "w") as zf:
             for sm, table in batch:
-                zf.writestr(table.id + ".json", data=orjson.dumps(table.to_dict()))
+                zf.writestr(
+                    table.table.table_id + ".json", data=orjson.dumps(table.to_dict())
+                )
         counter += 1
 
 
