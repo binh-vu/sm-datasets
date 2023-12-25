@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sm-datasets"
-version = "2.0.1"
+version = "2.0.2"
 description = "Datasets for benchmarking Semantic Modeling problem"
 authors = ["Binh Vu <binh@toan2.com>"]
 license = "MIT"
@@ -11,7 +11,7 @@ python = "^3.9"
 sem-desc = "^6.0.0"
 python-slugify = "^6.1.2"
 rdflib = "^6.1.1"
-loguru = "^0.6.0"
+loguru = "^0.7.0"
 kgdata = "^6.0.0"
 
 [build-system]
