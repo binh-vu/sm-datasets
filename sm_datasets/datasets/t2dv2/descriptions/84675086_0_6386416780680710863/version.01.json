@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Bird",
+        "rel_uri": "dbpedia:Bird",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 0,
+        "label": "Common Name",
+        "id": 1
+      },
+      {
+        "col_index": 3,
+        "label": "IUCN",
+        "id": 2
+      },
+      {
+        "col_index": 1,
+        "label": "Genus",
+        "id": 3
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/conservationStatus",
+        "rel_uri": "dbpedia:conservationStatus",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/genus",
+        "rel_uri": "dbpedia:genus",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      }
+    ]
+  }
+]

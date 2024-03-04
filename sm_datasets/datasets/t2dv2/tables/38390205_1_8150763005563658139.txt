@@ -1,0 +1,59 @@
+Province,Ville,Hôpital,Participation,Option*
+Colombie-Britannique,Vancouver,Vancouver General Hospital,Oui,3
+,Vancouver,Richmond General Hospital,Oui,3
+,Vancouver,Lion’s Gate,Oui,3
+,Vancouver,Powell River,Oui,3
+,Vancouver,St. Mary’s Hospital,Oui,3
+,Vancouver,Squamish Hospital,,3
+,Vancouver,Victoria General,,3
+,Vancouver,Royal Jubilee,,
+,Vancouver,Children’s and Women’s Health Center,,
+Alberta,Calgary,Peter Lougheed,,
+,Calgary,Rockyview General,,
+,Calgary,Foothills Hospital,,
+,Calgary,Alberta Children’s Hospital,Oui,Péd VEN†
+,Calgary,Rockyview Hospital,,
+,Edmonton,University of Alberta Hospital,Oui,3
+,Edmonton,Stollery Children’s Hospital,Oui,Péd VEN†
+Saskatchewan,Saskatoon,Royal University Hospital,Oui,3
+Manitoba,Winnipeg,,Oui,3
+,Winnipeg,"Université du Manitoba, Maladies infectieuses pédiatriques",Oui,Péd VEN†
+Ontario,London,St. Joseph’s Health care,,
+,London,Children’s Hospital of Western Ontario,,
+,London,Victoria Hospital,,
+,London,University Hospital,,
+,Toronto,Toronto Western Hospital,Oui,3
+,Toronto,Toronto General Hospital,,
+,Toronto,Princess Margaret Hospital,,
+,Toronto,Mount Sinai Hospital,Oui,3
+,Toronto,Sunnybrook Health Science Centre,Oui,1
+,Toronto,The Hospital for Sick Children,Oui,Péd VEN†
+,Kingston,Kingston General Hospital,,
+,Hamilton,Hamilton Health Sciences Centre,Oui,3
+,Hamilton,McMaster Site,Non,
+,Hamilton,Chedoke,Non,
+,Hamilton,Henderson & General Sites,Non,
+,Hamilton,St. Joseph’s Healthcare,Oui,1
+,Ottawa,L’Hôpital d’Ottawa,Oui,(Sept)
+,Ottawa,Campus Civic,Oui,
+,Ottawa,Institut général et de cardiologie,Oui,
+,Ottawa,Centre hospitalier pour enfants de l'Est de l'Ontario,Oui,Péd VEN†
+Québec,Montréal,Hôpital général juif – SMBD,Oui,3
+,Montréal,Hôpital de Montréal pour enfants,Oui,Péd VEN†
+,Montréal,Hôpital Maisonneuve-Rosemont,,
+,Montréal,Hôpital général de Montréal,Oui,3
+,Montréal,Hôpital Royal Victoria,Oui,3
+,Montréal,Institut neurologique de Montréal,Oui,3
+,Montréal,Institut thoracique de Montréal,Oui,3
+,Sherbrooke,CHUS Hôpital Fleurimont,Non,
+,Québec City,Hôtel-Dieu de Québec du CHUQ,Non,
+Nouveau-Brunswick,Moncton,The Moncton Hospital,Oui,3
+Nouvelle-Écosse,Halifax,QEII Health Sciences Centre,Oui,3
+,Halifax,IWK Health Centre,Oui,Péd VEN†
+Terre-Neuve-et-Labrador,St John’s,Health care Corp. of St. John’s General & Miller Sites,,
+,St John’s,Janeway Site,,
+,St John’s,St. Clare Site,,
+
+--------------------------------------------------------------------------------
+
+{"context":{"version":3,"page_title":"Page 23 - Plan canadien de lutte contre la pandémie d'influenza dans le secteur de la santé - Influenza - Agence de la santé publique du Canada","page_url":"http://www.phac-aspc.gc.ca/cpip-pclcpi/ann-n-fra.php","entities":[],"literals":[],"content_hierarchy":[{"level":1,"heading":{"text":"","element":{"root":0,"nodes":[{"tag":"","start":0,"end":0,"attrs":{}}],"node2children":[[]]}},"content_before":[{"text":"3. Période interpandémique   Haut de la page Remarque : Dans la description des phases, le terme  « animal » utilisé englobe tant les oiseaux que les mammifères. Les tableaux qui suivent décrivent les objectifs de la surveillance, les rôles et responsabilités des intervenants en santé publique à chaque niveau (FPT et local). Ils sont présentés pour chaque phase successive d'une pandémie d'après les phases pandémiques au Canada, qui rendent compte tant de la situation mondiale (phases 1.0, 2.0, 3.0, etc.) que du niveau le plus élevé d'activité du nouveau virus au Canada (sous-phases 3.1, 4.1, 5.1, etc.). Voir la section sur le contexte du Plan canadien de lutte contre la pandémie d’influenza pour obtenir d’autres précisions. Effectuer une surveillance de la santé animale (détection précoce des éclosions chez les animaux ou de la transmission de l'animal à l'humain durant les périodes d'alerte pandémique et interpandémique). Tirer profit des systèmes de surveillance améliorés qui existent pour recueillir des données de surveillance supplémentaires et/ou procéder en temps utile à l’analyse des variables importantes permettant de comprendre la pandémie; Plusieurs autres activités de surveillance de la pandémie d'influenza sont recommandées tant pour la détection améliorée des premiers signaux avertisseurs que pour la surveillance durant une pandémie, notamment : Échange continu de l'information par des réseaux établis de communication (p. ex., le CCSIE [Centre canadien de surveillance intégrée","element":{"root":0,"nodes":[{"tag":"","start":0,"end":1573,"attrs":{}}],"node2children":[[]]}}],"content_after":[{"text":"Données nationales de surveillance Surveillance des maladies (a) Niveau d’activité grippale par région PT (d’après les définitions du programme Surveillance de l’influenza); (b)  Taux de consultations pour SG (nombre de consultations de médecins sentinelles pour SG par 1 000 consultations); (c) Nombre d’éclosions confirmées en laboratoire dans les établissements de soins de longue durée; (d) Nombre d’hospitalisations et de décès associés à l’influenza chez les enfants âgés de 0 à 18 ans obtenu par l’intermédiaire des hôpitaux pédiatriques sentinelles (IMPACT). Surveillance des laboratoires e) Pourcentage de tests positifs d’influenza (nombre total de tests d’influenza effectués en laboratoire et nombre de résultats positifs, selon le type de virus A ou B); (f) Caractérisation des souches, nombre identifié pour chaque souche et sous-type et pourcentage de l’ensemble en ce qui concerne environ 10 % des isolats provenant du système de détection des virus respiratoires dans les laboratoires sentinelles; (g) Caractérisation accrue des souches ciblées en fonction de l’évaluation du risque dans les zones où circulent des souches animales; (h) Étude de la résistance aux antiviraux des isolats du virus grippal. Évaluation des risques (i) Sommaire des zones, au Canada et à l’étranger, où l’activité du virus chez les animaux a été confirmée; (j) Sommaire de l’activité du virus à l’échelle internationale chez les humains. Phase pandémique au Canada 3.1 Chez les humains, des cas isolés d’infection causée par un nouveau","element":{"root":0,"nodes":[{"tag":"","start":0,"end":1615,"attrs":{}}],"node2children":[[]]}}]}]},"links":[[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]],[[],[],[],[],[]]]}

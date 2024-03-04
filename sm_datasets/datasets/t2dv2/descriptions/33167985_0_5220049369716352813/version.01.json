@@ -1,0 +1,114 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Mammal",
+        "rel_uri": "dbpedia:Mammal",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 1,
+        "label": "Mammal Type",
+        "id": 1
+      },
+      {
+        "col_index": 7,
+        "label": "Special Characteristic",
+        "id": 2
+      },
+      {
+        "col_index": 6,
+        "label": "Water Source",
+        "id": 3
+      },
+      {
+        "col_index": 3,
+        "label": "Name of Young",
+        "id": 4
+      },
+      {
+        "col_index": 0,
+        "label": "Animal",
+        "id": 5
+      },
+      {
+        "col_index": 4,
+        "label": "Locomotion",
+        "id": 6
+      },
+      {
+        "col_index": 5,
+        "label": "Habitat",
+        "id": 7
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://dbpedia.org/ontology/type",
+        "rel_uri": "dbpedia:type",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/description",
+        "rel_uri": "dbpedia:description",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/water",
+        "rel_uri": "dbpedia:water",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://dbpedia.org/ontology/child",
+        "rel_uri": "dbpedia:child",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": 0,
+        "target": 5,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "abs_uri": "http://dbpedia.org/ontology/movement",
+        "rel_uri": "dbpedia:movement",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": 0,
+        "target": 7,
+        "abs_uri": "http://dbpedia.org/ontology/range",
+        "rel_uri": "dbpedia:range",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]

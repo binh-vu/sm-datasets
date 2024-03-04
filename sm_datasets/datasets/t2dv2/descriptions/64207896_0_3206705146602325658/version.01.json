@@ -1,0 +1,30 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Monarch",
+        "rel_uri": "dbpedia:Monarch",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 0,
+        "label": "",
+        "id": 1
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      }
+    ]
+  }
+]

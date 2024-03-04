@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Hospital",
+        "rel_uri": "dbpedia:Hospital",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 1,
+        "label": "City",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "Staffed Beds",
+        "id": 2
+      },
+      {
+        "col_index": 0,
+        "label": "Hospital Name",
+        "id": 3
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://dbpedia.org/ontology/circle",
+        "rel_uri": "dbpedia:circle",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/bedCount",
+        "rel_uri": "dbpedia:bedCount",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      }
+    ]
+  }
+]

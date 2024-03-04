@@ -1,0 +1,72 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Currency",
+        "rel_uri": "dbpedia:Currency",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 2,
+        "label": "Alphabetic code",
+        "id": 1
+      },
+      {
+        "col_index": 1,
+        "label": "Currency",
+        "id": 2
+      },
+      {
+        "col_index": 0,
+        "label": "Country",
+        "id": 3
+      },
+      {
+        "col_index": 5,
+        "label": "Subdivision",
+        "id": 4
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://dbpedia.org/ontology/currencyCode",
+        "rel_uri": "dbpedia:currencyCode",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/usingCountry",
+        "rel_uri": "dbpedia:usingCountry",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://dbpedia.org/ontology/subdivision",
+        "rel_uri": "dbpedia:subdivision",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      }
+    ]
+  }
+]

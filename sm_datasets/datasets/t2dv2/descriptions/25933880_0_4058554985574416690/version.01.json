@@ -1,0 +1,58 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Wrestler",
+        "rel_uri": "dbpedia:Wrestler",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 0,
+        "label": "Wrestler",
+        "id": 1
+      },
+      {
+        "col_index": 2,
+        "label": "Weight",
+        "id": 2
+      },
+      {
+        "col_index": 1,
+        "label": "Height",
+        "id": 3
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/Person/weight",
+        "rel_uri": "dbpedia:Person/weight",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/Person/height",
+        "rel_uri": "dbpedia:Person/height",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      }
+    ]
+  }
+]

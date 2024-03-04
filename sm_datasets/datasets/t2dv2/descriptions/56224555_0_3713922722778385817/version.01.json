@@ -1,0 +1,86 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/Company",
+        "rel_uri": "dbpedia:Company",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 3,
+        "label": "Industry",
+        "id": 1
+      },
+      {
+        "col_index": 6,
+        "label": "Assets ($bil)",
+        "id": 2
+      },
+      {
+        "col_index": 4,
+        "label": "Sales ($bil)",
+        "id": 3
+      },
+      {
+        "col_index": 2,
+        "label": "Country",
+        "id": 4
+      },
+      {
+        "col_index": 1,
+        "label": "Company",
+        "id": 5
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://dbpedia.org/ontology/industry",
+        "rel_uri": "dbpedia:industry",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/assets",
+        "rel_uri": "dbpedia:assets",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/sales",
+        "rel_uri": "dbpedia:sales",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://dbpedia.org/ontology/country",
+        "rel_uri": "dbpedia:country",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": 0,
+        "target": 5,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      }
+    ]
+  }
+]

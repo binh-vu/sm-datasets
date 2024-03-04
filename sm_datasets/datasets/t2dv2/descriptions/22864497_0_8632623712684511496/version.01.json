@@ -1,0 +1,114 @@
+[
+  {
+    "version": 1,
+    "nodes": [
+      {
+        "abs_uri": "http://dbpedia.org/ontology/VideoGame",
+        "rel_uri": "dbpedia:VideoGame",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "col_index": 6,
+        "label": "Size",
+        "id": 1
+      },
+      {
+        "col_index": 3,
+        "label": "Europe",
+        "id": 2
+      },
+      {
+        "col_index": 2,
+        "label": "North America",
+        "id": 3
+      },
+      {
+        "col_index": 5,
+        "label": "Cost",
+        "id": 4
+      },
+      {
+        "col_index": 0,
+        "label": "Title",
+        "id": 5
+      },
+      {
+        "col_index": 1,
+        "label": "Publisher",
+        "id": 6
+      },
+      {
+        "col_index": 4,
+        "label": "Japan",
+        "id": 7
+      }
+    ],
+    "edges": [
+      {
+        "source": 0,
+        "target": 1,
+        "abs_uri": "http://dbpedia.org/ontology/Software/fileSize",
+        "rel_uri": "dbpedia:Software/fileSize",
+        "approximation": false,
+        "readable_label": null,
+        "id": 0
+      },
+      {
+        "source": 0,
+        "target": 2,
+        "abs_uri": "http://dbpedia.org/ontology/releaseDate",
+        "rel_uri": "dbpedia:releaseDate",
+        "approximation": false,
+        "readable_label": null,
+        "id": 1
+      },
+      {
+        "source": 0,
+        "target": 3,
+        "abs_uri": "http://dbpedia.org/ontology/releaseDate",
+        "rel_uri": "dbpedia:releaseDate",
+        "approximation": false,
+        "readable_label": null,
+        "id": 2
+      },
+      {
+        "source": 0,
+        "target": 4,
+        "abs_uri": "http://dbpedia.org/ontology/cost",
+        "rel_uri": "dbpedia:cost",
+        "approximation": false,
+        "readable_label": null,
+        "id": 3
+      },
+      {
+        "source": 0,
+        "target": 5,
+        "abs_uri": "http://www.w3.org/2000/01/rdf-schema#label",
+        "rel_uri": "rdfs:label",
+        "approximation": false,
+        "readable_label": null,
+        "id": 4
+      },
+      {
+        "source": 0,
+        "target": 6,
+        "abs_uri": "http://dbpedia.org/ontology/publisher",
+        "rel_uri": "dbpedia:publisher",
+        "approximation": false,
+        "readable_label": null,
+        "id": 5
+      },
+      {
+        "source": 0,
+        "target": 7,
+        "abs_uri": "http://dbpedia.org/ontology/releaseDate",
+        "rel_uri": "dbpedia:releaseDate",
+        "approximation": false,
+        "readable_label": null,
+        "id": 6
+      }
+    ]
+  }
+]
