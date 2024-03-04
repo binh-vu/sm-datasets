@@ -8,11 +8,11 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-sem-desc = "^6.0.0"
+sem-desc = "^6.9.0"
 python-slugify = "^6.1.2"
 rdflib = "^6.1.1"
 loguru = "^0.7.0"
-kgdata = "^6.0.0"
+kgdata = "^6.4.1"
 
 [build-system]
 requires = ["poetry-core"]
