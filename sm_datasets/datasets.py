@@ -17,6 +17,7 @@ from sm.namespaces.wikidata import WikidataNamespace
 from sm.outputs.semantic_model import ClassNode, LiteralNode, LiteralNodeDataType
 
 ROOT_DIR = Path(__file__).parent.parent.absolute()
+DATASET_DIR = Path(__file__).parent / "datasets"
 
 
 class FixedELDataset(Dataset):
@@ -69,37 +70,37 @@ class Datasets:
 
     def wt250(self, fix_el: bool = True):
         if fix_el:
-            return FixedELDataset(ROOT_DIR / "250wt")
-        return Dataset(ROOT_DIR / "250wt")
+            return FixedELDataset(DATASET_DIR / "250wt")
+        return Dataset(DATASET_DIR / "250wt")
 
     def semtab2022_r1(self):
-        return Dataset(ROOT_DIR / "semtab2022_hardtable_r1")
+        return Dataset(DATASET_DIR / "semtab2022_hardtable_r1")
 
     def semtab2019_t2dv2_dbpedia(self):
-        return Dataset(ROOT_DIR / "semtab2019_t2dv2/dbpedia")
+        return Dataset(DATASET_DIR / "semtab2019_t2dv2/dbpedia")
 
     def semtab2020r4(self):
-        return Dataset(ROOT_DIR / "semtab2020_round4")
+        return Dataset(DATASET_DIR / "semtab2020_round4")
 
     def semtab2020r4_sampled50(self):
-        return Dataset(ROOT_DIR / "semtab2020_r4sampled")
+        return Dataset(DATASET_DIR / "semtab2020_r4sampled")
 
     def semtab2020r4_sampled512(self):
         examples = {e.table.table.table_id: e for e in self.semtab2020r4().load()}
         return [
             examples[eid]
             for eid in orjson.loads(
-                (ROOT_DIR / "semtab2020_round4/sampled_4k.json").read_bytes()
+                (DATASET_DIR / "semtab2020_round4/sampled_4k.json").read_bytes()
             )[:512]
         ]
 
     def biotable(self):
-        return Dataset(ROOT_DIR / "biotables")
+        return Dataset(DATASET_DIR / "biotables")
 
     def biotable_rowsampled200(self):
         examples = {e.table.table.table_id: e for e in self.biotable().load()}
         for eid, sample in orjson.loads(
-            (ROOT_DIR / "biotables" / "sampled_rows.json").read_bytes()
+            (DATASET_DIR / "biotables" / "sampled_rows.json").read_bytes()
         ).items():
             examples[eid].table = examples[eid].table.select_rows(sample[:200])
         return list(examples.values())
@@ -159,7 +160,7 @@ class Datasets:
                                     "Just to be safe that entities & redirections are consistent",
                                     new_qid,
                                 )
-                                n.value = WikidataNamespace.id_to_uri(new_qid)
+                                n.value = kgns.id_to_uri(new_qid)
                 pid = None
                 for e in sm.iter_edges():
                     assert kgns.is_uri(e.abs_uri)
