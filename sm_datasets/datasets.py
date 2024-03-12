@@ -11,6 +11,7 @@ from kgdata.models.ont_property import OntologyProperty
 from loguru import logger
 from sm.dataset import Dataset, Example, FullTable
 from sm.inputs.link import EntityId, Link
+from sm.misc.funcs import filter_duplication
 from sm.namespaces.namespace import KnowledgeGraphNamespace
 from sm.namespaces.utils import KGName
 from sm.namespaces.wikidata import WikidataNamespace
@@ -253,7 +254,9 @@ class Datasets:
                     newents.append(EntityId(newid, entid.type))
             else:
                 newents.append(entid)
-        return newents
+
+        # we need to filter duplicated entities because datasets such as semtab2019-t2dv2 generates lots of duplications
+        return filter_duplication(newents)
 
 
 if __name__ == "__main__":
