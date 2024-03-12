@@ -14,3 +14,4 @@
 
 - Invalid dataset directory
 - Use the `kgns.id_to_uri` function of the provided `kgns` instead of fixed wikidata namespace.
+- Reset `readable_label` when fixing redirected classes or properties.

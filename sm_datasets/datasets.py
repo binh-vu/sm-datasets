@@ -108,7 +108,7 @@ class Datasets:
     def fix_redirection(
         self,
         examples: list[Example[FullTable]],
-        entities: Mapping[str, Any] | Set[str],
+        entity_labels: Mapping[str, str] | Set[str],
         props: Mapping[str, OntologyProperty] | Set[str],
         redirections: Mapping[str, str],
         kgns: KnowledgeGraphNamespace,
@@ -121,11 +121,11 @@ class Datasets:
             for cell in table.links.flat_iter():
                 for link in cell:
                     link.entities = self._fix_redirections(
-                        link.entities, entities, redirections
+                        link.entities, entity_labels, redirections
                     )
 
             table.context.entities = self._fix_redirections(
-                table.context.entities, entities, redirections
+                table.context.entities, entity_labels, redirections
             )
 
             new_sms = []
@@ -136,31 +136,51 @@ class Datasets:
                         assert kgns.is_uri(n.abs_uri)
                         if kgns.is_uri_in_main_ns(n.abs_uri):
                             qid = kgns.uri_to_id(n.abs_uri)
-                            if qid not in entities:
+                            if qid not in entity_labels:
                                 # if the qid not in redirection, the class is deleted, we should consider remove this example
                                 new_qid = redirections[qid]
                                 logger.debug("Redirect entity: {} to {}", qid, new_qid)
 
-                                assert new_qid in entities, (
+                                assert new_qid in entity_labels, (
                                     "Just to be safe that qnodes & redirections are consistent",
                                     new_qid,
                                 )
                                 n.abs_uri = kgns.id_to_uri(new_qid)
                                 n.rel_uri = kgns.get_rel_uri(kgns.id_to_uri(new_qid))
+
+                                if kgns.has_encrypted_name(n.abs_uri) and isinstance(
+                                    entity_labels, Mapping
+                                ):
+                                    n.readable_label = (
+                                        f"{entity_labels[new_qid]} ({new_qid})"
+                                    )
+                                else:
+                                    n.readable_label = None
+
                     if isinstance(n, LiteralNode):
                         if n.datatype == LiteralNodeDataType.Entity:
                             assert kgns.is_uri(n.value)
                             qid = kgns.uri_to_id(n.value)
-                            if qid not in entities:
+                            if qid not in entity_labels:
                                 # if the qid not in redirection, the class is deleted, we should consider remove this example
                                 new_qid = redirections[qid]
                                 logger.debug("Redirect entity: {} to {}", qid, new_qid)
 
-                                assert new_qid in entities, (
+                                assert new_qid in entity_labels, (
                                     "Just to be safe that entities & redirections are consistent",
                                     new_qid,
                                 )
                                 n.value = kgns.id_to_uri(new_qid)
+
+                                if kgns.has_encrypted_name(n.value) and isinstance(
+                                    entity_labels, Mapping
+                                ):
+                                    n.readable_label = (
+                                        f"{entity_labels[new_qid]} ({new_qid})"
+                                    )
+                                else:
+                                    n.readable_label = None
+
                 pid = None
                 for e in sm.iter_edges():
                     assert kgns.is_uri(e.abs_uri)
@@ -178,6 +198,13 @@ class Datasets:
                             )
                             e.abs_uri = kgns.id_to_uri(new_pid)
                             e.rel_uri = kgns.get_rel_uri(kgns.id_to_uri(new_pid))
+
+                            if kgns.has_encrypted_name(e.abs_uri) and isinstance(
+                                props, Mapping
+                            ):
+                                e.readable_label = f"{props[new_pid].label} ({new_pid})"
+                            else:
+                                e.readable_label = None  # we leverage the default label is rel_uri -- so no need to assign it here.
                         else:
                             if skip_unk_ont_ent:
                                 # if the pid not in redirection, the property is deleted, we should consider remove this example
