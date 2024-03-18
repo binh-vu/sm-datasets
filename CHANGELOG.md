@@ -4,7 +4,7 @@
 
 ### Added
 
-- Add `t2dv2` dataset & script to normalize it
+- Add `t2dv2` dataset & script to normalize it & add to the `Datasets` class.
 
 ### Changed
 

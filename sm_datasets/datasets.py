@@ -98,6 +98,9 @@ class Datasets:
     def biotable(self):
         return Dataset(DATASET_DIR / "biotables")
 
+    def t2dv2(self):
+        return Dataset(DATASET_DIR / "t2dv2")
+
     def biotable_rowsampled200(self):
         examples = {e.table.table.table_id: e for e in self.biotable().load()}
         for eid, sample in orjson.loads(
