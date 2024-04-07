@@ -76,6 +76,9 @@ class Datasets:
 
     def semtab2022_r1(self):
         return Dataset(DATASET_DIR / "semtab2022_hardtable_r1")
+    
+    def semtab2023_r1(self):
+        return Dataset(DATASET_DIR / "semtab2023_wikitables_r1")
 
     def semtab2019_t2dv2_dbpedia(self):
         return Dataset(DATASET_DIR / "semtab2019_t2dv2/dbpedia")
