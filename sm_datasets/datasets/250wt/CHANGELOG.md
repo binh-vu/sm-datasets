@@ -1,6 +1,10 @@
 # Changelog
 
-Current version: **1.4.1**
+Current version: **1.5.0**
+
+### [1.5.0] 2024-04-12
+
+- Add missing column types (for object properties) and missing entities for those columns
 
 ### [1.4.1] 2023-03-15
 

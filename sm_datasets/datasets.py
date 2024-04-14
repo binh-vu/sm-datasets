@@ -25,17 +25,22 @@ class FixedELDataset(Dataset):
     def load(self):
         examples = super().load()
         for file in (self.location / "el_corrections/tables").iterdir():
-            if not file.name.endswith(".tsv"):
+            if file.name.endswith(".tsv"):
+                delimiter = "\t"
+            elif file.name.endswith(".csv"):
+                delimiter = ","
+            else:
                 continue
 
             with open(file, "r") as stream:
                 table_id = orjson.loads(stream.readline())
-                table = [ex for ex in examples if ex.table.table.table_id == table_id][
-                    0
-                ].table
+                (ex,) = [
+                    ex_ for ex_ in examples if ex_.table.table.table_id == table_id
+                ]
+                table = ex.table
                 df = pd.read_csv(
                     stream,
-                    sep="\t",
+                    sep=delimiter,
                     dtype={
                         "url": str,
                         "row": int,
@@ -54,6 +59,9 @@ class FixedELDataset(Dataset):
                 for (ri, ci), rows in pos2rows.items():
                     links = []
                     for row in rows:
+                        if row["entity"] == "":
+                            # so we can remove links for a cell by setting entity to empty
+                            continue
                         link = Link(
                             start=row["start"],
                             end=row["end"],
@@ -76,7 +84,7 @@ class Datasets:
 
     def semtab2022_r1(self):
         return Dataset(DATASET_DIR / "semtab2022_hardtable_r1")
-    
+
     def semtab2023_r1(self):
         return Dataset(DATASET_DIR / "semtab2023_wikitables_r1")
 
