@@ -163,7 +163,7 @@ def migrate_t2dv2(indir: Path, logfile: TextIOWrapper):
         )
         for col in col_props:
             ci = int(col[-1])
-            cname = tbl.table.columns[ci].name
+            cname = tbl.table.get_column_by_index(ci).name
             assert cname is not None
             cname = cname.strip()
             if (
