@@ -316,7 +316,7 @@ if __name__ == "__main__":
     dataset_dir = Path(__file__).parent.parent / "datasets"
 
     normalize_semtab2023(
-        dataset_dir / "semtab2023_wikitables_r1/raw/DataSets/Valid",
+        dataset_dir / "semtab2023_wikitables_r1/raw/DataSets/Test",
         dataset_dir / "semtab2023_wikitables_r1",
         # dataset_dir / "tfood/horizontal/test",
         # dataset_dir / "semtab2023_tfood_horizontal",
