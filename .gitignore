@@ -1,6 +1,7 @@
 .DS_Store
 raw_semtab2020
 semtab2022_round1/HardTablesR1
+sm_datasets/datasets/*/raw
 .venv
 __pycache__
 .cache

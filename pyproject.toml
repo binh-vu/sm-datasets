@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.9"
 sem-desc = "^6.11.1"
 python-slugify = "^8.0.4"
-rdflib = "^6.1.1"
+rdflib = "^7.0.0"
 loguru = "^0.7.0"
 kgdata = "^7.0.1"
 

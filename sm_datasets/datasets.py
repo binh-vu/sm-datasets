@@ -106,6 +106,12 @@ class Datasets:
             )[:512]
         ]
 
+    def semtab2024_wikitables_r1_valid(self):
+        return Dataset(DATASET_DIR / "semtab2024_wikitables_r1/valid")
+
+    def semtab2024_wikitables_r1_test(self):
+        return Dataset(DATASET_DIR / "semtab2024_wikitables_r1/test")
+
     def biotable(self):
         return Dataset(DATASET_DIR / "biotables")
 
