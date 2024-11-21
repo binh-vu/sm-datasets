@@ -335,9 +335,18 @@ if __name__ == "__main__":
     #     db.props.cache(),
     # )
 
+    # normalize_semtab2024(
+    #     dataset_dir / "semtab2024_wikitables_r1/raw/DataSets/Test",
+    #     dataset_dir / "semtab2024_wikitables_r1/test",
+    #     db.entity_redirections.cache(),
+    #     db.classes.cache(),
+    #     db.props.cache(),
+    #     # is_cea_col_first=True,
+    # )
+
     normalize_semtab2024(
-        dataset_dir / "semtab2024_wikitables_r1/raw/DataSets/Test",
-        dataset_dir / "semtab2024_wikitables_r1/test",
+        dataset_dir / "semtab2024_wikitables_r2/raw/DataSets/Test",
+        dataset_dir / "semtab2024_wikitables_r2/test",
         db.entity_redirections.cache(),
         db.classes.cache(),
         db.props.cache(),

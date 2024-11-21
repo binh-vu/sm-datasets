@@ -112,6 +112,9 @@ class Datasets:
     def semtab2024_wikitables_r1_test(self):
         return Dataset(DATASET_DIR / "semtab2024_wikitables_r1/test")
 
+    def semtab2024_wikitables_r2_test(self):
+        return Dataset(DATASET_DIR / "semtab2024_wikitables_r2/test")
+
     def biotable(self):
         return Dataset(DATASET_DIR / "biotables")
 
