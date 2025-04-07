@@ -7,12 +7,12 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
-sem-desc = "^6.11.1"
+python = "^3.10"
+sem-desc = "^6.18.3"
 python-slugify = "^8.0.4"
 rdflib = "^7.0.0"
 loguru = "^0.7.0"
-kgdata = "^7.0.1"
+kgdata = "^7.0.8"
 
 [build-system]
 requires = ["poetry-core"]
