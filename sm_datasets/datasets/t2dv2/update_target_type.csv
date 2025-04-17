@@ -1,0 +1,224 @@
+id,source,property,target_column,target_column_name,target_type
+t2dv2__10151359_0_8168779773862259178,dbpedia:Book,http://dbpedia.org/ontology/author,1,Author,Person
+t2dv2__10630177_0_4831842476649004753,dbpedia:Building,http://dbpedia.org/ontology/location,3,Stadt,City
+t2dv2__11278409_0_3742771475298785475,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry,Thing
+t2dv2__11833461_1_3811022039809817402,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,1,Publisher,Company
+t2dv2__12125836_0_1134348206297032434,dbpedia:RadioStation,http://dbpedia.org/ontology/programmeFormat,2,Format,
+t2dv2__12183399_0_6725061928072492226,dbpedia:Country,http://dbpedia.org/ontology/currency,3,Currency,Currency
+t2dv2__12193237_0_8699643798888088574,dbpedia:Country,http://dbpedia.org/ontology/language,3,Language,Language
+t2dv2__12193237_0_8699643798888088574,dbpedia:Country,http://dbpedia.org/ontology/currency,2,Currency,Currency
+t2dv2__12193237_0_8699643798888088574,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital,City
+t2dv2__12271141_0_8517913935669973086,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry,Thing
+t2dv2__13357355_0_5384862281417742530,dbpedia:FictionalCharacter,http://dbpedia.org/ontology/portrayer,1,INTERPRETI,
+t2dv2__14067031_0_559833072073397908,dbpedia:Country,http://dbpedia.org/ontology/officialLanguage,1,Official Language,Language
+t2dv2__14067031_0_559833072073397908,dbpedia:Country,http://dbpedia.org/ontology/currency,7,Name of Currency,Currency
+t2dv2__14067031_0_559833072073397908,dbpedia:Country,http://dbpedia.org/ontology/capital,5,Capital,City
+t2dv2__14311244_0_7604843865524657408,dbpedia:Mountain,http://dbpedia.org/ontology/mountainRange,2,RANGE,MountainRange
+t2dv2__14380604_4_3329235705746762392,dbpedia:Company,http://dbpedia.org/ontology/headquarter,2,Headquarters,
+t2dv2__14380604_4_3329235705746762392,dbpedia:Company,http://dbpedia.org/ontology/industry,3,Industry,Thing
+t2dv2__15700884_0_8204220284166767221,dbpedia:Company,http://dbpedia.org/ontology/industry,1,Industry,Thing
+t2dv2__16767252_0_2409448375013995751,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__18422942_0_3659164506677528063,dbpedia:Song,http://dbpedia.org/ontology/artist,1,Artist,Agent
+t2dv2__18422942_0_3659164506677528063,dbpedia:Song,http://dbpedia.org/ontology/genre,2,Genre,Genre
+t2dv2__19272019_0_1508498249156534553,dbpedia:University,http://dbpedia.org/ontology/type,2,University Type,
+t2dv2__19272019_0_1508498249156534553,dbpedia:University,http://dbpedia.org/ontology/city,1,University Location,City
+t2dv2__19654359_0_3020273135042459469,dbpedia:Airport,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__20135078_0_7570343137119682530,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__21245481_0_8730460088443117515,dbpedia:Lake,http://dbpedia.org/ontology/location,0,State/Province,Province
+t2dv2__21329809_0_5526008408364682899,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__21329809_0_5526008408364682899,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__21337553_0_8832378999628437599,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,3,Himal,
+t2dv2__21362676_0_6854186738074119688,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__21585935_0_294037497010176843,dbpedia:Airport,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__21801207_0_8144839668470123042,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,6,Developer,Agent
+t2dv2__21801207_0_8144839668470123042,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,7,Label,Agent
+t2dv2__21801207_0_8144839668470123042,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,8,Publisher,Company
+t2dv2__24142265_0_4577466141408796359,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,4,System,Thing
+t2dv2__24859353_0_7027810986004269522,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,1,Country,Country
+t2dv2__25404227_0_2240631045609013057,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__26310680_0_5150772059999313798,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,ENTITY,Country
+t2dv2__27466715_0_3913547177671701530,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,2,Developer [14][16],Agent
+t2dv2__27466715_0_3913547177671701530,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,3,Publisher [10][11][14][17][18],Company
+t2dv2__27466715_0_3913547177671701530,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,7,Genre [10][11][15][18][22][23],Genre
+t2dv2__28036255_0_5705563063166785494,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,2,Kanton,
+t2dv2__28079336_1_3124145965038277571,dbpedia:Company,http://dbpedia.org/ontology/industry,3,Industry,Thing
+t2dv2__28079336_1_3124145965038277571,dbpedia:Company,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__28079336_1_3124145965038277571,dbpedia:Company,http://dbpedia.org/ontology/sales,4,Sales ($bil),
+t2dv2__28079336_2_2139598421036200532,dbpedia:Company,http://dbpedia.org/ontology/industry,3,Industry,Thing
+t2dv2__28423212_0_2742990779532526553,dbpedia:Company,http://dbpedia.org/ontology/sales,2,Sales,
+t2dv2__28423212_0_2742990779532526553,dbpedia:Company,http://dbpedia.org/ontology/industry,1,Industry,Thing
+t2dv2__28993628_1_6072768612274729703,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,3,Kanton,
+t2dv2__29412826_0_3422707769191426540,dbpedia:Museum,http://dbpedia.org/ontology/location,1,City,City
+t2dv2__29412826_0_3422707769191426540,dbpedia:Museum,http://dbpedia.org/ontology/location,2,State,Province
+t2dv2__29414811_12_251152470253168163,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,2,Genre,Genre
+t2dv2__29414811_12_251152470253168163,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,3,Platform(s),Thing
+t2dv2__29414811_12_251152470253168163,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,4,Developer(s),Agent
+t2dv2__29414811_13_8724394428539174350,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,2,Genre,Genre
+t2dv2__29414811_13_8724394428539174350,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,3,Platform(s),Thing
+t2dv2__29414811_13_8724394428539174350,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,4,Developer(s),Agent
+t2dv2__29414811_2_4773219892816395776,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,2,Genre,Genre
+t2dv2__29414811_2_4773219892816395776,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,4,Developer(s),Agent
+t2dv2__29414811_2_4773219892816395776,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,3,Platform(s),Thing
+t2dv2__29414811_6_8221428333921653560,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,3,Platform(s),Thing
+t2dv2__29414811_6_8221428333921653560,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,2,Genre,Genre
+t2dv2__29414811_6_8221428333921653560,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,4,Developer(s),Agent
+t2dv2__29886325_0_1448173912684571475,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__29886325_0_1448173912684571475,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__30166286_0_1837439231599898748,dbpedia:Scientist,http://dbpedia.org/ontology/award,0,Prize,
+t2dv2__32051842_5_1757891723986774036,dbpedia:Museum,http://dbpedia.org/ontology/location,2,Stadt,City
+t2dv2__33167985_0_5220049369716352813,dbpedia:Mammal,http://dbpedia.org/ontology/type,1,Mammal Type,
+t2dv2__33167985_0_5220049369716352813,dbpedia:Mammal,http://dbpedia.org/ontology/child,3,Name of Young,
+t2dv2__33167985_0_5220049369716352813,dbpedia:Mammal,http://dbpedia.org/ontology/movement,4,Locomotion,
+t2dv2__3389822_6_374624044314151266,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,3,Kanton,
+t2dv2__34041816_1_4749054164534706977,dbpedia:Airport,http://dbpedia.org/ontology/city,2,Location,City
+t2dv2__34899692_0_6530393048033763438,dbpedia:Country,http://dbpedia.org/ontology/currency,1,Currency Name / Currency Code,Currency
+t2dv2__35188621_0_6058553107571275232,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__36039980_4_4283009829602711082,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,3,Kanton,
+t2dv2__36102169_0_7739454799295072814,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,1,Developer,Agent
+t2dv2__36102169_0_7739454799295072814,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,0,Platform,Thing
+t2dv2__38390205_1_8150763005563658139,dbpedia:Hospital,http://dbpedia.org/ontology/location,1,Ville,City
+t2dv2__38390205_1_8150763005563658139,dbpedia:Hospital,http://dbpedia.org/ontology/region,0,Province,
+t2dv2__38428277_0_1311643810102462607,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__3887681_0_7938589465814037992,dbpedia:Lake,http://dbpedia.org/ontology/locatedInArea,5,Kanton,
+t2dv2__39107734_2_2329160387535788734,dbpedia:Airport,http://dbpedia.org/ontology/city,2,Location,City
+t2dv2__39173938_0_7916056990138658530,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__39650055_5_7135804139753401681,dbpedia:Company,http://dbpedia.org/ontology/industry,3,Industry,Thing
+t2dv2__39759273_0_1427898308030295194,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director,Person
+t2dv2__40844462_1_6230938203735169234,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director,Person
+t2dv2__41336118_0_4331895026409635103,dbpedia:Company,http://dbpedia.org/ontology/country,1,Country,Country
+t2dv2__41336118_0_4331895026409635103,dbpedia:Company,http://dbpedia.org/ontology/sales,3,Sales ($bil),
+t2dv2__41336118_0_4331895026409635103,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry,Thing
+t2dv2__41819807_0_3139249984404131679,dbpedia:Lake,http://dbpedia.org/ontology/location,1,Location,Province
+t2dv2__43226272_0_5995103035300388365,dbpedia:Hospital,http://dbpedia.org/ontology/location,2,,Place
+t2dv2__43237185_1_3636357855502246981,dbpedia:Scientist,http://dbpedia.org/ontology/doctoralAdvisor,3,Supervisor,
+t2dv2__43237185_1_3636357855502246981,dbpedia:Scientist,http://dbpedia.org/ontology/almaMater,2,Granting Institution,
+t2dv2__43469354_0_6029017163991310319,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__43469354_0_6029017163991310319,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__4444204_0_951426790527152756,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__4444204_0_951426790527152756,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,
+t2dv2__4501311_8_8306082458935575308,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,3,Publisher,Company
+t2dv2__4501311_8_8306082458935575308,dbpedia:VideoGame,http://dbpedia.org/ontology/category,2,Category,
+t2dv2__45533669_1_7463037039059239824,dbpedia:RadioStation,http://dbpedia.org/ontology/broadcastArea,2,Pays,
+t2dv2__45533669_1_7463037039059239824,dbpedia:RadioStation,http://dbpedia.org/ontology/owner,1,Editeur,
+t2dv2__46646666_0_5802598112171303204,dbpedia:RadioStation,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__46671561_0_6122315295162029872,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,1,Genre,Genre
+t2dv2__46671561_0_6122315295162029872,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,2,Platform,Thing
+t2dv2__47709681_0_4437772923903322343,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,1,Category,Genre
+t2dv2__48456557_0_3760853481322708783,dbpedia:Animal,http://dbpedia.org/ontology/class,2,Category,
+t2dv2__48944826_0_2321751364268052533,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,7,System,Thing
+t2dv2__48944826_0_2321751364268052533,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,3,Genre,Genre
+t2dv2__49087820_0_461228320225084868,dbpedia:Currency,http://dbpedia.org/ontology/subdivision,5,Subdivision,
+t2dv2__49087820_0_461228320225084868,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,Country,Country
+t2dv2__49772588_0_6549847739640234347,dbpedia:Country,http://dbpedia.org/ontology/diocese,5,Dioceses,
+t2dv2__49801939_0_6964113429298874283,dbpedia:Mountain,http://dbpedia.org/ontology/mountainRange,2,RANGE,MountainRange
+t2dv2__50245608_0_871275842592178099,dbpedia:Film,http://dbpedia.org/ontology/writer,4,Writer,Person
+t2dv2__50245608_0_871275842592178099,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director,Person
+t2dv2__51741865_0_9203644246202164492,dbpedia:RadioStation,http://dbpedia.org/ontology/programmeFormat,2,Format,
+t2dv2__52208141_2_5171684379987586712,dbpedia:Museum,http://dbpedia.org/ontology/location,2,Stadt,City
+t2dv2__52572391_0_8684896999787304275,dbpedia:Company,http://dbpedia.org/ontology/industry,1,Industry,Thing
+t2dv2__53583534_0_503521622577229691,dbpedia:Building,http://dbpedia.org/ontology/location,2,Stadt,City
+t2dv2__53822652_0_5767892317858575530,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director,Person
+t2dv2__54112392_0_160015365721559357,dbpedia:Lake,http://dbpedia.org/ontology/location,1,Local government area,Place
+t2dv2__54719588_0_8417197176086756912,dbpedia:Film,http://dbpedia.org/ontology/country,4,Country,Country
+t2dv2__54719588_0_8417197176086756912,dbpedia:Film,http://dbpedia.org/ontology/director,5,Director,Person
+t2dv2__54773498_0_4341462266113591159,dbpedia:Building,http://dbpedia.org/ontology/location,2,Country,Country
+t2dv2__54773498_0_4341462266113591159,dbpedia:Building,http://dbpedia.org/ontology/location,1,City,City
+t2dv2__55004961_0_2904467548072189860,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital City,City
+t2dv2__55238374_0_3379409961751009152,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital City,City
+t2dv2__55961337_0_6548713781034932742,dbpedia:Currency,http://dbpedia.org/ontology/subdivision,5,Subdivision,
+t2dv2__55961337_0_6548713781034932742,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,Country,Country
+t2dv2__56224555_0_3713922722778385817,dbpedia:Company,http://dbpedia.org/ontology/industry,3,Industry,Thing
+t2dv2__56224555_0_3713922722778385817,dbpedia:Company,http://dbpedia.org/ontology/sales,4,Sales ($bil),
+t2dv2__56224555_0_3713922722778385817,dbpedia:Company,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__57938705_0_8737506792349461963,dbpedia:VideoGame,http://dbpedia.org/ontology/genre,4,Genre,Genre
+t2dv2__57938705_0_8737506792349461963,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,2,Platform,Thing
+t2dv2__57938705_0_8737506792349461963,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,5,Publisher,Company
+t2dv2__57943722_0_8666078014685775876,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital City,City
+t2dv2__58891288_0_1117541047012405958,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__61069974_0_1894536874590565102,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,Country,Country
+t2dv2__61121469_0_6337620713408906340,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital City,City
+t2dv2__61753761_9_4735181228515289890,dbpedia:Museum,http://dbpedia.org/ontology/location,2,Stadt,City
+t2dv2__62564020_0_3836030043284699244,dbpedia:Animal,http://dbpedia.org/ontology/family,5,Family,
+t2dv2__62564020_0_3836030043284699244,dbpedia:Animal,http://dbpedia.org/ontology/class,4,Group of Animals,
+t2dv2__62564020_0_3836030043284699244,dbpedia:Animal,http://dbpedia.org/ontology/child,3,Baby,
+t2dv2__63389809_0_8179819543692215824,dbpedia:Company,http://dbpedia.org/ontology/industry,1,Industry,Thing
+t2dv2__63389809_0_8179819543692215824,dbpedia:Company,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__64092785_0_4696367782987533337,dbpedia:Company,http://dbpedia.org/ontology/industry,1,Industry,Thing
+t2dv2__64499281_8_7181683886563136802,dbpedia:Museum,http://dbpedia.org/ontology/location,2,Stadt,City
+t2dv2__64734047_0_5880705307495695536,dbpedia:Hospital,http://dbpedia.org/ontology/country,1,Country,Country
+t2dv2__66009064_0_9148652238372261251,dbpedia:BaseballPlayer,http://dbpedia.org/ontology/team,2,?`?[??,
+t2dv2__66329615_0_3585856495110277641,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,2,Platform,Thing
+t2dv2__66329615_0_3585856495110277641,dbpedia:VideoGame,http://dbpedia.org/ontology/manufacturer,3,Manufacturer,
+t2dv2__68442591_0_8506821153001360777,dbpedia:Hospital,http://dbpedia.org/ontology/owner,1,Board,
+t2dv2__6869358_0_1379459120563510331,dbpedia:Novel,http://dbpedia.org/ontology/author,3,Author,Person
+t2dv2__6869358_0_1379459120563510331,dbpedia:Novel,http://dbpedia.org/ontology/religion,4,Religious Affiliation of Author,
+t2dv2__68779923_0_3859283110041832023,dbpedia:Country,http://dbpedia.org/ontology/language,5,Languages,Language
+t2dv2__68779923_0_3859283110041832023,dbpedia:Country,http://dbpedia.org/ontology/governmentType,4,Government,GovernmentType
+t2dv2__68779923_0_3859283110041832023,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__68779923_1_3240042497463101224,dbpedia:Country,http://dbpedia.org/ontology/governmentType,4,Government,GovernmentType
+t2dv2__68779923_1_3240042497463101224,dbpedia:Country,http://dbpedia.org/ontology/language,5,Languages,Language
+t2dv2__68779923_1_3240042497463101224,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__68779923_2_1000046510804975562,dbpedia:Country,http://dbpedia.org/ontology/governmentType,4,Government,GovernmentType
+t2dv2__68779923_2_1000046510804975562,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__68779923_2_1000046510804975562,dbpedia:Country,http://dbpedia.org/ontology/language,5,Languages,Language
+t2dv2__68779923_4_1832350971585698643,dbpedia:Country,http://dbpedia.org/ontology/language,5,Languages,Language
+t2dv2__68779923_4_1832350971585698643,dbpedia:Country,http://dbpedia.org/ontology/governmentType,4,Government,GovernmentType
+t2dv2__68779923_4_1832350971585698643,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__68779923_5_2067037721454758189,dbpedia:Country,http://dbpedia.org/ontology/governmentType,4,Government,GovernmentType
+t2dv2__68779923_5_2067037721454758189,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__68779923_5_2067037721454758189,dbpedia:Country,http://dbpedia.org/ontology/language,5,Languages,Language
+t2dv2__69381058_0_984708047398578866,dbpedia:Mountain,http://dbpedia.org/ontology/locatedInArea,2,Nepal/Tibet,
+t2dv2__69381058_0_984708047398578866,dbpedia:Mountain,http://dbpedia.org/ontology/continent,3,Asia,
+t2dv2__69881946_0_1105130426898457358,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__70404164_0_5498195978476333642,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__70404164_0_5498195978476333642,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__73242003_5_4847571983313033360,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,3,Publisher,Company
+t2dv2__73242003_5_4847571983313033360,dbpedia:VideoGame,http://dbpedia.org/ontology/category,2,Category,
+t2dv2__73988811_0_2775758476756716904,dbpedia:Film,http://dbpedia.org/ontology/director,1,Director(s),Person
+t2dv2__74491133_0_7177831100884797849,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital,City
+t2dv2__74685423_0_8061289760697103949,dbpedia:Bird,http://dbpedia.org/ontology/genus,1,Genus,
+t2dv2__74718406_0_3914457597478137388,dbpedia:Airport,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__75154185_0_1607627349983289012,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__75154185_0_1607627349983289012,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__75367212_2_2745466355267233390,dbpedia:VideoGame,http://dbpedia.org/ontology/developer,1,Developer(s),Agent
+t2dv2__75367212_2_2745466355267233390,dbpedia:VideoGame,http://dbpedia.org/ontology/publisher,2,Publisher(s),Company
+t2dv2__77632062_0_2292892375652659825,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__77632062_0_2292892375652659825,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__77694908_0_6083291340991074532,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__78650283_0_5937576517849452289,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,Country,Country
+t2dv2__78650283_0_5937576517849452289,dbpedia:Currency,http://dbpedia.org/ontology/currency,2,Sub Currency,Currency
+t2dv2__78891639_0_3299957631631122948,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__78891639_0_3299957631631122948,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__7929299_0_3253718003116029649,dbpedia:Airport,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__79327346_0_5787863739697336601,dbpedia:Country,http://dbpedia.org/ontology/capital,2,Capital,City
+t2dv2__79327346_0_5787863739697336601,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Italian,City
+t2dv2__79966524_0_1484492112455633784,dbpedia:Animal,http://dbpedia.org/ontology/origin,3,Phylum,
+t2dv2__79966524_0_1484492112455633784,dbpedia:Animal,http://dbpedia.org/ontology/class,2,Class,
+t2dv2__80184932_0_4240003884724905487,dbpedia:Company,http://dbpedia.org/ontology/industry,0,Industry,Thing
+t2dv2__8286121_0_8471791395229161598,dbpedia:Country,http://dbpedia.org/ontology/capital,1,Capital City,City
+t2dv2__84548468_0_5955155464119382182,dbpedia:Film,http://dbpedia.org/ontology/director,3,Director(s),Person
+t2dv2__84675086_0_6386416780680710863,dbpedia:Bird,http://dbpedia.org/ontology/genus,1,Genus,
+t2dv2__88353875_0_4876234304797064286,dbpedia:Mountain,http://dbpedia.org/ontology/mountainRange,3,Appears In,MountainRange
+t2dv2__88523363_0_8180214313099580515,dbpedia:Plant,http://dbpedia.org/ontology/family,2,Family,
+t2dv2__88732174_0_7321365014357502211,dbpedia:BaseballPlayer,http://dbpedia.org/ontology/team,3,Team,
+t2dv2__89511064_0_2199624509082573904,dbpedia:Country,http://dbpedia.org/ontology/continent,0,Continent,
+t2dv2__89511064_0_2199624509082573904,dbpedia:Country,http://dbpedia.org/ontology/capital,3,Capital,City
+t2dv2__89511064_0_2199624509082573904,dbpedia:Country,http://dbpedia.org/ontology/topLevelDomain,8,Internet,
+t2dv2__90325533_0_6668263142989366843,dbpedia:Hospital,http://dbpedia.org/ontology/location,2,Ashton-under-Lyne,Place
+t2dv2__90723763_0_874013697986950454,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry,Thing
+t2dv2__91474256_0_964747655387573523,dbpedia:City,http://dbpedia.org/ontology/mayor,5,Mayor,Person
+t2dv2__91474256_0_964747655387573523,dbpedia:City,http://dbpedia.org/ontology/country,2,Country,Country
+t2dv2__91959037_0_7907661684242014480,dbpedia:VideoGame,http://dbpedia.org/ontology/computingPlatform,2,System,Thing
+t2dv2__93078729_0_1451251196788678526,dbpedia:Lake,http://dbpedia.org/ontology/location,2,Location,Place
+t2dv2__93702496_0_39013305210829591,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry,Thing
+t2dv2__93702496_0_39013305210829591,dbpedia:Company,http://dbpedia.org/ontology/founder,3,Founders,Person
+t2dv2__96203994_0_2127964719640427252,dbpedia:Company,http://dbpedia.org/ontology/industry,2,Industry??,Thing
+t2dv2__9686394_0_5980699488362107028,dbpedia:Airport,http://dbpedia.org/ontology/city,2,City,City
+t2dv2__97941125_0_8220652154649529701,dbpedia:Currency,http://dbpedia.org/ontology/usingCountry,0,Country,Country
+t2dv2__97941125_0_8220652154649529701,dbpedia:Currency,http://dbpedia.org/ontology/subdivision,5,Subdivision,
+t2dv2__98312357_0_6395417306876145729,dbpedia:Monarch,http://dbpedia.org/ontology/spouse,4,Spouse,Person
+t2dv2__9834884_0_3871985887467090123,dbpedia:Museum,http://dbpedia.org/ontology/location,2,Country,Country
+t2dv2__98458255_0_5873264818593370400,dbpedia:AcademicJournal,http://dbpedia.org/ontology/publisher,5,Publisher Link to NIH Policy Page or Related Policy,Publisher
+t2dv2__98929678_0_3700213490979945526,dbpedia:Lake,http://dbpedia.org/ontology/country,2,Basin countries,Country
+t2dv2__98929678_0_3700213490979945526,dbpedia:Lake,http://dbpedia.org/ontology/location,1,Location,Place
+t2dv2__99070098_0_2074872741302696997,dbpedia:Mountain,http://dbpedia.org/ontology/mountainRange,5,Area,MoutnainRange
